@@ -4,10 +4,10 @@
 # uBlock Origin 浏览器广告拦截插件安装地址 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)  
 
 # 自定义静态规则作用
-### 屏蔽超级流氓广告（我逛的网站都主动屏蔽）
+### 屏蔽超级流氓广告（被发现漏掉的都已主动屏蔽）
 ### 屏蔽软件Download标志
 ### 屏蔽联系客服标志
-### 屏蔽色情网站
+### 屏蔽色情网站（除非关闭或者卸载插件否则允许访问打开它也是一片黑或者一片白）
 ### 屏蔽流氓软件下载网站
 
 # 第一种方法（不推荐，不能及时更新）
