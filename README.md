@@ -1,6 +1,6 @@
 # uBlock Origin-custom rules  
 # uBlock Origin-自定义静态规则  
-[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/gorhill/uBlock/blob/master/LICENSE.txt)
+
 ### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
 ### uBlock Origin 浏览器广告拦截插件安装地址 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)
 该规则覆盖日常生活当中常用常见网站，除广告外还屏蔽了软件的Download显示，客服联系等等
