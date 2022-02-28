@@ -2223,4 +2223,12 @@ edu.liout.com###layui-layer-shade1
 ! 2022-02-27 https://wx2.qq.com
 wx2.qq.com##.ng-scope.download_entry
 
+! 2022-02-28 https://wenku.baidu.com
+||edu-wenku.bdimg.com/v1/pc/activity-assets/newtermsale/pc_dialog.png$image
+||edu-wenku.bdimg.com/v1/pc/activity-assets/newtermsale/pc_dialog.png$image
+
+! 2022-02-28 https://www.bilibili.com
+www.bilibili.com##.download-entry > span
+www.bilibili.com##.download-entry__icon > path
+www.bilibili.com##.download-entry__icon
 
