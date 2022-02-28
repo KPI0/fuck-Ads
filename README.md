@@ -1,5 +1,5 @@
 # uBlock Origin-custom rules  
-# uBlock Origin-自定义规则
+# uBlock Origin-自定义静态规则
 ### uBlock Origin 浏览器广告拦截插件  
 ### 项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
 ### 浏览器插件安装 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)
