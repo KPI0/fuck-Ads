@@ -1,8 +1,7 @@
-# uBlock Origin-custom rules  
-# uBlock Origin-自定义静态规则  
-
-### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
-### uBlock Origin 浏览器广告拦截插件安装地址 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)
+## uBlock Origin-custom rules  
+## uBlock Origin-自定义静态规则  
+# uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
+# uBlock Origin 浏览器广告拦截插件安装地址 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)
 该规则覆盖日常生活当中常用常见网站，除广告外还屏蔽了软件的Download显示，客服联系等等
 # 第一种方法（不推荐，不能及时更新）
 ## 复制规则或者下载txt文件，在插件以下图位置中添加规则
