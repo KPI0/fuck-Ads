@@ -10,8 +10,6 @@
     ```shell
     https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
     ```
-    
-    
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 #### 或者
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
