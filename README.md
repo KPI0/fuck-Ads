@@ -22,4 +22,4 @@
     
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 # 注意：规则主要适配电脑页面，手机页面随缘
-# 目的：页面更加干净清爽
+# 目的：页面更加干净清爽简洁
