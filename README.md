@@ -18,7 +18,7 @@
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 # 第二种方法（强烈推荐，方便快捷更新及时）
 ## 复制以下规则链接地址，在插件以下图位置中添加规则
-```java
+```
     https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
 ```   
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
