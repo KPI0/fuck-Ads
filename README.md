@@ -3,7 +3,7 @@
 ### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
 ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
 
-# 自定义静态规则范围
+# 自定义静态规则作用范围
 ### 1.屏蔽`流氓广告`
 ### 2.屏蔽`色情网站`
 
@@ -17,18 +17,18 @@
 ### 9.屏蔽`软件Download`标志
 ### 10.屏蔽`导航网站设为首页`标志
 
-*除以上外还屏蔽了某些不必要的标志信息，简化网页。对于上面的2、3、4、5由于直接屏蔽一级域名插件会直接弹出选择，所以该规则选择了屏蔽当前网页所有元素，可以正常打开网站只是整个网站页面只显示一个颜色，白色黑色或其他的。当前网站停用或者直接关闭or卸载插件即可正常浏览该网页页面。*
+*除以上外还屏蔽了某些不必要的标志信息，简化网页。对于上面的2、3、4、5由于直接屏蔽一级域名插件会直接弹出选择，所以该规则选择了拦截当前网页所有元素，可以正常打开网站只是整个网站页面只显示一个颜色，白色黑色或其他的。当前网站停用或者直接关闭or卸载插件即可正常浏览该网页页面。*
 
 # 第一种方法（不推荐，不能及时更新）
-## 复制规则或者下载txt文件，在插件以下图位置中添加规则
+## 直接复制规则或者下载txt文件，在插件以下图位置中添加规则及可
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 # 第二种方法（强烈推荐，方便快捷更新及时）
-## 复制以下规则链接地址，在插件以下图位置中添加规则
+## 复制下面的规则链接地址，在插件以下图位置中添加规则及可
 ```
   https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
 ```   
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
 # 注意：该规则主要适配电脑页面，手机页面随缘
-# 目的：网站页面更加干净清爽简洁
+# 目的：网站页面更加干净、清爽、简洁
