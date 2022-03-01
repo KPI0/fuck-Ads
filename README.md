@@ -4,7 +4,7 @@
 ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
 
 # 自定义静态规则作用
-### 1.屏蔽超级流氓`广告`（被发现漏掉的都已主动屏蔽）
+### 1.屏蔽流氓`广告`（漏掉的都已主动屏蔽）
 ### 2.屏蔽`软件Download`标志
 ### 3.屏蔽`联系客服`标志
 ### 4.屏蔽`色情网站`（除非关闭或者卸载插件否则允许访问打开它也是一片黑或者一片白）
