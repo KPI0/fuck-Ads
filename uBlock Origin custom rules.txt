@@ -2517,3 +2517,129 @@ www.pcsoft.com.cn##.head
 soft.duba.com##.section
 soft.duba.com##.footer
 
+! 2022-02-28 https://www.meijucang.com
+www.meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
+www.meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
+
+! 2022-02-28 https://www.meijumi.top
+||tupian.meijumi.top/2022/01/288-195dsd0f1r.jpg$image
+www.meijumi.top###sgpb-popup-dialog-main-div > div > .sg-popup-builder-content
+||tupian.meijumi.top/2021/12/289-200the-expanse-season-6-1_compressed.jpg$image
+www.meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-content
+||www.meijumi.top/wp-content/plugins/popup-builder/public/img/theme_6/close.png$image
+||www.meijumi.top/wp-content/uploads/app/xiazaiapp2.PNG$image
+www.meijumi.top##.close
+
+! 2022-02-28 https://www.ijinshan.com
+www.ijinshan.com##.swiper-slide-active.swiper-slide-visible.banner-image.swiper-slide
+www.ijinshan.com##.big.fr.nav_v2
+www.ijinshan.com##div.optimizing:nth-of-type(4)
+||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
+||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
+||dh1.cmcmcdn.com/duba/c/9/e/c/1/c9ec176fc127675734c8d1f22fb1bceb.jpg$image
+www.ijinshan.com##.software_skills_link_box
+www.ijinshan.com##.software_skills
+www.ijinshan.com##.v2.footer_v2
+www.ijinshan.com##.chun-2list
+www.ijinshan.com##.tool
+www.ijinshan.com##div.optimizing:nth-of-type(5)
+||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
+www.ijinshan.com##.banner-info-list > .banner-info-download
+www.ijinshan.com##.swiper-wrapper
+www.ijinshan.com##.swiper-container
+www.ijinshan.com##.banner-nav-image
+www.ijinshan.com##.banner-nav-wrapper
+www.ijinshan.com##.banner-nav
+www.ijinshan.com##.banner
+||www.ijinshan.com/images/20161227/logo-1.png$image
+www.ijinshan.com##.clearfix.head_v2
+www.ijinshan.com##li.clearfix.intro-item > .container.clearfix
+www.ijinshan.com##.footer
+www.ijinshan.com##.intro-item-left
+www.ijinshan.com##.item-right-4.intro-item-right
+www.ijinshan.com##.item-right-2.intro-item-right
+www.ijinshan.com##.header > .clearfix.container
+www.ijinshan.com##.header
+www.ijinshan.com##li.clearfix.intro-item:nth-of-type(1)
+www.ijinshan.com##.privilege-intro
+www.ijinshan.com###qidian_wpa_2885821716_295
+
+! 2022-02-28 http://www.xitongzhijia.net
+www.xitongzhijia.net##.index-page
+www.xitongzhijia.net##.footer
+www.xitongzhijia.net##.navbar
+www.xitongzhijia.net##.sub-navbar
+www.xitongzhijia.net##.header > .fix.auto.wrap
+www.xitongzhijia.net##.topbar > .fix.auto.wrap
+www.xitongzhijia.net##.topbar
+
+! 2022-02-28 https://www.onlinedown.net
+www.onlinedown.net##.g-header
+www.onlinedown.net##.g-main
+www.onlinedown.net##.g-foot
+www.onlinedown.net##.f-clearfix.g-top > .g-wrap
+
+! 2022-02-28 https://wenku.baidu.com
+wenku.baidu.com##.dialog-mask
+wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(1)
+wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(2)
+wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(3)
+||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
+||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
+wenku.baidu.com##div.tool-item:nth-of-type(1)
+||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
+wenku.baidu.com##div.tool-item:nth-of-type(2)
+wenku.baidu.com##div.tool-item:nth-of-type(3)
+wenku.baidu.com##div.tool-item:nth-of-type(4)
+wenku.baidu.com##.tools-wrapper
+
+! 2022-02-28 https://www.right.com.cn
+www.right.com.cn##.z > [href="https://www.right.com.cn/forum/"]
+www.right.com.cn##.z > [href="javascript:;"]
+||www.right.com.cn/forum/static/image/common/site_qq.jpg$image
+
+! 2022-02-28 https://www.oneplusbbs.com
+www.oneplusbbs.com##[href="plugin-apk_download.html"]
+
+! 2022-02-28 https://123.sogou.com
+123.sogou.com###setHome
+123.sogou.com###addBook
+123.sogou.com##.l > span
+123.sogou.com##.pos-navbar > .list > .cf
+123.sogou.com##.container > ul
+123.sogou.com##.container
+||123p0.sogoucdn.com/imgu/2016/10/20161020190026_635.png?v=20180711$image
+||123p0.sogoucdn.com/imgu/2016/10/20161020190026_635.png?v=20180711$image
+123.sogou.com##.leftbar
+
+! 2022-02-28 http://www.downza.cn
+www.downza.cn##dl.cl > div.cl
+www.downza.cn##.soft-intro
+www.downza.cn###m_rjjs > p
+www.downza.cn##.pc-down_intro
+www.downza.cn###m_article
+www.downza.cn##.cl.wrap > .cl
+www.downza.cn##div.cl:nth-of-type(5)
+www.downza.cn##.diy_banner
+www.downza.cn##footer
+www.downza.cn##.bg-while.nav
+www.downza.cn##.pos-r.tc-while.bg-black_topnav.topnav
+
+! 2022-02-28 https://www.51job.com
+www.51job.com##.app > ul > li
+
+! 2022-02-28 https://www.veryhuo.com
+www.veryhuo.com##.g-recomd-images-box.row
+www.veryhuo.com##.g-plate-one.row
+www.veryhuo.com##.w.mt20.main-pc
+www.veryhuo.com###az-box
+www.veryhuo.com###pg-box
+www.veryhuo.com###Game-box
+www.veryhuo.com##.softBox
+www.veryhuo.com###footer
+www.veryhuo.com##.FLink.mainBody
+www.veryhuo.com##.g-recomd-label.row
+www.veryhuo.com##.header
+www.veryhuo.com##.clearfix.w.top_wrapper
+www.veryhuo.com##.top
+
