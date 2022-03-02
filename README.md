@@ -37,7 +37,7 @@
 
 ***此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！***
 # 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
-### 我用过的规则不多，还有好多不知道我没办法贴出来，大佬勿怪。
+***我用过的规则不多，还有好多不知道我没办法贴出来，大佬勿怪。***
 # 规则推荐清单
 ```
   https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt
