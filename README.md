@@ -39,6 +39,8 @@
 # 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
 *我用过的规则不多，还有好多不知道我没办法贴出来，大佬勿怪。*
 # 规则推荐清单
+## [互联网规则集合](https://filterlists.com/)
+### 根据自己的需求添加规则，并不是越多越好。越多过滤效果会更好，但占用设备的资源也越多，会拖慢网页打开速度。
 ```
   https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt
 ```
