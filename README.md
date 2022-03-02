@@ -33,3 +33,4 @@
 # 注意：该规则主要适配电脑页面，手机页面随缘
 # 目的：网站页面更加干净、清爽、简洁、健康
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/1.gif)
+**此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！
