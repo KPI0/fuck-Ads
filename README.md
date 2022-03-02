@@ -59,4 +59,7 @@
 ```
   https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 ```
+```
+  https://gitee.com/halflife/list/raw/master/ad.txt
+```
 
