@@ -2643,3 +2643,164 @@ www.veryhuo.com##.header
 www.veryhuo.com##.clearfix.w.top_wrapper
 www.veryhuo.com##.top
 
+! 2022-02-28 https://www.kejiwanjia.com
+||image.kejiwanjia.com/wp-content/uploads/2021/06/model-bg.png$image
+www.kejiwanjia.com##.show-modal.gg-box.modal > .b2-radius.modal-content
+www.kejiwanjia.com##.show-modal.gg-box.modal
+
+! 2022-02-28 https://bbs.ludeqi.com
+bbs.ludeqi.com##.swal2-content
+bbs.ludeqi.com##.swal2-shown.swal2-fade.swal2-center.swal2-container
+bbs.ludeqi.com##.theiaStickySidebar > .widget-area > .widget_custom_html.widget.widget_text
+
+! 2022-02-28 https://www.juan920.com
+www.juan920.com##.modal-content > .modal-body
+www.juan920.com###modal-system-notice
+||img01.sogoucdn.com/app/a/100540022/2021102010531046160626.png$image
+
+! 2022-02-28 https://pc.qq.com
+||pc1.gtimg.com/act/brand/sem/images/bg02-14c8eef4ab.jpg$image
+||pc1.gtimg.com/act/brand/sem/images/*g$image
+pc.qq.com##.category-wrap
+||pc2.gtimg.com/softmgr/picture/v3/subject/781f1a3558604f3369a814dd7fef0cc9.png$image
+pc.qq.com###J_banmgrbox
+
+! 2022-02-28 http://www.somode.com
+www.somode.com##ul.fl > li
+||www.somode.com/public/images/icon_img.png$image
+www.somode.com##.header
+www.somode.com###slideBox
+www.somode.com##.Min2
+www.somode.com##div.Min5:nth-of-type(12)
+www.somode.com##.Min4
+www.somode.com##div.Min5:nth-of-type(13)
+www.somode.com##.Min7
+www.somode.com##.Min8
+www.somode.com##.footer
+www.somode.com##.Min6
+www.somode.com##.Min3
+www.somode.com##.tjslide_wrap
+www.somode.com##.Min1
+www.somode.com##.nav
+www.somode.com##.index-menu-bar
+
+! 2022-02-28 http://www.chrome.hk.cn
+www.chrome.hk.cn###topNavC
+www.chrome.hk.cn##.browser-welcome
+www.chrome.hk.cn##div:nth-of-type(3)
+www.chrome.hk.cn##.g-split.g-tpl-50-50.g-section
+www.chrome.hk.cn###footer
+www.chrome.hk.cn##.g-split.g-tpl-160.g-section
+
+! 2022-02-28 http://www.chromeliulanqi.com
+www.chromeliulanqi.com###topNavC
+www.chromeliulanqi.com##.browser-welcome
+www.chromeliulanqi.com###footer
+www.chromeliulanqi.com##.g-split.g-tpl-160.g-section
+
+! 2022-02-28 https://www.pcsoft.com.cn
+www.pcsoft.com.cn###main1k
+
+! 2022-02-28 http://www.4399.com
+www.4399.com##[href="//www.4399.com/desk/"]
+www.4399.com##.link_w
+
+! 2022-02-28 http://app.4399.cn
+app.4399.cn##.fullscreen.header
+app.4399.cn##.description
+app.4399.cn##.fullscreen.install
+app.4399.cn##.phone_footer
+app.4399.cn##.m_nav
+app.4399.cn##.f_nav
+
+! 2022-02-28 http://web.4399.com
+web.4399.com##.to_desktop_btn.menu
+web.4399.com##.add_favior_btn.menu
+||webpic.my4399.com/re/oss/web/2203/010935316010.png$image
+web.4399.com##.bj_l
+||webpic.my4399.com/re/oss/web/2203/010935511369.jpg$image
+web.4399.com###wall_box > a.link
+web.4399.com##.wall_box
+web.4399.com##.floatL.floatS > [href^="http://web.4399.com/user/to_newgame.php"] > .img
+web.4399.com##.floatL.floatS
+||webpic.my4399.com/re/oss/web/2202/221018214729.png$image
+
+! 2022-02-28 https://y.qq.com
+y.qq.com##.login-box-download__btn
+y.qq.com##a.mod_btn:nth-of-type(3)
+y.qq.com##.yqq-dialog_centered.yqq-dialog
+y.qq.com##.btn_big_down
+
+! 2022-02-28 http://www.sci-hub.ren
+www.sci-hub.ren###share
+
+! 2022-02-28 https://tech.ifeng.com
+tech.ifeng.com##.share_box-1HbOUEQZ > .share_box-29at7jsG
+tech.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG
+||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
+||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
+tech.ifeng.com##.qr_box-1n_2SIw3
+
+! 2022-03-01 https://v.qq.com
+v.qq.com##.ft_cell_feedback.ft_cell
+
+! 2022-03-01 https://www.baidu.com
+www.baidu.com##.container_2AHLd.cr-content
+
+! 2022-03-01 https://www.sina.com.cn
+www.sina.com.cn##.mod02-cont
+www.sina.com.cn##.selected.clearfix.tit02
+www.sina.com.cn##.part-a-l > div.blank-cont
+www.sina.com.cn##.part-a-l > .mod-02
+www.sina.com.cn##.tn-nav > div.tn-title:nth-of-type(1) > .tn-tab > i
+
+! 2022-03-01 https://www.thepaper.cn
+www.thepaper.cn##.clearfix.main.bdwd > .video_newsct_share
+www.thepaper.cn###\31 6869218
+www.thepaper.cn###\31 6836913 > div > .weixin_share
+||file.thepaper.cn/www/v3/img/share_bg.png$image
+||file.thepaper.cn/www/v3/img/share_bg.png$image
+www.thepaper.cn###\31 6836913
+
+! 2022-03-01 https://ac.qq.com
+ac.qq.com##.ui-ma.mod-footer-scan > li
+
+! 2022-03-01 https://www.1kkk.com
+www.1kkk.com##[href="/download/"]
+www.1kkk.com##.bottom-ys-con
+www.1kkk.com##.show.index-float-code
+||css99tel.cdndm5.com/v202111301550/blue/images/sd/index-side-code.png$image
+||css99tel.cdndm5.com/v202111301550/blue/images/sd/index-side-code.png$image
+www.1kkk.com##.index-side-code
+www.1kkk.com##.index-right-float > li
+www.1kkk.com##.container-fluid.footer
+www.1kkk.com##.index-friendship
+||css99tel.cdndm5.com/v202111301550/blue/images/sd/detail-share.png$image
+www.1kkk.com##.btn-4
+
+! 2022-03-01 https://manhua.dmzj.com
+||static.dmzj.com/module/images/float_code.jpg$image
+manhua.dmzj.com##[href="//www.dmzj.com/app/index.html"]
+
+! 2022-03-01 https://www.kuaikanmanhua.com
+www.kuaikanmanhua.com##li.item > [href="https://www.kkmh.com/"]
+www.kuaikanmanhua.com##.code
+www.kuaikanmanhua.com##.cls.oneLine > li > [href="https://www.kkmh.com/"]
+www.kuaikanmanhua.com##.weixin.fl
+www.kuaikanmanhua.com##.weibo.fl
+
+! 2022-03-01 https://www.mkzhan.com
+www.mkzhan.com##.icon-ic_head_app.iconfont
+www.mkzhan.com##.j-header-down.user-item > [href] > .item-text
+www.mkzhan.com##.qr-code.aside__item
+www.mkzhan.com##.share.aside__item
+
+! 2022-03-02 https://t.bilibili.com
+t.bilibili.com##li.nav-link-item:nth-of-type(8)
+
+! 2022-03-02 https://afdian.net
+afdian.net##a.explore-door.mq.ml-40-16.fs16:nth-of-type(4)
+||pic1.afdiancdn.com/static/img/banner/app-web-banner03.png$image
+||pic1.afdiancdn.com/static/img/banner/app-web-banner03.png$image
+afdian.net##.mt-32-0.mq.block.banner-door
+
