@@ -42,8 +42,21 @@
 ### [互联网规则集合](https://filterlists.com/)
 #### 根据自己的需求添加规则，并不是越多越好。越多过滤效果也许会更好，但占用设备的资源也越多，会拖慢网页打开速度。
 ```
-  https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt
+  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 ```
 ```
-  https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts
+  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
 ```
+```
+  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt 
+```
+```
+  https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt 
+```
+```
+  https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
+```
+```
+  https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+```
+
