@@ -24,8 +24,7 @@
 ## 直接复制规则或者下载txt文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
-# 第二种方法（强烈推荐![HO`XWU$42Y8A19FH 60S9VC](https://user-images.githubusercontent.com/52638884/156382953-4df85b3b-5d7c-4b19-a28b-11a28c2c280e.png)
-，方便快捷更新及时）
+# 第二种方法（强烈推荐！方便快捷更新及时）
 ## 复制下面的规则链接地址，在插件以下图位置中添加规则即可。
 ```
   https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
