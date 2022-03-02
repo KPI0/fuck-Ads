@@ -21,19 +21,20 @@
 对于上面的2、3、4、5由于直接屏蔽一级域名插件会直接弹出选择，所以该规则选择了拦截当前网页所有元素，可以打开网站只是整个网站页面只显示一种颜色，白色、黑色、蓝色或其他的。在当前网站禁用或者直接关闭or卸载插件即可正常浏览该网页页面。*
 
 # 第一种方法（不推荐，不能及时更新）
-## 直接复制规则或者下载txt文件，在插件以下图位置中添加规则即可
+## 直接复制规则或者下载txt文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 # 第二种方法（强烈推荐，方便快捷更新及时）
-## 复制下面的规则链接地址，在插件以下图位置中添加规则即可
+## 复制下面的规则链接地址，在插件以下图位置中添加规则即可。
 ```
   https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
 ```   
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
-# 注意：该规则主要适配电脑页面，手机页面随缘
-# 目的：网站页面更加干净、清爽、简洁、健康
+# 注意：该规则主要适配电脑页面，手机页面随缘。
+# 目的：网站页面更加干净、清爽、简洁、健康。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/1.gif)  
 
 **此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！**
- # 最后再推荐一些我用过的比较  ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)  的规则
+# 最后再推荐几个比较![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
+## 我用过的规则不多，还有好多特别牛皮好用的但我不知道我没办法贴出来，大佬勿怪。
