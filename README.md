@@ -1,7 +1,7 @@
 > # ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/uBlock%20Origin_logo.png)uBlock Origin
 > > - ### uBlock Origin 浏览器广告拦截插件_项目地址   [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 浏览器广告拦截插件_安装地址   [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)
-----  
+----------  
 # uBlock Origin-custom rules  
 ### uBlock Origin-自定义静态规则  
 ### 自定义静态规则作用范围
@@ -40,7 +40,8 @@
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/1.gif)  
 
 *此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！*
-----
+
+--------
 
 # 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
 
