@@ -4,7 +4,7 @@
 # uBlock Origin-custom rules  
 # uBlock Origin-自定义静态规则  
 
-# 自定义静态规则作用范围
+## 自定义静态规则作用范围
 - ### 屏蔽`流氓广告`
 - ### 屏蔽`色情网站`
 
