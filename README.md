@@ -1,5 +1,6 @@
 # uBlock Origin-custom rules  
 # uBlock Origin-自定义静态规则  
+
 ### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
 ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
 
@@ -22,6 +23,7 @@
 在当前网站禁用或者直接关闭or卸载插件即可正常浏览该网页页面。*
 
 # 使用方法
+
 ## 第一种方法（不推荐，不能及时更新）
 ### 直接复制规则或者下载txt文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
@@ -34,15 +36,20 @@
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
 # 注意：该规则主要适配电脑页面，手机页面随缘。
+
 # 目的：网站页面更加干净、清爽、简洁、健康。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/1.gif)  
 
 *此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！*
+
 # 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
+
 *我用过的规则不多，还有好多不知道我没办法贴出来，大佬勿怪。*
+
 ## 规则推荐清单
-### [互联网规则集合](https://filterlists.com/)
+
 *根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好，但占用设备的资源也越多，会拖慢网页打开速度。建议使用默认的就足够使用了，没有屏蔽掉的广告可以自己选择手动屏蔽。*
+### [互联网规则集合](https://filterlists.com/)
 ```
   https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 ```
