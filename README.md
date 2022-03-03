@@ -1,6 +1,6 @@
 > # uBlock Origin
-> - > ### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
-> - > ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
+> > - ### uBlock Origin 浏览器广告拦截插件项目开源地址 [uBlock](https://github.com/gorhill/uBlock/)
+> > - ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
 # uBlock Origin-custom rules  
 # uBlock Origin-自定义静态规则  
 
