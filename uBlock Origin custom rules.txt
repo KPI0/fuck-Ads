@@ -1,21 +1,44 @@
-!2345download
-www.mydown.com##*
-www.duote.com##*
+! 2022-03-03  https://xxxx.xxxx
+mydown.com##*
+duote.com##*
 2345.cc##*
 2345.com##*
 2345.cn##*
-pconline.com.cn##*
-www.xiazaiba.com##*
-www.ijinshan.com##*
-pornhub.com##*
-pornhub.cn##*
 2345.net##*
-www.birdpaper.cn##*
-www.ludashi.com##*
-www.onlinedown.net##*
+pconline.com.cn##*
+xiazaiba.com##*
+ijinshan.com##*
+pornhub.com##*
+birdpaper.cn##*
+ludashi.com##*
+onlinedown.net##*
 pcsoft.com.cn##*
 downxia.com##*
 mydown.yesky.com##*
+hpjav.tv##*
+javfull.net##*
+javhub.net##*
+javhd.today##*
+javmost.xyz##*
+svjav.com##*
+fbjav.com##*
+watchjavonline.com##*
+javxxx.me##*
+9xxx.net##*
+javcl.com##*
+javhdporn.net##*
+pc.rising.com.cn##*
+buy.rising.com.cn##*
+antivirus.rising.com.cn##*
+ie.sogou.com##*
+flash.cn##*
+drivergenius.com##*
+baiduliulanqi.05102.com##*
+baiduliulanqi.00791.com##*
+kuaizip.com##*
+160.com##*
+kuaiwan.com##*
+one77.app##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2409,40 +2432,6 @@ www.meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-
 ||www.meijumi.top/wp-content/uploads/app/xiazaiapp2.PNG$image
 www.meijumi.top##.close
 
-! 2022-02-28 https://www.ijinshan.com
-www.ijinshan.com##.swiper-slide-active.swiper-slide-visible.banner-image.swiper-slide
-www.ijinshan.com##.big.fr.nav_v2
-www.ijinshan.com##div.optimizing:nth-of-type(4)
-||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
-||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
-||dh1.cmcmcdn.com/duba/c/9/e/c/1/c9ec176fc127675734c8d1f22fb1bceb.jpg$image
-www.ijinshan.com##.software_skills_link_box
-www.ijinshan.com##.software_skills
-www.ijinshan.com##.v2.footer_v2
-www.ijinshan.com##.chun-2list
-www.ijinshan.com##.tool
-www.ijinshan.com##div.optimizing:nth-of-type(5)
-||dh1.cmcmcdn.com/duba/8/a/1/6/2/8a162aae3ad9d3d95177f36d74205095.jpg$image
-www.ijinshan.com##.banner-info-list > .banner-info-download
-www.ijinshan.com##.swiper-wrapper
-www.ijinshan.com##.swiper-container
-www.ijinshan.com##.banner-nav-image
-www.ijinshan.com##.banner-nav-wrapper
-www.ijinshan.com##.banner-nav
-www.ijinshan.com##.banner
-||www.ijinshan.com/images/20161227/logo-1.png$image
-www.ijinshan.com##.clearfix.head_v2
-www.ijinshan.com##li.clearfix.intro-item > .container.clearfix
-www.ijinshan.com##.footer
-www.ijinshan.com##.intro-item-left
-www.ijinshan.com##.item-right-4.intro-item-right
-www.ijinshan.com##.item-right-2.intro-item-right
-www.ijinshan.com##.header > .clearfix.container
-www.ijinshan.com##.header
-www.ijinshan.com##li.clearfix.intro-item:nth-of-type(1)
-www.ijinshan.com##.privilege-intro
-www.ijinshan.com###qidian_wpa_2885821716_295
-
 ! 2022-02-28 http://www.xitongzhijia.net
 www.xitongzhijia.net##.index-page
 www.xitongzhijia.net##.footer
@@ -2717,4 +2706,12 @@ www.cnbeta.com##
 ! 2022-03-03 http://www.360doc.com
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
+
+! 2022-03-03 https://www.dazhuanlan.com
+www.dazhuanlan.com##.social-share-button
+www.dazhuanlan.com##div.card:nth-of-type(2)
+
+! 2022-03-03 https://bbs.hupu.com
+bbs.hupu.com##.download-app
+bbs.hupu.com##.qrcodeLink_3wVdw.link_2iELG
 
