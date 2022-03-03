@@ -3,19 +3,19 @@
 > > - ### uBlock Origin 浏览器广告拦截插件安装地址    [谷歌扩展](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [微软扩展](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [火狐扩展](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  
 # uBlock Origin-custom rules  
 ### uBlock Origin-自定义静态规则  
-### 自定义静态规则作用范围
-- ### 屏蔽`流氓广告`
-- ### 屏蔽`色情网站`
+> ### 自定义静态规则作用范围
+> - ### 屏蔽`流氓广告`
+> - ### 屏蔽`色情网站`
 
-- ### 屏蔽`某浏览器下载`页面
-- ### 屏蔽`第三方软件下载网站`页面
-- ### 屏蔽`某安全管家卫士毒霸下载`页面
+> - ### 屏蔽`某浏览器下载`页面
+> - ### 屏蔽`第三方软件下载网站`页面
+> - ### 屏蔽`某安全管家卫士毒霸下载`页面
 
-- ### 屏蔽`联系客服`标志
-- ### 屏蔽`问题反馈`标志
-- ### 屏蔽`转发分享`标志
-- ### 屏蔽`软件Download`标志
-- ### 屏蔽`导航网站设为首页`标志
+> - ### 屏蔽`联系客服`标志
+> - ### 屏蔽`问题反馈`标志
+> - ### 屏蔽`转发分享`标志
+> - ### 屏蔽`软件Download`标志
+> - ### 屏蔽`导航网站设为首页`标志
 
 *除以上外还屏蔽了某些不必要的标志信息，极大简化网页。  
 对于上面的2、3、4、5由于直接屏蔽一级域名插件会直接弹出选择，所以该规则选择了拦截当前网页所有元素，可以打开网站只是整个网站页面只显示一种颜色，白色、黑色、蓝色或其他的。  
