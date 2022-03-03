@@ -49,6 +49,8 @@
 ## 规则推荐清单
 
 *根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好，但占用设备的资源也越多，会拖慢网页打开速度。建议使用默认的就足够使用了，没有屏蔽掉的广告可以自己选择手动屏蔽。*
+
+------
 > ### [互联网规则集合](https://filterlists.com/)
 ```
   https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
@@ -71,4 +73,4 @@
 ```
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
-
+-------
