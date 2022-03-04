@@ -75,6 +75,8 @@ liqucn.com##*
 hao123.com##*
 zs.91.com##*
 188soft.com##*
+downza.cn##*
+netflav1.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2418,19 +2420,6 @@ www.oneplusbbs.com##[href="plugin-apk_download.html"]
 ||123p0.sogoucdn.com/imgu/2016/10/20161020190026_635.png?v=20180711$image
 123.sogou.com##.leftbar
 
-! 2022-02-28 http://www.downza.cn
-www.downza.cn##dl.cl > div.cl
-www.downza.cn##.soft-intro
-www.downza.cn###m_rjjs > p
-www.downza.cn##.pc-down_intro
-www.downza.cn###m_article
-www.downza.cn##.cl.wrap > .cl
-www.downza.cn##div.cl:nth-of-type(5)
-www.downza.cn##.diy_banner
-www.downza.cn##footer
-www.downza.cn##.bg-while.nav
-www.downza.cn##.pos-r.tc-while.bg-black_topnav.topnav
-
 ! 2022-02-28 https://www.51job.com
 www.51job.com##.app > ul > li
 
@@ -2702,16 +2691,42 @@ www.xxsy.net###weappimg > div
 www.i2345.cn##.top
 ||www.i2345.cn/2012/i/ad/taobao.gif$image
 
+! 2022-03-03 https://www.mfcad.com
+||www.mfcad.com/static/images/dingyue.jpg$image
+
+! 2022-03-03 https://ac.qq.com
+||manhua.qpic.cn/operation/0/03_17_39_0b4680d20aa7c224a96ecd4437caf166_1593769145394.jpg/0$image
+ac.qq.com##.mod-slider.bx-wrapper > .bx-viewport
+ac.qq.com##.works-slider-ad
+
+! 2022-03-03 https://new.qq.com
+new.qq.com##a.item:nth-of-type(4)
+new.qq.com##a.item > .txt
+new.qq.com##.fixed-bar
+
 ! 2022-03-03 http://2345net.com
 2345net.com###set > div > div
 
-! 2022-03-03 https://www.hao774.com
-www.hao774.com##.swiper-content
-www.hao774.com##.comp-micro-topic-swiper.comp-micro-topic.mod
-www.hao774.com##div.clearfix.comp-logo-wall:nth-of-type(1)
-www.hao774.com##div.clearfix.comp-logo-wall:nth-of-type(2)
-www.hao774.com##.comp-fixed-nav
+! 2022-03-03 https://www.csdn.net
+csdn.net##.no—h.option-box
+csdn.net##.so-questionnaire
+www.csdn.net##.kp_bos_swiper.broadcast-active
 
-! 2022-03-03 https://www.mfcad.com
-||www.mfcad.com/static/images/dingyue.jpg$image
+! 2022-03-03 https://blog.csdn.net
+blog.csdn.net###kp_box_blog_cont > .template-cont
+blog.csdn.net##.blog-slide-ad-box
+blog.csdn.net###kp_box_blog_cont > .template-title
+blog.csdn.net###kp_box_blog_cont
+blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
+blog.csdn.net###asideNewNps
+
+! 2022-03-03 https://www.cnblogs.com
+www.cnblogs.com###green_channel_wechat
+www.cnblogs.com###green_channel_weibo
+
+! 2022-03-03 https://juejin.cn
+||lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/8149dfdd9eb79cf33c7227a3bf63f47c.svg$image
+juejin.cn##.panel-btn.share-btn
+juejin.cn##.app-link
+juejin.cn##.download-icon.link-item.nav-item
 
