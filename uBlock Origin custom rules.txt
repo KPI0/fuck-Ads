@@ -2733,3 +2733,35 @@ juejin.cn##.panel-btn.share-btn
 juejin.cn##.app-link
 juejin.cn##.download-icon.link-item.nav-item
 
+! 2022-03-04 https://www.qidian.com
+www.qidian.com##li.nav-li:nth-of-type(9)
+www.qidian.com##.web-game
+
+! 2022-03-04 https://music.taihe.com
+music.taihe.com##[href="/download"]
+music.taihe.com##div.fl.item:nth-of-type(1)
+music.taihe.com##.fr.item
+music.taihe.com##button.is-round.el-button--info.el-button:nth-of-type(3)
+music.taihe.com##.info > .iconfont.download
+music.taihe.com##.info > .share.iconfont
+
+! 2022-03-04 https://www.1ting.com
+www.1ting.com##.siteaction
+www.1ting.com##[href="http://d.1ting.com/听音乐.url"]
+
+! 2022-03-04 https://music.douban.com
+music.douban.com##ul.clearfix.embassy-list:nth-of-type(1)
+music.douban.com##ul.clearfix.embassy-list:nth-of-type(2)
+music.douban.com##.artist-wx-qrcode
+
+! 2022-03-04 https://hao.360.com
+hao.360.com##.plane-bd [href="https://go.360.cn/"]
+||hao1.qhimg.com/t01c7482186d291c85e.png$image
+||hao1.qhimg.com/t01c7482186d291c85e.png$image
+||hao1.qhimg.com/t01c7482186d291c85e.png$image
+hao.360.com##.plane-bd > li
+
+! 2022-03-04 https://youdao.com
+youdao.com##.official-weibo
+youdao.com##.home-down.download
+
