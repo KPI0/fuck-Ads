@@ -138,6 +138,9 @@ v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com###pc_client > .quick_link
 v.qq.com##.icon_download.icon
 v.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
+v.qq.com##.action_qrcode.action_item > .action_title
+v.qq.com##.action_download.action_item > .action_title
+v.qq.com##.action_share.action_item > .action_title
 
 ! 2021-04-04 https://film.qq.com
 film.qq.com###pc_client > .quick_link > .quick_text
