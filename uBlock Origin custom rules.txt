@@ -8,6 +8,10 @@ duote.com##*
 2345.com##*
 2345.cn##*
 2345.net##*
+2345uu.com##*
+2345bj.com##*
+2345zj.com##*
+2345.com.cn##*
 pconline.com.cn##*
 xiazaiba.com##*
 ijinshan.com##*
@@ -43,6 +47,34 @@ kuaizip.com##*
 kuaiwan.com##*
 one77.app##*
 madou.club##*
+hao774.com##*
+xiazai.zol.com.cn##*
+cr173.com##*
+skycn.com##*
+crsky.com##*
+pc6.com##*
+cncrk.com##*
+greenxf.com##*
+xiazaizhijia.com##*
+32r.com##*
+52pk.com##*
+xitongzhijia.net##*
+xue51.com##*
+ddooo.com##*
+xixiwg.com##*
+anxz.com##*
+jiegeng.com##*
+2265.com##*
+jisuxz.com##*
+greenxiazai.com##*
+ggdyx.com##*
+52z.com##*
+uzzf.com##*
+xpwindow.com##*
+liqucn.com##*
+hao123.com##*
+zs.91.com##*
+188soft.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2319,18 +2351,6 @@ download.pchome.net##.modTopNav-info
 download.pchome.net###modTopNav-linksWrap
 download.pchome.net###modTopNav
 
-! 2022-02-28 http://www.pc6.com
-www.pc6.com###header > dt
-www.pc6.com###page
-www.pc6.com###footer
-www.pc6.com###header
-www.pc6.com###topNavC
-
-! 2022-02-28 https://hao.360.com
-hao.360.com##.header
-hao.360.com###longlong-loading
-hao.360.com##.footer
-
 ! 2022-02-28 https://pc.qq.com
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
 pc.qq.com##.clearfix.banmgr-content.container_12
@@ -2341,83 +2361,6 @@ pc.qq.com##.footer
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
 pc.qq.com##.container_12.link
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
-
-! 2022-02-28 http://www.skycn.com
-||www.skycn.com/static/skycn/images/top_bg.png$image
-www.skycn.com##.header
-www.skycn.com##.container
-
-! 2022-02-28 https://www.cr173.com
-www.cr173.com##.g-log-box.row
-www.cr173.com##.g-plate-one.row
-www.cr173.com##.g-recomd-label.row
-www.cr173.com##div.g-box-970:nth-of-type(7)
-||www.cr173.com/skin/xiasihao/images/index/usedir_bg2.gif$image
-www.cr173.com##.g-plate-two.row
-www.cr173.com##dl.g-plate-one-dl > dd
-www.cr173.com##.g-dir-class.row
-www.cr173.com##.g-android-game
-www.cr173.com##.f-hovertab-box.g-box-970
-www.cr173.com##.g-rank-box.row
-www.cr173.com##.g-friend-ul > .clearfix
-www.cr173.com##.g-friend-box.row
-www.cr173.com##.g-nav-box.row
-www.cr173.com##.f-rolling-mask
-www.cr173.com##.clearfix.f-rolling.span9
-www.cr173.com##.g-top-970.row
-www.cr173.com###foot
-www.cr173.com##.g-top-box
-
-! 2022-02-28 https://www.cncrk.com
-www.cncrk.com##.header
-www.cncrk.com##.main
-www.cncrk.com###footer
-www.cncrk.com##.topbox
-www.cncrk.com###gotoBox
-
-! 2022-02-28 https://www.xiazaizhijia.com
-www.xiazaizhijia.com##.main
-www.xiazaizhijia.com##.mb5.w960.header
-www.xiazaizhijia.com##.w960.footer
-www.xiazaizhijia.com##.xiazai_top
-www.xiazaizhijia.com##.feedback
-||www.xiazaizhijia.com/images/main/*.png$image
-||www.xiazaizhijia.com/images/main/*.png$image
-www.xiazaizhijia.com###tbox
-
-! 2022-02-28 https://www.32r.com
-www.32r.com##.SoftHosList
-www.32r.com##.CRecommend
-www.32r.com###Main
-||www.32r.com/new_images/logo.png$image
-www.32r.com##.nav
-||www.32r.com/new_images/logo.png$image
-||www.32r.com/new_images/logo.png$image
-www.32r.com##.top
-||www.32r.com/new_images/logo.png$image
-www.32r.com##.footer > .CWidth
-www.32r.com##.header
-||greenxf.com
-
-! 2022-02-28 https://www.greenxf.com
-www.greenxf.com##.header
-www.greenxf.com##.mt20.home-recom.main
-www.greenxf.com##.clearfix.mt20.home-best.main
-www.greenxf.com##.clearfix.home-pc.main
-www.greenxf.com##ul.clearfix.hide.SwapTab-list.android-list > li > .type
-www.greenxf.com##.clearfix.home-mac.main
-www.greenxf.com##.clearfix.home-android.main
-www.greenxf.com##.clearfix.home-type.main
-www.greenxf.com##.clearfix.mb20.home-link.main
-www.greenxf.com##.clearfix.footer
-www.greenxf.com##.home-wizard
-www.greenxf.com##.homeTopic-type
-
-! 2022-02-28 https://www.52pk.com
-www.52pk.com##.wrapper
-www.52pk.com###barbox > ul
-||www.52pk.com/style/daohang/images/newbar_li.gif$image
-www.52pk.com###newbarbox
 
 ! 2022-02-28 http://soft.duba.com
 soft.duba.com##.section
@@ -2435,15 +2378,6 @@ www.meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-
 ||www.meijumi.top/wp-content/plugins/popup-builder/public/img/theme_6/close.png$image
 ||www.meijumi.top/wp-content/uploads/app/xiazaiapp2.PNG$image
 www.meijumi.top##.close
-
-! 2022-02-28 http://www.xitongzhijia.net
-www.xitongzhijia.net##.index-page
-www.xitongzhijia.net##.footer
-www.xitongzhijia.net##.navbar
-www.xitongzhijia.net##.sub-navbar
-www.xitongzhijia.net##.header > .fix.auto.wrap
-www.xitongzhijia.net##.topbar > .fix.auto.wrap
-www.xitongzhijia.net##.topbar
 
 ! 2022-02-28 https://www.onlinedown.net
 www.onlinedown.net##.g-header
@@ -2718,4 +2652,66 @@ www.dazhuanlan.com##div.card:nth-of-type(2)
 ! 2022-03-03 https://bbs.hupu.com
 bbs.hupu.com##.download-app
 bbs.hupu.com##.qrcodeLink_3wVdw.link_2iELG
+
+! 2022-03-03 https://mp.v.qq.com
+mp.v.qq.com##.container___3IFD3
+
+! 2022-03-03 https://www.youku.com
+||img.alicdn.com/imgextra/i4/O1CN01N8K7Q727WHbc7cFq4_!!6000000007804-2-tps-200-200.png$image
+www.youku.com##.youkufixedbar_report
+
+! 2022-03-03 http://www.hao123.com
+www.hao123.com##.clearfix.extend-nav > .item
+
+! 2022-03-03 http://book.km.com
+||cdn.qm989.com/bookimg/public/uploads/other/fuli.gif$image
+||cdn.qm989.com/bookimg/public/uploads/other/20191223171710.jpg$image
+book.km.com##a[href^="http://wpa.qq.com/msgrd"]:nth-of-type(1)
+book.km.com##.tools-item > [href^="/index.php"]
+book.km.com##a[href="javascript:;"]:nth-of-type(3)
+book.km.com##.btn_A.btnHook
+
+! 2022-03-03 http://www.zongheng.com
+||rcode.zongheng.com/v2018/images/phone.png$image
+www.zongheng.com##.tabA.app-menu
+www.zongheng.com##[href^="//www.zongheng.com/feedback"]
+||rcode.zongheng.com/v2018/images/game-icon.png$image
+www.zongheng.com##.game_center
+www.zongheng.com##.foot-blank.wchat
+www.zongheng.com##.foot-blank.app > p
+www.zongheng.com##[src="//rcode.zongheng.com/v2018/images/app.png"]
+
+! 2022-03-03 http://book.zongheng.com
+book.zongheng.com##.clearfix.app-in
+book.zongheng.com##[href^="//www.zongheng.com/feedback"]
+book.zongheng.com##[href^="http://game.zongheng.com/static/gamestart.html"] > span
+book.zongheng.com##.bImg > em
+
+! 2022-03-03 https://chuangshi.qq.com
+chuangshi.qq.com##.fixedRight.codeWrap
+chuangshi.qq.com##.favorite
+||img1.chuangshi.qq.com/chuangshi/p1/ico/quickLink.png$image
+chuangshi.qq.com##.quickLink
+
+! 2022-03-03 https://www.xxsy.net
+www.xxsy.net##.homeauthor.client
+www.xxsy.net###weappimg > div
+
+! 2022-03-03 http://www.i2345.cn
+||www.i2345.cn/2012/i/bgimg.png$image
+www.i2345.cn##.top
+||www.i2345.cn/2012/i/ad/taobao.gif$image
+
+! 2022-03-03 http://2345net.com
+2345net.com###set > div > div
+
+! 2022-03-03 https://www.hao774.com
+www.hao774.com##.swiper-content
+www.hao774.com##.comp-micro-topic-swiper.comp-micro-topic.mod
+www.hao774.com##div.clearfix.comp-logo-wall:nth-of-type(1)
+www.hao774.com##div.clearfix.comp-logo-wall:nth-of-type(2)
+www.hao774.com##.comp-fixed-nav
+
+! 2022-03-03 https://www.mfcad.com
+||www.mfcad.com/static/images/dingyue.jpg$image
 
