@@ -1,4 +1,7 @@
-! 2022-03-03  https://xxxx.xxxx
+! Title: uBlock Origin-custom rules
+! uBlock Origin-自定义静态规则
+! Homepage: https://github.com/KPI0/uBlock-Origin-custom-rules
+!
 mydown.com##*
 duote.com##*
 2345.cc##*
@@ -39,6 +42,7 @@ kuaizip.com##*
 160.com##*
 kuaiwan.com##*
 one77.app##*
+madou.club##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
