@@ -1,7 +1,7 @@
 > # ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/uBlock%20Origin_logo.png)uBlock Origin
 > > - ### uBlock Origin 浏览器插件_项目地址         [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 浏览器插件_安装地址         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
-----------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # uBlock Origin-custom rules  
 ### uBlock Origin-自定义静态规则  
 ### 自定义静态规则作用范围
@@ -41,7 +41,7 @@
 
 *此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！*
 
---------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
 
@@ -51,7 +51,7 @@
 
 *根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好，但占用设备的资源也越多，会拖慢网页打开速度。建议使用默认的就足够使用了，没有屏蔽掉的广告可以自己选择手动屏蔽。*
 
-------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 > ### [互联网规则集合](https://filterlists.com/)
 ```
   https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
@@ -74,4 +74,4 @@
 ```
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
--------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
