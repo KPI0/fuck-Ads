@@ -2765,3 +2765,98 @@ hao.360.com##.plane-bd > li
 youdao.com##.official-weibo
 youdao.com##.home-down.download
 
+! 2022-03-04 https://www.yszzq.com
+www.yszzq.com##.date
+
+! 2022-03-04 https://www.chongdiantou.com
+www.chongdiantou.com##.mt-md-4.mt-3.footer-widget-social
+www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share > span
+www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share
+
+! 2022-03-04 https://www.aisaohuo.com
+www.aisaohuo.com##.mt-md-4.mt-3.footer-widget-social
+
+! 2022-03-04 https://www.chongdiantou.com
+www.chongdiantou.com##.size-full.attachment-full.wp-image-121974.image
+||chongdiantou-images.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2022/01/2022011614465092*.jpg$image
+||chongdiantou-images.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2021/12/2021120613435540*.jpg$image
+www.chongdiantou.com##.widget_search.card.widget
+||chongdiantou-images.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2022/01/2022011101543841.jpg$image
+
+! 2022-03-04 https://www.ithome.com
+||img.ithome.com/images/side/codew.svg$image
+www.ithome.com##.sideweixin.sfa
+www.ithome.com##.app.sfa
+www.ithome.com##div.mt:nth-of-type(2) > .l
+
+! 2022-03-04 https://www.lapin365.com
+www.lapin365.com##.container
+www.lapin365.com##.app.member > [href="//m.lapin365.com/apps.htm"]
+www.lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
+
+! 2022-03-04 https://www.mydrivers.com
+||icons.mydrivers.com/2018/common/kkj_android.png$image
+
+! 2022-03-04 https://www.ithome.com
+www.ithome.com##.so.mt > .s
+www.ithome.com###down
+www.ithome.com##.shareto
+
+! 2022-03-04 https://www.lulian.cn
+www.lulian.cn##.met-editor > .social-box
+
+! 2022-03-04 https://it.huangye88.com
+it.huangye88.com##.none > p
+||static.huangye88.cn/images/cathp/1/scyz1_114.jpg$image
+it.huangye88.com##.sma
+
+! 2022-03-04 https://re.1688.com
+re.1688.com##.leadLoginModal
+||cbu01.alicdn.com/cms/upload/homepage/alibar/alibar.png$image
+re.1688.com##.mobile
+
+! 2022-03-04 https://www.1688.com
+www.1688.com##.active.section-bottom
+www.1688.com##.for-app-qrcode
+www.1688.com##.mobile
+
+! 2022-03-04 https://www.jd.com
+www.jd.com##.mobile.fore10.shortcut_btn
+
+! 2022-03-04 https://tmioe.com
+tmioe.com###custom_html-5
+tmioe.com##.entry-copyright
+tmioe.com##.share.info-item
+
+! 2022-03-04 https://jelly.jd.com
+jelly.jd.com##.weibo.calendar_contact_a_item
+jelly.jd.com##.dzsc_item.share
+
+! 2022-03-04 http://fex.baidu.com
+||fex.baidu.com/public/images/erwei.jpg$image
+
+! 2022-03-04 https://masuit.com
+||masuit.com/static/images/ufbtvlhrxszk.jpg$image
+masuit.com###ujl6j5sefq4h > .panel-info.panel > .panel-heading
+||gd2.alicdn.com/imgextra/i3/2206799812/O1CN01SL9dnG2MLwtnDOKCN_!!2206799812.jpg_400x400.jpg$image
+masuit.com###ujl6j5sefq4g > .panel-info.panel > .panel-heading
+masuit.com###ujl6j5sefq4g
+masuit.com###ujl6j5sefq4h > .panel-info.panel > .panel-body
+masuit.com###ujl6j5sefq4h > .panel-info.panel
+
+! 2022-03-04 https://vip.jokerps.com
+vip.jokerps.com##.b2-share-forward-fill.b2font
+vip.jokerps.com##.b2tooltipbox.poster-span
+
+! 2022-03-04 https://www.1ppt.com
+www.1ppt.com##.topbar
+
+! 2022-03-04 http://www.tretars.com
+www.tretars.com##.suxing_social.sidebox
+||www.tretars.com/wp-content/uploads/2018/09/ad-baotu-09-1.png$image
+www.tretars.com###sidebar-left-xf > .widget_vfilmtime_ad.sidebox
+www.tretars.com###sidebar-right > .widget_vfilmtime_ad.sidebox
+
+! 2022-03-04 https://www.bilibili.com
+www.bilibili.com##.palette-button-wrap > a.primary-btn
+
