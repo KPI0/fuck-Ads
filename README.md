@@ -1,6 +1,6 @@
 > # ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/uBlock%20Origin_logo.png)uBlock Origin
 > > - ### uBlock Origin 浏览器广告拦截插件_项目地址   [uBlock](https://github.com/gorhill/uBlock/)
-> > - ### uBlock Origin 浏览器广告拦截插件_安装地址   [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)    [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)    [Firebox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)  [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
+> > - ### uBlock Origin 浏览器广告拦截插件_安装地址   [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)        [Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)         [Firebox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)      [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 ----------
 # uBlock Origin-custom rules  
 ### uBlock Origin-自定义静态规则  
