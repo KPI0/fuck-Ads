@@ -77,6 +77,19 @@ zs.91.com##*
 188soft.com##*
 downza.cn##*
 netflav1.com##*
+qqx15.com##*
+qyule.com##*
+my123.com##*
+kuaizip.com##*
+jb51.net##*
+win7xzb.com##*
+dyxhw.com##*
+6188.net##*
+shuajizhijia.net##*
+05sun.com##*
+achickenb01.com##*
+5you.com##*
+qt6.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2859,4 +2872,78 @@ www.tretars.com###sidebar-right > .widget_vfilmtime_ad.sidebox
 
 ! 2022-03-04 https://www.bilibili.com
 www.bilibili.com##.palette-button-wrap > a.primary-btn
+
+! 2022-03-04 https://www.mop.com
+www.mop.com##.goto-3g > i
+www.mop.com##.goto-3g
+www.mop.com##div.mop-sport:nth-of-type(2)
+www.mop.com##div.dzh-heat:nth-of-type(2)
+www.mop.com##div.dzh-heat:nth-of-type(5)
+
+! 2022-03-04 http://www.265.com
+||www.265.com/static/pages/img/home.gif$image
+www.265.com##.b-A-B-C-D.b-A-B-C
+www.265.com##.b-Cb-Db-f.b-f > .b-f-e > .b-f-g-h
+www.265.com##.b-Cb-Db-f.b-f
+
+! 2022-03-04 https://www.csdn.net
+www.csdn.net###nps-box
+
+! 2022-03-04 https://www.binance.com
+www.binance.com##.css-1ql2hru > .css-c510oc
+www.binance.com##.css-8non6d > .css-1n2fhb3
+
+! 2022-03-04 https://h5.onemeta.com.cn
+h5.onemeta.com.cn##.round.shadow-blur.bg-blue.cu-btn
+
+! 2022-03-04 https://www.ibox.art
+www.ibox.art##.navs > li > [href="/zh-cn/download/"]
+
+! 2022-03-04 https://browser.qq.com
+||browser.qq.com/9.0/images/subbtnA.png$image
+browser.qq.com###p0_btn_pc_sub
+
+! 2022-03-04 https://www.uc.cn
+www.uc.cn##.qr-box
+www.uc.cn##.about
+www.uc.cn##div.linkitem:nth-of-type(2)
+
+! 2022-03-04 https://addons.opera.com
+addons.opera.com###overlay
+
+! 2022-03-04 http://www.oupeng.com
+www.oupeng.com##.share
+
+! 2022-03-05 https://bbs.kafan.cn
+bbs.kafan.cn##.z > [href="https://bbs.kafan.cn/"]
+
+! 2022-03-05 https://www.pcbeta.com
+||www.pcbeta.com/static/image/pcbeta/sina.png$image
+www.pcbeta.com##.pt_rtpl
+
+! 2022-03-05 https://www.smzdm.com
+www.smzdm.com###index-elevator > li > span
+www.smzdm.com##.J_index_elevator
+
+! 2022-03-05 https://zhiyou.smzdm.com
+zhiyou.smzdm.com###elevator > li > span
+
+! 2022-03-05 https://cloud.tencent.com
+cloud.tencent.com##.pls-footer-website-contact-view
+
+! 2022-03-05 https://www.anfensi.com
+www.anfensi.com##strong
+
+! 2022-03-05 https://www.golue.com
+www.golue.com##.rztList
+www.golue.com##.w320.fr.right
+
+! 2022-03-05 https://www.taptap.com
+www.taptap.com##.pull-right
+www.taptap.com##.tap-footer__download
+
+! 2022-03-05 https://www.17173yx.com
+www.17173yx.com##.top_bar
+www.17173yx.com##.fr.show_l2_code
+www.17173yx.com##.bdshare-slide-style-r7.bdshare-slide-button-box
 
