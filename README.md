@@ -31,11 +31,11 @@
 ### 复制下面的规则链接地址(二选一)，在插件以下图位置中添加链接即可。
 - jsDelivr 延迟24h
 ```
-  https://fastly.jsdelivr.net/gh/KPI0/uBlock-Origin-custom-rules@main/uBlock%20Origin%20custom%20rules.txt
+  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom_rules@main/custom_rules.txt
 ``` 
 - GitHub 延迟<1h
 ```
-  https://raw.githubusercontent.com/KPI0/uBlock-Origin-custom-rules/main/uBlock%20Origin%20custom%20rules.txt
+  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
 ```
 
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
