@@ -2997,3 +2997,30 @@ www.cocomanga.com##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-cent
 ! 2022-03-05 https://www.iqiyi.com
 www.iqiyi.com##[href="/manhua/download"]
 www.iqiyi.com##.coop-ewm
+
+! 2022-03-05 https://www.digitalattackmap.com
+www.digitalattackmap.com##.share-icons
+www.digitalattackmap.com##.footernav
+
+! 2022-03-06 https://jiema.wwei.cn
+jiema.wwei.cn##div.all-client:nth-of-type(4)
+jiema.wwei.cn##div.all-client > [href="//pc.wwei.cn"]
+jiema.wwei.cn##div.all-client:nth-of-type(2)
+jiema.wwei.cn##div.all-client:nth-of-type(1)
+jiema.wwei.cn##.sidebar_jump
+jiema.wwei.cn##.sidebar-client-box.sidebar-block
+
+! 2022-03-06 https://www.wwei.cn
+www.wwei.cn##div.all-client:nth-of-type(4)
+www.wwei.cn###go-fav
+www.wwei.cn##[href="//app.wwei.cn/"]
+www.wwei.cn##div.all-client:nth-of-type(2)
+www.wwei.cn##div.all-client:nth-of-type(1)
+www.wwei.cn##.sidebar-client-box.sidebar-block
+
+! 2022-03-06 https://bianji.wwei.cn
+bianji.wwei.cn##.sidebar-client-box.sidebar-block
+
+! 2022-03-06 https://jiema.wwei.cn
+jiema.wwei.cn###go-fav
+
