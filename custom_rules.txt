@@ -90,6 +90,9 @@ shuajizhijia.net##*
 achickenb01.com##*
 5you.com##*
 qt6.com##*
+appchina.com##*
+skycn.net##*
+qq388.cn##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2947,3 +2950,50 @@ www.17173yx.com##.top_bar
 www.17173yx.com##.fr.show_l2_code
 www.17173yx.com##.bdshare-slide-style-r7.bdshare-slide-button-box
 
+! 2022-03-05 https://www.isharepc.com
+www.isharepc.com##.panel-body
+www.isharepc.com##.wx-pic
+
+! 2022-03-05 https://www.oschina.net
+www.oschina.net##.oicon-phone.oicon
+www.oschina.net##.tb-hide.column.computer.three.tablet.five.mobile.wide.eight.aligned.center
+www.oschina.net##div.action-item:nth-of-type(3)
+www.oschina.net##.codeBlock
+
+! 2022-03-05 https://yun.139.com
+yun.139.com##.down_explain_div_span
+
+! 2022-03-05 http://www.10086.cn
+||www.10086.cn/cq_head/images/index5/phone.png$image
+www.10086.cn###tempBar1
+www.10086.cn###sjyyt
+
+! 2022-03-05 https://www.oracle.com
+www.oracle.com##.active.ochat_slidew2
+www.oracle.com##.scl-icons
+
+! 2022-03-05 https://bbs.elecfans.com
+bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
+bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
+||bbs.elecfans.com/static/image/common/qrcode-wechat-bg.png$image
+bbs.elecfans.com##.sidebar-tool-wechat
+
+! 2022-03-05 https://work.weixin.qq.com
+work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
+
+! 2022-03-05 https://www.v2fy.com
+||www.v2fy.com/asset/0i/jikemiji/jikemiji-md/public.assets/0add1.png$image
+
+! 2022-03-05 https://ww2.mathworks.cn
+ww2.mathworks.cn##.list-unstyled.social_media_icons
+ww2.mathworks.cn##.col-md-3.col-xs-12
+
+! 2022-03-05 https://www.mhgui.com
+www.mhgui.com##.desktop
+
+! 2022-03-05 https://www.cocomanga.com
+www.cocomanga.com##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
+
+! 2022-03-05 https://www.iqiyi.com
+www.iqiyi.com##[href="/manhua/download"]
+www.iqiyi.com##.coop-ewm
