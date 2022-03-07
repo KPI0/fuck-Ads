@@ -12,6 +12,8 @@ duote.com##*
 2345bj.com##*
 2345zj.com##*
 2345.com.cn##*
+2345gho.cn##*
+2345pc.com##*
 pconline.com.cn##*
 xiazaiba.com##*
 ijinshan.com##*
@@ -93,6 +95,8 @@ qt6.com##*
 appchina.com##*
 skycn.net##*
 qq388.cn##*
+harabox.com##*
+kjcenter.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -3023,4 +3027,34 @@ bianji.wwei.cn##.sidebar-client-box.sidebar-block
 
 ! 2022-03-06 https://jiema.wwei.cn
 jiema.wwei.cn###go-fav
+
+! 2022-03-06 https://www.harabox.com
+www.harabox.com##.fr.top-link-normal > li
+
+! 2022-03-06 http://www.kjcenter.com
+www.kjcenter.com##.rhead > [href="#"]
+
+! 2022-03-06 https://www.huya.com
+www.huya.com##a.nav-item--XUUXqbSUAscPL7VU5EnMq:nth-of-type(1)
+www.huya.com##.huya-footer_other
+www.huya.com##.huya-footer_prod
+www.huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu.NavItem--1jr9x80QTPbnrDwqn834hF > .NavItemHd--2wLWYTR1ZfjTu8cSXnazpz
+
+! 2022-03-06 http://free-proxy.cz
+free-proxy.cz##.social-likes_visible.social-likes
+
+! 2022-03-06 https://blog.51cto.com
+blog.51cto.com##.inner > ul > .share > strong
+blog.51cto.com##.action-box > ul > .share > strong
+
+! 2022-03-06 https://wosn.net
+wosn.net##.fadeInUp.wow.feed.widget
+wosn.net##.s-weixin
+
+! 2022-03-06 https://afdian.net
+afdian.net##.info > .vm-btn
+
+! 2022-03-07 https://note.youdao.com
+note.youdao.com###ft-follow-us
+note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
 
