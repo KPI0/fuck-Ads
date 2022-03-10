@@ -3058,3 +3058,25 @@ afdian.net##.info > .vm-btn
 note.youdao.com###ft-follow-us
 note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
 
+! 2022-03-07 https://www.samsungeshop.com.cn
+www.samsungeshop.com.cn##li:nth-of-type(3) > [href="/activitys/SamsungAPPActivity"]
+www.samsungeshop.com.cn##li:nth-of-type(3)
+
+! 2022-03-08 https://rutracker.org
+||rutrk.org/bn/sk/14/index.html$subdocument
+
+! 2022-03-08 https://bbs.16rd.com
+||bbs.16rd.com/source/plugin/it618_brand/kindeditor/attached/image/20180630/20180630100423_84929.jpg$image
+bbs.16rd.com##.recommend
+bbs.16rd.com###com-appcode-float-block-box
+
+! 2022-03-09 https://www.mydigit.cn
+www.mydigit.cn##[href="https://www.mydigit.cn/thread-119068-1-1.html"]
+www.mydigit.cn##a[href^="plugin.php"]:nth-of-type(7)
+www.mydigit.cn##.z > [href="javascript:;"]
+www.mydigit.cn##.z > [href="https://www.mydigit.cn/"]
+
+! 2022-03-09 https://www.kejiwanjia.com
+www.kejiwanjia.com##.bar-qrcode.bar-item
+www.kejiwanjia.com##div.bar-item:nth-of-type(3)
+
