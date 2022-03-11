@@ -97,6 +97,7 @@ skycn.net##*
 qq388.cn##*
 harabox.com##*
 kjcenter.com##*
+ccafc.org.cn##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
