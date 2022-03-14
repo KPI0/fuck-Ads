@@ -98,6 +98,7 @@ qq388.cn##*
 harabox.com##*
 kjcenter.com##*
 ccafc.org.cn##*
+hi.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -3080,4 +3081,40 @@ www.mydigit.cn##.z > [href="https://www.mydigit.cn/"]
 ! 2022-03-09 https://www.kejiwanjia.com
 www.kejiwanjia.com##.bar-qrcode.bar-item
 www.kejiwanjia.com##div.bar-item:nth-of-type(3)
+
+! 2022-03-11 https://finance.eastmoney.com
+finance.eastmoney.com##.aboutctrl
+finance.eastmoney.com##.emsider_qrli
+finance.eastmoney.com##.emsider_bot > li
+finance.eastmoney.com##.emsiderbar
+finance.eastmoney.com###sharebottom > .emshare2020.pull-right.share > .emshare2020_buttonbox
+finance.eastmoney.com###guanzhu
+
+! 2022-03-12 http://www.360doc.com
+||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1106/20/321901_1003053090.shtml&aid=1003053090&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
+www.360doc.com###registerOrLoginLayer
+www.360doc.com###zcommondID > .newbtn_share
+www.360doc.com##.doc360outlinkpop
+
+! 2022-03-12 https://cloud.189.cn
+||cloud.189.cn/web/subapp/img/tips_save.9d22f8b4.png$image
+
+! 2022-03-12 http://www.360doc.com
+www.360doc.com###bgchange > div > .newbtn_share
+
+! 2022-03-13 http://www.huacy.cn
+www.huacy.cn##div.right-card:nth-of-type(1)
+
+! 2022-03-13 https://www.hxm5.com
+www.hxm5.com###qrcode
+www.hxm5.com##.cate-title
+
+! 2022-03-13 https://iehou.com
+iehou.com##.iehou_side_nav
+
+! 2022-03-13 https://hi.com
+hi.com##.footer-buffer-target.footer-referrer
+hi.com##.cookies-holder
+hi.com##.footer-middle > .flex
+hi.com##.footer-lower-section > div > nav
 
