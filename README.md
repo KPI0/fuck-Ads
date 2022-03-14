@@ -25,7 +25,7 @@
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
-### 直接复制规则或者下载*`custom_rules.txt`*文件，在插件以下图位置中添加规则即可。
+### 直接复制规则或者下载`custom_rules.txt`文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
