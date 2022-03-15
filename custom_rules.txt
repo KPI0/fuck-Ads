@@ -21,13 +21,14 @@ kuaizip.com##*
 ludashi.com##*
 drivergenius.com##*
 kuaiwan.com##*
+ijinshan.com##*
 
 ! 第三方下载站
 mydown.com##*
 duote.com##*
+bear20.com##*
 pconline.com.cn##*
 xiazaiba.com##*
-ijinshan.com##*
 onlinedown.net##*
 pcsoft.com.cn##*
 downxia.com##*
@@ -2987,4 +2988,15 @@ search.bilibili.com##li.nav-link-item:nth-of-type(8)
 
 ! 2022-03-14 http://www.xglist.com
 www.xglist.com##.bdshare-button-style0-16.bdsharebuttonbox.action-share
+
+! 2022-03-15 https://www.duba.com
+||www.duba.com/static/images/public/20210507/a50350f292375bacee6377b8a38e1ac6.png_.webp$image
+www.duba.com##li.eve_item:nth-of-type(2)
+www.duba.com##.eve_item_a
+www.duba.com##.elevator_hidden.distance_bottom.m_elevator
+www.duba.com##.no_bottom_border.rec-hot-sale-box.m_hot_rec_box_base
+www.duba.com##div.no_bottom_border.m_hot_rec_box_base:nth-of-type(3)
+www.duba.com##.no_bottom_border.m_rec_game.m_hot_rec_box_base
+www.duba.com##.no_bottom_border.top_corner.rec_hot.m_hot_rec_box_base
+www.duba.com##li.eve_item:nth-of-type(1)
 
