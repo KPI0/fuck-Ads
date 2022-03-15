@@ -35,11 +35,15 @@
 ```
   https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom_rules@main/custom_rules.txt
 ``` 
-- GitHub 更新延迟<1h
+- GitHub   更新延迟<1h
 ```
   https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
 ```
-- Fastgit 更新延迟<1h
+- Gitee    更新延迟<1h
+```
+   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
+```
+- Fastgit  更新延迟<1h
 ```
   https://raw.fastgit.org/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
 ```
