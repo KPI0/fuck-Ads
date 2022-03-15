@@ -2,8 +2,8 @@
 ! uBlock Origin-自定义静态规则
 ! Homepage: https://github.com/KPI0/uBlock-Origin-custom-rules
 !
-mydown.com##*
-duote.com##*
+
+! 23xx全家桶
 2345.cc##*
 2345.com##*
 2345.cn##*
@@ -14,28 +14,19 @@ duote.com##*
 2345.com.cn##*
 2345gho.cn##*
 2345pc.com##*
+
+! 第三方下载站
+mydown.com##*
+duote.com##*
 pconline.com.cn##*
 xiazaiba.com##*
 ijinshan.com##*
-pornhub.com##*
 birdpaper.cn##*
 ludashi.com##*
 onlinedown.net##*
 pcsoft.com.cn##*
 downxia.com##*
 mydown.yesky.com##*
-hpjav.tv##*
-javfull.net##*
-javhub.net##*
-javhd.today##*
-javmost.xyz##*
-svjav.com##*
-fbjav.com##*
-watchjavonline.com##*
-javxxx.me##*
-9xxx.net##*
-javcl.com##*
-javhdporn.net##*
 pc.rising.com.cn##*
 buy.rising.com.cn##*
 antivirus.rising.com.cn##*
@@ -47,8 +38,6 @@ baiduliulanqi.00791.com##*
 kuaizip.com##*
 160.com##*
 kuaiwan.com##*
-one77.app##*
-madou.club##*
 hao774.com##*
 xiazai.zol.com.cn##*
 cr173.com##*
@@ -97,7 +86,29 @@ skycn.net##*
 qq388.cn##*
 harabox.com##*
 kjcenter.com##*
+
+! 色情网站
+madou.club##*
+one77.app##*
+cfgioa.com##*
+pornhub.com##*
+javhdporn.net##*
+hpjav.tv##*
+javfull.net##*
+javhub.net##*
+javhd.today##*
+javmost.xyz##*
+svjav.com##*
+fbjav.com##*
+watchjavonline.com##*
+javxxx.me##*
+9xxx.net##*
+javcl.com##*
+
+! 人血馒头
 ccafc.org.cn##*
+
+! 传销诈骗
 hi.com##*
 
 ! 2021-04-02 https://www.facebook.com
@@ -1266,12 +1277,6 @@ www.jokerlu7.com##.closebox3
 www.jokerlu.com##.main.col-md-offset-2.col-md-10.col-sm-offset-3.col-sm-9
 www.jokerlu.com##.sidebar.col-md-2.col-sm-3
 www.jokerlu.com##.navbar-fixed-top.navbar-inverse.navbar
-
-! 2021-11-30 https://cn.pornhub.com
-cn.pornhub.com##.wrapper
-cn.pornhub.com##.footerContentWrapper
-cn.pornhub.com##.va0hp9d2lf
-cn.pornhub.com###js-networkBar
 
 ! 2021-11-30 https://new.qq.com
 new.qq.com##[src="//inews.gtimg.com/newsapp_ls/0/14245640137_294195/0"]
@@ -3117,4 +3122,13 @@ hi.com##.footer-buffer-target.footer-referrer
 hi.com##.cookies-holder
 hi.com##.footer-middle > .flex
 hi.com##.footer-lower-section > div > nav
+
+! 2022-03-14 http://www.xgiu.com
+www.xgiu.com##.card__body > span
+
+! 2022-03-14 https://search.bilibili.com
+search.bilibili.com##li.nav-link-item:nth-of-type(8)
+
+! 2022-03-14 http://www.xglist.com
+www.xglist.com##.bdshare-button-style0-16.bdsharebuttonbox.action-share
 
