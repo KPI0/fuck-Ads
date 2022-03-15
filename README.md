@@ -39,7 +39,7 @@
 ```
   https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
 ```
-- Gitee    更新延迟<1h
+- Gitee    更新延迟24h
 ```
    https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
 ```
