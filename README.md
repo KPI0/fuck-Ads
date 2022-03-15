@@ -43,7 +43,7 @@
 ```
    https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
 ```
-- Fastgit  更新延迟<1h
+- fastgit  更新延迟<1h
 ```
   https://raw.fastgit.org/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
 ```
