@@ -30,7 +30,7 @@
 ![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
-### 复制下面的规则链接地址(二选一)，在插件以下图位置中添加链接即可。
+### 复制下面的规则链接地址(3选1)，在插件以下图位置中添加订阅链接即可。
 - jsDelivr 更新延迟24h
 ```
   https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom_rules@main/custom_rules.txt
