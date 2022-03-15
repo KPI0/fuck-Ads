@@ -60,6 +60,7 @@ jisuxz.com##*
 greenxiazai.com##*
 ggdyx.com##*
 52z.com##*
+kuaihou.com##*
 uzzf.com##*
 xpwindow.com##*
 liqucn.com##*
@@ -75,6 +76,7 @@ kuaizip.com##*
 jb51.net##*
 win7xzb.com##*
 dyxhw.com##*
+veryhuo.com##*
 6188.net##*
 shuajizhijia.net##*
 05sun.com##*
@@ -86,6 +88,8 @@ skycn.net##*
 qq388.cn##*
 harabox.com##*
 kjcenter.com##*
+somode.com##*
+download.pchome.net##*
 
 ! 色情网站
 madou.club##*
@@ -100,10 +104,10 @@ javhd.today##*
 javmost.xyz##*
 svjav.com##*
 fbjav.com##*
-watchjavonline.com##*
 javxxx.me##*
 9xxx.net##*
 javcl.com##*
+bigojav.com##*
 
 ! 人血馒头
 ccafc.org.cn##*
@@ -1543,9 +1547,6 @@ store.steampowered.com##.header_installsteam_btn_green.header_installsteam_btn
 ! 2021-12-25 https://www.baidu.com
 www.baidu.com##.FYB_RD
 
-! 2021-12-25 https://madou.club
-madou.club##.shares
-
 ! 2021-12-25 https://www.jswvip.net
 ||www.jswvip.net/zb_users/upload/2021/12/20211204011623163855178345858.gif$image
 
@@ -1632,47 +1633,15 @@ www.r18.com##.mainWrap
 www.r18.com###footer
 www.r18.com##.agegate
 
-! 2022-01-02 https://hpjav.tv
-hpjav.tv##.video-box
-hpjav.tv##.col-md-12.video-countext
-hpjav.tv##.home-img-box
-hpjav.tv##.visible-lg-block.visible-md-block.visible-sm-block
-hpjav.tv##.main
-hpjav.tv##.breadcrumb
-
 ! 2022-01-02 https://jav.guru
 jav.guru##.hfeed.container.grid-container.site
 jav.guru##.footer-widgets.site
 jav.guru##.has-inline-mobile-toggle.site-header
 jav.guru##.site-info
 
-! 2022-01-02 https://www.bigojav.com
-||ninjastream.to/watch/GbJQPey1LZ7rw$subdocument
-www.bigojav.com##.col-sm-12.col-md-12
-www.bigojav.com##.container-fluid > .container > .row
-www.bigojav.com##.container-all.container > .row
-www.bigojav.com##.container-all.container
-www.bigojav.com###footer
-www.bigojav.com##.navbar-collapse.collapse
-www.bigojav.com##.navbar-static-top.navbar-default.navbar > .container
-www.bigojav.com###wrapper
-
 ! 2022-01-02 https://ww1.javbabe.net
 ||ww1.javbabe.net/x1x/top-bb.html$subdocument
 ww1.javbabe.net###top-bb
-
-! 2022-01-02 https://www2.javhdporn.net
-www2.javhdporn.net##.row.site-content
-www2.javhdporn.net##.site-footer
-www2.javhdporn.net##.site-header
-www2.javhdporn.net##.breadcrumbs
-www2.javhdporn.net##.breadcrumbs-area
-
-! 2022-01-02 https://www.javmost.xyz
-www.javmost.xyz##div.row:nth-of-type(4)
-www.javmost.xyz##.tab-content
-www.javmost.xyz##div.row:nth-of-type(5)
-www.javmost.xyz##.in.page-header-fixed.page-sidebar-fixed.fade
 
 ! 2022-01-02 https://sms.cabq.nl
 ||sms.cabq.nl/img/13.jpg$image
@@ -1703,18 +1672,6 @@ chp.shadiao.app###index > section.mdl-grid--no-spacing.mdl-grid.section--center 
 
 ! 2022-01-02 https://www.cbaigui.com
 www.cbaigui.com##.dwqr-inner
-
-! 2022-01-02 https://www.mydown.com
-www.mydown.com##.box20
-www.mydown.com##.wrap_head
-||www.mydown.com/TLimages2009/topspeed/images/img19/jptjbg1.jpg?20$image
-||www.mydown.com/TLimages2009/topspeed/images/img19/jptjbg1.jpg$image
-www.mydown.com##.wrap
-
-www.mydown.com##.channel_content
-||www.mydown.com/TLimages2009/topspeed/images/img18/mydzc.png?12$image
-||www.mydown.com/TLimages2009/topspeed/images/img18/shouz.jpg?29$image
-
 
 ! 2022-01-02 https://www.rwtext.com
 ||www.rwtext.com/image/ttil.png$image
@@ -1923,29 +1880,6 @@ www.baidu.com##.s-isindex-wrap.s-top-wrap
 ! 2022-01-10 https://www.google.com
 www.google.com##.SSwjIe.KxwPGc
 www.google.com##.uU7dJb
-
-! 2022-01-10 http://www.kuaihou.com
-www.kuaihou.com##li.c-1:nth-of-type(8)
-www.kuaihou.com##.content > p
-www.kuaihou.com##.con_art > dt
-www.kuaihou.com##.fwn.ellipsis
-www.kuaihou.com##.cl.mb-hjlist
-www.kuaihou.com##article.topics-tab-list > ul > li
-www.kuaihou.com##article.topics-tab-list > ul
-www.kuaihou.com##.tab-hd
-www.kuaihou.com##.yxsp_list_rg
-www.kuaihou.com##.slidesjs-slide.clearfix.index-zt-list
-www.kuaihou.com##.b
-www.kuaihou.com##.clearfix.yxsp_list
-www.kuaihou.com##.bread-line
-www.kuaihou.com##.list-hj > dt
-www.kuaihou.com##.main_nav
-www.kuaihou.com##.hjXgwzTitle
-||www.kuaihou.com/skinnew/images/title_l.png$image
-||www.kuaihou.com/skinnew/images/title_l.png$image
-www.kuaihou.com##.tab-two.mg-t10.border.topics-tab
-||www.kuaihou.com/skinnew/images/title_l.png$image
-www.kuaihou.com##.az_soft
 
 ! 2022-01-10 https://www.8899lt.com
 www.8899lt.com##body > div > table > tbody > tr > td
@@ -2374,15 +2308,6 @@ www.kuwo.cn##.windows.item
 www.kuwo.cn##li.item:nth-of-type(4)
 www.kuwo.cn##.android.item
 
-! 2022-02-28 https://download.pchome.net
-download.pchome.net##.wrapper
-download.pchome.net###modFootClass
-download.pchome.net###dl-mainnav
-download.pchome.net##.mg-auto.container-1000.mod-global-link
-download.pchome.net##.modTopNav-info
-download.pchome.net###modTopNav-linksWrap
-download.pchome.net###modTopNav
-
 ! 2022-02-28 https://pc.qq.com
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
 pc.qq.com##.clearfix.banmgr-content.container_12
@@ -2410,12 +2335,6 @@ www.meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-
 ||www.meijumi.top/wp-content/plugins/popup-builder/public/img/theme_6/close.png$image
 ||www.meijumi.top/wp-content/uploads/app/xiazaiapp2.PNG$image
 www.meijumi.top##.close
-
-! 2022-02-28 https://www.onlinedown.net
-www.onlinedown.net##.g-header
-www.onlinedown.net##.g-main
-www.onlinedown.net##.g-foot
-www.onlinedown.net##.f-clearfix.g-top > .g-wrap
 
 ! 2022-02-28 https://wenku.baidu.com
 wenku.baidu.com##.dialog-mask
@@ -2453,21 +2372,6 @@ www.oneplusbbs.com##[href="plugin-apk_download.html"]
 ! 2022-02-28 https://www.51job.com
 www.51job.com##.app > ul > li
 
-! 2022-02-28 https://www.veryhuo.com
-www.veryhuo.com##.g-recomd-images-box.row
-www.veryhuo.com##.g-plate-one.row
-www.veryhuo.com##.w.mt20.main-pc
-www.veryhuo.com###az-box
-www.veryhuo.com###pg-box
-www.veryhuo.com###Game-box
-www.veryhuo.com##.softBox
-www.veryhuo.com###footer
-www.veryhuo.com##.FLink.mainBody
-www.veryhuo.com##.g-recomd-label.row
-www.veryhuo.com##.header
-www.veryhuo.com##.clearfix.w.top_wrapper
-www.veryhuo.com##.top
-
 ! 2022-02-28 https://www.kejiwanjia.com
 ||image.kejiwanjia.com/wp-content/uploads/2021/06/model-bg.png$image
 www.kejiwanjia.com##.show-modal.gg-box.modal > .b2-radius.modal-content
@@ -2489,25 +2393,6 @@ www.juan920.com###modal-system-notice
 pc.qq.com##.category-wrap
 ||pc2.gtimg.com/softmgr/picture/v3/subject/781f1a3558604f3369a814dd7fef0cc9.png$image
 pc.qq.com###J_banmgrbox
-
-! 2022-02-28 http://www.somode.com
-www.somode.com##ul.fl > li
-||www.somode.com/public/images/icon_img.png$image
-www.somode.com##.header
-www.somode.com###slideBox
-www.somode.com##.Min2
-www.somode.com##div.Min5:nth-of-type(12)
-www.somode.com##.Min4
-www.somode.com##div.Min5:nth-of-type(13)
-www.somode.com##.Min7
-www.somode.com##.Min8
-www.somode.com##.footer
-www.somode.com##.Min6
-www.somode.com##.Min3
-www.somode.com##.tjslide_wrap
-www.somode.com##.Min1
-www.somode.com##.nav
-www.somode.com##.index-menu-bar
 
 ! 2022-02-28 http://www.chrome.hk.cn
 www.chrome.hk.cn###topNavC
@@ -2657,9 +2542,6 @@ www.cnbeta.com###McYZCXfQZn
 ||static.cnbetacdn.com/share/r2.gif$image
 www.cnbeta.com##
 
-! 2022-03-03 http://2345net.com
-2345net.com##div > [href="http://www.1234wu.com/qt/123zhuye.htm"]
-
 ! 2022-03-03 http://www.360doc.com
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
@@ -2733,9 +2615,6 @@ ac.qq.com##.works-slider-ad
 new.qq.com##a.item:nth-of-type(4)
 new.qq.com##a.item > .txt
 new.qq.com##.fixed-bar
-
-! 2022-03-03 http://2345net.com
-2345net.com###set > div > div
 
 ! 2022-03-03 https://www.csdn.net
 csdn.net##.no—h.option-box
@@ -3116,12 +2995,6 @@ www.hxm5.com##.cate-title
 
 ! 2022-03-13 https://iehou.com
 iehou.com##.iehou_side_nav
-
-! 2022-03-13 https://hi.com
-hi.com##.footer-buffer-target.footer-referrer
-hi.com##.cookies-holder
-hi.com##.footer-middle > .flex
-hi.com##.footer-lower-section > div > nav
 
 ! 2022-03-14 http://www.xgiu.com
 www.xgiu.com##.card__body > span
