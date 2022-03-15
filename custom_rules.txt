@@ -72,7 +72,6 @@ netflav1.com##*
 qqx15.com##*
 qyule.com##*
 my123.com##*
-kuaizip.com##*
 jb51.net##*
 win7xzb.com##*
 dyxhw.com##*
@@ -1621,10 +1620,6 @@ pan.baidu.com##.wp-disk-header__right-item.web-header-ad-item
 ! 2022-01-02 https://cloud.189.cn
 cloud.189.cn##.enterprise-guide-box
 
-! 2022-01-02 https://www.netflav1.com
-||pics.dmm.co.jp/digital/video/pppd00992/pppd00992pl.jpg$image
-www.netflav1.com###__next
-
 ! 2022-01-02 https://javher.com
 javher.com###__nuxt
 
@@ -2275,9 +2270,6 @@ ke.qq.com##a.link-service:nth-of-type(1)
 www.jd.com##.promotional-top
 ||img12.360buyimg.com/babel/jfs/t1/99127/17/22211/104842/6218a2ecEd87c1ba0/12463d5727ede286.png.webp$image
 
-! 2022-02-28 http://www.hao123.com
-www.hao123.com##.new-set-home
-
 ! 2022-02-28 http://www.360doc.com
 www.360doc.com###loginOrRegister
 
@@ -2560,9 +2552,6 @@ mp.v.qq.com##.container___3IFD3
 ! 2022-03-03 https://www.youku.com
 ||img.alicdn.com/imgextra/i4/O1CN01N8K7Q727WHbc7cFq4_!!6000000007804-2-tps-200-200.png$image
 www.youku.com##.youkufixedbar_report
-
-! 2022-03-03 http://www.hao123.com
-www.hao123.com##.clearfix.extend-nav > .item
 
 ! 2022-03-03 http://book.km.com
 ||cdn.qm989.com/bookimg/public/uploads/other/fuli.gif$image
@@ -2913,12 +2902,6 @@ bianji.wwei.cn##.sidebar-client-box.sidebar-block
 
 ! 2022-03-06 https://jiema.wwei.cn
 jiema.wwei.cn###go-fav
-
-! 2022-03-06 https://www.harabox.com
-www.harabox.com##.fr.top-link-normal > li
-
-! 2022-03-06 http://www.kjcenter.com
-www.kjcenter.com##.rhead > [href="#"]
 
 ! 2022-03-06 https://www.huya.com
 www.huya.com##a.nav-item--XUUXqbSUAscPL7VU5EnMq:nth-of-type(1)
