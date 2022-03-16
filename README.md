@@ -7,7 +7,7 @@
 ### 自定义静态规则作用范围
 > - ### 屏蔽`流氓广告`
 > - ### 屏蔽`网页弹窗`
-> - ### 屏蔽[`色情网站`](https://tieba.baidu.com/f?ie=utf-8&kw=%E6%88%92%E8%89%B2)
+> - ### 屏蔽[`色情网站`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/Website/sex)
 > - ### 屏蔽`人血馒头`
 > - ### 屏蔽`传销诈骗`
 > - ### 屏蔽`某浏览器下载`页面
