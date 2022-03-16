@@ -3000,3 +3000,17 @@ www.duba.com##.no_bottom_border.m_rec_game.m_hot_rec_box_base
 www.duba.com##.no_bottom_border.top_corner.rec_hot.m_hot_rec_box_base
 www.duba.com##li.eve_item:nth-of-type(1)
 
+! 2022-03-16 http://dict.cn
+dict.cn###dshared
+||i1.haidii.com/v/1493890436/i1/images/top-download-icon2.png$image
+dict.cn##[href^="http://cidian.haidii.com/home.html"]
+
+! 2022-03-16 https://fanyi.baidu.com
+||fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/appGuide/img/shadow_ac90d66.png$image
+fanyi.baidu.com##.app-guide-outter
+
+! 2022-03-16 https://sm.ms
+sm.ms##.footer
+sm.ms##.apps-download
+sm.ms##.google-download
+
