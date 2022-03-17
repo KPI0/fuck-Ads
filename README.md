@@ -26,18 +26,18 @@
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
-### 直接复制[custom_rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
+### 直接复制[custom-rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom-rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
 ### 复制下面的规则链接地址(4选1)，在插件以下图位置中添加订阅链接即可。
 - jsDelivr 更新延迟24h
 ```
-  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
+  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom-rules.txt
 ``` 
 - GitHub   更新延迟<1h
 ```
-  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom-rules.txt
 ```
 - Gitee    更新延迟<1h
 ```
@@ -45,7 +45,7 @@
 ```
 - fastgit  更新延迟24h
 ```
-  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom-rules.txt
 ```
 
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
