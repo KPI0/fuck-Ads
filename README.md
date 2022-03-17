@@ -7,7 +7,7 @@
 ### 自定义静态规则作用范围
 > - ### 屏蔽`流氓广告`
 > - ### 屏蔽`网页弹窗`
-> - ### 屏蔽[`色情网站`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/Website/sex)
+> - ### 屏蔽[`色情网站`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)
 > - ### 屏蔽[`人血馒头`](https://cf-ipfs.com/ipfs/Qmej7aJQE7P9has29qegQ3snE11Jz8JVVGbjjZsb5KgmwK)
 > - ### 屏蔽[`传销诈骗`](https://cf-ipfs.com/ipfs/QmZgeDWhQfeUaDA7TCqeovXoGgCAA6kaEKy1tDvoswLV65)
 > - ### 屏蔽`某浏览器下载`页面
@@ -26,40 +26,40 @@
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
-### 直接复制[custom_rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
-![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
+### 直接复制[custom_rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
+![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
 ### 复制下面的规则链接地址(4选1)，在插件以下图位置中添加订阅链接即可。
 - jsDelivr 更新延迟24h
 ```
-  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom_rules@main/custom_rules.txt
+  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
 ``` 
 - GitHub   更新延迟<1h
 ```
-  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
+  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 - Gitee    更新延迟<1h
 ```
-   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
+   https://gitee.com/KPI0/uBlock-Origin_custom-rules/raw/main/custom-rules.txt
 ```
 - fastgit  更新延迟24h
 ```
-  https://raw.fastgit.org/KPI0/uBlock-Origin_custom_rules/main/custom_rules.txt
+  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 
-![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
+![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
 # 注意：该规则主要适配电脑页面，手机页面随缘。
 
 # 目的：网站页面更加干净、清爽、简洁、健康。
-![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/1.gif)  
+![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/1.gif)  
 
 *此规则比较简单，稍微会使用uBlock Origin就知道这个怎么来的。所以请各位大佬勿喷！*
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# 推荐几个![image](https://github.com/KPI0/uBlock-Origin-custom-rules/blob/main/images/np.png)的规则。
+# 推荐几个![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png)的规则。
 
 *我用过的规则不多，还有好多不知道我没办法贴出来，大佬勿怪。*
 
