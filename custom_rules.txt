@@ -1,9 +1,10 @@
-! Title: uBlock Origin-custom rules
-! uBlock Origin-自定义静态规则
-! Homepage: https://github.com/KPI0/uBlock-Origin-custom-rules
+! Title: uBlock Origin_custom rules
+! uBlock Origin_自定义静态规则
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 
 ! 流氓软件
+tzdsjx.com##*
 2345.cc##*
 2345.com##*
 2345.cn##*
@@ -17,13 +18,29 @@
 birdpaper.cn##*
 flash.cn##*
 160.com##*
+99box.com##*
+guanjia.qq.com##*
 kuaizip.com##*
 ludashi.com##*
 drivergenius.com##*
 kuaiwan.com##*
 ijinshan.com##*
+pc.rising.com.cn##*
 
 ! 第三方下载站
+9upk.com##*
+vrzhijia.com##*
+jz5u.com##*
+xuetianli.com##*
+xitonghe.com##*
+wywyx.com##*
+xz7.com##*
+05cg.com##*
+ccho.cc##*
+kkx.net##*
+weidown.com##*
+peise.net##*
+itmop.com##*
 mydown.com##*
 duote.com##*
 bear20.com##*
@@ -33,7 +50,6 @@ onlinedown.net##*
 pcsoft.com.cn##*
 downxia.com##*
 mydown.yesky.com##*
-pc.rising.com.cn##*
 buy.rising.com.cn##*
 antivirus.rising.com.cn##*
 ie.sogou.com##*
@@ -44,7 +60,12 @@ xiazai.zol.com.cn##*
 cr173.com##*
 skycn.com##*
 crsky.com##*
+ouyaoxiazai.com##*
+secretmine.net##*
+anyxz.com##*
+downkr.com##*
 pc6.com##*
+qqtn.com##*
 cncrk.com##*
 greenxf.com##*
 xiazaizhijia.com##*
@@ -58,6 +79,7 @@ anxz.com##*
 jiegeng.com##*
 2265.com##*
 jisuxz.com##*
+xfdown.com##*
 greenxiazai.com##*
 ggdyx.com##*
 52z.com##*
@@ -3013,4 +3035,19 @@ fanyi.baidu.com##.app-guide-outter
 sm.ms##.footer
 sm.ms##.apps-download
 sm.ms##.google-download
+
+! 2022-03-16 https://apkpure.com
+apkpure.com##.share-web.share-btn > ul
+
+! 2022-03-16 http://www.bianews.com
+www.bianews.com##.bdshare-button-style0-16.share_infos_wrap.fr.bdsharebuttonbox
+www.bianews.com##.nav-tr-lang
+www.bianews.com##.fr.we_img_box
+
+! 2022-03-16 https://i.ifeng.com
+i.ifeng.com##.share_box-1HbOUEQZ > .share_box-29at7jsG > .share_bar-2X6NjzAR
+i.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG > .share_bar-2X6NjzAR
+
+! 2022-03-16 https://www.163.com
+www.163.com##[href="https://www.163.com/newsapp/#f=post2020_dy"]
 
