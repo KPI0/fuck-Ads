@@ -41,7 +41,7 @@
 ```
 - Gitee    更新延迟<1h
 ```
-   https://gitee.com/KPI0/uBlock-Origin_custom-rules/raw/main/custom_rules.txt
+   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
 ```
 - fastgit  更新延迟24h
 ```
