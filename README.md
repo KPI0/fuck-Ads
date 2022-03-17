@@ -3,7 +3,7 @@
 > > - ### uBlock Origin 浏览器插件_安装地址         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # uBlock Origin-custom rules  
-### uBlock Origin-自定义静态规则  
+### uBlock Origin_自定义静态规则  
 ### 自定义静态规则作用范围
 > - ### 屏蔽`流氓广告`
 > - ### 屏蔽`网页弹窗`
