@@ -33,7 +33,7 @@
 ### 复制下面的规则链接地址(4选1)，在插件以下图位置中添加订阅链接即可。
 - jsDelivr 更新延迟24h
 ```
-  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom-rules.txt
+  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
 ``` 
 - GitHub   更新延迟<1h
 ```
