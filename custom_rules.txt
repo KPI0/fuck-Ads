@@ -5,6 +5,7 @@
 
 ! 流氓软件
 tzdsjx.com##*
+shoujiweishi.baidu.com##*
 2345.cc##*
 2345.com##*
 2345.cn##*
@@ -17,18 +18,25 @@ tzdsjx.com##*
 2345pc.com##*
 birdpaper.cn##*
 flash.cn##*
+suzip.com##*
 160.com##*
 99box.com##*
 guanjia.qq.com##*
 kuaizip.com##*
+flashget.com##*
+baofeng.com##*
+kuai8.com##*
+video.xunlei.com##*
 ludashi.com##*
 drivergenius.com##*
 kuaiwan.com##*
+7654.com##*
 ijinshan.com##*
 pc.rising.com.cn##*
 
 ! 第三方下载站
 9upk.com##*
+downyi.com##*
 vrzhijia.com##*
 jz5u.com##*
 xuetianli.com##*
