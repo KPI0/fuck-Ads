@@ -125,9 +125,19 @@ download.pchome.net##*
 madou.club##*
 one77.app##*
 cfgioa.com##*
+sex.com##*
+theav.xyz##*
 pornhub.com##*
+xhamster.com##*
+xxx.com##*
+porn.com##*
+modelmediaus.com##*
+xvideos.com##*
 javhdporn.net##*
+thumbzilla.com##*
+ixxx.com##*
 hpjav.tv##*
+avgle.com##*
 javfull.net##*
 javhub.net##*
 javhd.today##*
@@ -144,6 +154,8 @@ ccafc.org.cn##*
 
 ! 传销诈骗
 hi.com##*
+prgunai.store##*
+eubaiu.xin##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
