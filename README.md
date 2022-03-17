@@ -45,7 +45,7 @@
 ```
 - fastgit  更新延迟24h
 ```
-  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom-rules.txt
+  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
