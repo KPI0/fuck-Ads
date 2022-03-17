@@ -26,7 +26,7 @@
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
-### 直接复制[custom_rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
+### 直接复制[custom-rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
@@ -37,7 +37,7 @@
 ``` 
 - GitHub   更新延迟<1h
 ```
-  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom-rules.txt
+  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 - Gitee    更新延迟<1h
 ```
