@@ -2,17 +2,17 @@
 > > - ### uBlock Origin 浏览器插件_项目地址         [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 浏览器插件_安装地址         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# uBlock Origin-custom rules  
+# uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
 ### 自定义静态规则作用范围
 > - ### 屏蔽`流氓广告`
+> - ### 屏蔽`流氓软件`
 > - ### 屏蔽`网页弹窗`
+> - ### 屏蔽`盗版软件`
 > - ### 屏蔽[`色情网站`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)
 > - ### 屏蔽[`人血馒头`](https://cf-ipfs.com/ipfs/Qmej7aJQE7P9has29qegQ3snE11Jz8JVVGbjjZsb5KgmwK)
 > - ### 屏蔽[`传销诈骗`](https://cf-ipfs.com/ipfs/QmZgeDWhQfeUaDA7TCqeovXoGgCAA6kaEKy1tDvoswLV65)
-> - ### 屏蔽`某浏览器下载`页面
-> - ### 屏蔽`第三方软件下载站`页面
-> - ### 屏蔽`某安全管家卫士毒霸下载`页面
+> - ### 屏蔽`第三方软件下载站`
 > - ### 屏蔽`二维码`元素
 > - ### 屏蔽`联系客服`元素
 > - ### 屏蔽`问题反馈`元素
