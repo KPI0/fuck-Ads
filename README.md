@@ -54,14 +54,8 @@
 
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
-# 注意：该规则主要适配电脑页面，手机页面随缘。
 
-# 目的：网站页面更加干净、清爽、简洁、健康。
-![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/1.gif)  
-
-*此规则比较简单，稍微会使用uBlock Origin就知道怎么来的。规则不定期更新，如有错误请反馈。*
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----
 
 # 推荐几个 <img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
 
@@ -92,3 +86,11 @@
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
 ----
+
+# 注意：该规则主要适配电脑页面，手机页面随缘。
+
+# 目的：网站页面更加干净、清爽、简洁、健康。
+![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/1.gif)  
+
+*此规则比较简单，稍微会使用uBlock Origin就知道怎么来的。规则不定期更新，如有错误请反馈。*
+
