@@ -4,7 +4,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
-
 <img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" />
 
 ### 自定义静态规则作用范围
