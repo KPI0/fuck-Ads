@@ -8,7 +8,6 @@
 <img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" />
 
 
-
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
 > - ### 屏蔽`钓鱼链接`网页
