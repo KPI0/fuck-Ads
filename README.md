@@ -3,7 +3,7 @@
 > > - ### uBlock Origin 浏览器插件_安装地址         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 ----
 
-<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" />
+<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif"width="100px" />
 
 # uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
