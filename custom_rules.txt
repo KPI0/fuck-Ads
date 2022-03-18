@@ -4,6 +4,7 @@
 !
 
 ! 流氓软件/网站
+sk734.com##*
 tzdsjx.com##*
 shoujiweishi.baidu.com##*
 2345.cc##*
@@ -31,12 +32,15 @@ ludashi.com##*
 drivergenius.com##*
 kuaiwan.com##*
 7654.com##*
+epochtimes.com##*
 ijinshan.com##*
+ntdtv.com##*
 pc.rising.com.cn##*
 kp26.net##*
 
 ! 第三方下载站
 9upk.com##*
+davinfo.com##*
 downyi.com##*
 vrzhijia.com##*
 jz5u.com##*
@@ -124,7 +128,10 @@ download.pchome.net##*
 
 ! 色情低俗
 madou.club##*
+hardsextube.com##*
+drtuber.com##*
 one77.app##*
+javdb.com##*
 cfgioa.com##*
 sex.com##*
 theav.xyz##*
@@ -153,10 +160,11 @@ bigojav.com##*
 ! 人血馒头
 ccafc.org.cn##*
 
-! 传销诈骗
+! 传销/诈骗
 hi.com##*
 prgunai.store##*
 eubaiu.xin##*
+58.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -3112,4 +3120,76 @@ www.chinaz.com##.media-banner__box > .cloumn-bd__minp.media-banner_auto.cloumn-b
 ! 2022-03-18 http://www.3721dh.com
 www.3721dh.com###extra > .column
 www.3721dh.com###new_sc
+
+! 2022-03-18 https://www.tudou.com
+www.tudou.com##.u-app_2yGae
+www.tudou.com##.qr-code_2ipWU
+www.tudou.com##.qr-code-footer_277OH
+
+! 2022-03-18 https://b.faloo.com
+b.faloo.com##[href="//b.faloo.com/down_0_1.html"]
+b.faloo.com##.centerSixteen
+b.faloo.com###er
+
+! 2022-03-18 https://www.sojson.com
+www.sojson.com##.layui-word-aux.apend-txt
+www.sojson.com##.mt202108111122._left_ad.layui-col-md4
+www.sojson.com##.mt202108111122._right_ad.layui-col-md4
+
+! 2022-03-18 https://www.aizhan.com
+www.aizhan.com##.ico-nav-mobile
+www.aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
+www.aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
+
+! 2022-03-18 http://www.yes321.com
+www.yes321.com##.shares
+www.yes321.com##[href="https://www.yes321.com/prod/yesapp/commonality/downApp/down.html"]
+
+! 2022-03-18 https://mail.163.com
+mail.163.com###_mail_component_108_108
+mail.163.com##.nui-closeable.gWel-promt-radius.gWel-recommend
+
+! 2022-03-18 https://email.163.com
+||mail-activity.nosdn.127.net/d78ddd66-8318-44f2-a7a8-8214d1426a4a$image
+email.163.com###mailgg__10241024_0 > .fadeIn.animated.theme-item
+||mail-activity.nosdn.127.net/4f3936ac-fa84-4073-8b75-19158a41db06$image
+email.163.com###mailgg__10241024_2 > .fadeIn.animated.theme-item
+||mail-activity.nosdn.127.net/d78ddd66-8318-44f2-a7a8-8214d1426a4a$image
+email.163.com###mailgg__10241024_3 > .fadeIn.animated.theme-item
+
+! 2022-03-18 https://www.163.com
+||static.ws.126.net/163/f2e/www/index20170701/images/sprite_img20211126.png$image
+www.163.com##.mod_news_download
+
+! 2022-03-18 http://china.qianlong.com
+china.qianlong.com##.fenxiang
+
+! 2022-03-18 https://www.toutiao.com
+www.toutiao.com##.feedback.tool-item
+www.toutiao.com##[href="//app.toutiao.com/news_article/"]
+www.toutiao.com##.add-to-desktop-wrapper
+
+! 2022-03-18 https://www.tiatiatoutiao.com
+www.tiatiatoutiao.com##[src="/uploads/allimg/190427/1-1Z42F0444U55.png"]
+||www.tiatiatoutiao.com/templets/crjwz@qq1845609988/assets/images/to_top_v2.png$image
+www.tiatiatoutiao.com###J_shoucang
+www.tiatiatoutiao.com##.show_go_1
+
+! 2022-03-18 http://www.51hei.com
+www.51hei.com##.topbar_dot > [href="#"]
+
+! 2022-03-18 http://www.prechin.net
+www.prechin.net##[href="http://prechin.net/"]
+www.prechin.net##.z > [href="javascript:;"]
+
+! 2022-03-18 https://www.panelook.cn
+www.panelook.cn##[src="//www.panelook.cn/cms-templates/cn/images/cn_mobile.gif"]
+
+! 2022-03-18 https://theone.art
+theone.art##.v1-footer-main > div:nth-of-type(2)
+
+! 2022-03-18 https://car.yiche.com
+car.yiche.com##.adv10
+car.yiche.com##.adv7
+car.yiche.com##[href="//app.yiche.com/yiche/"]
 
