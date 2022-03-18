@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 
-! 流氓软件
+! 流氓软件/网站
 tzdsjx.com##*
 shoujiweishi.baidu.com##*
 2345.cc##*
@@ -33,6 +33,7 @@ kuaiwan.com##*
 7654.com##*
 ijinshan.com##*
 pc.rising.com.cn##*
+kp26.net##*
 
 ! 第三方下载站
 9upk.com##*
@@ -121,7 +122,7 @@ kjcenter.com##*
 somode.com##*
 download.pchome.net##*
 
-! 色情网站
+! 色情低俗
 madou.club##*
 one77.app##*
 cfgioa.com##*
@@ -3070,4 +3071,45 @@ i.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG > .share_bar-2X6NjzAR
 
 ! 2022-03-16 https://www.163.com
 www.163.com##[href="https://www.163.com/newsapp/#f=post2020_dy"]
+
+! 2022-03-17 http://guba.eastmoney.com
+guba.eastmoney.com##.emshare2020_buttonbox
+
+! 2022-03-17 http://www.lckdj.com
+www.lckdj.com##.online_wechat.online_item
+
+! 2022-03-18 https://123.sogou.com
+123.sogou.com##.m-3-5.row
+123.sogou.com##.sidebar
+123.sogou.com##.m.m-7
+123.sogou.com##.info_flow_sidebar__2Tw2H
+123.sogou.com###infoFlow
+123.sogou.com##.m.m-10
+123.sogou.com##.style_infoFlowCoolsite__3qAHc
+
+! 2022-03-18 http://www.02516.com
+www.02516.com##.cf.header-bd
+www.02516.com###costom
+www.02516.com##.qingtiancms_famous_tip
+||www.02516.com/template/skin19_4_20100527_2/js/public4/rebuild/images/loading.gif$image
+www.02516.com###qingtiancms_b_b1
+www.02516.com##.fl.sideBar
+||www.02516.com/template/skin19_4_20100527_2/js/public4/rebuild/images/theme/icon-rokect.png$image
+www.02516.com##.azDownload
+www.02516.com##.mcol
+
+! 2022-03-18 http://www.99114.com
+www.99114.com##.cgtcode > span
+
+! 2022-03-18 http://www.265.com
+www.265.com##.b-p-e-f.b-f
+
+! 2022-03-18 https://www.chinaz.com
+www.chinaz.com##.medialink-wrapper.section.cloumn-bd
+www.chinaz.com##.article-right-sidebar > .cloumn-bd__minp.media-banner_auto.cloumn-bd
+www.chinaz.com##.media-banner__box > .cloumn-bd__minp.media-banner_auto.cloumn-bd
+
+! 2022-03-18 http://www.3721dh.com
+www.3721dh.com###extra > .column
+www.3721dh.com###new_sc
 
