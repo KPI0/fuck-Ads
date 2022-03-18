@@ -5,7 +5,7 @@
 # uBlock Origin_custom rules  
 ## uBlock Origin_自定义静态规则  
 ### 自定义静态规则作用范围
-<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="350px" />
+<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="370px" />
 
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
