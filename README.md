@@ -8,7 +8,7 @@
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
 > - ### 屏蔽`钓鱼链接`网页
-<img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="500px" />
+<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="500px" />
 
 > - ### 屏蔽[`色情网站`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)网页
 > - ### 屏蔽[`人血馒头`](https://cf-ipfs.com/ipfs/Qmej7aJQE7P9has29qegQ3snE11Jz8JVVGbjjZsb5KgmwK)网页
