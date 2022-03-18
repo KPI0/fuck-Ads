@@ -1,5 +1,5 @@
 > # [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/)uBlock Origin
-> > - ### uBlock Origin 浏览器插件_项目地址         [uBlock](https://github.com/gorhill/uBlock/)
+> > - ### uBlock Origin 浏览器插件_源码地址         [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 浏览器插件_安装地址         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 ----
 # uBlock Origin_custom rules  
