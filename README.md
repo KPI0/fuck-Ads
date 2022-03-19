@@ -90,7 +90,7 @@
 ```
 ----
 
-![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/1.gif)  
+[![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/1.gif)](https://github.com/KPI0)
 
 *此规则比较简单，稍微会使用uBlock Origin就知道怎么来的。规则不定期更新，如有错误请反馈。*
 # 注意：该规则主要适配电脑页面，手机页面随缘。
