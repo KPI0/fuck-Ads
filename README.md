@@ -1,6 +1,6 @@
 > # [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/)uBlock Origin
-> > - ### uBlock Origin 浏览器扩展程序_源码地址：         [uBlock](https://github.com/gorhill/uBlock/)
-> > - ### uBlock Origin 浏览器扩展程序_安装地址：         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
+> > - ### uBlock Origin 浏览器扩展程序_源码地址:         [uBlock](https://github.com/gorhill/uBlock/)
+> > - ### uBlock Origin 浏览器扩展程序_安装地址:         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > > - ### 支持该扩展程序的Android浏览器：[Kiwi Browser](https://kiwibrowser.com/)
 ----
 # uBlock Origin_custom rules  
