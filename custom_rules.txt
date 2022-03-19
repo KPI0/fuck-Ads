@@ -4,7 +4,26 @@
 !
 
 ! 流氓软件/网站
+wifi.com##*
+tiandi.com##*
+95jv.com##*
+sysceo.com##*
+zhuangjiba.com##*
+winbaicai.com##*
+taobeike.com##*
+laomaotao.net##*
+lmt.hebop.cn##*
+youqian.360.cn##*
+zjbl.qq.com##*
+duba.com##*
+languang.com##*
+sysceo.cn##*
+kjcenter.com##*
 sk734.com##*
+uc.cn##*
+oofof.com##*
+yp988q0.wang##*
+shop.yipanhaocai.com##*
 tzdsjx.com##*
 shoujiweishi.baidu.com##*
 2345.cc##*
@@ -24,6 +43,7 @@ suzip.com##*
 99box.com##*
 guanjia.qq.com##*
 kuaizip.com##*
+210t.com##*
 flashget.com##*
 baofeng.com##*
 kuai8.com##*
@@ -35,16 +55,26 @@ kuaiwan.com##*
 epochtimes.com##*
 ijinshan.com##*
 ntdtv.com##*
+xinnet.com##*
 pc.rising.com.cn##*
 kp26.net##*
+ccafc.org.cn##*
+hi.com##*
+prgunai.store##*
+eubaiu.xin##*
+58.com##*
 
 ! 第三方下载站
+downcc.com##*
 9upk.com##*
 davinfo.com##*
+iefans.net##*
+51xiazai.cn##*
 downyi.com##*
 vrzhijia.com##*
 jz5u.com##*
 xuetianli.com##*
+softrw.com##*
 xitonghe.com##*
 wywyx.com##*
 xz7.com##*
@@ -122,7 +152,6 @@ appchina.com##*
 skycn.net##*
 qq388.cn##*
 harabox.com##*
-kjcenter.com##*
 somode.com##*
 download.pchome.net##*
 
@@ -132,6 +161,10 @@ hardsextube.com##*
 drtuber.com##*
 one77.app##*
 javdb.com##*
+rsst.xyz##*
+zzzttt.life##*
+668.su##*
+zztt24.com##*
 cfgioa.com##*
 sex.com##*
 theav.xyz##*
@@ -156,15 +189,6 @@ javxxx.me##*
 9xxx.net##*
 javcl.com##*
 bigojav.com##*
-
-! 人血馒头
-ccafc.org.cn##*
-
-! 传销/诈骗
-hi.com##*
-prgunai.store##*
-eubaiu.xin##*
-58.com##*
 
 ! 2021-04-02 https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
@@ -2363,10 +2387,6 @@ pc.qq.com##.footer
 pc.qq.com##.container_12.link
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
 
-! 2022-02-28 http://soft.duba.com
-soft.duba.com##.section
-soft.duba.com##.footer
-
 ! 2022-02-28 https://www.meijucang.com
 www.meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
 www.meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
@@ -3040,17 +3060,6 @@ search.bilibili.com##li.nav-link-item:nth-of-type(8)
 ! 2022-03-14 http://www.xglist.com
 www.xglist.com##.bdshare-button-style0-16.bdsharebuttonbox.action-share
 
-! 2022-03-15 https://www.duba.com
-||www.duba.com/static/images/public/20210507/a50350f292375bacee6377b8a38e1ac6.png_.webp$image
-www.duba.com##li.eve_item:nth-of-type(2)
-www.duba.com##.eve_item_a
-www.duba.com##.elevator_hidden.distance_bottom.m_elevator
-www.duba.com##.no_bottom_border.rec-hot-sale-box.m_hot_rec_box_base
-www.duba.com##div.no_bottom_border.m_hot_rec_box_base:nth-of-type(3)
-www.duba.com##.no_bottom_border.m_rec_game.m_hot_rec_box_base
-www.duba.com##.no_bottom_border.top_corner.rec_hot.m_hot_rec_box_base
-www.duba.com##li.eve_item:nth-of-type(1)
-
 ! 2022-03-16 http://dict.cn
 dict.cn###dshared
 ||i1.haidii.com/v/1493890436/i1/images/top-download-icon2.png$image
@@ -3192,4 +3201,132 @@ theone.art##.v1-footer-main > div:nth-of-type(2)
 car.yiche.com##.adv10
 car.yiche.com##.adv7
 car.yiche.com##[href="//app.yiche.com/yiche/"]
+
+! 2022-03-18 https://browser.360.cn
+browser.360.cn##.qrCodeWb.qrCode
+browser.360.cn##.qrCodeWx.qrCode
+
+! 2022-03-18 https://www.iplaysoft.com
+www.iplaysoft.com##li > .ipsicon-phone.ipsicon
+www.iplaysoft.com##.elevator > li
+www.iplaysoft.com###sidebar_scroll_box > .popWxgzh
+www.iplaysoft.com###sidebar_scroll_wb
+
+! 2022-03-18 https://www.73508.com
+www.73508.com###xh_index_footzc
+
+! 2022-03-18 https://www.xiaomiyoupin.com
+www.xiaomiyoupin.com##.fixed-nav > li:nth-of-type(2)
+www.xiaomiyoupin.com##.fixed-nav > li:nth-of-type(3)
+www.xiaomiyoupin.com##.fixed-nav > li:nth-of-type(4)
+
+! 2022-03-18 https://www.mi.com
+www.mi.com##.follow
+www.mi.com###J_siteDownloadApp
+www.mi.com##span.sep:nth-of-type(11)
+www.mi.com##.item-image.item
+
+! 2022-03-18 https://www.huawei.com
+www.huawei.com##.list-unstyled.share-box
+
+! 2022-03-18 https://consumer.huawei.com
+consumer.huawei.com##.huawei-bootom-cookie
+consumer.huawei.com##.col-md-6.col-xl-4.contact__block
+
+! 2022-03-18 https://www.360.cn
+www.360.cn##.topbnr
+||p.ssl.qhmsg.com/t018e1bdf2122a4b64b.png$image
+www.360.cn##.need_to_fixed.weibo
+www.360.cn##dl.list:nth-of-type(2) > dd.product:nth-of-type(4)
+
+! 2022-03-18 http://v.hao123.baidu.com
+v.hao123.baidu.com##.home
+
+! 2022-03-18 http://v.baidu.com
+v.baidu.com##.bt-mobile
+||video-static.xdcdn.xiaodutv.com/browse_static/v3/common/widget/video/footer/qrcodeimg_ed64b690.png$image
+v.baidu.com##.link
+
+! 2022-03-18 https://tv.sohu.com
+tv.sohu.com##.hd-login-float
+tv.sohu.com##.extend.mod
+tv.sohu.com##.join_vipnew.js-by-vip.join_vip
+
+! 2022-03-18 https://haokan.baidu.com
+haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
+
+! 2022-03-18 https://v.cctv.com
+v.cctv.com##.download
+v.cctv.com##.leftBar
+
+! 2022-03-18 https://www.ixigua.com
+www.ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
+www.ixigua.com##div.BU-FixedGroup__block:nth-of-type(3)
+
+! 2022-03-18 http://tv.people.com.cn
+||tv.people.com.cn/img/MAIN/2018/09/118648/images/icon06.png$image
+tv.people.com.cn##.right_nav p
+||tv.people.com.cn/NMediaFile/2021/0115/MAIN202101151554060081723137032.png$image
+
+! 2022-03-18 https://www.huya.com
+www.huya.com###download-pc-btn
+www.huya.com##.jump-to-phone
+www.huya.com##.share-entrance
+
+! 2022-03-18 https://aq.huya.com
+aq.huya.com##.udb-wrap
+
+! 2022-03-18 https://www.huya.com
+www.huya.com###UDBSdkLgn-box
+www.huya.com###UDBSdkLgn-mask
+||a.msstatic.com/huya/h5player/room/2203151016/src/img/output/tip-bg-left.png$image
+www.huya.com###UDBSdkLgn
+www.huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
+
+! 2022-03-18 https://www.zhibo8.cc
+www.zhibo8.cc##.pop-autoapp
+www.zhibo8.cc##.new_ch
+
+! 2022-03-18 https://www.douyu.com
+www.douyu.com##.Header-download-wrap
+||sta-op.douyucdn.cn/nggsys/2022/03/16/3d7826d84fb1527cc12906db56cbbd9b.jpg$image
+www.douyu.com##.is-appDown.RightNavigate-icon
+www.douyu.com##li.RightNavigate-item:nth-of-type(2)
+www.douyu.com##li.RightNavigate-item > [href^="/client"]
+www.douyu.com##.HeaderGif-left
+www.douyu.com##.HeaderGif-right
+
+! 2022-03-18 https://www.qcc.com
+www.qcc.com##.header-qrcode.dropdown.nav-item
+www.qcc.com##.banner-icon
+www.qcc.com##a.should-popover.item:nth-of-type(2)
+www.qcc.com##a.should-popover.item:nth-of-type(3)
+
+! 2022-03-18 https://aiqicha.baidu.com
+aiqicha.baidu.com##.ivu-poptip.app-qrcode-poptip.poptip-wrap
+aiqicha.baidu.com##[src="https://xinpub.bj.bcebos.com/aiqicha/wenjuan-f2.png"]
+aiqicha.baidu.com##.aqc-home-float-wrapper
+aiqicha.baidu.com##.show-mark.mark
+
+! 2022-03-18 https://pan.baidu.com
+pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(4)
+
+! 2022-03-19 https://www.huajiao.com
+www.huajiao.com##.js-dl-box.download-box
+www.huajiao.com###download-qrcode
+www.huajiao.com##.pos-top-1.entry-icon
+www.huajiao.com##.js-download-pc.pos-top-2.entry-icon
+www.huajiao.com##li.item:nth-of-type(8)
+
+! 2022-03-19 https://cc.163.com
+cc.163.com##.browser-zoom-tips
+cc.163.com##.browser-zoom-tips-bgCon
+cc.163.com###download
+||cc.res.netease.com/_next/static/images/index/index-3.5335.png$image
+
+! 2022-03-19 https://www.chinaz.com
+www.chinaz.com##.footer-bottom > .block-container > .block-inner__between > .cloumn-right
+
+! 2022-03-19 http://bbs.tianya.cn
+bbs.tianya.cn##.scroll-btn
 
