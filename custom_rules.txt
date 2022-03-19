@@ -157,6 +157,8 @@ download.pchome.net##*
 
 ! 色情低俗
 madou.club##*
+javday.tv##*
+ydan.cc##*
 hardsextube.com##*
 drtuber.com##*
 one77.app##*
@@ -3329,4 +3331,78 @@ www.chinaz.com##.footer-bottom > .block-container > .block-inner__between > .clo
 
 ! 2022-03-19 http://bbs.tianya.cn
 bbs.tianya.cn##.scroll-btn
+
+! 2022-03-19 https://123.sogou.com
+123.sogou.com##.m.m-nav > .cf > li > .tg
+
+! 2022-03-19 https://www.qq.com
+www.qq.com##.side
+
+! 2022-03-19 https://www.amap.com
+www.amap.com##.app-download-panel
+www.amap.com##.usel.amap-app-download
+
+! 2022-03-19 https://www.doc88.com
+www.doc88.com##.columns-us
+www.doc88.com##li:nth-of-type(4)
+www.doc88.com##.header-func > .wrapper > ul > li:nth-of-type(2)
+
+! 2022-03-19 https://news.sina.com.cn
+news.sina.com.cn##.side-btns-2w
+||i3.sinaimg.cn/dy/sinatag/btn_addfav_news.png$image
+news.sina.com.cn##.cNavLive
+news.sina.com.cn###blk_cNav1_01 > .cNavLinks
+
+! 2022-03-19 https://news.cctv.com
+news.cctv.com##.cur.silde > .right_text > .share
+news.cctv.com##.xinwen18886_iphonesee01
+news.cctv.com##.bottom > .share
+
+! 2022-03-19 https://www.chinanews.com.cn
+||i8.chinanews.com.cn/2014/hwbz/images/ewm.jpg$image
+www.chinanews.com.cn##.index_layerul [href="/app/chinanews/index.shtml"]
+www.chinanews.com.cn##.index_layerul > li
+www.chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-select
+www.chinanews.com.cn##li.division:nth-of-type(1)
+
+! 2022-03-19 https://www.ip138.com
+www.ip138.com##.mod-news.module
+www.ip138.com##.mod-friendlink.module
+
+! 2022-03-19 http://ip.yqie.com
+ip.yqie.com###navigationtopleft > .navigationlink
+ip.yqie.com##.bdshare-slide-style-r2.bdshare-slide-button-box
+
+! 2022-03-19 https://tool.lu
+tool.lu###facebox
+tool.lu##.facebox_overlayBG.facebox_hide
+tool.lu##.js-share-bar
+tool.lu###t_fixed
+
+! 2022-03-19 http://www.cip.cc
+||cpu.baidu.com/block/wap/275555091/93607?source=http%3A%2F%2Fwww.cip.cc%2F&title=IP%E6%9F%A5%E8%AF%A2%20-%20%E6%9F%A5IP(www.cip.cc)&keywords=IP%2C%20%E6%9F%A5IP%2C%20IP%E6%9F%A5%E8%AF%A2&$subdocument
+
+! 2022-03-19 https://portableapps.com
+portableapps.com##.region-header.region > .block-block.block
+
+! 2022-03-19 https://manga.bilibili.com
+manga.bilibili.com##.app-button.download-app
+manga.bilibili.com##.app.app-button.back-to-button
+
+! 2022-03-19 https://ydan.cc
+ydan.cc###bulletin_pop__content
+ydan.cc###bulletin_pop__wrapper
+ydan.cc##.portal-nav
+
+! 2022-03-19 https://www.nunuyy10.top
+www.nunuyy10.top##.clearfix.article-actions
+
+! 2022-03-19 http://www.woliakan.com
+www.woliakan.com##.clearfix.stui-extra
+
+! 2022-03-19 https://tw.appledaily.com
+tw.appledaily.com##.social-container-BRCZHDC23BDYZPOQ2JHQFZIBHI.flex--justify-end.flex--align.flex.absolute.undefined.tw-desktop-social_container
+tw.appledaily.com###div-GDPR-message
+tw.appledaily.com##.member-campaign
+tw.appledaily.com##.social-container-BRCZHDC23BDYZPOQ2JHQFZIBHI.box--hidden-sm.vertical.tw-desktop-social_container
 
