@@ -12,6 +12,7 @@
 > - ### 屏蔽`网页弹窗`
 > - ### 屏蔽`装机联盟`网页
 > - ### 屏蔽`钓鱼链接`网页
+> - ### 屏蔽`反智媒体`网页
 > - ### 屏蔽[`色情低俗`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)网页
 > - ### 屏蔽[`人血馒头`](https://cf-ipfs.com/ipfs/Qmej7aJQE7P9has29qegQ3snE11Jz8JVVGbjjZsb5KgmwK)网页
 > - ### 屏蔽[`传销诈骗`](https://cf-ipfs.com/ipfs/QmZgeDWhQfeUaDA7TCqeovXoGgCAA6kaEKy1tDvoswLV65)网页
