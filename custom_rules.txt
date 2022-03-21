@@ -324,11 +324,9 @@ m.baidu.com##.banners
 m.baidu.com##.news-container
 www.baidu.com###hotsearch-content-wrapper
 www.baidu.com##.s-hotsearch-title
-www.baidu.com##div:nth-of-type(6)
 news.baidu.com###share
 image.baidu.com##.boxBanner
 www.baidu.com##.app_mobile_ex._8naka.c-container
-www.baidu.com##div.result.c-result:nth-of-type(9)
 m.baidu.com##div.result.c-result:nth-of-type(2)
 m.baidu.com##.card._1_KgV._8naka.c-container
 m.baidu.com##div.result.c-result:nth-of-type(4)
