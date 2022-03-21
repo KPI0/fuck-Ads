@@ -341,11 +341,6 @@ m.baidu.com##div.result.c-result:nth-of-type(5)
 m.baidu.com##.c-blocka.c-invoke-class > .c-img-wrapper > .c-img-radius-br.c-img-radius-bl.c-img-radius-tr.c-img-radius-tl.c-img-s.c-img-item.c-img
 m.baidu.com##div.result.c-result:nth-of-type(8)
 www.baidu.com##._1_KgV.card._8naka.c-container
-www.baidu.com##div.result.c-result:nth-of-type(3)
-www.baidu.com##div.result.c-result:nth-of-type(5)
-www.baidu.com##div.result.c-result:nth-of-type(7)
-www.baidu.com##div.result.c-result:nth-of-type(4)
-www.baidu.com##div.result.c-result:nth-of-type(8)
 ||pos.baidu.com/s$subdocument
 
 ! https://pan.baidu.com
@@ -564,6 +559,7 @@ m.bilibili.com##.m-home-float-openapp
 m.bilibili.com##.m-nav-openapp.launch-app-btn
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-main-img
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
+t.bilibili.com##li.nav-link-item:nth-of-type(8)
 
 ! https://v.qq.com
 v.qq.com##.svg_icon_client.svg_quick_icon
@@ -1923,7 +1919,6 @@ edu.youth.cn##div:nth-of-type(12)
 edu.youth.cn##.jctj
 edu.youth.cn##.main_r
 
-
 ! http://www.qstheory.cn
 www.qstheory.cn##.hidden-xs.xl_ewm
 www.qstheory.cn##.hidden-xs.col-md-12 > span
@@ -2455,7 +2450,6 @@ hao.360.com##.plane-bd [href="https://go.360.cn/"]
 ||hao1.qhimg.com/t01c7482186d291c85e.png$image
 ||hao1.qhimg.com/t01c7482186d291c85e.png$image
 hao.360.com##.plane-bd > li
-
 
 ! https://www.yszzq.com
 www.yszzq.com##.date
