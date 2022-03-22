@@ -283,6 +283,7 @@ baike.baidu.com##[href^="/wapui/subpage/baikeappdownload"]
 baike.baidu.com##.share-list
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
 baike.baidu.com##._4txvhmc
+baike.baidu.com##.topA
 
 ! https://haokan.baidu.com
 haokan.baidu.com##.download-hover.link-item > .link
@@ -297,6 +298,14 @@ haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.player-pause-code
 haokan.baidu.com##.follow-btn
 haokan.baidu.com##.about
+
+! https://b2b.baidu.com
+b2b.baidu.com##div.item > .wrap
+b2b.baidu.com##.bottom > div.item:nth-of-type(1)
+b2b.baidu.com##.footer-right-item
+
+! https://jia.baidu.com
+jia.baidu.com##.service-entry-qrcode.service-entry-item
 
 ! https://fanyi.baidu.com
 fanyi.baidu.com##.desktop-guide-inner
@@ -327,7 +336,6 @@ zhidao.baidu.com##.wgt-footer-new
 xueshu.baidu.com##.paper-banner-img
 easylearn.baidu.com##.member-guide > .container
 easylearn.baidu.com##.member-guide
-b2b.baidu.com##.footer-right-item
 passport.baidu.com##[src="https://passport.baidu.com/export/app/img/qrcode_0812.png"]
 passport.baidu.com##.qrcode-download
 xueshu.baidu.com##.gj.pagefoot
@@ -350,6 +358,7 @@ haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
 news.baidu.com###share
 image.baidu.com##.boxBanner
 ||pos.baidu.com/s$subdocument
+mbd.baidu.com##.erweima
 
 ! https://pan.baidu.com
 pan.baidu.com##.g-clearfix.wp-side-options
@@ -724,7 +733,6 @@ pc.qq.com##.category-wrap
 ||pc2.gtimg.com/softmgr/picture/v3/subject/781f1a3558604f3369a814dd7fef0cc9.png$image
 pc.qq.com###J_banmgrbox
 mp.v.qq.com##.container___3IFD3
-book.km.com##a[href^="http://wpa.qq.com/msgrd"]:nth-of-type(1)
 chuangshi.qq.com##.fixedRight.codeWrap
 chuangshi.qq.com##.favorite
 ||img1.chuangshi.qq.com/chuangshi/p1/ico/quickLink.png$image
@@ -978,7 +986,7 @@ max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
 max.book118.com##.mqrcode > [href="javascript:;"] > span
 max.book118.com##.service-shop
 
-! 2022-03-19 http://www.360lvse.com
+! http://www.360lvse.com
 www.360lvse.com##.mgg
 www.360lvse.com###box
 www.360lvse.com##.layui-carousel
@@ -990,7 +998,7 @@ www.360lvse.com##div.banner:nth-of-type(6)
 
 ! https://www.doc88.com
 ||www.doc88.com/upload/image/indexpage/ad1582701550.png$image
-||www.doc88.com/upload/image/indexpage/ad1582701570.png$image! 2021-04-26 https://www.doc88.com
+||www.doc88.com/upload/image/indexpage/ad1582701570.png$image
 ||www.doc88.com//resources/images/reading/daoke300.jpg$image
 ||www.doc88.com//resources/images/reading/daoke300.jpg$image
 ||www.doc88.com//resources/images/reading/298@1x.jpg$image
@@ -1092,6 +1100,13 @@ www.91wenmi.com###footer
 www.91wenmi.com##[href="https://www.91wenmi.com/xiezuo/#rt"]
 
 ! http://blog.sina.com.cn
+news.sina.com.cn##.tool-wb.tool-icon
+news.sina.com.cn##.tool-wx.tool-icon
+news.sina.com.cn##.tool-share.tool-icon
+news.sina.com.cn##.tab-related-fixed.tab-related
+news.sina.com.cn##.tab_related_app_imglink
+finance.sina.com.cn##.zc-app-btn.right-bar-btn
+finance.sina.com.cn##.clearfix.blk-zcapp
 blog.sina.com.cn##.clearfix.share-pannel
 blog.sina.com.cn##.share-title
 k.sina.com.cn##.tab_related_app_imglink
@@ -1121,6 +1136,12 @@ tech.sina.com.cn##.notInPad.page-tools
 sports.sina.cn##a.ft_cm_nav_a:nth-of-type(3)
 sports.2008.sina.com.cn##.tiyu__icon
 sports.2008.sina.com.cn##.download
+t.cj.sina.com.cn##.tool-wx.tool-icon
+t.cj.sina.com.cn##[href^="http://service.weibo.com/share/share.php"]
+t.cj.sina.com.cn##.tool-share.tool-icon > [href="javascript:;"]
+t.cj.sina.com.cn##.hdlink3
+t.cj.sina.com.cn##.tab_related_app_imglink
+t.cj.sina.com.cn##.m-erweima-blk
 
 ! https://app.mi.com
 ||app.mi.com/assets/img/wx-qrcode.5fb29d5a.png$image
@@ -1198,6 +1219,7 @@ www.duyou8.com##.arcfu_btn
 wap.pai-hang-bang.com##.foot
 
 ! https://k.sina.cn
+news.sina.cn##.j_shareBtn.fl_words_ic
 k.sina.cn##.qweasd.sw_c0
 k.sina.cn##.an.j_callST.callApp_fl_btn
 k.sina.cn##.s_card.art_t
@@ -1410,14 +1432,14 @@ www.shuaji.net##.footer-box-left
 www.shuaji.net##.footer-box
 www.shuaji.net##.footer-container
 
-! 2022-03-19 http://bukaivip1.com
-bukaivip1.com##.layui-layer-dialog.layui-layer
+! http://bukaivip1.com
 ||p.qlogo.cn/hy_personal/3e28f14aa0516842762173de5b7298aca20420766a05124863e506259f623b1f/0.jpg$image
 bukaivip1.com##[src="https://aod.cos.tx.xmcdn.com/storages/237c-audiofreehighqps/27/4B/GMCoOSQF5nDsAAaQlQEZULR4.png"]
 bukaivip1.com##.open-share > .icon-share.iconfont.icon
 bukaivip1.com##.open-share
 bukaivip1.com##.copylink.btn-default.btn
 bukaivip1.com##.more-btn > li:nth-of-type(3)
+bukaivip1.com##.layui-layer-dialog.layui-layer
 
 ! http://www.bangxuetang.com
 www.bangxuetang.com##.admod
@@ -1425,11 +1447,6 @@ www.bangxuetang.com##.admod
 ! http://www.qingdaonews.com
 www.qingdaonews.com##.bdshare-button-style0-32.bdsharebuttonbox
 www.qingdaonews.com##[src="../../../images/68342.files/64090bp.jpg"]
-
-! https://juejin.cn
-juejin.cn##.extension > .link
-juejin.cn##.extension
-juejin.cn##[src="//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/1024.714fcaa.png"]
 
 ! https://www.hxcpp73.com
 www.hxcpp73.com##.active.text
@@ -1690,9 +1707,6 @@ www.mbachina.com##.suspend-right > ul
 ! http://news.ittime.com.cn
 news.ittime.com.cn##.login
 news.ittime.com.cn##.share_box
-
-! https://www.qianzhan.com
-www.qianzhan.com##.p10.bgf1
 
 ! https://www.jiemian.com
 www.jiemian.com##.download
@@ -2394,6 +2408,7 @@ www.dazhuanlan.com##div.card:nth-of-type(2)
 book.km.com##.tools-item > [href^="/index.php"]
 book.km.com##a[href="javascript:;"]:nth-of-type(3)
 book.km.com##.btn_A.btnHook
+book.km.com##a[href^="http://wpa.qq.com/msgrd"]:nth-of-type(1)
 
 ! http://www.zongheng.com
 ||rcode.zongheng.com/v2018/images/phone.png$image
@@ -2430,6 +2445,9 @@ www.cnblogs.com###green_channel_weibo
 juejin.cn##.panel-btn.share-btn
 juejin.cn##.app-link
 juejin.cn##.download-icon.link-item.nav-item
+juejin.cn##.extension > .link
+juejin.cn##.extension
+juejin.cn##[src="//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/1024.714fcaa.png"]
 
 ! https://www.qidian.com
 www.qidian.com##li.nav-li:nth-of-type(9)
@@ -2461,15 +2479,13 @@ hao.360.com##.plane-bd > li
 ! https://www.yszzq.com
 www.yszzq.com##.date
 
-! https://www.chongdiantou.com
-www.chongdiantou.com##.mt-md-4.mt-3.footer-widget-social
-www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share > span
-www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share
-
 ! https://www.aisaohuo.com
 www.aisaohuo.com##.mt-md-4.mt-3.footer-widget-social
 
 ! https://www.chongdiantou.com
+www.chongdiantou.com##.mt-md-4.mt-3.footer-widget-social
+www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share > span
+www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share
 www.chongdiantou.com##.size-full.attachment-full.wp-image-121974.image
 www.chongdiantou.com##.widget_search.card.widget
 ||chongdiantou-images.oss-cn-shenzhen.aliyuncs.com/wp-content/uploads/2022/01/2022011614465092*.jpg$image
@@ -2481,29 +2497,27 @@ www.chongdiantou.com##.widget_search.card.widget
 www.ithome.com##.sideweixin.sfa
 www.ithome.com##.app.sfa
 www.ithome.com##div.mt:nth-of-type(2) > .l
+www.ithome.com##.so.mt > .s
+www.ithome.com###down
+www.ithome.com##.shareto
 
 ! https://www.lapin365.com
 www.lapin365.com##.container
 www.lapin365.com##.app.member > [href="//m.lapin365.com/apps.htm"]
 www.lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 
-! https://www.ithome.com
-www.ithome.com##.so.mt > .s
-www.ithome.com###down
-www.ithome.com##.shareto
-
 ! https://www.lulian.cn
 www.lulian.cn##.met-editor > .social-box
 
 ! https://it.huangye88.com
+it.huangye88.com##.sma
 it.huangye88.com##.none > p
 ||static.huangye88.cn/images/cathp/1/scyz1_114.jpg$image
-it.huangye88.com##.sma
 
 ! https://re.1688.com
+re.1688.com##.mobile
 re.1688.com##.leadLoginModal
 ||cbu01.alicdn.com/cms/upload/homepage/alibar/alibar.png$image
-re.1688.com##.mobile
 
 ! https://www.1688.com
 www.1688.com##.active.section-bottom
@@ -2517,8 +2531,8 @@ tmioe.com##.share.info-item
 
 ! https://masuit.com
 ||masuit.com/static/images/ufbtvlhrxszk.jpg$image
-masuit.com###ujl6j5sefq4h > .panel-info.panel > .panel-heading
 ||gd2.alicdn.com/imgextra/i3/2206799812/O1CN01SL9dnG2MLwtnDOKCN_!!2206799812.jpg_400x400.jpg$image
+masuit.com###ujl6j5sefq4h > .panel-info.panel > .panel-heading
 masuit.com###ujl6j5sefq4g > .panel-info.panel > .panel-heading
 masuit.com###ujl6j5sefq4g
 masuit.com###ujl6j5sefq4h > .panel-info.panel > .panel-body
@@ -2631,6 +2645,7 @@ jiema.wwei.cn##div.all-client:nth-of-type(2)
 jiema.wwei.cn##div.all-client:nth-of-type(1)
 jiema.wwei.cn##.sidebar_jump
 jiema.wwei.cn##.sidebar-client-box.sidebar-block
+jiema.wwei.cn###go-fav
 www.wwei.cn##div.all-client:nth-of-type(4)
 www.wwei.cn###go-fav
 www.wwei.cn##[href="//app.wwei.cn/"]
@@ -2638,7 +2653,6 @@ www.wwei.cn##div.all-client:nth-of-type(2)
 www.wwei.cn##div.all-client:nth-of-type(1)
 www.wwei.cn##.sidebar-client-box.sidebar-block
 bianji.wwei.cn##.sidebar-client-box.sidebar-block
-jiema.wwei.cn###go-fav
 
 ! http://free-proxy.cz
 free-proxy.cz##.social-likes_visible.social-likes
@@ -2730,7 +2744,7 @@ www.02516.com##.mcol
 ||www.02516.com/template/skin19_4_20100527_2/js/public4/rebuild/images/loading.gif$image
 ||www.02516.com/template/skin19_4_20100527_2/js/public4/rebuild/images/theme/icon-rokect.png$image
 
-! 2022-03-18 http://www.99114.com
+! http://www.99114.com
 www.99114.com##.cgtcode > span
 
 ! https://www.chinaz.com
@@ -2738,6 +2752,10 @@ www.chinaz.com##.medialink-wrapper.section.cloumn-bd
 www.chinaz.com##.article-right-sidebar > .cloumn-bd__minp.media-banner_auto.cloumn-bd
 www.chinaz.com##.media-banner__box > .cloumn-bd__minp.media-banner_auto.cloumn-bd
 www.chinaz.com##.footer-bottom > .block-container > .block-inner__between > .cloumn-right
+www.chinaz.com##.easing.nav-notice
+www.chinaz.com###RYBCWjTZaX
+www.chinaz.com##li.single-mode:nth-of-type(1)
+www.chinaz.com##.single-mode__media.single-mode
 
 ! http://www.3721dh.com
 www.3721dh.com###extra > .column
@@ -2775,9 +2793,9 @@ www.toutiao.com##.feedback.tool-item
 www.toutiao.com##[href="//app.toutiao.com/news_article/"]
 www.toutiao.com##.add-to-desktop-wrapper
 www.tiatiatoutiao.com##[src="/uploads/allimg/190427/1-1Z42F0444U55.png"]
-||www.tiatiatoutiao.com/templets/crjwz@qq1845609988/assets/images/to_top_v2.png$image
 www.tiatiatoutiao.com###J_shoucang
 www.tiatiatoutiao.com##.show_go_1
+||www.tiatiatoutiao.com/templets/crjwz@qq1845609988/assets/images/to_top_v2.png$image
 
 ! http://www.51hei.com
 www.51hei.com##.topbar_dot > [href="#"]
@@ -2848,10 +2866,8 @@ theory.people.com.cn##.ol_bg.clearfix
 www.huya.com###download-pc-btn
 www.huya.com##.jump-to-phone
 www.huya.com##.share-entrance
-aq.huya.com##.udb-wrap
 www.huya.com###UDBSdkLgn-box
 www.huya.com###UDBSdkLgn-mask
-||a.msstatic.com/huya/h5player/room/2203151016/src/img/output/tip-bg-left.png$image
 www.huya.com###UDBSdkLgn
 www.huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 www.huya.com##a.nav-item--XUUXqbSUAscPL7VU5EnMq:nth-of-type(1)
@@ -2859,6 +2875,8 @@ www.huya.com##.huya-footer_other
 www.huya.com##.huya-footer_prod
 www.huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu.NavItem--1jr9x80QTPbnrDwqn834hF > .NavItemHd--2wLWYTR1ZfjTu8cSXnazpz
 v-api-plus.huya.com##.hy-nav-download.hy-nav-right > .hy-nav-title
+aq.huya.com##.udb-wrap
+||a.msstatic.com/huya/h5player/room/2203151016/src/img/output/tip-bg-left.png$image
 
 ! https://www.zhibo8.cc
 www.zhibo8.cc##.pop-autoapp
@@ -3003,4 +3021,72 @@ www.tmtpost.com##.app_btn_float.app_btn
 
 ! https://www.patreon.com
 www.patreon.com##.bottomLeft__3ZFPD.root__1VdHR
+
+! https://www.rfa.org
+www.rfa.org###storytoptools
+
+! https://www.lapeople.com
+www.lapeople.com##.index-channel-fixed.index-channel.pull-left
+www.lapeople.com##.pane-box
+www.lapeople.com##a.tb-link.register-mp:nth-of-type(2)
+
+! https://science.caixin.com
+science.caixin.com##.share_tool
+science.caixin.com##.fenghui_code
+science.caixin.com##.rssBox > dl
+science.caixin.com##.rssBox > ul
+
+! https://www.eet-china.com
+www.eet-china.com##.channel-list-seat
+www.eet-china.com##section:nth-of-type(27)
+www.eet-china.com##section:nth-of-type(26)
+www.eet-china.com##.hidden-xs.sidebar-code
+mbb.eet-china.com##.site-follow
+
+! https://wap.peopleapp.com
+wap.peopleapp.com##.public-btn-wrapper
+wap.peopleapp.com##.read-more-btm
+wap.peopleapp.com##.article-container > div > div > .top-header > .m-open-btn
+
+! https://www.te.com.cn
+www.te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
+www.te.com.cn##.we-chat-wrapper
+
+! https://wiki.mbalib.com
+wiki.mbalib.com###rqCodeBtn
+
+! https://www.stcn.com
+www.stcn.com##.top_r
+www.stcn.com##.yw_ewm
+www.stcn.com##.adv
+
+! https://www.qianzhan.com
+www.qianzhan.com##li:nth-of-type(8)
+www.qianzhan.com##.jjxr-box
+www.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
+www.qianzhan.com##.mt30.pb10.clf > .mt20.clf > .r
+www.qianzhan.com##.p10.bgf1
+
+! http://www.china10.org
+www.china10.org##.bdshare-slide-style-r2.bdshare-slide-button-box
+
+! https://www.maigoo.com
+www.maigoo.com##.articlesharebox
+www.maigoo.com##.fff.share.goitem
+
+! http://www.geekpark.net
+www.geekpark.net##.tools-erweima.tools-item
+www.geekpark.net##.down
+www.geekpark.net##.contact > div
+
+! http://www.znjj.tv
+www.znjj.tv##.left-welcom
+www.znjj.tv##.index-bottom-ly
+www.znjj.tv##.sharebg
+www.znjj.tv##.kf_box
+www.znjj.tv##.qqcen_lf
+www.znjj.tv##.headlines_qr
+
+! https://www.zhuangku.com
+www.zhuangku.com##.service-fixed
 
