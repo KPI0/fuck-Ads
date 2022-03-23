@@ -5,7 +5,7 @@
 ----
 # uBlock Origin_custom rules  
 ## uBlock Origin_自定义静态规则  
-### 自定义静态规则作用范围
+# 自定义静态规则作用范围
 [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://www.360.cn/)
 
 > - ### 屏蔽`网页广告`
@@ -69,7 +69,7 @@
 
 ----
 
-# 推荐几个 <img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
+## 推荐几个 <img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
 
 *我用过的规则不多，还有好多我不知道的，可以把你觉得好用的规则推荐出来。根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好只是也许，但同时占用设备的资源也越多，会拖慢网页打开速度。建议使用插件默认勾选的就足够日常使用了，没有屏蔽掉的广告或碍眼的元素可以自己选择手动屏蔽。如果网页打开错误只需在该网站临时禁用再刷新网页即可正常访问。*
 
