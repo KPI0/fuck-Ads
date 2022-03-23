@@ -35,6 +35,7 @@
 *除以上列举的几点外还屏蔽了网页某些不必要的元素，极大简化网页。*  
 *某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*
 
+![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/kk.png)
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
