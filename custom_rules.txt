@@ -254,6 +254,7 @@ www.baidu.com##.s-hotsearch-title
 www.baidu.com##.app_mobile_ex._8naka.c-container
 www.baidu.com##._1_KgV.card._8naka.c-container
 www.baidu.com##.c-gap-top.op-guide-cont
+www.baidu.com###wenda_inquiry
 
 ! https://aiqicha.baidu.com
 aiqicha.baidu.com##.show.content
@@ -279,6 +280,8 @@ m.baidu.com##._1_KgV._8naka.c-container > footer
 m.baidu.com##div.result.c-result:nth-of-type(5)
 m.baidu.com##.c-blocka.c-invoke-class > .c-img-wrapper > .c-img-radius-br.c-img-radius-bl.c-img-radius-tr.c-img-radius-tl.c-img-s.c-img-item.c-img
 m.baidu.com##div.result.c-result:nth-of-type(8)
+m.baidu.com##.vid-monitor-card__3zFRO > div:nth-of-type(2)
+m.baidu.com##.vid-monitor-card__3zFRO
 
 ! https://baike.baidu.com
 baike.baidu.com##[href^="/wapui/subpage/baikeappdownload"]
@@ -431,6 +434,8 @@ tieba.baidu.com##.u-f-w > .clearfix
 tieba.baidu.com##.left-cont-fixed.left-cont-wraper
 tieba.baidu.com##.left-cont-wraper
 tieba.baidu.com##.app_download_box.aside_region
+tieba.baidu.com##.open-app
+tieba.baidu.com##.nav-bar-bottom
 
 ! https://wenku.baidu.com
 wenku.baidu.com##a:nth-of-type(3)
@@ -572,6 +577,7 @@ www.bilibili.com##.share-info
 www.bilibili.com##.download-entry > span
 www.bilibili.com##.download-entry__icon > path
 www.bilibili.com##.download-entry__icon
+www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 account.bilibili.com##.footer_right
 account.bilibili.com##.international-footer
 passport.bilibili.com##.right.block
@@ -650,6 +656,7 @@ v.qq.com##.mood_dislike
 v.qq.com##._player_helper.player_helper
 ||vfiles.gtimg.cn/vupload/20210415/8fd2df1618490939221.png$image
 m.v.qq.com##.site-top__open-app
+m.v.qq.com##.at-app-banner__content
 m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn > span
 ||vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png$image
 m.v.qq.com##[src="//vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png"]
@@ -808,6 +815,7 @@ m.iqiyi.com##.vip-marketing.m-iqylink-guide
 m.iqiyi.com##.m-videoUserSpace-two.m-videoUser-spacing
 m.iqiyi.com##.qibabu-banner.m-banner-pop
 m.iqiyi.com##.m-iqylink-guide
+m.iqiyi.com##.iqyGuide-content
 ||pic2.iqiyipic.com/common/lego/20180803/49751bff3e7f46ac85c699dc56e560e4.png$image
 ||www.iqiyipic.com/common/fix/site-v4/classes-logo-big-open20200720.png$image
 ||www.iqiyipic.com/common/fix/site-v4/play/pca-pc-bg-20200605@2x.png$image
@@ -867,9 +875,23 @@ tv.sohu.com##.hd-fBox-ifox.hd-fBox > .hd-fBtn
 tv.sohu.com##.hd-fBox-app.hd-fBox > .hd-fBtn
 ||statics.itc.cn/sohu-homepage/oldright.png$image
 
+! https://m.tv.sohu.com
+m.tv.sohu.com##.btn-xz-app
+m.tv.sohu.com##.btn-share
+m.tv.sohu.com##.btn-dl
+m.tv.sohu.com##.btn-720p
+m.tv.sohu.com##.js-oper-pos
+
 ! https://bbs.csdn.net
+download.csdn.net##.m_toolbar_left_app_btn
+download.csdn.net##li > [href^="//www.csdn.net/apps/download"]
+csdn.net##.openApp
 csdn.net##.no—h.option-box
 csdn.net##.so-questionnaire
+blog.csdn.net###wap_open_app_btn
+blog.csdn.net##.btn_open_app_prompt_item
+blog.csdn.net##.operate_share_box
+blog.csdn.net##.floatL.operate_common.operate_share.share-btn
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
 blog.csdn.net##.logo-advert-back
@@ -880,8 +902,15 @@ blog.csdn.net###kp_box_blog_cont > .template-title
 blog.csdn.net###kp_box_blog_cont
 blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 blog.csdn.net###asideNewNps
+blog.csdn.net##.guide-box
+blog.csdn.net##.wap-shadowbox.weixin-shadowbox
+blog.csdn.net##.feed-Sign-span
+blog.csdn.net##li > [href^="//www.csdn.net/apps/download"]
+blog.csdn.net##.m_toolbar_left_app_btn
 www.csdn.net###nps-box
 www.csdn.net##.kp_bos_swiper.broadcast-active
+www.csdn.net##.m_toolbar_left_app_btn
+www.csdn.net##li > [href^="//www.csdn.net/apps/download"]
 
 ! https://www.douban.com
 www.douban.com##.lnk-doubanapp
@@ -951,6 +980,7 @@ m.youku.com##.h5-detail-guide.clipboard
 youku.com##.ad-banner-wrapper
 youku.com###download_btn
 youku.com##.callEnd_fixed_box
+youku.com##.callEnd_box
 
 ! http://www.yhdm.io
 www.yhdm.io##.bdshare-button-style0-16.l.bdsharebuttonbox
@@ -1378,31 +1408,33 @@ qb.zuoyebang.com##.moreDialog_22C9t.Dialog_3O1fy
 
 ! https://zhiyou.smzdm.com
 zhiyou.smzdm.com##.z-clearfix.footer-inner
+zhiyou.smzdm.com###elevator > li > span
 ||qneimg.smzdm.com/202112/22/61c2c4878120c6202.jpg_f600.jpg$image
 ||qneimg.smzdm.com/202112/22/61c2c4878120c6202.jpg_f600.jpg$image
 ||qneimg.smzdm.com/202112/2*/61c*.jpg_f600.jpg$image
+||v.smtcdns.net^$domain=www.douyu.com
+||p2p.huya.com^$domain=www.huya.com
+||lxdns.com^$domain=www.panda.tv
+||res.smzdm.com/resources/public/img/pc_global/qrcode.png$image
 www.smzdm.com##.slick-active.slick-current.slick-slide.slick-pic
 www.smzdm.com##.side-slick-wrap
 www.smzdm.com##.share_app_icon
 www.smzdm.com##.slick-dotted.slick-slider.slick-initialized.banner-slick.J_slick > .draggable.slick-list
 www.smzdm.com##.slick-dotted.slick-slider.slick-initialized.banner-slick.J_slick
-||res.smzdm.com/resources/public/img/pc_global/qrcode.png$image
+www.smzdm.com###index-elevator > li > span
+www.smzdm.com##.J_index_elevator
+www.smzdm.com##.qrcode > svg > image
+www.smzdm.com##.qrcode > svg
+www.smzdm.com##.footer-floating-layer
 search.smzdm.com###subscribes
 search.smzdm.com##.z-clearfix.footer-inner
 search.smzdm.com##.J_feedback.search-feedback
-||v.smtcdns.net^$domain=www.douyu.com
-||p2p.huya.com^$domain=www.huya.com
-||lxdns.com^$domain=www.panda.tv
-www.smzdm.com###index-elevator > li > span
-www.smzdm.com##.J_index_elevator
-zhiyou.smzdm.com###elevator > li > span
 post.smzdm.com##.qrcode
 post.smzdm.com##.J_common_shares.left-share
 post.smzdm.com###elevator > li:nth-of-type(1) > span
 post.smzdm.com###elevator > li:nth-of-type(1)
-www.smzdm.com##.qrcode > svg > image
-www.smzdm.com##.qrcode > svg
-www.smzdm.com##.footer-floating-layer
+m.smzdm.com##[href^="https://app.smzdm.com/xiazai/"]
+m.smzdm.com##.footer-banner
 
 ! https://jingfen.jd.com
 jingfen.jd.com##.box-link
@@ -1471,6 +1503,9 @@ bbs.pku.edu.cn##.share.right
 ! https://www.guancha.cn
 www.guancha.cn##.share-box-2.fl.share-box
 www.guancha.cn##div.share > span
+user.guancha.cn##.swiper-slide-active.swiper-slide > .go-to-app.g_flexBox
+user.guancha.cn##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container
+user.guancha.cn##.g_swiper_container
 
 ! http://www.haoword.com
 www.haoword.com##.consult-list
@@ -1680,6 +1715,7 @@ www.xiaohongshu.com##.bottom-fixed.bottom-info
 www.xiaohongshu.com##.all-tip > .pop-over.pop-over-container > .download-app
 www.xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 www.xiaohongshu.com##.middle-wrapper
+www.xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 
 ! https://www.zhiwu300.com
 www.zhiwu300.com##.xshare
@@ -2185,9 +2221,12 @@ www.oneplusbbs.com##[href="plugin-apk_download.html"]
 www.oneplusbbs.com##.foot
 
 ! https://www.zhihu.com
+www.zhihu.com##.MobileAppHeader-downloadLink
+www.zhihu.com##.css-cazai8.OpenInApp.OpenInAppButton
 www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.Footer
 zhuanlan.zhihu.com##.ContentItem-actions > .ShareMenu.Popover
+zhuanlan.zhihu.com##.css-v91ii.OpenInAppButton
 
 ! https://bbs.tianya.cn
 bbs.tianya.cn###barcode_float > [href="http://www.tianya.cn/mobile/"]
@@ -2242,6 +2281,10 @@ cq.ganji.com##[href="//www.ganji.com/download"]
 ! https://www.kugou.com
 www.kugou.com###productCenter
 www.kugou.com##.download
+m.kugou.com##.foot-launchApp
+m.kugou.com##.ploading-done
+m.kugou.com##div.s4rs_d1:nth-of-type(1)
+m.kugou.com##.openAppBtn1
 ||staticssl.kugou.com/public/root/images/pc.png$image
 ||staticssl.kugou.com/public/root/images/mac.png$image
 ||staticssl.kugou.com/public/root/images/andriod.png$image
@@ -2254,6 +2297,7 @@ www.kuwo.cn##.foot_tit > p:nth-of-type(1)
 www.kuwo.cn##.windows.item
 www.kuwo.cn##li.item:nth-of-type(4)
 www.kuwo.cn##.android.item
+m.kuwo.cn##.flexbody
 
 ! https://www.meijucang.com
 www.meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
@@ -2326,7 +2370,7 @@ m.4399.cn##.cn-mt10.cn-app_download
 ! http://www.sci-hub.ren
 www.sci-hub.ren###share
 
-! https://tech.ifeng.com
+! https://ifeng.com
 ||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
 ||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
 tech.ifeng.com##.share_box-1HbOUEQZ > .share_box-29at7jsG
@@ -2334,6 +2378,18 @@ tech.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG
 tech.ifeng.com##.qr_box-1n_2SIw3
 i.ifeng.com##.share_box-1HbOUEQZ > .share_box-29at7jsG > .share_bar-2X6NjzAR
 i.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG > .share_bar-2X6NjzAR
+i.ifeng.com##.pageBottomBrand-3sabCTsz
+i.ifeng.com##.link-1xGgkMtk
+i.ifeng.com##.shareIcon-17ZpqlJH
+i.ifeng.com##.box-2slP90hx
+i.ifeng.com##.share_box-1CcYKLvP
+news.ifeng.com##.bottom_box-2ABrMRcu
+news.ifeng.com##.link-1xGgkMtk
+news.ifeng.com##.share_box-1CcYKLvP
+wap.yc.ifeng.com##.down17-float
+wap.yc.ifeng.com##.desc
+wap.yc.ifeng.com##.toper > .openapp
+wap.yc.ifeng.com##.img
 
 ! https://www.1kkk.com
 www.1kkk.com##[href="/download/"]
@@ -2676,6 +2732,7 @@ free-proxy.cz##.social-likes_visible.social-likes
 ! https://blog.51cto.com
 blog.51cto.com##.inner > ul > .share > strong
 blog.51cto.com##.action-box > ul > .share > strong
+blog.51cto.com##.shareBtn.common-operationbtn
 
 ! https://wosn.net
 wosn.net##.fadeInUp.wow.feed.widget
@@ -2819,6 +2876,8 @@ www.tiatiatoutiao.com##[src="/uploads/allimg/190427/1-1Z42F0444U55.png"]
 www.tiatiatoutiao.com###J_shoucang
 www.tiatiatoutiao.com##.show_go_1
 ||www.tiatiatoutiao.com/templets/crjwz@qq1845609988/assets/images/to_top_v2.png$image
+m.toutiao.com###top-banner-container-1648038047365
+m.toutiao.com##.download-bar__container
 
 ! http://www.51hei.com
 www.51hei.com##.topbar_dot > [href="#"]
@@ -3021,6 +3080,7 @@ www.youzan.com##.clue-components-form-list__item--active.clue-components-form-li
 www.youzan.com###resource-package
 
 ! http://www.cu518.com
+www.cu518.com##canvas
 www.cu518.com##[href="https://maoyun.jomay.cc"]
 www.cu518.com##.copylink
 www.cu518.com###cf_alert_div
@@ -3154,3 +3214,8 @@ smarthome.qianjia.com##.clearfix.welcome-join.mod
 ! https://www.fibaro.com
 www.fibaro.com###cookie-info
 
+! http://www.chinavideos.net
+www.chinavideos.net##[src^="https://2.sqmom.cn/vurvrtzaf?bni%.Z_&mjn%b_&in%S-..aZda&x1%-YY.cZcadb&x2%-d_Y_Z_cba&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.cebbYce&ry%-cZDYdeC-.d98YbY&ih%-&ifn%Z&fsy%Z&unx%6ZV6Z&uxx%.Z_V.dZ_&ux%Z_c.VY&uwty%_&yuw%Zb.cebbYce-Yb&jhi%Z&jcux%ZZY_"]
+www.chinavideos.net##[src^="https://2.sqmom.cn/uvgwgpfa?bni%.Z_&mjn%b_&in%S-..bbe.&x1%-_ZYa..d-b&x2%c_eZbc-Y_&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.cebbZYe&ry%acee9_CeCa8-De9.&ih%-&jhi%Z&ufw%.Z_Vde_&uwty%_&inx%Y&iyr%myrq5utxy&ux%Zc.Y75_-dYedZ..a-Z_VY&uxn%8d_.8-.ZBabDb"]
+||2.sqmom.cn/xfjmqsbkrl?bni%.Z_&mjn%b_&in%S-..aZda&x1%Z_-_Y_cZYY&x2%-dabYc.ad&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.cebbZ_b&ry%Y_BB-Zd_dadcCDCC&ih%-&uwty%_&unx%6ZV6Z&iwn%Y&uhx%.Z_Vcde&jcux%ZZY_ac,ZZYYYe,ZZZYYZ,ZZYYZZ&jhi%Z&fwn%_&ku%a8.d.-dYCAeceD9-cYZZ.AbDCB-Ya8Cc&inx%Y&uxx%.Z_V.dZ_&uxn%.9Da9YeY-ZZ9_.A.&fsy%Z&hjh%zyk6d&ifn%Z&iyr%myrq5utxy&ufw%.Z_Vde_&yuw%Zb.cebbZ_b_bY&ux%Z_c-75bbbbdcYZZcZddVY&swt=1$subdocument
+||2.sqmom.cn/*?bni%.Z_&mjn%b_&in%S-*&x1%*&x2%*&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.ce*&ry%*&ih%-&*ku%a8.d.-dYCAeceD9-cYZZ.AbDCB-Ya8Cc&*&swt=1$subdocument
