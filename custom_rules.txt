@@ -64,6 +64,7 @@ hi.com##*
 prgunai.store##*
 eubaiu.xin##*
 58.com##*
+m.qq.com##*
 
 ! 第三方下载站
 downcc.com##*
@@ -252,6 +253,7 @@ www.baidu.com###hotsearch-content-wrapper
 www.baidu.com##.s-hotsearch-title
 www.baidu.com##.app_mobile_ex._8naka.c-container
 www.baidu.com##._1_KgV.card._8naka.c-container
+www.baidu.com##.c-gap-top.op-guide-cont
 
 ! https://aiqicha.baidu.com
 aiqicha.baidu.com##.show.content
@@ -361,6 +363,8 @@ image.baidu.com##.boxBanner
 mbd.baidu.com##.erweima
 
 ! https://pan.baidu.com
+pan.baidu.com##.nd-operate-guidance__body
+pan.baidu.com##.nd-operate-guidance__mask
 pan.baidu.com##.g-clearfix.wp-side-options
 pan.baidu.com##.app-download
 pan.baidu.com##.BHgeMdb
@@ -386,6 +390,9 @@ pan.baidu.com##.operate-guide-img
 eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##[href^="https://eyun.baidu.com/enterprise/product"]
 eyun.baidu.com##.g-clearfix.app-list
+
+! https://photo.baidu.com
+photo.baidu.com##.yk-side__footer
 
 ! https://tieba.baidu.com
 ||tb2.bdstatic.com/tb/static-pcommon/widget/aside_float_bar/images/icon_fbar_down_32100c3.png$image
@@ -426,6 +433,8 @@ tieba.baidu.com##.left-cont-wraper
 tieba.baidu.com##.app_download_box.aside_region
 
 ! https://wenku.baidu.com
+wenku.baidu.com##a:nth-of-type(3)
+wenku.baidu.com##.tip-text
 wenku.baidu.com##.client-download-content
 wenku.baidu.com##.vip-activity-content
 wenku.baidu.com##a:nth-of-type(4)
@@ -546,6 +555,7 @@ yun.139.com##.down_explain_div_span
 
 ! https://bilibili.com
 live.bilibili.com##.f-right.footer-right
+space.bilibili.com##li.nav-link-item:nth-of-type(8)
 www.bilibili.com##.app-download-link
 www.bilibili.com##.share-btn.share-container
 www.bilibili.com##.share-box
@@ -2021,6 +2031,10 @@ www.speedtest.cn##.tisubtn
 www.speedtest.cn##.wrap > .title
 www.speedtest.cn##.speed-app-list
 www.speedtest.cn##.swiper-view
+www.speedtest.cn###speedUpNotice
+www.speedtest.cn##.menu-close
+www.speedtest.cn##.topDownload
+www.speedtest.cn##li.nav-enterprise-service.nav-item:nth-of-type(3) > .nav-item-link
 
 ! https://www.o8tv.com
 www.o8tv.com##div.pcad.clearfix.myui-panel-bg.myui-panel:nth-of-type(3)
@@ -2173,6 +2187,7 @@ www.oneplusbbs.com##.foot
 ! https://www.zhihu.com
 www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.Footer
+zhuanlan.zhihu.com##.ContentItem-actions > .ShareMenu.Popover
 
 ! https://bbs.tianya.cn
 bbs.tianya.cn###barcode_float > [href="http://www.tianya.cn/mobile/"]
@@ -2197,6 +2212,7 @@ www.elecfans.com##[src="https://skin.elecfans.com/images/new_ad_01.jpg"]
 www.elecfans.com###new_ad > [href^="https://dfm.elecfans.com/"]
 www.elecfans.com##.mian_jifen
 www.elecfans.com##.site_qrcode
+www.elecfans.com###new_ad
 
 ! https://time.is
 ||time.is/img/app_store_badge/Download_on_the_App_Store_Badge_CN_135x40.svg$image
@@ -2683,18 +2699,25 @@ www.mydigit.cn##a[href^="plugin.php"]:nth-of-type(7)
 www.mydigit.cn##.z > [href="javascript:;"]
 www.mydigit.cn##.z > [href="https://www.mydigit.cn/"]
 
-! https://finance.eastmoney.com
-finance.eastmoney.com##.aboutctrl
-finance.eastmoney.com##.emsider_qrli
-finance.eastmoney.com##.emsider_bot > li
-finance.eastmoney.com##.emsiderbar
-finance.eastmoney.com###sharebottom > .emshare2020.pull-right.share > .emshare2020_buttonbox
-finance.eastmoney.com###guanzhu
-guba.eastmoney.com##.emshare2020_buttonbox
-quote.eastmoney.com##[href="https://acttg.eastmoney.com/pub/pctg_hskh_act_gfcgrj_01_01_01_0"]
-quote.eastmoney.com##li > .d
-quote.eastmoney.com##[href="http://wap.eastmoney.com/"]
-quote.eastmoney.com##li > .c
+! https://eastmoney.com
+||g1.dfcfw.com/g2/201607/20160725145137.png$image
+eastmoney.com##.emshare2020.pull-right.share
+eastmoney.com##a.sitemap:nth-of-type(1)
+eastmoney.com###addfavlink
+eastmoney.com##div.wz5.down-menu:nth-of-type(1)
+eastmoney.com##.intellcont
+eastmoney.com##a.sitemap:nth-of-type(1)
+eastmoney.com##.aboutctrl
+eastmoney.com##.emsider_qrli
+eastmoney.com##.emsider_bot > li
+eastmoney.com##.emsiderbar
+eastmoney.com###sharebottom > .emshare2020.pull-right.share > .emshare2020_buttonbox
+eastmoney.com###guanzhu
+eastmoney.com##.emshare2020_buttonbox
+eastmoney.com##[href="https://acttg.eastmoney.com/pub/pctg_hskh_act_gfcgrj_01_01_01_0"]
+eastmoney.com##li > .d
+eastmoney.com##[href="http://wap.eastmoney.com/"]
+eastmoney.com##li > .c
 
 ! http://www.huacy.cn
 www.huacy.cn##div.right-card:nth-of-type(1)
@@ -3066,6 +3089,8 @@ www.qianzhan.com##.jjxr-box
 www.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 www.qianzhan.com##.mt30.pb10.clf > .mt20.clf > .r
 www.qianzhan.com##.p10.bgf1
+bg.qianzhan.com##.rpt-des-new.rpt-des-r > p:nth-of-type(3)
+bg.qianzhan.com##.qqonline
 
 ! http://www.china10.org
 www.china10.org##.bdshare-slide-style-r2.bdshare-slide-button-box
@@ -3089,4 +3114,43 @@ www.znjj.tv##.headlines_qr
 
 ! https://www.zhuangku.com
 www.zhuangku.com##.service-fixed
+
+! https://h5.ubanquan.cn
+h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
+
+! https://tool.cncn.com
+tool.cncn.com##[src="https://s.cncnimg.cn/images/a/2019/heyuan930x90_20190402.jpg"]
+tool.cncn.com##.qr_code
+tool.cncn.com##.fr.share_bd
+tool.cncn.com##.ewm
+
+! https://www.sensorexpert.com.cn
+www.sensorexpert.com.cn##.postbird-box-dialog > .postbird-box-content
+www.sensorexpert.com.cn##.wexinSao.postbird-box-container
+www.sensorexpert.com.cn##.active.postbird-box-container
+www.sensorexpert.com.cn##.detail-do > .clearfix
+
+! https://www.11467.com
+www.11467.com##div > .navright
+www.11467.com###erweimadiv
+
+! http://shzpmc.chinacrane.net
+shzpmc.chinacrane.net###top > a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(1)
+shzpmc.chinacrane.net##a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(2)
+
+! https://www.tuya.com
+www.tuya.com###consent_blackbar
+
+! http://www.qianjia.com
+www.qianjia.com##.article-share
+www.qianjia.com##.fixed-nav
+www.qianjia.com##p:nth-of-type(4)
+www.qianjia.com##.f-mt30.app
+www.qianjia.com##.flexslider
+smarthome.qianjia.com##.tool-share
+smarthome.qianjia.com##p.MsoNormal:nth-of-type(16)
+smarthome.qianjia.com##.clearfix.welcome-join.mod
+
+! https://www.fibaro.com
+www.fibaro.com###cookie-info
 
