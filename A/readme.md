@@ -13,6 +13,8 @@
 > - ### 屏蔽`客户端下载`元素
 > - ### 屏蔽`微博微信关注`元素
 
+# 规则订阅链接
+
 - jsDelivr 更新延迟24h
 ```
   https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/A/custom_rules_A.txt
