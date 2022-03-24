@@ -4,7 +4,7 @@
 > > - ### 支持此扩展程序的手机浏览器：            [Kiwi](https://kiwibrowser.com/)、               [Firefox](https://www.firefox.com.cn/)、             [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)
 ----
 # uBlock Origin_custom rules  
-## uBlock Origin_自定义静态规则  
+### uBlock Origin_自定义静态规则  
 # 自定义静态规则作用范围
 [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://www.360.cn/)
 
