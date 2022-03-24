@@ -65,6 +65,8 @@ prgunai.store##*
 eubaiu.xin##*
 58.com##*
 m.qq.com##*
+sem6.cc##*
+sushiguang.com##*
 
 ! 第三方下载站
 downcc.com##*
@@ -605,6 +607,12 @@ film.qq.com##.site_footer
 film.qq.com##.icon_download.icon
 film.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
 
+! https://xw.qq.com
+xw.qq.com##.btn-small.share.item.jsx-2005580460
+xw.qq.com##.btn-small.wechat.item.jsx-2005580460
+xw.qq.com##.shareA.jsx-3819145385
+xw.qq.com##.channel-entry.jsx-2375966888
+
 ! https://ac.qq.com
 ac.qq.com##[href="//m.ac.qq.com/event/downloadForPc/index.html"] > span
 ac.qq.com###sideComCodeWrap > [href="javascript:void(0)"]
@@ -884,6 +892,10 @@ m.tv.sohu.com##.btn-share
 m.tv.sohu.com##.btn-dl
 m.tv.sohu.com##.btn-720p
 m.tv.sohu.com##.js-oper-pos
+
+! https://m.sohu.com
+m.sohu.com##.reply-opare__share.reply-opare__a
+m.sohu.com###weChatShare
 
 ! https://bbs.csdn.net
 download.csdn.net##.m_toolbar_left_app_btn
@@ -1341,6 +1353,9 @@ www.jianshu.com##._1F7CTF
 www.jianshu.com##._1fDw5l._2VdqdF
 www.jianshu.com##.P63n6G
 www.jianshu.com##.download-btn
+www.jianshu.com##.call-app-btn
+www.jianshu.com##.app-open
+www.jianshu.com##.header-download
 
 ! https://www.mingyantong.com
 www.mingyantong.com###jushare
@@ -2899,6 +2914,10 @@ www.ixigua.com##li.siteHeader__textBtn > div
 www.ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
 www.ixigua.com##div.BU-FixedGroup__block:nth-of-type(3)
 
+! https://m.ixigua.com
+m.ixigua.com##.xigua-download
+m.ixigua.com##.xigua-guide-button
+
 ! http://tv.people.com.cn
 ||tv.people.com.cn/img/MAIN/2018/09/118648/images/icon06.png$image
 ||tv.people.com.cn/NMediaFile/2021/0115/MAIN202101151554060081723137032.png$image
@@ -3188,3 +3207,23 @@ www.chinavideos.net##[src^="https://2.sqmom.cn/uvgwgpfa?bni%.Z_&mjn%b_&in%S-..bb
 ||2.sqmom.cn/xfjmqsbkrl?bni%.Z_&mjn%b_&in%S-..aZda&x1%Z_-_Y_cZYY&x2%-dabYc.ad&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.cebbZ_b&ry%Y_BB-Zd_dadcCDCC&ih%-&uwty%_&unx%6ZV6Z&iwn%Y&uhx%.Z_Vcde&jcux%ZZY_ac,ZZYYYe,ZZZYYZ,ZZYYZZ&jhi%Z&fwn%_&ku%a8.d.-dYCAeceD9-cYZZ.AbDCB-Ya8Cc&inx%Y&uxx%.Z_V.dZ_&uxn%.9Da9YeY-ZZ9_.A.&fsy%Z&hjh%zyk6d&ifn%Z&iyr%myrq5utxy&ufw%.Z_Vde_&yuw%Zb.cebbZ_b_bY&ux%Z_c-75bbbbdcYZZcZddVY&swt=1$subdocument
 ||2.sqmom.cn/*?bni%.Z_&mjn%b_&in%S-*&x1%*&x2%*&qyz%FRRN7-f7_k7_kUUU75AFGL8TGBCMQ75LCR7_kU8N7_k&yw%Zb.ce*&ry%*&ih%-&*ku%a8.d.-dYCAeceD9-cYZZ.AbDCB-Ya8Cc&*&swt=1$subdocument
 
+! https://wap.bixiabook.com
+wap.bixiabook.com###duoyxferci
+wap.bixiabook.com##ul
+wap.bixiabook.com##.an.callApp_fl_btn
+wap.bixiabook.com##.zbtqbqzdn1648110344 > div
+wap.bixiabook.com##.sw_sp.m_f_a
+wap.bixiabook.com##dd > div
+wap.bixiabook.com##.look_more_a
+wap.bixiabook.com##.dllivy1648110394 > div
+wap.bixiabook.com##[src="https://p.oysmbaw.cn/JCn03wOf17MIJ16159MzH55348.dl"]
+wap.bixiabook.com###baseHeight
+wap.bixiabook.com##.gtydijc1648110480 > div
+||p.oysmbaw.cn/*.dl$image
+
+! https://www.shangyexinzhi.com
+www.shangyexinzhi.com##.advert.h5-detail-bottom-advertise
+www.shangyexinzhi.com##.h5shareimg
+
+! http://m.china.com.cn
+m.china.com.cn##.fx
