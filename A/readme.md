@@ -18,7 +18,7 @@
 
 - jsDelivr 更新延迟24h
 ```
-  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules_A.txt
+  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/A/custom_rules_A.txt
 ``` 
 - GitHub   更新延迟<1h
 ```
@@ -26,9 +26,9 @@
 ```
 - Gitee    更新延迟<1h
 ```
-   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules_A.txt
+   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/A/custom_rules_A.txt
 ```
 - fastgit  更新延迟24h
 ```
-  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules_A.txt
+  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt
 ```
