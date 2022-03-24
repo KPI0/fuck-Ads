@@ -9,14 +9,6 @@
 
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
-> - ### 屏蔽`装机联盟`网页
-> - ### 屏蔽`钓鱼链接`网页
-> - ### 屏蔽`反智媒体`网页
-> - ### 屏蔽[`色情低俗`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)网页
-> - ### 屏蔽[`人血馒头`](https://cf-ipfs.com/ipfs/Qmej7aJQE7P9has29qegQ3snE11Jz8JVVGbjjZsb5KgmwK)网页
-> - ### 屏蔽[`传销诈骗`](https://cf-ipfs.com/ipfs/QmZgeDWhQfeUaDA7TCqeovXoGgCAA6kaEKy1tDvoswLV65)网页
-> - ### 屏蔽[`流氓软件`](https://cf-ipfs.com/ipfs/QmaaXLhcypYdQ4g117oRpCctbiWRYQYFVV3dqbMqfe55Ue)网页
-> - ### 屏蔽[`盗版山寨软件`](https://cf-ipfs.com/ipfs/QmPub6q98z2NNJPEoimSLsJByQNxt2Yii3C2e9P3s3bb2j)网页
 > - ### 屏蔽`二维码`元素
 > - ### 屏蔽`打开APP`元素
 > - ### 屏蔽`放到桌面`元素
