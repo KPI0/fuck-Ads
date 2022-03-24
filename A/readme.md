@@ -1,7 +1,4 @@
-# uBlock Origin_custom rules  
-## uBlock Origin_自定义静态规则  
 # 自定义静态规则作用范围
-
 
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
