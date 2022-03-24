@@ -34,7 +34,7 @@
 *某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*  
 *某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站禁用广告拦截。*
 
-### 考虑到部分用户不需要严格的过滤，新增一个规则集 [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/csm.png" width="50px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
+### 考虑到部分用户不需要严格的过滤，新增一个规则集 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/csm.png)](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
 # 参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽不会弹出选择，只是打开网页一片白*
