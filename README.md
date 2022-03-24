@@ -36,7 +36,7 @@
 
 ### 考虑到部分用户不需要严格的过滤，新增一个规则集[传送门](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
 # 参考
-### 左图为关闭屏蔽，右图为开启屏蔽
+### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽不会弹出选择，只是打开网页一片白*
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/kk.png)
 # 使用方法
