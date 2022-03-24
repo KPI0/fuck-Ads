@@ -6,7 +6,7 @@
 # uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
 # 自定义静态规则作用范围
-[<img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://www.360.cn/)
+[<img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="350px" />](https://www.360.cn/)
 
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
