@@ -1524,6 +1524,11 @@ www.sis.pku.edu.cn##.bdshare-button-style0-32.bdsharebuttonbox
 ! https://www.guancha.cn
 www.guancha.cn##.share-box-2.fl.share-box
 www.guancha.cn##div.share > span
+www.guancha.cn##.header-index-app
+www.guancha.cn##.Share_button_renren
+www.guancha.cn##.Share_button_tsina
+www.guancha.cn##.Share_button_weixin
+www.guancha.cn##.Share_button_favorite
 user.guancha.cn##.swiper-slide-active.swiper-slide > .go-to-app.g_flexBox
 user.guancha.cn##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container
 user.guancha.cn##.g_swiper_container
@@ -2146,6 +2151,9 @@ union.ctfile.com##.header_line
 ! https://homenew.console.aliyun.com
 homenew.console.aliyun.com##.widget-aliyun-app
 homenew.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
+
+! https://home.console.aliyun.com
+home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
 
 ! https://www.tianyancha.com
 www.tianyancha.com###tyc_banner_left
@@ -3227,3 +3235,38 @@ www.shangyexinzhi.com##.h5shareimg
 
 ! http://m.china.com.cn
 m.china.com.cn##.fx
+
+! https://699pic.com
+699pic.com##.login.bg2.springtime-floatLink1034.springtime-floatLink > [href]
+699pic.com##.login.bg2.springtime-floatLink1034.springtime-floatLink
+699pic.com##.fl.way
+699pic.com##.clearfix.collection > i.fl
+
+! https://huaban.com
+huaban.com##.ant-tooltip-inner
+huaban.com##.ant-tooltip-arrow-content
+
+! https://m.jinse.com
+m.jinse.com##.js-footer__tools
+m.jinse.com##.js-article-share
+m.jinse.com##.bottom.js-linkApp.js-read-full__open
+m.jinse.com##.js-head-advertising
+m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
+
+! https://113123.xyz
+113123.xyz##.article-fx
+
+! https://www.aha-music.com
+www.aha-music.com##cloudflare-app
+aha-music.com##.ckcontent
+
+! https://www.deezer.com
+www.deezer.com##.page-alerts
+
+! https://jishuin.proginn.com
+jishuin.proginn.com##.social-share-wrap.panel-default.panel
+jishuin.proginn.com##p:nth-of-type(12)
+jishuin.proginn.com##p:nth-of-type(13)
+jishuin.proginn.com##section:nth-of-type(3)
+jishuin.proginn.com##section:nth-of-type(4)
