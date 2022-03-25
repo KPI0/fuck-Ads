@@ -1113,6 +1113,9 @@ qikan.cqvip.com##[href^="/Qikan/WebControl/AppIntroduce"]
 ! https://mall.cnki.net
 mall.cnki.net##.last.downloadApp
 
+! https://web02.cnki.net
+web02.cnki.net##[href="https://inks.cnki.net"]
+
 ! http://www.39.net
 www.39.net##ul.tabb.artRimgli.artRbox:nth-of-type(1)
 www.39.net##.con_right
@@ -1683,8 +1686,6 @@ www.jswvip.net##.clearfix
 www.jswvip.net##.ishare.share-component
 www.jswvip.net##.weixin.bt-box
 www.jswvip.net##.theiaStickySidebar
-console.cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
-cloud.tencent.com##.pls-footer-website-contact-view
 ||www.jswvip.net/zb_users/theme/mxlee/style/images/background-top.jpg$image
 ||www.jswvip.net/zb_users/theme/mxlee/style/images/background-top.jpg$image
 ||www.jswvip.net/zb_users/upload/2021/12/20211204011623163855178345858.gif$image
@@ -2048,6 +2049,8 @@ www.elecfans.com###new_ad > [href^="https://dfm.elecfans.com/"]
 www.elecfans.com##.mian_jifen
 www.elecfans.com##.site_qrcode
 www.elecfans.com###new_ad
+www.elecfans.com##.clearfix.m-share-layout.art-share-layout.article-info > .fr.bdsharebuttonbox
+www.elecfans.com###shareAddPcb > .clearfix > .fr.bdsharebuttonbox
 
 ! https://time.is
 ||time.is/img/app_store_badge/Download_on_the_App_Store_Badge_CN_135x40.svg$image
@@ -3072,3 +3075,29 @@ jishuin.proginn.com##p:nth-of-type(12)
 jishuin.proginn.com##p:nth-of-type(13)
 jishuin.proginn.com##section:nth-of-type(3)
 jishuin.proginn.com##section:nth-of-type(4)
+
+! https://www.newiot.com
+www.newiot.com###ggxc
+
+! https://www.canva.cn
+www.canva.cn##.jv5LaQ
+
+! https://www.secrss.com
+www.secrss.com##.download-app
+www.secrss.com##.qrcode
+
+! http://boyumai.com
+boyumai.com##.fr.fewm
+
+! https://cloud.tencent.com
+cloud.tencent.com##.com-widget-operations
+cloud.tencent.com##.com-widget-global > div
+console.cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
+cloud.tencent.com##.pls-footer-website-contact-view
+
+! https://www.infineon.com
+www.infineon.com##.social-media-wrapper.text-right.col-md-3
+
+! http://www.cww.net.cn
+www.cww.net.cn###share_news
+www.cww.net.cn###share
