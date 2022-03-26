@@ -102,6 +102,7 @@ baike.baidu.com##.topA
 ! https://haokan.baidu.com
 haokan.baidu.com##.download-hover.link-item > .link
 haokan.baidu.com##.download-hover.link-item
+haokan.baidu.com##.navigation-download
 haokan.baidu.com##li.link-item:nth-of-type(1)
 haokan.baidu.com##li.link-item:nth-of-type(3)
 haokan.baidu.com##.videoinfo-share
@@ -401,6 +402,11 @@ m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
 t.bilibili.com##.notice-panel
 
+! https://a.app.qq.com
+a.app.qq.com##.main-download-btn
+a.app.qq.com##.app-tag-panel
+a.app.qq.com##.yyb-safe-text
+
 ! https://film.qq.com
 film.qq.com###pc_client > .quick_link > .quick_text
 film.qq.com##.icon_client.icon
@@ -443,6 +449,24 @@ exmail.qq.com##.td_userInfo
 exmail.qq.com##.today_bd.rounded3.today_titlebar_bg.msg_info
 exmail.qq.com##body > .clr
 
+! https://m.v.qq.com
+m.v.qq.com##.at-app-banner__layer
+m.v.qq.com##.site-top__open-app
+m.v.qq.com##.at-app-banner__content
+m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn > span
+m.v.qq.com##[src="//vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png"]
+m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn
+m.v.qq.com##.mod_game_rec.mod_box
+m.v.qq.com##.mod_privilege
+m.v.qq.com##.mod_source_box_fixed.mod_source_box
+m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.v.qq.com##.tvp_app_banner
+m.v.qq.com##.js_open_app.btn_user_hd
+m.v.qq.com##.mod_source
+m.v.qq.com##.btn_sharpness
+m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
+m.v.qq.com##.btn_download
+
 ! https://v.qq.com
 v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com###pc_client > .quick_link
@@ -467,23 +491,8 @@ v.qq.com##.mood_dislike
 v.qq.com##._player_helper.player_helper
 ||puui.qpic.cn/vupload/0/20190708_9h1ffex3prf/0$image
 ||puui.qpic.cn/vupload/0/20190708_*/0$image
-m.v.qq.com##.site-top__open-app
-m.v.qq.com##.at-app-banner__content
-m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn > span
 ||vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png$image
 ||vfiles.gtimg.cn/vupload/20210415/8fd2df1618490939221.png$image
-m.v.qq.com##[src="//vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png"]
-m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn
-m.v.qq.com##.mod_game_rec.mod_box
-m.v.qq.com##.mod_privilege
-m.v.qq.com##.mod_source_box_fixed.mod_source_box
-m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
-m.v.qq.com##.tvp_app_banner
-m.v.qq.com##.js_open_app.btn_user_hd
-m.v.qq.com##.mod_source
-m.v.qq.com##.btn_sharpness
-m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
-m.v.qq.com##.btn_download
 book.qq.com##.fr.headQrCode
 book.qq.com##li.navNormal.authority:nth-of-type(2)
 book.qq.com##.recSiteWrap
@@ -613,6 +622,15 @@ so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-game.qy-svgicon
 so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
+||pic2.iqiyipic.com/common/lego/20180803/49751bff3e7f46ac85c699dc56e560e4.png$image
+||www.iqiyipic.com/common/fix/site-v4/classes-logo-big-open20200720.png$image
+||www.iqiyipic.com/common/fix/site-v4/play/pca-pc-bg-20200605@2x.png$image
+||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
+||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
+||static-s.iqiyi.com/common/20201125/qiyue2.0/25/f2/523670ca9db5490ebb72bc501f1fe1245463045906107138077.png$image
+||www.iqiyipic.com/common/fix/h5-aura/banner-new.png$image
+
+! https://m.iqiyi.com
 m.iqiyi.com###app > div > div > div > div > .m-box
 m.iqiyi.com##div.video-action-btn:nth-of-type(2)
 m.iqiyi.com##div.video-action-btn:nth-of-type(3)
@@ -629,13 +647,13 @@ m.iqiyi.com##.m-videoUserSpace-two.m-videoUser-spacing
 m.iqiyi.com##.qibabu-banner.m-banner-pop
 m.iqiyi.com##.m-iqylink-guide
 m.iqiyi.com##.iqyGuide-content
-||pic2.iqiyipic.com/common/lego/20180803/49751bff3e7f46ac85c699dc56e560e4.png$image
-||www.iqiyipic.com/common/fix/site-v4/classes-logo-big-open20200720.png$image
-||www.iqiyipic.com/common/fix/site-v4/play/pca-pc-bg-20200605@2x.png$image
-||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
-||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
-||static-s.iqiyi.com/common/20201125/qiyue2.0/25/f2/523670ca9db5490ebb72bc501f1fe1245463045906107138077.png$image
-||www.iqiyipic.com/common/fix/h5-aura/banner-new.png$image
+m.iqiyi.com##.cover
+m.iqiyi.com##.m-footer
+m.iqiyi.com##div.m-box-borderT.m-box:nth-of-type(4) > .m-box-items-full.m-box-items > a.m-user-base:nth-of-type(1)
+m.iqiyi.com##a.m-user-base:nth-of-type(2)
+m.iqiyi.com##.m-videoUser-spacing
+m.iqiyi.com##.hotWords-wrap
+m.iqiyi.com##div.m-box:nth-of-type(10)
 
 ! https://www.sohu.com
 www.sohu.com##[href^="http://fbp.sohu.com/fbp/problem/essay"]
@@ -2730,6 +2748,7 @@ www.ixigua.com##div.BU-FixedGroup__block:nth-of-type(3)
 ! https://m.ixigua.com
 m.ixigua.com##.xigua-download
 m.ixigua.com##.xigua-guide-button
+m.ixigua.com##.banner_content
 
 ! http://tv.people.com.cn
 ||tv.people.com.cn/img/MAIN/2018/09/118648/images/icon06.png$image
@@ -2951,6 +2970,7 @@ www.qianzhan.com##.mt30.pb10.clf > .mt20.clf > .r
 www.qianzhan.com##.p10.bgf1
 bg.qianzhan.com##.rpt-des-new.rpt-des-r > p:nth-of-type(3)
 bg.qianzhan.com##.qqonline
+bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 
 ! http://www.china10.org
 www.china10.org##.bdshare-slide-style-r2.bdshare-slide-button-box
@@ -3101,3 +3121,36 @@ www.infineon.com##.social-media-wrapper.text-right.col-md-3
 ! http://www.cww.net.cn
 www.cww.net.cn###share_news
 www.cww.net.cn###share
+
+! https://xueqiu.com
+xueqiu.com##.nav__login > .pc__btn--download
+xueqiu.com##.js-shown.widget__download-app--side.widget__download-app
+
+! https://music-pi.vercel.app
+music-pi.vercel.app##.bar-right
+
+! https://nordvpn.com
+nordvpn.com##.cc-color-override--1748216957.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+
+! https://portal.qiniu.com
+portal.qiniu.com##.static-notification
+
+! https://github-wiki-see.page
+github-wiki-see.page###footer_info
+github-wiki-see.page###header_button > p
+github-wiki-see.page###header_info
+
+! http://m.le.com
+m.le.com##.daoliu
+m.le.com##.j-share.ico_share
+m.le.com##.c1648282229522.leapp_btn
+m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
+
+! https://wap.pp.cn
+wap.pp.cn##.pro-ad-pageend
+
+! https://www.36kr.com
+www.36kr.com##.item2.item
+www.36kr.com##.phone
+www.36kr.com##.code
+
