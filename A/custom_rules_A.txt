@@ -1647,6 +1647,13 @@ www.cnki.com.cn##.mobile-link.a05
 www.chinadaily.com.cn##.newtipbox > .floatrgt
 www.chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 
+! https://cn.chinadaily.com.cn
+cn.chinadaily.com.cn##.more
+cn.chinadaily.com.cn##[href="https://www.chinadaily.com.cn/image_e/2020/logo21.jpg"]
+cn.chinadaily.com.cn##.weixinqrcode
+cn.chinadaily.com.cn##.xinf-ri
+cn.chinadaily.com.cn##.lo-bott-one
+
 ! https://www.51miz.com
 www.51miz.com##.new-fixed-button
 
@@ -2763,6 +2770,14 @@ theory.people.com.cn##p.gray:nth-of-type(1)
 theory.people.com.cn##.ol_bg.clearfix
 dangshi.people.com.cn##.bdshare-button-style0-16.bdsharebuttonbox
 
+! http://sh.people.com.cn
+sh.people.com.cn##.section-common-share-wrap.btn_share
+sh.people.com.cn##.btn_follow > span
+sh.people.com.cn##.btn_follow
+sh.people.com.cn##.nav_jia
+sh.people.com.cn##.cf.rm_download.rm_relevant
+sh.people.com.cn##.paper_num
+
 ! https://www.huya.com
 www.huya.com###download-pc-btn
 www.huya.com##.jump-to-phone
@@ -2983,6 +2998,7 @@ www.maigoo.com##.fff.share.goitem
 www.geekpark.net##.tools-erweima.tools-item
 www.geekpark.net##.down
 www.geekpark.net##.contact > div
+www.geekpark.net##article > .share-wrap
 
 ! http://www.znjj.tv
 www.znjj.tv##.left-welcom
@@ -3153,4 +3169,25 @@ wap.pp.cn##.pro-ad-pageend
 www.36kr.com##.item2.item
 www.36kr.com##.phone
 www.36kr.com##.code
+
+! https://www.x-mol.com
+www.x-mol.com##.moquu_wshare_new
+www.x-mol.com##.moquu_wapp_new
+www.x-mol.com##a.space-right-m20.itsmblue:nth-of-type(1)
+
+! https://www.cbndata.com
+www.cbndata.com##.fixed-share
+
+! https://www.iotfen.com
+www.iotfen.com##.share.info-item
+
+! https://rf.eefocus.com
+rf.eefocus.com##div.clearfix:nth-of-type(4)
+rf.eefocus.com##.api-qrcode-panel-show.hidden-xxs.api-qrcode-panel
+
+! http://www.rsdznjj.com
+www.rsdznjj.com##.layout-entry-share
+
+! https://www.kepuchina.cn
+www.kepuchina.cn##.share
 
