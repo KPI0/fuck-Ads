@@ -102,7 +102,7 @@
 
 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
-*规则不定期更新有空就更，如有错误请反馈，欢迎使用！*
+*此拦截规则不定期更新有空就更，如有错误请反馈吐槽，欢迎使用！*
 
 # 目的：网站页面更加干净、清爽、简洁、健康。
 
