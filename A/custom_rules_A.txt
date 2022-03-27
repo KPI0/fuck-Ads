@@ -1,7 +1,7 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules
-! uBlock Origin_自定义静态规则
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
+! Title: uBlock Origin_custom rules_A
+! uBlock Origin_A_自定义静态规则
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! https://sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
