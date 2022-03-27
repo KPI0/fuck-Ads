@@ -5,7 +5,7 @@
 ----
 ## uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
-## 自定义静态规则范围
+# 自定义静态规则范围
 [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://www.360.cn/)
 
 > - ### 屏蔽`网页广告`
@@ -35,11 +35,11 @@
 *某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站禁用广告拦截。*
 
 ### 部分用户不需要严格的过滤，新增一个规则集。传送门 [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="80px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
-## 参考
+# 参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽不会弹出选择，只是打开网页一片白*
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/kk.png)
-## 使用方法
+# 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
 ### 直接复制[custom-rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
@@ -103,5 +103,5 @@
 
 *此规则比较简单，稍微会使用uBlock Origin就知道怎么来的。规则不定期更新，如有错误请反馈。*
 
-## 目的：网站页面更加干净、清爽、简洁、健康。
+# 目的：网站页面更加干净、清爽、简洁、健康。
 
