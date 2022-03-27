@@ -101,7 +101,7 @@
 
 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
-*此规则比较简单，稍微会使用uBlock Origin就知道怎么来的。规则不定期更新，如有错误请反馈。*
+*规则不定期更新有空就更，如有错误请及时反馈，感谢使用！*
 
 # 目的：网站页面更加干净、清爽、简洁、健康。
 
