@@ -34,7 +34,8 @@
 *某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*  
 *某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站禁用广告拦截。*
 
-### 部分用户不需要严格的过滤，新增一个规则集。[传送直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
+### 部分用户不需要严格的过滤，新增一个规则集  uBlock Origin_custom rules_A
+### [传送直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
 
 # 参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
