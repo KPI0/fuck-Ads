@@ -1,6 +1,6 @@
 > # [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/)uBlock Origin
-> > - ### uBlock Origin 扩展程序_源码地址：         [uBlock](https://github.com/gorhill/uBlock/)
-> > - ### uBlock Origin 扩展程序_安装地址：         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
+> > - ## uBlock Origin 扩展程序_源码地址：         [uBlock](https://github.com/gorhill/uBlock/)
+> > - ## uBlock Origin 扩展程序_安装地址：         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                                                             [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > > - ### 支持此扩展程序的手机浏览器：            [Kiwi](https://kiwibrowser.com/)、               [Firefox](https://www.firefox.com.cn/)、             [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)
 ----
 # uBlock Origin_custom rules  
@@ -8,7 +8,7 @@
 # 自定义静态规则范围
 [<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="353px" />](https://www.360.cn/)
 
-> - ### 屏蔽`网页广告`
+> - ## 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
 > - ### 屏蔽`装机联盟`网页
 > - ### 屏蔽`钓鱼链接`网页
