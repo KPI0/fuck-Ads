@@ -69,7 +69,6 @@
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
 
-----
 
 ## 推荐几个 <img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
 
