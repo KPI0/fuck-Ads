@@ -76,7 +76,7 @@
 *我用过的规则不多，还有好多我不知道的，可以把你觉得好用的规则推荐出来。根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好只是也许，但同时占用设备的资源也越多，会拖慢网页打开速度。建议使用插件默认勾选的就足够日常使用了，没有屏蔽掉的广告或碍眼的元素可以自己选择手动屏蔽。如果网页打开错误只需在该网站临时禁用再刷新网页即可正常访问。*
 
 ## 规则推荐清单
-----
+
 > ### [互联网规则集合](https://filterlists.com/)
 ```
   https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
@@ -99,7 +99,6 @@
 ```
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
-----
 
 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
