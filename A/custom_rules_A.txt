@@ -1,7 +1,7 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules_A
-! uBlock Origin_A_自定义静态规则
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
+! Title: uBlock Origin_custom rules
+! uBlock Origin_自定义静态规则
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! https://sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
@@ -977,14 +977,9 @@ www.91wenmi.com##[href="https://www.91wenmi.com/xiezuo/#rt"]
 ! http://blog.sina.com.cn
 blog.sina.com.cn##.clearfix.share-pannel
 blog.sina.com.cn##.share-title
-k.sina.com.cn##.tab_related_app_imglink
 finance.sina.com.cn##.zc-app-btn.right-bar-btn
 finance.sina.com.cn##.clearfix.blk-zcapp
 finance.sina.com.cn##[href^="http://service.weibo.com/share/share.php"]
-finance.sina.com.cn##.tool-wx.tool-icon > [href="javascript:;"]
-finance.sina.com.cn##.tool-share.tool-icon > [href="javascript:;"]
-finance.sina.com.cn##.tool-share.tool-icon
-finance.sina.com.cn##.tool-wx.tool-icon
 finance.sina.com.cn##.sina-client
 finance.sina.com.cn###tab_related_btn
 finance.sina.com.cn##.clearfix.blk-wxfollow
@@ -994,11 +989,7 @@ finance.sina.com.cn##.fapp
 news.sina.com.cn##.side-btns-2w
 news.sina.com.cn##.cNavLive
 news.sina.com.cn###blk_cNav1_01 > .cNavLinks
-news.sina.com.cn##.tool-wb.tool-icon
-news.sina.com.cn##.tool-wx.tool-icon
-news.sina.com.cn##.tool-share.tool-icon
 news.sina.com.cn##.tab-related-fixed.tab-related
-news.sina.com.cn##.tab_related_app_imglink
 www.sina.com.cn##.mod02-cont
 www.sina.com.cn##.selected.clearfix.tit02
 www.sina.com.cn##.part-a-l > div.blank-cont
@@ -1009,14 +1000,14 @@ tech.sina.com.cn##.notInPad.page-tools
 sports.sina.cn##a.ft_cm_nav_a:nth-of-type(3)
 sports.2008.sina.com.cn##.tiyu__icon
 sports.2008.sina.com.cn##.download
-t.cj.sina.com.cn##.tool-wx.tool-icon
-t.cj.sina.com.cn##[href^="http://service.weibo.com/share/share.php"]
-t.cj.sina.com.cn##.tool-share.tool-icon > [href="javascript:;"]
-t.cj.sina.com.cn##.hdlink3
-t.cj.sina.com.cn##.tab_related_app_imglink
-t.cj.sina.com.cn##.m-erweima-blk
 ||n.sinaimg.cn/tech/article2015/main_desktop2.png$image
 ||i3.sinaimg.cn/dy/sinatag/btn_addfav_news.png$image
+
+! http://sina.com.cn
+sina.com.cn##.tool-wb.tool-icon
+sina.com.cn##.tool-share.tool-icon
+sina.com.cn##.tool-wx.tool-icon
+sina.com.cn##.tab_related_app_imglink
 
 ! https://app.mi.com
 ||app.mi.com/assets/img/wx-qrcode.5fb29d5a.png$image
@@ -1092,6 +1083,9 @@ www.duyou8.com##.arcfu_btn
 ! https://wap.pai-hang-bang.com
 ||wap.pai-hang-bang.com/imgs/contact.jpg$image
 wap.pai-hang-bang.com##.foot
+
+! https://sina.cn
+sina.cn##a.ft_down_a:nth-of-type(2)
 
 ! https://k.sina.cn
 news.sina.cn##.j_shareBtn.fl_words_ic
@@ -2555,6 +2549,12 @@ blog.51cto.com##.inner > ul > .share > strong
 blog.51cto.com##.action-box > ul > .share > strong
 blog.51cto.com##.shareBtn.common-operationbtn
 
+! https://www.51cto.com
+www.51cto.com##.share.window-item
+www.51cto.com##.erweima-box
+www.51cto.com##.article-left > .share
+www.51cto.com##.ad-article
+
 ! https://wosn.net
 wosn.net##.fadeInUp.wow.feed.widget
 wosn.net##.s-weixin
@@ -2978,6 +2978,9 @@ www.stcn.com##.yw_ewm
 www.stcn.com##.adv
 
 ! https://www.qianzhan.com
+www.qianzhan.com##.kfonline2
+www.qianzhan.com##.jjxr-app.qz-app
+www.qianzhan.com##a.qz-app:nth-of-type(2)
 www.qianzhan.com##li:nth-of-type(8)
 www.qianzhan.com##.jjxr-box
 www.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
@@ -3007,6 +3010,7 @@ www.znjj.tv##.sharebg
 www.znjj.tv##.kf_box
 www.znjj.tv##.qqcen_lf
 www.znjj.tv##.headlines_qr
+m.znjj.tv##.bdshare-button-style0-24.bdsharebuttonbox.clearfix
 
 ! https://www.zhuangku.com
 www.zhuangku.com##.service-fixed
@@ -3191,3 +3195,40 @@ www.rsdznjj.com##.layout-entry-share
 ! https://www.kepuchina.cn
 www.kepuchina.cn##.share
 
+! https://baike.pcauto.com.cn
+baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
+baike.pcauto.com.cn###JtopshareToole > .share-tit
+
+! https://www.jfdaily.com
+www.jfdaily.com##.xz
+www.jfdaily.com##div.title:nth-of-type(16)
+www.jfdaily.com##div.title:nth-of-type(14)
+www.jfdaily.com##.f_con
+
+! https://www.baikecun.com
+www.baikecun.com###post-45216 > .entry-header > .entry-meta > .custom-share
+www.baikecun.com###post-45216 > .clear.entry-bottom > .custom-share
+www.baikecun.com##.bottom-icon.tooltip.icon-weixin
+www.baikecun.com##.bottom-icon.icon-weibo
+
+! https://www.fabiaoqing.com
+www.fabiaoqing.com##.floatcenter.segment.ui
+
+! https://www.yuque.com
+www.yuque.com##.index-module_qrCodeWrapper_6UwnH
+
+! http://www.21jingji.com
+www.21jingji.com##.share-box
+www.21jingji.com##[href="https://app.21jingji.com/"]
+
+! http://aibicl.com
+aibicl.com##.message
+aibicl.com##.qrcode
+aibicl.com##.arrow
+aibicl.com##.ctrolPanel
+
+! http://www.ljsrc.com
+www.ljsrc.com###gg
+
+! http://www.iibesh-expo.com
+www.iibesh-expo.com##.qqright-box
