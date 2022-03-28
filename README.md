@@ -30,11 +30,11 @@
 > - ### 屏蔽`客户端下载`元素
 > - ### 屏蔽`微博微信关注`元素
 
-*1.除以上列举的几点外还屏蔽了网页上某些不必要的元素，极大简化网站页面。*    
-*2.某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*    
-*3.某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站上禁用广告拦截以支持网站的长久运行。*  
+*1、除以上列举的几点外还屏蔽了网页上某些不必要的元素，极大简化网站页面。*    
+*2、某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*    
+*3、某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站上禁用广告拦截以支持网站的长久运行。*  
 
-### 由于部分用户不需要特别严格的过滤，故新增一个规则集合  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt)
+### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt)
 ### [点击此处或点击后面的小飞机可直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
 
 # 参考
@@ -73,7 +73,8 @@
 
 ## 推荐几个 <img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
 
-*我用过的规则不多，还有好多我不知道的，可以把你觉得好用的规则推荐出来。根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好只是也许，但同时占用设备的资源也越多，会拖慢网页打开速度。建议使用插件默认勾选的就足够日常使用了，没有屏蔽掉的广告或碍眼的元素可以自己选择手动屏蔽。如果网页打开错误只需在该网站临时禁用再刷新网页即可正常访问。*
+*1、我用过的规则不多，还有好多我不知道的，可以把你觉得好用的规则推荐出来。*  
+*2、根据自己的需求合理添加规则，并不是越多越好。越多过滤效果也许会更好只是也许，但同时占用设备的资源也越多，会拖慢网页打开速度。建议使用插件默认勾选的就足够日常使用了，没有屏蔽掉的广告或碍眼的元素可以自己选择手动屏蔽。如果网页打开错误只需在该网站临时禁用再刷新网页即可正常访问。*
 
 ## 规则推荐清单
 
