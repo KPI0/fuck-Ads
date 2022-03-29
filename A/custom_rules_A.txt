@@ -248,6 +248,8 @@ tieba.baidu.com##.open-app
 tieba.baidu.com##.nav-bar-bottom
 
 ! https://wenku.baidu.com
+wenku.baidu.com##.app-btn.small-btn
+wenku.baidu.com##.fold-page-tip
 wenku.baidu.com##a:nth-of-type(3)
 wenku.baidu.com##.tip-text
 wenku.baidu.com##.client-download-content
@@ -3092,12 +3094,14 @@ huaban.com##.ant-tooltip-inner
 huaban.com##.ant-tooltip-arrow-content
 
 ! https://m.jinse.com
-m.jinse.com##.js-footer__tools
-m.jinse.com##.js-article-share
-m.jinse.com##.bottom.js-linkApp.js-read-full__open
 m.jinse.com##.js-head-advertising
-m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+m.jinse.com##.js-article-share
 m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
+m.jinse.com##.bottom.js-linkApp.js-read-full__open
+m.jinse.com##.js-footer__tools
+m.jinse.com##.js-linkApp.jinse_app
+m.jinse.com##.js-opration-box
+m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
 
 ! https://113123.xyz
 113123.xyz##.article-fx
@@ -3232,3 +3236,17 @@ www.ljsrc.com###gg
 
 ! http://www.iibesh-expo.com
 www.iibesh-expo.com##.qqright-box
+
+! http://www.caacnews.com.cn
+www.caacnews.com.cn###FenXiang
+
+! https://www.airacm.com
+www.airacm.com##.yb_smb
+
+! http://www.ccaonline.cn
+www.ccaonline.cn##.b2tooltipbox.poster-span
+www.ccaonline.cn##.bar-qrcode.bar-item
+
+! https://godbolt.org
+godbolt.org##.btn-outline-primary.btn.nav-item
+godbolt.org##.community-advert.mr-auto.navbar-center.navbar-nav
