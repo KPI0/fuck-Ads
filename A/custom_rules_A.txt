@@ -204,6 +204,9 @@ eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##[href^="https://eyun.baidu.com/enterprise/product"]
 eyun.baidu.com##.g-clearfix.app-list
 
+! https://zhaopin.baidu.com
+zhaopin.baidu.com##div.infowraper:nth-of-type(3)
+
 ! https://photo.baidu.com
 photo.baidu.com##.yk-side__footer
 
@@ -356,6 +359,7 @@ www.ghxi.com##.ad_single_1.ghxi_wpcom_ad_wrap
 www.ghxi.com###modules-12
 www.ghxi.com##.width-footer-bar.footer
 www.ghxi.com##.j-share.action-item
+www.ghxi.com##.ad_single_12.ghxi_wpcom_ad_wrap
 ||img.lovestu.com/uploads/2019/05/gzwxad.png$image
 ||img.lguohe.com/uploads/2021/03/xrk20210304154055.png$image
 ||www.ghxi.com/wp-content/uploads/2019/11/kmsbanner.png$image
@@ -469,6 +473,16 @@ m.v.qq.com##.btn_sharpness
 m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
 m.v.qq.com##.btn_download
 
+! https://ke.qq.com
+ke.qq.com##.downloadchrome-ctn
+ke.qq.com##div.header-item.share:nth-of-type(3)
+ke.qq.com##.item-icon.i-phone.icon-font
+ke.qq.com##.dropdown-tt.download-tt
+ke.qq.com##a.link-service:nth-of-type(2)
+ke.qq.com##a.link-service:nth-of-type(1)
+ke.qq.com##.folded.touchpoint-bottom-bar-img
+ke.qq.com##.js-report-link.touchpoint-banner
+
 ! https://v.qq.com
 v.qq.com##.svg_icon_client.svg_quick_icon
 v.qq.com###pc_client > .quick_link
@@ -555,10 +569,6 @@ y.qq.com##.btn_big_down
 wx2.qq.com##a.ng-scope:nth-of-type(1)
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
 wx2.qq.com##.ng-scope.download_entry
-ke.qq.com##.item-icon.i-phone.icon-font
-ke.qq.com##.dropdown-tt.download-tt
-ke.qq.com##a.link-service:nth-of-type(2)
-ke.qq.com##a.link-service:nth-of-type(1)
 pc.qq.com##.clearfix.banmgr-content.container_12
 pc.qq.com##.bottom-shadow.header
 pc.qq.com##.banner-wrap
@@ -2135,10 +2145,16 @@ www.meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-
 ! https://www.right.com.cn
 www.right.com.cn##.z > [href="https://www.right.com.cn/forum/"]
 www.right.com.cn##.z > [href="javascript:;"]
+www.right.com.cn##.cl.tshare
 ||www.right.com.cn/forum/static/image/common/site_qq.jpg$image
 
 ! https://www.51job.com
 www.51job.com##.app > ul > li
+www.51job.com##.tips
+www.51job.com##.ecode
+www.51job.com##.appbox
+www.51job.com##.c_first.code
+www.51job.com##div.code:nth-of-type(7)
 
 ! https://bbs.ludeqi.com
 bbs.ludeqi.com##.swal2-content
@@ -3250,3 +3266,33 @@ www.ccaonline.cn##.bar-qrcode.bar-item
 ! https://godbolt.org
 godbolt.org##.btn-outline-primary.btn.nav-item
 godbolt.org##.community-advert.mr-auto.navbar-center.navbar-nav
+
+! https://nftlabm.yuzhouya.com
+nftlabm.yuzhouya.com##.tips_box
+nftlabm.yuzhouya.com##.tips_active.tips_pop
+
+! https://mshop.weidnn.cn
+||tupianssl.weidnn.com/uploads/20220328/FlrSCIweslKsclagU2UfM4YBDJ77.png$image
+mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+mshop.weidnn.cn##.show.cu-modal
+
+! https://www.getitfree.cn
+www.getitfree.cn##.call-action-style_1.call-action-dark.call-action-unlogged
+
+! http://www.nows.fun
+www.nows.fun##.text.lead
+
+! https://www.zhipin.com
+www.zhipin.com##li > [href="https://app.zhipin.com/"]
+www.zhipin.com##.footer-icon
+
+! https://www.maxiaobang.com
+www.maxiaobang.com##.j-share.action-item
+www.maxiaobang.com##.share.info-item
+
+! https://cy.ncss.cn
+cy.ncss.cn##.appTip
+
+! http://cy.cqbys.com
+cy.cqbys.com##div.rightdiv:nth-of-type(3)
+
