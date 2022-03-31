@@ -165,18 +165,49 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
-sehuatang.net##*
-qwrewr.net##*
-youjizz.com##*
-theporndude.com##*
+javlibrary.cc##*
+javlibrary.tv##*
+javlibrary.com##*
+javlib.com##*
 javdb30.com##*
 javmost.com##*
 javher.com##*
-r18.com##*
+javfull.net##*
+javhub.net##*
+javhd.today##*
+javmost.xyz##*
+javcl.com##*
 jav.guru##*
-javbabe.net##*
-madou.club##*
 javday.tv##*
+javbabe.net##*
+javxxx.me##*
+javhdporn.net##*
+tonywardcouture.com##*
+theporndude.com##*
+thepornbest.com##*
+e59f.com##*
+i57n.com##*
+youiv.tv##*
+sokmil.com##*
+yegonghaose555.com##*
+78x.xyz##*
+65maott.com##*
+attvideo.com##*
+fhpaaa.com##*
+xmmv9.com##*
+ourshdtv.com##*
+18maogk.com##*
+56maoee.com##*
+bbailo.vip##*
+aqdmv143.com##*
+29maonn.com##*
+besthistorypodcasts.com##*
+59867pq.com##*
+sehuatang.net##*
+qwrewr.net##*
+youjizz.com##*
+r18.com##*
+madou.club##*
 ydan.cc##*
 hardsextube.com##*
 drtuber.com##*
@@ -195,20 +226,13 @@ xxx.com##*
 porn.com##*
 modelmediaus.com##*
 xvideos.com##*
-javhdporn.net##*
 thumbzilla.com##*
 ixxx.com##*
 hpjav.tv##*
 avgle.com##*
-javfull.net##*
-javhub.net##*
-javhd.today##*
-javmost.xyz##*
 svjav.com##*
 fbjav.com##*
-javxxx.me##*
 9xxx.net##*
-javcl.com##*
 bigojav.com##*
 
 ! https://sogou.com
@@ -3503,4 +3527,15 @@ cy.ncss.cn##.appTip
 
 ! http://cy.cqbys.com
 cy.cqbys.com##div.rightdiv:nth-of-type(3)
+
+! http://www.yhdm8.co
+www.yhdm8.co##.bdshare-button-style0-24.pull-right.hidden-xs.hidden-sm.bdsharebuttonbox.share
+www.yhdm8.co##li.hidden-xs:nth-of-type(4)
+
+! https://www.anwangxia.com
+www.anwangxia.com##.share.info-item
+
+! https://www.1905.com
+www.1905.com###playerBox-info-share
+www.1905.com###playerBox-info-mobile
 
