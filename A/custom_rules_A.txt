@@ -3296,3 +3296,14 @@ cy.ncss.cn##.appTip
 ! http://cy.cqbys.com
 cy.cqbys.com##div.rightdiv:nth-of-type(3)
 
+! http://www.yhdm8.co
+www.yhdm8.co##.bdshare-button-style0-24.pull-right.hidden-xs.hidden-sm.bdsharebuttonbox.share
+www.yhdm8.co##li.hidden-xs:nth-of-type(4)
+
+! https://www.anwangxia.com
+www.anwangxia.com##.share.info-item
+
+! https://www.1905.com
+www.1905.com###playerBox-info-share
+www.1905.com###playerBox-info-mobile
+
