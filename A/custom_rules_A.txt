@@ -1,7 +1,7 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules
-! uBlock Origin_自定义静态规则
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
+! Title: uBlock Origin_custom rules_A
+! uBlock Origin_A自定义静态规则
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! https://sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
@@ -251,6 +251,11 @@ tieba.baidu.com##.open-app
 tieba.baidu.com##.nav-bar-bottom
 
 ! https://wenku.baidu.com
+wenku.baidu.com##.doc-btns-wrap > .share-btn.small-btn
+wenku.baidu.com##.pay-layer1509-wrapper
+wenku.baidu.com##.toolbar-pc-search-guide
+wenku.baidu.com##.small-btn-wrap > .share-btn.small-btn
+wenku.baidu.com##.hx-bottom-wrapper
 wenku.baidu.com##.app-btn.small-btn
 wenku.baidu.com##.fold-page-tip
 wenku.baidu.com##a:nth-of-type(3)
@@ -375,6 +380,7 @@ yun.139.com##.down_explain_div_span
 ! https://bilibili.com
 live.bilibili.com##.f-right.footer-right
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
+www.bilibili.com##li.nav-link-item:nth-of-type(8)
 www.bilibili.com##.app-download-link
 www.bilibili.com##.share-btn.share-container
 www.bilibili.com##.share-box
@@ -482,6 +488,8 @@ ke.qq.com##a.link-service:nth-of-type(2)
 ke.qq.com##a.link-service:nth-of-type(1)
 ke.qq.com##.folded.touchpoint-bottom-bar-img
 ke.qq.com##.js-report-link.touchpoint-banner
+ke.qq.com##.qrcode-maker
+ke.qq.com##.download-tips
 
 ! https://v.qq.com
 v.qq.com##.svg_icon_client.svg_quick_icon
@@ -872,6 +880,7 @@ max.book118.com##.mqrcode > .drop-down
 max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
 max.book118.com##.mqrcode > [href="javascript:;"] > span
 max.book118.com##.service-shop
+max.book118.com##.crm-re
 
 ! http://www.360lvse.com
 www.360lvse.com##.mgg
@@ -1564,6 +1573,7 @@ www.xiaohongshu.com##.all-tip > .pop-over.pop-over-container > .download-app
 www.xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 www.xiaohongshu.com##.middle-wrapper
 www.xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
+www.xiaohongshu.com##.share-item
 
 ! https://www.zhiwu300.com
 www.zhiwu300.com##.xshare
@@ -1675,6 +1685,8 @@ www.officeplus.cn##.favorit
 www.xzbu.com###down-file
 www.xzbu.com##.zoomIn
 www.xzbu.com##.zazhi-com-cn
+m.xzbu.com###doyoo_monitor
+m.xzbu.com##.down-box
 
 ! https://www.shuzirc.com
 www.shuzirc.com##.social-share.share-component
@@ -2452,6 +2464,7 @@ vip.jokerps.com##.b2tooltipbox.poster-span
 
 ! https://www.1ppt.com
 www.1ppt.com##.topbar
+www.1ppt.com##.lpadlist
 
 ! http://www.tretars.com
 ||www.tretars.com/wp-content/uploads/2018/09/ad-baotu-09-1.png$image
@@ -3307,3 +3320,12 @@ www.anwangxia.com##.share.info-item
 www.1905.com###playerBox-info-share
 www.1905.com###playerBox-info-mobile
 
+! https://www.608y.com
+www.608y.com##.qrcode_box
+
+! http://www.abi.com.cn
+www.abi.com.cn##.bdshare-button-style0-16.bdsharebuttonbox.m-subnav
+www.abi.com.cn##.cl.cr_share
+
+! http://www.pptok.com
+www.pptok.com##.vip-link-a
