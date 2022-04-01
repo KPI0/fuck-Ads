@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
-! uBlock Origin_A自定义静态规则
+! uBlock Origin_自定义静态规则
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! https://sogou.com
@@ -46,6 +46,8 @@ cloud.189.cn##.nav-block.client-download
 cloud.189.cn##.enterprise-guide
 cloud.189.cn##.enterprise-guide-ad-box
 cloud.189.cn##.enterprise-guide-box
+cloud.189.cn##.advertising-popup
+cloud.189.cn##.advertising-mask
 ||cloud.189.cn/web/subapp/img/tips_save.9d22f8b4.png$image
 
 ! https://www.baidu.com
@@ -122,6 +124,11 @@ b2b.baidu.com##.footer-right-item
 ! https://jia.baidu.com
 jia.baidu.com##.service-entry-qrcode.service-entry-item
 
+! https://zhidao.baidu.com
+zhidao.baidu.com##.task-list-button
+zhidao.baidu.com##.wgt-footer-new
+zhidao.baidu.com##.zhidao-app.menu-right-list-item
+
 ! https://fanyi.baidu.com
 fanyi.baidu.com##.desktop-guide-inner
 fanyi.baidu.com##.desktop-guide-outter
@@ -145,15 +152,11 @@ map.baidu.com###activity-banner-panel
 ||iknowpc.bdimg.com/static/common/widget/task/img/e*$image
 ||iknowpc.bdimg.com/static/common/widget/task/img/entrance-expand.8e1816a.png$image
 ||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
-zhidao.baidu.com##.task-list-button
-zhidao.baidu.com##.wgt-footer-new
 ||bj.bcebos.com/v1/ps-scholar-amis-standard/2021-4/1617851337409/%E6%AF%95%E4%B8%9A%E6%9F%A5%E9%87%8D%E7%A4%BC%E6%96%87%E7%8C%AE%E6%A3%80%E7%B4%A2%E9%A1%B53.jpg?authorization=bce-auth-v1%2F2409bd2f17c148a791a3742ee5fa569f%2F2021-04-08T03%3A08%3A57Z%2F1800%2Fhost%2Feb130973c4896ea787a0eadfd585304125b13181758cb300b2b45c7940a10ae6$image
-xueshu.baidu.com##.paper-banner-img
 easylearn.baidu.com##.member-guide > .container
 easylearn.baidu.com##.member-guide
 passport.baidu.com##[src="https://passport.baidu.com/export/app/img/qrcode_0812.png"]
 passport.baidu.com##.qrcode-download
-xueshu.baidu.com##.gj.pagefoot
 baijiahao.baidu.com##.index-module_bottomContainer_2QFqg
 baijiahao.baidu.com##.index-module_relateContainer_3RNjY
 baijiahao.baidu.com##.index-module_recentArticleContainer_13m7C
@@ -207,6 +210,12 @@ eyun.baidu.com##.g-clearfix.app-list
 ! https://zhaopin.baidu.com
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
 
+! https://xueshu.baidu.com
+xueshu.baidu.com##.footer_dy
+xueshu.baidu.com##.paper_share
+xueshu.baidu.com##.paper-banner-img
+xueshu.baidu.com##.gj.pagefoot
+
 ! https://photo.baidu.com
 photo.baidu.com##.yk-side__footer
 
@@ -251,6 +260,14 @@ tieba.baidu.com##.open-app
 tieba.baidu.com##.nav-bar-bottom
 
 ! https://wenku.baidu.com
+wenku.baidu.com##.hx-recom-wrapper
+wenku.baidu.com##.sider-edge.wk-web-5219.fix-block.relative-doc-newwrapper > .relative-doc-in-wrapper > .hx-wrapper
+wenku.baidu.com###original-pageNo-1 > .wkWeb6122-0.hx-warp
+wenku.baidu.com###original-pageNo-2 > .wkWeb6122-0.hx-warp
+wenku.baidu.com###original-pageNo-3 > .wkWeb6122-0.hx-warp
+wenku.baidu.com###original-pageNo-4 > .wkWeb6122-0.hx-warp
+wenku.baidu.com##.inner-vip.comp-vip-pop
+wenku.baidu.com###original-creader-root > .hx-warp
 wenku.baidu.com##.doc-btns-wrap > .share-btn.small-btn
 wenku.baidu.com##.pay-layer1509-wrapper
 wenku.baidu.com##.toolbar-pc-search-guide
@@ -676,6 +693,7 @@ m.iqiyi.com##.hotWords-wrap
 m.iqiyi.com##div.m-box:nth-of-type(10)
 
 ! https://www.sohu.com
+www.sohu.com##.god-article-bottom
 www.sohu.com##[href^="http://fbp.sohu.com/fbp/problem/essay"]
 www.sohu.com##.user-feedback
 www.sohu.com##div.clear.news-box > h4
@@ -708,7 +726,6 @@ www.sohu.com##.classic
 www.sohu.com##.sohu_email.link
 www.sohu.com##.sougou.link
 www.sohu.com##.shh.link
-m.sohu.com##.index.new.fixed.fixed-setto-desktop
 news.sohu.com###share > ul
 news.sohu.com###share > .title
 news.sohu.com##.share
@@ -727,19 +744,19 @@ tv.sohu.com##.hd-fBox-app.hd-fBox > .hd-fBtn
 ||statics.itc.cn/sohu-homepage/oldright.png$image
 
 ! https://m.tv.sohu.com
+m.sohu.com##.index.new.fixed.fixed-setto-desktop
+m.sohu.com##.reply-opare__share.reply-opare__a
+m.sohu.com###weChatShare
 m.tv.sohu.com##.btn-xz-app
 m.tv.sohu.com##.btn-share
 m.tv.sohu.com##.btn-dl
 m.tv.sohu.com##.btn-720p
 m.tv.sohu.com##.js-oper-pos
 
-! https://m.sohu.com
-m.sohu.com##.reply-opare__share.reply-opare__a
-m.sohu.com###weChatShare
-
 ! https://bbs.csdn.net
 download.csdn.net##.m_toolbar_left_app_btn
 download.csdn.net##li > [href^="//www.csdn.net/apps/download"]
+download.csdn.net##.csdn-common-logo-advert
 csdn.net##.openApp
 csdn.net##.no—h.option-box
 csdn.net##.so-questionnaire
@@ -747,6 +764,7 @@ blog.csdn.net###wap_open_app_btn
 blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.operate_share_box
 blog.csdn.net##.floatL.operate_common.operate_share.share-btn
+blog.csdn.net##.common-nps-box.recommend-nps-box
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
 blog.csdn.net##.logo-advert-back
@@ -881,6 +899,7 @@ max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
 max.book118.com##.mqrcode > [href="javascript:;"] > span
 max.book118.com##.service-shop
 max.book118.com##.crm-re
+max.book118.com##.re.webpreview-recommend
 
 ! http://www.360lvse.com
 www.360lvse.com##.mgg
@@ -916,6 +935,11 @@ www.doc88.com##.share
 www.doc88.com##.columns-us
 www.doc88.com##li:nth-of-type(4)
 www.doc88.com##.header-func > .wrapper > ul > li:nth-of-type(2)
+www.doc88.com##.columns-ad
+www.doc88.com##.dk-side
+www.doc88.com##span.client-show:nth-of-type(2)
+www.doc88.com##i.line.iconfont:nth-of-type(7)
+www.doc88.com###app_read
 
 ! http://xhv5.xhby.net
 ||xhv5.xhby.net/mp3/js/images/05.png$image
@@ -1497,6 +1521,8 @@ www.douyin.com##div.RlnaLU74._1mUxLpY9:nth-of-type(11)
 www.douyin.com##div.RlnaLU74.xNopLZos._1mUxLpY9:nth-of-type(14)
 www.douyin.com##div.RlnaLU74.xNopLZos._1mUxLpY9:nth-of-type(10)
 www.douyin.com###iYuFPljk > .xccCxdK0
+www.douyin.com##.login-guide
+www.douyin.com###JlZDnd5d
 
 ! https://go.cqmmgo.com
 go.cqmmgo.com##.wanneng-menu > .wn-box
@@ -1770,14 +1796,6 @@ www.cbaigui.com##.dwqr-inner
 ! https://www.rwtext.com
 ||www.rwtext.com/image/ttil.png$image
 
-! https://www.educity.cn
-www.educity.cn##.info_mask
-www.educity.cn##.ecv2_answer_main
-www.educity.cn##.ecv2_hs_logo > .ecv2_container
-www.educity.cn##[href="https://beian.miit.gov.cn/"]
-www.educity.cn##.ecv2_footer_bottom
-www.educity.cn##.clearfix.ecv2_container.ecv2_header_tools
-
 ! http://www.kanshuwangzhan.com
 www.kanshuwangzhan.com##div.Mains:nth-of-type(7)
 www.kanshuwangzhan.com##div.MainLeftWen > div
@@ -1887,10 +1905,6 @@ www.examw.com###ft_about
 www.examw.com###ft_menu
 www.examw.com##.floatNavBox
 ||img.examw.com/public/images/*.png$image
-
-! https://www.shangxueba.cn
-www.shangxueba.cn###form1
-www.shangxueba.cn##.sxbcn_footer_r
 
 ! https://www.speedtest.cn
 www.speedtest.cn##.site-bottom
@@ -2067,6 +2081,7 @@ www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.Footer
 zhuanlan.zhihu.com##.ContentItem-actions > .ShareMenu.Popover
 zhuanlan.zhihu.com##.css-v91ii.OpenInAppButton
+zhuanlan.zhihu.com##.Post-SideActions > .ShareMenu.Popover
 
 ! https://bbs.tianya.cn
 bbs.tianya.cn###barcode_float > [href="http://www.tianya.cn/mobile/"]
@@ -2094,6 +2109,10 @@ www.elecfans.com##.site_qrcode
 www.elecfans.com###new_ad
 www.elecfans.com##.clearfix.m-share-layout.art-share-layout.article-info > .fr.bdsharebuttonbox
 www.elecfans.com###shareAddPcb > .clearfix > .fr.bdsharebuttonbox
+www.elecfans.com###a_top_img
+www.elecfans.com##.perfect_infomation_tip
+m.elecfans.com##.open_app_fixed.flex.open_app
+m.elecfans.com##.btn-createCover.ft_share
 
 ! https://time.is
 ||time.is/img/app_store_badge/Download_on_the_App_Store_Badge_CN_135x40.svg$image
@@ -2923,6 +2942,8 @@ www.nlc.cn##.get-codes-bdshare.bds_tools.bdshare_t
 
 ! https://www.ypppt.com
 www.ypppt.com##.bdshare-button-style1-24.right.clear.bdsharebuttonbox
+www.ypppt.com##.bdshare-button-style1-24.bdsharebuttonbox.action-share
+www.ypppt.com##.aad4
 
 ! http://www.pptjia.com
 www.pptjia.com##.wrap > .qr
@@ -3165,8 +3186,11 @@ boyumai.com##.fr.fewm
 ! https://cloud.tencent.com
 cloud.tencent.com##.com-widget-operations
 cloud.tencent.com##.com-widget-global > div
-console.cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
+cloud.tencent.com##.link-share.com-opt-link
+cloud.tencent.com##.main-cnt > div
+cloud.tencent.com##.c-btn-weak.c-btn
 cloud.tencent.com##.pls-footer-website-contact-view
+console.cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 
 ! https://www.infineon.com
 www.infineon.com##.social-media-wrapper.text-right.col-md-3
@@ -3329,3 +3353,87 @@ www.abi.com.cn##.cl.cr_share
 
 ! http://www.pptok.com
 www.pptok.com##.vip-link-a
+
+! http://www.51pptmoban.com
+www.51pptmoban.com##.tb1
+www.51pptmoban.com##.pptsc
+www.51pptmoban.com##.mad
+www.51pptmoban.com##.dlink
+www.51pptmoban.com##.bdshare-slide-style-l6.bdshare-slide-button-box
+www.51pptmoban.com##.pdad
+
+! https://view.inews.qq.com
+view.inews.qq.com##.slider-top-bar_open__1rKOo
+view.inews.qq.com##.xwiconfontv1_icon-xwclose__3nqhj.xwiconfontv1_xwiconfont__2t3zT.slider-top-bar_close__3Zlb3
+
+! https://www.tuoluocaijing.cn
+tuoluocaijing.cn##.qrcode.item
+tuoluocaijing.cn##.qrcode-slid-wrap
+
+! https://www.tuoluo.cn
+tuoluo.cn##.qrcode.item
+
+! http://www.techweb.com.cn
+www.techweb.com.cn##.partake
+www.techweb.com.cn##.app_item
+www.techweb.com.cn##.wb_item
+www.techweb.com.cn##.qr_item
+
+! https://www.shangxueba.cn
+www.shangxueba.cn##.paper_slide_banner
+
+! https://www.wikiwand.com
+www.wikiwand.com##.tooltipstered.menu-tooltip.article.share_btn
+
+! https://cslab.gxu.edu.cn
+cslab.gxu.edu.cn##embed
+cslab.gxu.edu.cn##body > table:nth-of-type(1) > tbody > tr > td
+
+! https://www.ppkao.com
+www.ppkao.com##.pos_a.ss
+www.ppkao.com##body > .erweima
+www.ppkao.com##.rbox
+||static.ppkao.com/ppmg/img/appqrcode.png$image
+
+! https://www.educity.cn
+www.educity.cn##.ecv2_detail > .search_recom
+www.educity.cn##.ecv2_search_cont > .search_recom
+
+! https://www.taodocs.com
+www.taodocs.com###show_wx
+www.taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
+www.taodocs.com##.link > span:nth-of-type(2)
+www.taodocs.com##li.ewm.mv_lis:nth-of-type(5)
+
+! http://www.zaixian-fanyi.com
+www.zaixian-fanyi.com##div:nth-of-type(10)
+
+! https://wen.baidu.com
+wen.baidu.com##.f-aid.wgt-answers-operator > .share-area > .wgt-share-btn
+wen.baidu.com##.f-aid.wgt-answers-operator > .share-area
+
+! https://www.tiktok.com
+www.tiktok.com##div.ejpbrlm1.tiktok-1d39a26-DivFlexCenterRow:nth-of-type(2)
+www.tiktok.com##.ejkrawn0.tiktok-1vrbodl-DivPromotionContainer
+
+! https://www.91sot.com
+www.91sot.com##.top.text-right.list-inline.list-unstyled > li:nth-of-type(1)
+
+! https://so.kaoshibao.com
+so.kaoshibao.com##.down-app
+
+! https://naxuefen.com
+naxuefen.com##.mip-share-container
+
+! https://www.examk.com
+www.examk.com##.right
+
+! http://ask.mzhishi.com
+ask.mzhishi.com##.details_by_tg
+
+! https://www.shangxueba.com
+www.shangxueba.com##.fr.top_crumbs_r [href="javascript:;"]
+www.shangxueba.com##[href="//www.shangxueba.com/app/converge.html"]
+www.shangxueba.com##.detnew_adv
+www.shangxueba.com##.sus_app.sus_btn
+ks.shangxueba.com##.level_banner
