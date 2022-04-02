@@ -372,6 +372,7 @@ jia.baidu.com##.service-entry-qrcode.service-entry-item
 zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.wgt-footer-new
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
+zhidao.baidu.com##.cannotanswer.share-area > .wgt-share-btn
 
 ! https://fanyi.baidu.com
 fanyi.baidu.com##.desktop-guide-inner
@@ -1430,6 +1431,10 @@ www.ce.cn##.sethome.red_3a
 ! https://discord.com
 discord.com##.scrollerBase-289Jih.none-2Eo-qx.scroller-1Bvpku > div.listItem-GuPuDH > .listItemWrapper-KhRmzM > .wrapper-25eVIn.circleButtonMask-1_597P > .svg-1X37T1 > foreignObject > .circleIconButton-1QV--U > .circleIcon-1-oi1i
 discord.com##div.listItem-GuPuDH:nth-of-type(7)
+discord.com##div.listItem-3SmSlK:nth-of-type(7) > .listItemWrapper-3d87LP > .wrapper-28eC3z > .svg-2zuE5p > foreignObject > .circleIconButton-1VxDrg
+discord.com##div.listItem-3SmSlK:nth-of-type(7) > .listItemWrapper-3d87LP > .wrapper-28eC3z > .svg-2zuE5p > foreignObject
+discord.com##div.listItem-3SmSlK:nth-of-type(7)
+discord.com##div.listItem-3SmSlK:nth-of-type(6) > .guildSeparator-a4uisj
 
 ! http://www.jsw8.net
 ||si1.go2yd.com/get-image/0PxqaLkbje4$image
@@ -1939,6 +1944,14 @@ cn.chinadaily.com.cn##[href="https://www.chinadaily.com.cn/image_e/2020/logo21.j
 cn.chinadaily.com.cn##.weixinqrcode
 cn.chinadaily.com.cn##.xinf-ri
 cn.chinadaily.com.cn##.lo-bott-one
+
+! http://china.chinadaily.com.cn
+china.chinadaily.com.cn##.xinf-ri2 > [href^="http://v.t.sina.com.cn/share/share.php"]
+china.chinadaily.com.cn##.weixinqrcode
+china.chinadaily.com.cn##.xinf-ri
+china.chinadaily.com.cn##.more
+china.chinadaily.com.cn##.lo-rig-bott > table > tbody > tr > td:nth-of-type(1)
+china.chinadaily.com.cn##div.fenx:nth-of-type(7)
 
 ! https://www.51miz.com
 www.51miz.com##.new-fixed-button
@@ -3377,6 +3390,12 @@ www.shangyexinzhi.com##.h5shareimg
 ! http://m.china.com.cn
 m.china.com.cn##.fx
 
+! http://zjnews.china.com.cn
+zjnews.china.com.cn##li.fl:nth-of-type(1)
+zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
+zjnews.china.com.cn##.ewm
+zjnews.china.com.cn##.chanpin
+
 ! https://699pic.com
 699pic.com##.login.bg2.springtime-floatLink1034.springtime-floatLink > [href]
 699pic.com##.login.bg2.springtime-floatLink1034.springtime-floatLink
@@ -3681,3 +3700,25 @@ www.shangxueba.com##[href="//www.shangxueba.com/app/converge.html"]
 www.shangxueba.com##.detnew_adv
 www.shangxueba.com##.sus_app.sus_btn
 ks.shangxueba.com##.level_banner
+
+! https://www.36dm.club
+www.36dm.club##.top_nav > .right > [href="javascript:void(0);"]
+
+! https://www.ifanr.com
+www.ifanr.com##.c-header-sns__about--hover
+www.ifanr.com##.c-goto-top-item--app.c-goto-top-item
+www.ifanr.com##.size-full.alignnone
+www.ifanr.com##.c-article-share__button
+www.ifanr.com##.c-single-video-share-bar__medias.c-social-bar--sqaured.c-social-bar--circle.c-social-bar--horizontal.c-social-bar
+
+! https://www.dyhzdl.cn
+www.dyhzdl.cn##.flr.casedetail-share
+www.dyhzdl.cn##.clearfix.fr.arti-hi-phone
+
+! https://tougao.12371.cn
+tougao.12371.cn##.fenxiang
+
+! https://www.528btc.com
+www.528btc.com##.share-component.social-share
+www.528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
+
