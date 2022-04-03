@@ -663,7 +663,6 @@ www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 account.bilibili.com##.footer_right
 account.bilibili.com##.international-footer
 passport.bilibili.com##.right.block
-search.bilibili.com##.footer_right
 link.bilibili.com##.link-footer
 ||i0.hdslb.com/bfs/activity-plat/static/20171102/86685156c7e105a8509815159cf73d86/images/p6zp26183x.png$image
 ||i0.hdslb.com/bfs/activity-plat/679892a5e7f912a2ec8820b35327e9b3cf0e42ae.png$image
@@ -675,6 +674,10 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
 t.bilibili.com##.notice-panel
+
+! https://search.bilibili.com
+search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
+search.bilibili.com##.footer_right
 
 ! https://a.app.qq.com
 a.app.qq.com##.main-download-btn
@@ -2964,6 +2967,10 @@ www.chinaz.com##.easing.nav-notice
 www.chinaz.com###RYBCWjTZaX
 www.chinaz.com##li.single-mode:nth-of-type(1)
 www.chinaz.com##.single-mode__media.single-mode
+
+! https://tool.chinaz.com
+tool.chinaz.com##div.toItem:nth-of-type(1)
+tool.chinaz.com##.toolvip
 
 ! http://www.3721dh.com
 www.3721dh.com###extra > .column
