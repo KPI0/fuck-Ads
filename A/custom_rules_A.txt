@@ -3485,3 +3485,17 @@ tougao.12371.cn##.fenxiang
 www.528btc.com##.share-component.social-share
 www.528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
 
+! http://www.zhaoav2.cloud
+www.zhaoav2.cloud##.wrap > .right
+
+! https://www.b4x99.com
+www.b4x99.com##.col4.row
+www.b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
+
+! https://zhazhijiav.top
+zhazhijiav.top##div.container:nth-of-type(2)
+zhazhijiav.top##[src="https://app0001.top/upload/site/20210926-1/3ab8779d85407f725851197c9400169c.gif"]
+
+! https://61maoak.com
+61maoak.com##li.scroll-list:nth-of-type(2)
+
