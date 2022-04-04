@@ -166,6 +166,48 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
+mdapp.us##*
+madou101.com##*
+beqq.net##*
+kaenv.com##*
+mdmd.cyou##*
+md11.cyou##*
+prod-web-1086158643.ap-northeast-1.elb.amazonaws.com##*
+madouqu2.cc##*
+madouqu.com##*
+madou.one##*
+mdmcn01.com##*
+jingmadou.com##*
+91url.info##*
+e989.tv##*
+kunxxgv.com##*
+91yingshi9.me##*
+69mnuuv.com##*
+mt02.site##*
+18qwe.com##*
+dygjkb.com##*
+night97.cc##*
+peach-av.com##*
+weipatian.com##*
+weipaxu.com##*
+aff002.net##*
+hb6s.com##*
+hb6s.com##*
+dou20.me##*
+jz807.com##*
+91bx.org##*
+j1o.net##*
+niuc1.com##*
+09.gay##*
+61maoak.com##*
+zhazhijiav.top##*
+b4x99.com##*
+playno1.com##*
+buliangdh46.xyz##*
+dear2.co##*
+zhaoav2.cloud##*
+mate2.cyou##*
+xxxmadou.com##*
 fuli16.se##*
 pppao1.com##*
 ntr12.cc##*
@@ -3728,4 +3770,18 @@ tougao.12371.cn##.fenxiang
 ! https://www.528btc.com
 www.528btc.com##.share-component.social-share
 www.528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
+
+! http://www.zhaoav2.cloud
+www.zhaoav2.cloud##.wrap > .right
+
+! https://www.b4x99.com
+www.b4x99.com##.col4.row
+www.b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
+
+! https://zhazhijiav.top
+zhazhijiav.top##div.container:nth-of-type(2)
+zhazhijiav.top##[src="https://app0001.top/upload/site/20210926-1/3ab8779d85407f725851197c9400169c.gif"]
+
+! https://61maoak.com
+61maoak.com##li.scroll-list:nth-of-type(2)
 
