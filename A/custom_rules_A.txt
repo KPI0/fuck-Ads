@@ -73,6 +73,8 @@ aiqicha.baidu.com##.ivu-poptip.app-qrcode-poptip.poptip-wrap
 aiqicha.baidu.com##[src="https://xinpub.bj.bcebos.com/aiqicha/wenjuan-f2.png"]
 aiqicha.baidu.com##.aqc-home-float-wrapper
 aiqicha.baidu.com##.show-mark.mark
+aiqicha.baidu.com##.float-banner
+aiqicha.baidu.com##.swiper-container-horizontal.swiper-container-initialized.swiper.zx-bottom-banner
 
 ! https://m.baidu.com
 m.baidu.com###header > div > div > div > div
@@ -2033,6 +2035,9 @@ home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-ca
 
 ! https://www.tianyancha.com
 www.tianyancha.com###tyc_banner_left
+www.tianyancha.com##div.item:nth-of-type(3)
+www.tianyancha.com##div.item:nth-of-type(2)
+www.tianyancha.com##.wechat.-top.item
 
 ! https://www.jihaoba.com
 www.jihaoba.com##div.foot:nth-of-type(18)
@@ -3178,6 +3183,7 @@ m.jinse.com##.js-footer__tools
 m.jinse.com##.js-linkApp.jinse_app
 m.jinse.com##.js-opration-box
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+www.jinse.com##.js-foot-status > .js-right
 
 ! https://113123.xyz
 113123.xyz##.article-fx
@@ -3499,3 +3505,17 @@ zhazhijiav.top##[src="https://app0001.top/upload/site/20210926-1/3ab8779d85407f7
 ! https://61maoak.com
 61maoak.com##li.scroll-list:nth-of-type(2)
 
+! https://amma.artron.net
+amma.artron.net##.tool-site
+amma.artron.net##div.tool-Article:nth-of-type(1) > .tool-Article-ul > li:nth-of-type(1)
+
+! https://www.musichive.com.cn
+www.musichive.com.cn##.qrcode___1ze6R
+
+! https://www.230890.com
+www.230890.com##.entry-meta-right
+www.230890.com##.clear.entry-footer
+
+! https://my.oschina.net
+my.oschina.net##.article-box__content > .action-box > div.action-item:nth-of-type(4)
+my.oschina.net##div.action-item:nth-of-type(5)
