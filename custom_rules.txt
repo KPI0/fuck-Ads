@@ -166,6 +166,7 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
+pornhubpremium.com##*
 mdapp.us##*
 madou101.com##*
 beqq.net##*
@@ -3805,3 +3806,6 @@ www.230890.com##.clear.entry-footer
 ! https://my.oschina.net
 my.oschina.net##.article-box__content > .action-box > div.action-item:nth-of-type(4)
 my.oschina.net##div.action-item:nth-of-type(5)
+
+! https://www.zhongruitong.cn
+www.zhongruitong.cn##.not-real-name-button
