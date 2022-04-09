@@ -389,6 +389,8 @@ baike.baidu.com##.share-list
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
 baike.baidu.com##._4txvhmc
 baike.baidu.com##.topA
+baike.baidu.com##.sl-sub-slogen
+baike.baidu.com##.top-share.bksharebuttonbox
 
 ! https://haokan.baidu.com
 haokan.baidu.com##.download-hover.link-item > .link
@@ -723,6 +725,9 @@ t.bilibili.com##.notice-panel
 ! https://search.bilibili.com
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 search.bilibili.com##.footer_right
+
+! https://passport.bilibili.com
+passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 
 ! https://a.app.qq.com
 a.app.qq.com##.main-download-btn
@@ -3809,3 +3814,7 @@ my.oschina.net##div.action-item:nth-of-type(5)
 
 ! https://www.zhongruitong.cn
 www.zhongruitong.cn##.not-real-name-button
+
+! https://fy.tingclass.net
+fy.tingclass.net###scanning_tbox
+fy.tingclass.net##.tips-xcx-div
