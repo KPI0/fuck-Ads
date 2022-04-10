@@ -66,6 +66,7 @@ www.baidu.com##.app_mobile_ex._8naka.c-container
 www.baidu.com##._1_KgV.card._8naka.c-container
 www.baidu.com##.c-gap-top.op-guide-cont
 www.baidu.com###wenda_inquiry
+www.baidu.com##.recommend-wrapper_M-eYq
 
 ! https://aiqicha.baidu.com
 aiqicha.baidu.com##.show.content
@@ -198,6 +199,7 @@ pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(4)
 pan.baidu.com##[href^="https://photo.baidu.com/photo/web/home"]
 pan.baidu.com##.wp-disk-header__right-item.web-header-ad-item
 pan.baidu.com##.operate-guide-img
+pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 ||staticsns.cdn.bcebos.com/amis/2021-4/1619596757214/web%E5%A4%96%E9%93%BE%E9%A1%B5.jpg$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
@@ -974,6 +976,8 @@ weibo.com##.S_txt1 > .S_txt1
 weibo.com##.wbpro-side-copy-inner
 weibo.com##.Card_bottomGap_2Xjqi.Card_wrap_2ibWe.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main.wbpro-side
 weibo.com##.Main_sideMain_263ZF
+weibo.com##a.S_ficon_bg:nth-of-type(2)
+weibo.com##.W_gotop_v2.W_gotop > a.S_ficon_bg
 m.weibo.cn##.wrap
 ||wx2.sinaimg.cn/large/005wdBKfly1ggxaypmc4oj30p204qdke$image
 ||wx2.sinaimg.cn/large/005wdBKfly1ggxaypmc4oj30p204qdke$image
@@ -2043,6 +2047,7 @@ www.tianyancha.com###tyc_banner_left
 www.tianyancha.com##div.item:nth-of-type(3)
 www.tianyancha.com##div.item:nth-of-type(2)
 www.tianyancha.com##.wechat.-top.item
+www.tianyancha.com##.-show.banner-bottom
 
 ! https://www.jihaoba.com
 www.jihaoba.com##div.foot:nth-of-type(18)
@@ -3531,3 +3536,7 @@ www.zhongruitong.cn##.not-real-name-button
 ! https://fy.tingclass.net
 fy.tingclass.net###scanning_tbox
 fy.tingclass.net##.tips-xcx-div
+
+! https://jingyan.baidu.com
+jingyan.baidu.com##.fresh-share-exp-e
+jingyan.baidu.com##.task-panel-entrance
