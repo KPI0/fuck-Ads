@@ -1476,6 +1476,10 @@ mall.cnki.net##.last.downloadApp
 ! https://web02.cnki.net
 web02.cnki.net##[href="https://inks.cnki.net"]
 
+! https://wap.cnki.net
+wap.cnki.net##.fix-top
+wap.cnki.net##.fix-bottom-content-inner
+
 ! http://www.39.net
 www.39.net##ul.tabb.artRimgli.artRbox:nth-of-type(1)
 www.39.net##.con_right
@@ -3532,6 +3536,8 @@ www.cww.net.cn###share
 ! https://xueqiu.com
 xueqiu.com##.nav__login > .pc__btn--download
 xueqiu.com##.js-shown.widget__download-app--side.widget__download-app
+xueqiu.com##.widget-meta__share
+xueqiu.com##.btn-article-retweet
 
 ! https://music-pi.vercel.app
 music-pi.vercel.app##.bar-right
@@ -3828,3 +3834,54 @@ fy.tingclass.net##.tips-xcx-div
 ! https://jingyan.baidu.com
 jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.task-panel-entrance
+
+! https://www.runoob.com
+www.runoob.com##.qrcode
+
+! https://www.guyuehome.com
+www.guyuehome.com##.sticky-bar .icon-wechat
+www.guyuehome.com##.js_share.item
+www.guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
+
+! https://www.xgfox.com
+www.xgfox.com##.\35 f4dc19cd05c1.wap_top.col-xs-12.col-md-3 > [href] > [src]
+
+! https://jeit.ie.ac.cn
+jeit.ie.ac.cn##.shareBox
+
+! https://www.ccvalue.cn
+www.ccvalue.cn##.btn-weixin
+www.ccvalue.cn##.nav-icons > .download-apps
+www.ccvalue.cn##.qr-code
+www.ccvalue.cn##.apps-code > .download-apps
+www.ccvalue.cn##.apps-code
+
+! https://www.okx.com
+www.okx.com##.other-wrap.nav-download
+
+! https://m.bihu.info
+m.bihu.info##.home-download
+m.bihu.info##.bihu-slogan button
+
+! https://www.blockvalue.com
+www.blockvalue.com##.wbox.new
+www.blockvalue.com##div.wrap2.new:nth-of-type(4)
+www.blockvalue.com##.bdshare-button-style0-32.bdsharebuttonbox
+
+! https://www.01caijing.com
+www.01caijing.com###headerApp
+
+! https://segmentfault.com
+segmentfault.com##.btn-group-vertical.align-items-center > .dropdown
+segmentfault.com##.dropdown.bottom-share-wrap
+
+! https://www.shilian.com
+www.shilian.com##.appdown
+www.shilian.com##.kx_shares
+
+! https://www.w3h5.com
+www.w3h5.com##.widget_lf-bt-box_inner.widget_inner
+www.w3h5.com##.widget_lf-bt-box.widget
+
+! https://wwwx168.cn
+wwwx168.cn##.post-share
