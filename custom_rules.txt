@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓软件/网站/反智媒体/传销诈骗
+nytimes.com##*
 wjzlinfo.cn##*
 gettr.com##*
 wifi.com##*
@@ -1480,6 +1481,9 @@ web02.cnki.net##[href="https://inks.cnki.net"]
 wap.cnki.net##.fix-top
 wap.cnki.net##.fix-bottom-content-inner
 
+! https://www.cnki.net
+www.cnki.net##.banner-main
+
 ! http://www.39.net
 www.39.net##ul.tabb.artRimgli.artRbox:nth-of-type(1)
 www.39.net##.con_right
@@ -2340,6 +2344,7 @@ www.tianyancha.com##div.item:nth-of-type(3)
 www.tianyancha.com##div.item:nth-of-type(2)
 www.tianyancha.com##.wechat.-top.item
 www.tianyancha.com##.-show.banner-bottom
+www.tianyancha.com##.tyc-home > .container
 
 ! https://www.jihaoba.com
 www.jihaoba.com##div.foot:nth-of-type(18)
@@ -3485,6 +3490,8 @@ m.jinse.com##.js-footer__tools
 m.jinse.com##.js-linkApp.jinse_app
 m.jinse.com##.js-opration-box
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+m.jinse.com##.custom-ad-statistic.js-article-ad
+m.jinse.com##.openApps
 www.jinse.com##.js-foot-status > .js-right
 
 ! https://113123.xyz
@@ -3885,3 +3892,17 @@ www.w3h5.com##.widget_lf-bt-box.widget
 
 ! https://wwwx168.cn
 wwwx168.cn##.post-share
+
+! https://www.businessweekly.com.tw
+www.businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
+
+! http://enet.com.cn
+enet.com.cn##.bdshare-button-style1-24.bdsharebuttonbox
+
+! https://hk.finance.yahoo.com
+hk.finance.yahoo.com##.caas-share-section
+
+! http://stdaily.com
+stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_qzone
+stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_tsina
+stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_weixin
