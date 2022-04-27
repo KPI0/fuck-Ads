@@ -3300,6 +3300,9 @@ www.iotfen.com##.share.info-item
 rf.eefocus.com##div.clearfix:nth-of-type(4)
 rf.eefocus.com##.api-qrcode-panel-show.hidden-xxs.api-qrcode-panel
 
+! https://www.eefocus.com
+www.eefocus.com##.icon-container
+
 ! http://www.rsdznjj.com
 www.rsdznjj.com##.layout-entry-share
 
@@ -3617,3 +3620,7 @@ hk.finance.yahoo.com##.caas-share-section
 stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_qzone
 stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_tsina
 stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_weixin
+
+! http://www.eepw.com.cn
+www.eepw.com.cn##.bdshare-button-style1-32.bdsharebuttonbox
+www.eepw.com.cn##.share
