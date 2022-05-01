@@ -3624,3 +3624,10 @@ stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox
 ! http://www.eepw.com.cn
 www.eepw.com.cn##.bdshare-button-style1-32.bdsharebuttonbox
 www.eepw.com.cn##.share
+
+! https://cc1986.com
+cc1986.com##.sharebox
+
+! https://www.bscscan.com
+www.bscscan.com##.col-lg-5.col-12
+
