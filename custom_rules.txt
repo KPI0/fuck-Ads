@@ -2453,6 +2453,8 @@ www.elecfans.com##.clearfix.m-share-layout.art-share-layout.article-info > .fr.b
 www.elecfans.com###shareAddPcb > .clearfix > .fr.bdsharebuttonbox
 www.elecfans.com###a_top_img
 www.elecfans.com##.perfect_infomation_tip
+www.elecfans.com##.detail-share
+m.elecfans.com##.btn-createCover.share
 m.elecfans.com##.open_app_fixed.flex.open_app
 m.elecfans.com##.btn-createCover.ft_share
 
@@ -3966,3 +3968,20 @@ www.360kuai.com##.footer-share.float--left
 
 ! http://www.qunzou.com
 www.qunzou.com##.mask.copy_mask
+
+! http://tools.bugscaner.com
+tools.bugscaner.com##.v-modal
+tools.bugscaner.com###div_qrcode_container
+tools.bugscaner.com###top-header > .row
+
+! http://www.pcbems.com
+www.pcbems.com###bdshare
+
+! http://www.cnmaxwell.com
+www.cnmaxwell.com##.fr > [href="#"]
+
+! http://www.maijx.com
+www.maijx.com##.share
+
+! https://www.mayiwenku.com
+www.mayiwenku.com###boxleft > table
