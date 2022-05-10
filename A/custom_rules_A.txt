@@ -1140,6 +1140,9 @@ www.xinhuanet.com##.i-xt.xs.right-wap
 www.xinhuanet.com##.no-ad.fixed.part-right
 www.xinhuanet.com##.part-right
 www.xinhuanet.com##.roedeer-container.nav-op > .nav-khd
+www.xinhuanet.com##.share
+www.xinhuanet.com##.domMobile111
+www.xinhuanet.com##.domPC.xwApp
 
 ! http://www.duyou8.com
 www.duyou8.com##.arcfu_btn
@@ -1572,6 +1575,7 @@ nanchang.customs.gov.cn##.share > span
 www.hangzhou.gov.cn##.social-share.share-component.share.fr
 www.creditchina.gov.cn##.artical_info_right
 www.xinhui.gov.cn##.shareIcon
+www.thwmsj.gov.cn###detail_share
 
 ! https://www.dushu.com
 www.dushu.com##canvas
@@ -3696,3 +3700,6 @@ www.maijx.com##.share
 
 ! https://www.mayiwenku.com
 www.mayiwenku.com###boxleft > table
+
+! http://www.lfgylongli.cn
+||www.lfgylongli.cn/zb_users/theme/hnyswz/style/1024.png$image
