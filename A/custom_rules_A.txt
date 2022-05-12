@@ -3700,6 +3700,21 @@ www.maijx.com##.share
 
 ! https://www.mayiwenku.com
 www.mayiwenku.com###boxleft > table
+www.mayiwenku.com##.share
 
 ! http://www.lfgylongli.cn
 ||www.lfgylongli.cn/zb_users/theme/hnyswz/style/1024.png$image
+
+! https://wenda.so.com
+wenda.so.com##.top-search-banner
+wenda.so.com##.js-share-btn.share-btn.ans-opt-btn
+wenda.so.com###task-left-wrap
+wenda.so.com##.js-mod-flow.hide.pt25.mod-detail-normal
+wenda.so.com##.js-detail-guess.pb20.pt25.mod-detail-normal
+
+! http://dljz.nicethemes.cn
+dljz.nicethemes.cn##.share
+dljz.nicethemes.cn##.art_share
+
+! http://www.china-audit.com
+www.china-audit.com##.fav
