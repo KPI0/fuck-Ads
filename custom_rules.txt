@@ -167,6 +167,7 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
+9sex.tv##*
 missav.com##*
 pornhubpremium.com##*
 mdapp.us##*
@@ -2606,6 +2607,10 @@ wap.yc.ifeng.com##.desc
 wap.yc.ifeng.com##.toper > .openapp
 wap.yc.ifeng.com##.img
 
+! https://finance.ifeng.com
+finance.ifeng.com##.share_box-1HbOUEQZ
+finance.ifeng.com##.share_box-3jSFjXRC
+
 ! https://www.1kkk.com
 www.1kkk.com##[href="/download/"]
 www.1kkk.com##.bottom-ys-con
@@ -4007,3 +4012,23 @@ dljz.nicethemes.cn##.art_share
 
 ! http://www.china-audit.com
 www.china-audit.com##.fav
+
+! https://www.cqcb.com
+www.cqcb.com###share2
+
+! https://9sex.tv
+9sex.tv###carouselExampleControls
+9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
+9sex.tv##.mb-1.text-center.p-lg-2.p-3
+9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12:nth-of-type(8)
+9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12:nth-of-type(5)
+9sex.tv##.higher.ivu-carousel-track
+
+! http://finance.ce.cn
+finance.ce.cn###div1
+
+! http://www.yangkatie.com
+www.yangkatie.com##[src="//www.yangkatie.com/images/OKX_pc.jpg?5"]
+
+! https://www.gzfc.net
+www.gzfc.net##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
