@@ -3742,3 +3742,19 @@ www.yangkatie.com##[src="//www.yangkatie.com/images/OKX_pc.jpg?5"]
 
 ! https://www.gzfc.net
 www.gzfc.net##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
+
+! https://wiki.jikexueyuan.com
+wiki.jikexueyuan.com##.clearfix.detail-share
+
+! http://www.xinyueseo.com
+www.xinyueseo.com##.sr-bdimgshare-black.sr-bdimgshare-16.sr-bdimgshare-list.sr-bdimgshare
+www.xinyueseo.com##.xshare
+
+! http://c.biancheng.net
+c.biancheng.net##.pic
+c.biancheng.net###ad-arc-top
+
+! https://www.php.cn
+www.php.cn##.bdshare-button-style0-16.bdsharebuttonbox.layui-clear.share
+www.php.cn##[src="https://img.php.cn/upload/course/000/000/071/627b7006bee65506.png"]
+www.php.cn##.wwads-vertical.wwads-cn
