@@ -167,6 +167,7 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
+xiguayul.com##*
 9sex.tv##*
 missav.com##*
 pornhubpremium.com##*
@@ -410,6 +411,7 @@ haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.player-pause-code
 haokan.baidu.com##.follow-btn
 haokan.baidu.com##.about
+haokan.baidu.com##.landrightbanner
 
 ! https://b2b.baidu.com
 b2b.baidu.com##div.item > .wrap
@@ -4048,3 +4050,41 @@ c.biancheng.net###ad-arc-top
 www.php.cn##.bdshare-button-style0-16.bdsharebuttonbox.layui-clear.share
 www.php.cn##[src="https://img.php.cn/upload/course/000/000/071/627b7006bee65506.png"]
 www.php.cn##.wwads-vertical.wwads-cn
+
+! https://ishare.iask.sina.com.cn
+ishare.iask.sina.com.cn##.detail-topbanner
+
+! http://blog.chinaunix.net
+blog.chinaunix.net##.bdshare-button-style0-16.bdsharebuttonbox
+
+! http://news.eeworld.com.cn
+||static.eewimg.cn/news/statics/images/channelicon.png$image
+||static.eewimg.cn/news/statics/images/channelicon.png$image
+news.eeworld.com.cn##.fengxiang
+
+! http://www.xde6.net
+www.xde6.net##.bdshare-button-style0-24.bdsharebuttonbox
+www.xde6.net##.fr.gb_resLay
+
+! https://www.xiexiebang.com
+www.xiexiebang.com##.marks
+
+! https://www.2018zhuan.com
+www.2018zhuan.com##.action-share
+
+! https://www.youtube.com
+www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:nth-of-type(2)
+
+! https://www.aisoutu.com
+www.aisoutu.com###baidulianmeng3
+
+! https://cdn.nftshipan.club
+cdn.nftshipan.club##uni-swiper-item > .bannerImgDetail
+cdn.nftshipan.club##.bannerImg > .uni-swiper-wrapper > .uni-swiper-slides
+cdn.nftshipan.club##.bannerImg > .uni-swiper-wrapper
+cdn.nftshipan.club##.uni-scroll-view-content > .bannerImg
+
+! http://www.h61889.com
+www.h61889.com###bdSharePopup_selectshare1653632547797box
+www.h61889.com##.xwfbzs2 .bdshare-button-style0-16.bdsharebuttonbox
+
