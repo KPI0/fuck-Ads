@@ -1,7 +1,7 @@
 > # [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/) uBlock Origin
 > > - ### uBlock Origin 扩展程序_源码地址：         [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 扩展程序_安装地址：         [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin//)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
-> > - ### 支持此扩展程序的手机浏览器：            [Kiwi](https://kiwibrowser.com/)、               [Firefox](https://www.firefox.com.cn/)、             [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)
+> > - ### 支持此扩展程序的手机浏览器：   [Kiwi](https://kiwibrowser.com/)、    [Firefox](https://www.firefox.com.cn/)、           [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)
 ----
 ## uBlock Origin_custom rules  
 ### uBlock Origin_自定义静态规则  
@@ -36,7 +36,7 @@
 *3、某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站上禁用广告拦截以支持网站的长久运行。*  
 
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt)
-### [点击此处或后面的小飞机可直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="10px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
+### [点击此处或后面的小飞机可直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
 
 # 参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
