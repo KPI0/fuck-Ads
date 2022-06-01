@@ -714,9 +714,11 @@ www.bilibili.com##.download-entry > span
 www.bilibili.com##.download-entry__icon > path
 www.bilibili.com##.download-entry__icon
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
+bilibili.com##div.qrcode-wrapper:nth-of-type(1)
+bilibili.com##div.qrcode-wrapper:nth-of-type(3)
+bilibili.com##div.qrcode-wrapper:nth-of-type(4)
 account.bilibili.com##.footer_right
 account.bilibili.com##.international-footer
-passport.bilibili.com##.right.block
 link.bilibili.com##.link-footer
 ||i0.hdslb.com/bfs/activity-plat/static/20171102/86685156c7e105a8509815159cf73d86/images/p6zp26183x.png$image
 ||i0.hdslb.com/bfs/activity-plat/679892a5e7f912a2ec8820b35327e9b3cf0e42ae.png$image
@@ -735,6 +737,7 @@ search.bilibili.com##.footer_right
 
 ! https://passport.bilibili.com
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
+passport.bilibili.com##.right.block
 
 ! https://a.app.qq.com
 a.app.qq.com##.main-download-btn
@@ -2366,6 +2369,8 @@ www.tianyancha.com##div.item:nth-of-type(2)
 www.tianyancha.com##.wechat.-top.item
 www.tianyancha.com##.-show.banner-bottom
 www.tianyancha.com##.tyc-home > .container
+www.tianyancha.com##.show.banner-bottom
+www.tianyancha.com##.tyc-bottom-banner-model
 
 ! https://www.jihaoba.com
 www.jihaoba.com##div.foot:nth-of-type(18)
@@ -4087,4 +4092,7 @@ cdn.nftshipan.club##.uni-scroll-view-content > .bannerImg
 ! http://www.h61889.com
 www.h61889.com###bdSharePopup_selectshare1653632547797box
 www.h61889.com##.xwfbzs2 .bdshare-button-style0-16.bdsharebuttonbox
+
+! http://www.takungpao.com
+www.takungpao.com##.bdshare-button-style0-24.clearfix.bdsharebuttonbox.tkp_con_share
 
