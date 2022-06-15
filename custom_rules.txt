@@ -442,6 +442,8 @@ fanyi.baidu.com##.sideQrContainer
 fanyi.baidu.com##.products-list
 fanyi.baidu.com##.follow-btns
 fanyi.baidu.com##.app-guide-outter
+fanyi.baidu.com##.app-new-guide-outter
+fanyi.baidu.com##.app-guide
 ||webmap1.bdimg.com/wolfman/static/common/images/activity-banner/background_47269be.png$image
 ||webmap1.bdimg.com/wolfman/static/common/images/activity-banner/background_47269be.png$image
 map.baidu.com###activity-banner-panel
@@ -646,6 +648,7 @@ music.163.com##.f-pr.download > .btn
 ||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
 ||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
 www.163.com##.ntes-nav-entry-bgblack.ntes-nav-mobile-title
+www.163.com##.newsapp-qrcode
 www.163.com##.post_top
 www.163.com##.mod_news_download
 www.163.com##[href="https://www.163.com/newsapp/#f=post2020_dy"]
@@ -714,9 +717,11 @@ www.bilibili.com##.download-entry > span
 www.bilibili.com##.download-entry__icon > path
 www.bilibili.com##.download-entry__icon
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
+www.bilibili.com##.download-client-trigger.download-entry
 bilibili.com##div.qrcode-wrapper:nth-of-type(1)
 bilibili.com##div.qrcode-wrapper:nth-of-type(3)
 bilibili.com##div.qrcode-wrapper:nth-of-type(4)
+bilibili.com##li.nav-link-item:nth-of-type(9)
 account.bilibili.com##.footer_right
 account.bilibili.com##.international-footer
 link.bilibili.com##.link-footer
@@ -1595,6 +1600,8 @@ www.zikao365.com##.fl.info-share-new
 ! https://ha.huatu.com
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
 ha.huatu.com##body > div > div
+gd.huatu.com##.share
+sydw.huatu.com##.bottomBar
 
 ! https://qb.zuoyebang.com
 qb.zuoyebang.com##.bottomBanner_1NuiX
@@ -1719,6 +1726,8 @@ www.guancha.cn##.Share_button_renren
 www.guancha.cn##.Share_button_tsina
 www.guancha.cn##.Share_button_weixin
 www.guancha.cn##.Share_button_favorite
+www.guancha.cn##.bdsharebuttonbox.fl.share-box
+www.guancha.cn##.post-join-member
 user.guancha.cn##.swiper-slide-active.swiper-slide > .go-to-app.g_flexBox
 user.guancha.cn##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container
 user.guancha.cn##.g_swiper_container
@@ -2483,6 +2492,7 @@ edu.liout.com###layui-layer-shade1
 ! https://www.aliyundrive.com
 www.aliyundrive.com##.desktop-reminder--1IK76
 www.aliyundrive.com##li.ant-dropdown-menu-item-only-child.ant-dropdown-menu-item:nth-of-type(2)
+www.aliyundrive.com##.container--CIvrv
 
 ! https://www.koubei.com
 www.koubei.com###JS-appdownload
@@ -2696,6 +2706,8 @@ www.360doc.com##.fxbtn_app
 www.360doc.com###goTop1
 www.360doc.com##.floatqrcode
 www.360doc.com###fixedShareArt
+www.360doc.com##.ul-similar
+www.360doc.com##div.str_border:nth-of-type(5)
 
 ! https://www.dazhuanlan.com
 www.dazhuanlan.com##.social-share-button
@@ -3110,6 +3122,7 @@ www.toutiao.com##.add-to-desktop-wrapper
 www.tiatiatoutiao.com##[src="/uploads/allimg/190427/1-1Z42F0444U55.png"]
 www.tiatiatoutiao.com###J_shoucang
 www.tiatiatoutiao.com##.show_go_1
+www.toutiao.com##.detail-side-interaction > div:nth-of-type(5)
 ||www.tiatiatoutiao.com/templets/crjwz@qq1845609988/assets/images/to_top_v2.png$image
 m.toutiao.com###top-banner-container-1648038047365
 m.toutiao.com##.download-bar__container
@@ -3191,6 +3204,9 @@ sh.people.com.cn##.btn_follow
 sh.people.com.cn##.nav_jia
 sh.people.com.cn##.cf.rm_download.rm_relevant
 sh.people.com.cn##.paper_num
+
+! http://opinion.people.com.cn
+opinion.people.com.cn###ops_share
 
 ! https://www.huya.com
 www.huya.com###download-pc-btn
@@ -3808,6 +3824,7 @@ www.examk.com##.right
 
 ! http://ask.mzhishi.com
 ask.mzhishi.com##.details_by_tg
+ask.mzhishi.com##.show_site_img
 
 ! https://www.shangxueba.com
 www.shangxueba.com##.fr.top_crumbs_r [href="javascript:;"]
@@ -4096,3 +4113,43 @@ www.h61889.com##.xwfbzs2 .bdshare-button-style0-16.bdsharebuttonbox
 ! http://www.takungpao.com
 www.takungpao.com##.bdshare-button-style0-24.clearfix.bdsharebuttonbox.tkp_con_share
 
+! http://www.dzwww.com
+www.dzwww.com##.share
+www.dzwww.com##.right > .bdshare-button-style0-16.bdsharebuttonbox.get-codes-bdshare.bds_tools.bdshare_t
+
+! https://www.feimiao.cn
+www.feimiao.cn##.page_right > .advert
+
+! https://kaoyan.koolearn.com
+kaoyan.koolearn.com##.bottom-fixed-zhenti
+kaoyan.koolearn.com##.kyzb_layer
+kaoyan.koolearn.com##.zhezhao
+
+! https://polygonscan.com
+polygonscan.com##.col-lg-5.col-12
+
+! https://www.qiyeshangpu.com
+www.qiyeshangpu.com##div.adbaidu1100:nth-of-type(9)
+www.qiyeshangpu.com##div.adbaidu1100:nth-of-type(11)
+www.qiyeshangpu.com##.k-right
+
+! https://www.tiw.cn
+www.tiw.cn###targetDiv
+
+! https://s.kaoyaya.com
+s.kaoyaya.com##.custom-window
+
+! http://www.javashuo.com
+www.javashuo.com##.share
+
+! https://www.xuesai.cn
+www.xuesai.cn##.searchList_side
+
+! https://live.nuedc-training.com.cn
+live.nuedc-training.com.cn##div.fl.clearfix:nth-of-type(1)
+
+! https://www.sqjob.cn
+www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
+www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
+www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
+www.sqjob.cn###BottomBg
