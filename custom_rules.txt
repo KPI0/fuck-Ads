@@ -494,6 +494,8 @@ pan.baidu.com##[href^="https://photo.baidu.com/photo/web/home"]
 pan.baidu.com##.wp-disk-header__right-item.web-header-ad-item
 pan.baidu.com##.operate-guide-img
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
+pan.baidu.com##.nd-operate-guidance
+pan.baidu.com##.wp-aside-nav__main-item.wp-aside-nav-bubble
 ||staticsns.cdn.bcebos.com/amis/2021-4/1619596757214/web%E5%A4%96%E9%93%BE%E9%A1%B5.jpg$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
@@ -611,6 +613,7 @@ wenku.baidu.com##div.tool-item:nth-of-type(3)
 wenku.baidu.com##div.tool-item:nth-of-type(4)
 wenku.baidu.com##.tools-wrapper
 wenku.baidu.com##.dialog-mask
+wenku.baidu.com##.vip-privilege-card-wrap
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(1)
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(2)
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(3)
@@ -1263,27 +1266,6 @@ www.docer.com##.footer-info__subscribe.footer-info__column > dd
 www.docer.com##div.footer-info__qcode:nth-of-type(2)
 ||s4.vas.wpscdn.cn/official/img/sprite.bada7ce.png$image
 ||s4.vas.wpscdn.cn/official/img/sprite.bada7ce.png$image
-
-! https://weibo.com
-weibo.com##li
-weibo.com##.Banner_card_1TG2d.Card_wrap_2ibWe.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main
-weibo.com##.S_ficon.ficon_game.W_ficon
-weibo.com##.Links_icon_2dHQb
-weibo.com##.Links_item_ZuBMD
-weibo.com##.clearfix.footer_link
-weibo.com##.T_add_ser.clearfix.S_bg1.other_link
-weibo.com##.S_txt1 > .S_txt1
-weibo.com##.wbpro-side-copy-inner
-weibo.com##.Card_bottomGap_2Xjqi.Card_wrap_2ibWe.woo-panel-left.woo-panel-bottom.woo-panel-right.woo-panel-top.woo-panel-main.wbpro-side
-weibo.com##.Main_sideMain_263ZF
-weibo.com##a.S_ficon_bg:nth-of-type(2)
-weibo.com##.W_gotop_v2.W_gotop > a.S_ficon_bg
-m.weibo.cn##.wrap
-||wx2.sinaimg.cn/large/005wdBKfly1ggxaypmc4oj30p204qdke$image
-||wx2.sinaimg.cn/large/005wdBKfly1ggxaypmc4oj30p204qdke$image
-||h5.sinaimg.cn/upload/1005/526/2021/08/23/bg.jpg$image
-||h5.sinaimg.cn/upload/1005/526/2021/08/23/bg.jpg$image
-||h5.sinaimg.cn/upload/1005/526/2021/08/23/*g$image
 
 ! https://www.kejiwanjia.com
 www.kejiwanjia.com##[src="https://www.kejiwanjia.com/wp-content/uploads/2021/10/jingdongshuang11banner.gif"]
@@ -2380,6 +2362,12 @@ www.tianyancha.com##.-show.banner-bottom
 www.tianyancha.com##.tyc-home > .container
 www.tianyancha.com##.show.banner-bottom
 www.tianyancha.com##.tyc-bottom-banner-model
+www.tianyancha.com##.index_activity-home-popup__yvYIZ.tyc-modal
+||image.tianyancha.com/activity/image/online/5049271d12b744f78d091945ad2d7396.jpg$image
+||image.tianyancha.com/activity/image/online/5049271d12b744f78d091945ad2d7396.jpg$image
+www.tianyancha.com##.tyc-modal-centered.tyc-modal-wrap
+www.tianyancha.com##.tyc-modal-mask
+www.tianyancha.com##.index_activity-banner-wrapper__cDIlb
 
 ! https://www.jihaoba.com
 www.jihaoba.com##div.foot:nth-of-type(18)
@@ -2462,6 +2450,7 @@ bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
 bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##.bdshare-slide-button
+bbs.elecfans.com###a_top_url
 www.elecfans.com##[src="https://skin.elecfans.com/images/open_ad_172.jpg"]
 www.elecfans.com##[href="https://dfm.elecfans.com/uploads/software/promoter/hqdfm_download.zip"]
 www.elecfans.com##[src="http://skin.elecfans.com/images/wx_right.jpg"]
@@ -4153,3 +4142,4 @@ www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
 www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
 www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
 www.sqjob.cn###BottomBg
+
