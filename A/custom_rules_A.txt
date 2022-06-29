@@ -3773,6 +3773,7 @@ www.php.cn##.wwads-vertical.wwads-cn
 
 ! https://ishare.iask.sina.com.cn
 ishare.iask.sina.com.cn##.detail-topbanner
+ishare.iask.sina.com.cn##.fix-right-bannertop
 
 ! http://blog.chinaunix.net
 blog.chinaunix.net##.bdshare-button-style0-16.bdsharebuttonbox
@@ -3851,4 +3852,11 @@ www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
 www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
 www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
 www.sqjob.cn###BottomBg
+
+! https://www.zikaosw.cn
+www.zikaosw.cn##.advbox
+www.zikaosw.cn##.adver-pic.boot
+
+! https://www.webhek.com
+www.webhek.com###overlay99
 
