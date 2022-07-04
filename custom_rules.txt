@@ -2302,6 +2302,10 @@ www.dandanzan.com##.shares
 
 ! https://maker.lceda.cn
 maker.lceda.cn##.float-ul
+lceda.cn##.float-window
+lceda.cn###editor_start_right_page
+||image-pro.lceda.cn/pro-images/d63dfeb72c404929a805ed55a1cf0089.jpg$image
+pro.lceda.cn##.weui-banner.box_shadow
 
 ! https://www.hupu.com
 www.hupu.com##.footer-floor
