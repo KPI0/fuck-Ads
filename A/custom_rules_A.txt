@@ -386,6 +386,9 @@ cc.163.com##.browser-zoom-tips-bgCon
 cc.163.com###download
 ||cc.res.netease.com/_next/static/images/index/index-3.5335.png$image
 
+! https://3g.163.com
+3g.163.com##.js-open-app.backflow-floating
+
 ! https://www.ghxi.com
 www.ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 www.ghxi.com##.text-center.info
@@ -411,6 +414,7 @@ yun.139.com##.down_explain_div_span
 ! https://bilibili.com
 live.bilibili.com##.f-right.footer-right
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
+www.bilibili.com##.mobile.nav-item
 www.bilibili.com##li.nav-link-item:nth-of-type(8)
 www.bilibili.com##.app-download-link
 www.bilibili.com##.share-btn.share-container
@@ -434,6 +438,7 @@ bilibili.com##div.qrcode-wrapper:nth-of-type(1)
 bilibili.com##div.qrcode-wrapper:nth-of-type(3)
 bilibili.com##div.qrcode-wrapper:nth-of-type(4)
 bilibili.com##li.nav-link-item:nth-of-type(9)
+account.bilibili.com##.van-popover__reference.download-client-trigger.link
 account.bilibili.com##.footer_right
 account.bilibili.com##.international-footer
 link.bilibili.com##.link-footer
@@ -455,6 +460,10 @@ search.bilibili.com##.footer_right
 ! https://passport.bilibili.com
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 passport.bilibili.com##.right.block
+
+! https://pay.bilibili.com
+pay.bilibili.com##.van-popover__reference.download-client-trigger.link
+pay.bilibili.com##.biliapp
 
 ! https://a.app.qq.com
 a.app.qq.com##.main-download-btn
@@ -3342,6 +3351,10 @@ rf.eefocus.com##.api-qrcode-panel-show.hidden-xxs.api-qrcode-panel
 ! https://www.eefocus.com
 www.eefocus.com##.icon-container
 
+! https://m.eefocus.com
+m.eefocus.com##.common-top-ad-container > .pro-placeholder
+m.eefocus.com##.common-top-ad-container
+
 ! http://www.rsdznjj.com
 www.rsdznjj.com##.layout-entry-share
 
@@ -3656,6 +3669,9 @@ enet.com.cn##.bdshare-button-style1-24.bdsharebuttonbox
 ! https://hk.finance.yahoo.com
 hk.finance.yahoo.com##.caas-share-section
 
+! https://tw.news.yahoo.com
+tw.news.yahoo.com##.caas-share-section
+
 ! http://stdaily.com
 stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_qzone
 stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox > .bds_tsina
@@ -3755,6 +3771,7 @@ finance.ce.cn###div1
 
 ! http://www.yangkatie.com
 www.yangkatie.com##[src="//www.yangkatie.com/images/OKX_pc.jpg?5"]
+www.yangkatie.com##[src="//www.yangkatie.com/images/OKX_pc.jpg?6.21"]
 
 ! https://www.gzfc.net
 www.gzfc.net##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
@@ -3863,4 +3880,10 @@ www.zikaosw.cn##.adver-pic.boot
 
 ! https://www.webhek.com
 www.webhek.com###overlay99
+
+! http://www.hackdig.com
+www.hackdig.com###bdshare
+
+! http://www.wyzxwk.com
+www.wyzxwk.com##.f-fr.HRshare3
 
