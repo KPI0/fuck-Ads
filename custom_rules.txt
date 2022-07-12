@@ -1,6 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
+! TimeUpdated: 2022-07-12
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓软件/网站/反智媒体/传销诈骗
@@ -1082,6 +1083,10 @@ m.tv.sohu.com##.js-oper-pos
 download.csdn.net##.m_toolbar_left_app_btn
 download.csdn.net##li > [href^="//www.csdn.net/apps/download"]
 download.csdn.net##.csdn-common-logo-advert
+download.csdn.net##.passport-login-box
+download.csdn.net##.passport-login-mark
+download.csdn.net##.blind_box
+download.csdn.net##.passport-login-container
 csdn.net##.openApp
 csdn.net##.no—h.option-box
 csdn.net##.so-questionnaire
@@ -1105,6 +1110,9 @@ blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##li > [href^="//www.csdn.net/apps/download"]
 blog.csdn.net##.m_toolbar_left_app_btn
+blog.csdn.net##.passport-login-box
+blog.csdn.net##.passport-login-mark
+blog.csdn.net##.passport-login-container
 www.csdn.net###nps-box
 www.csdn.net##.kp_bos_swiper.broadcast-active
 www.csdn.net##.m_toolbar_left_app_btn
@@ -1971,6 +1979,9 @@ news.ittime.com.cn##.share_box
 www.jiemian.com##.download
 www.jiemian.com##.return-left-container
 www.jiemian.com##.share-article > .article-share
+m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
+m.jiemian.com##.app-open
+m.jiemian.com##.download-app
 
 ! http://www.ceconline.com
 www.ceconline.com##.CEC_fixedSideBox
@@ -2016,6 +2027,7 @@ news.mydrivers.com##p.copyright:nth-of-type(2)
 news.mydrivers.com##p.copyright:nth-of-type(3)
 news.mydrivers.com##.share > table > tbody > tr > td
 news.mydrivers.com##.share
+m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
 ||icons.mydrivers.com/2018/common/kkj_android.png$image
 
 ! https://www.cnki.com.cn
@@ -3271,6 +3283,9 @@ www.chinanews.com.cn##.index_layerul [href="/app/chinanews/index.shtml"]
 www.chinanews.com.cn##.index_layerul > li
 www.chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-select
 www.chinanews.com.cn##li.division:nth-of-type(1)
+www.chinanews.com.cn###qizhi_div1200 > .social-share.share-component.share
+www.chinanews.com.cn###newewm
+www.chinanews.com.cn###second-title > .divnew > .social-share.share-component.share
 
 ! https://www.ip138.com
 www.ip138.com##.mod-news.module
@@ -3764,6 +3779,7 @@ www.51pptmoban.com##.pdad
 
 ! https://view.inews.qq.com
 view.inews.qq.com##.slider-top-bar_open__1rKOo
+view.inews.qq.com##._1SWUWqTi2R592v5SdoMlaN
 view.inews.qq.com##.xwiconfontv1_icon-xwclose__3nqhj.xwiconfontv1_xwiconfont__2t3zT.slider-top-bar_close__3Zlb3
 
 ! https://www.tuoluocaijing.cn
@@ -4177,4 +4193,27 @@ www.hackdig.com###bdshare
 
 ! http://www.wyzxwk.com
 www.wyzxwk.com##.f-fr.HRshare3
+
+! http://news.hbtv.com.cn
+news.hbtv.com.cn###article_attr > .bdshare-button-style1-24.bdsharebuttonbox.flex_sbc
+news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
+news.hbtv.com.cn##.bdshare-button-style1-24.bdsharebuttonbox.flex_sbc
+
+! http://share.mala.cn
+share.mala.cn##.white.down-top
+share.mala.cn##.download_area
+
+! http://news.bandao.cn
+news.bandao.cn##.news-topshare
+news.bandao.cn##.news-topshare-fixed
+
+! http://www.jwview.com
+www.jwview.com##.bshare
+www.jwview.com##.ewm_box
+
+! http://news.cnhubei.com
+news.cnhubei.com###cjly_nav01
+
+! https://m.jrj.com.cn
+m.jrj.com.cn##.showNew.btntop
 
