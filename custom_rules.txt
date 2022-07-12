@@ -295,6 +295,7 @@ fbjav.com##*
 9xxx.net##*
 bigojav.com##*
 
+! 广告弹窗/元素
 ! https://sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
 123.sogou.com##.m-3-5.row
