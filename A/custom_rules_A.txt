@@ -4,6 +4,7 @@
 ! TimeUpdated: 2022-07-12
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
+! 广告弹窗/元素
 ! https://sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
 123.sogou.com##.m-3-5.row
