@@ -1,8 +1,8 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules
+! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
 ! TimeUpdated: 2022-07-13
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
 ! https://sogou.com
@@ -1120,7 +1120,6 @@ www.thepaper.cn###\31 6869218
 www.thepaper.cn###\31 6836913 > div > .weixin_share
 www.thepaper.cn###\31 6836913
 ||file.thepaper.cn/www/v3/img/share_bg.png$image
-||file.thepaper.cn/www/v3/img/share_bg.png$image
 
 ! https://www.hiyd.com
 ||www.hiyd.com/static/img/nav-dl.png$image
@@ -1190,10 +1189,6 @@ i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
 www.chaoxing.com##.xxtXz
 ||i.chaoxing.com/nervous/images/download.png$image
-||i.chaoxing.com/nervous/images/download.png$image
-||erya.mooc.chaoxing.com/assets/images/common/icon_tel.png$image
-||erya.mooc.chaoxing.com/assets/images/common/icon_tel.png$image
-||erya.mooc.chaoxing.com/assets/images/common/icon_tel.png$image
 ||erya.mooc.chaoxing.com/assets/images/common/icon_tel.png$image
 
 ! https://www.med66.com
@@ -1241,11 +1236,6 @@ www.jsw8.net##.navcates.gonggao
 www.jsw8.net##.footer-sns
 
 ! https://www.jianshu.com
-||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
-||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
-||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
-||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
-||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
 ||cdn2.jianshu.io/assets/web/login_page_download-791aa73fa61f50db586c09156c6242cf.png$image
 ||cdn2.jianshu.io/assets/web/download_app-93f9722ab463bb07c6f3c66c8549bfaf.png$image
 www.jianshu.com##canvas
@@ -1340,10 +1330,8 @@ qb.zuoyebang.com##.download_2d_iC
 qb.zuoyebang.com##.moreDialogCore.core_3iymw
 qb.zuoyebang.com##.moreDialog_22C9t.Dialog_3O1fy
 ||app-search.cdnjtzy.com/xfe-question/_nuxt/img/dialog_bg.291a7cb.png$image
-||app-search.cdnjtzy.com/xfe-question/_nuxt/img/dialog_bg.291a7cb.png$image
 
 ! https://zhiyou.smzdm.com
-||qneimg.smzdm.com/202112/22/61c2c4878120c6202.jpg_f600.jpg$image
 ||qneimg.smzdm.com/202112/22/61c2c4878120c6202.jpg_f600.jpg$image
 ||qneimg.smzdm.com/202112/2*/61c*.jpg_f600.jpg$image
 ||v.smtcdns.net^$domain=www.douyu.com
@@ -1557,7 +1545,6 @@ jf.10086.cn##.scanCode
 jf.10086.cn##.mt8
 ||www.10086.cn/cq_head/images/index5/phone.png$image
 ||mcmm.caiyun.feixin.10086.cn/mcmmImg/2018/2021020117424182362.jpg$image
-||mcmm.caiyun.feixin.10086.cn/mcmmImg/2018/2021020117424182362.jpg$image
 www.10086.cn###tempBar1
 www.10086.cn###sjyyt
 appmail.mail.10086.cn##.dkSkin.view-codeBox
@@ -1669,8 +1656,6 @@ www.jdzj.com##[src="//www.jdzj.com/t_img/mjdzj.png"]
 ! https://www.pptstore.net
 ||www.pptstore.net/v1/img/weixin.png$image
 ||widget.weibo.com/relationship/followbutton.php?width=200&height=22&uid=2375513825&style=5&btn=red&dpc=1$subdocument
-||www.pptstore.net/v1/img/weixin.png$image
-||www.pptstore.net/v1/img/weixin.png$image
 www.pptstore.net###second_menu > .weixin
 
 ! https://ibaotu.com
@@ -1757,7 +1742,6 @@ www.cnki.com.cn##.mobile-link.a05
 
 ! http://www.chinadaily.com.cn
 ||www.chinadaily.com.cn/image_c/2011zwgj/bg/newicons.gif$image
-||www.chinadaily.com.cn/image_c/2011zwgj/bg/newicons.gif$image
 www.chinadaily.com.cn##.newtipbox > .floatrgt
 www.chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 
@@ -1785,7 +1769,6 @@ www.officeplus.cn##.favorit
 
 ! https://www.xzbu.com
 ||res.xzbu.com/v2/base/dl/xueshu-a4.jpg$image
-||file.soperson.com/probe/20003303/5e82ab5ba3104c1ce09466aa.png$image
 ||file.soperson.com/probe/20003303/5e82ab5ba3104c1ce09466aa.png$image
 ||res.xzbu.com/v2/base/dl/xueshu-a2.jpg$image
 www.xzbu.com###down-file
@@ -1836,7 +1819,6 @@ www.jswvip.net##.clearfix
 www.jswvip.net##.ishare.share-component
 www.jswvip.net##.weixin.bt-box
 www.jswvip.net##.theiaStickySidebar
-||www.jswvip.net/zb_users/theme/mxlee/style/images/background-top.jpg$image
 ||www.jswvip.net/zb_users/theme/mxlee/style/images/background-top.jpg$image
 ||www.jswvip.net/zb_users/upload/2021/12/20211204011623163855178345858.gif$image
 
@@ -1895,8 +1877,6 @@ www.m-lou.com###header-bg
 
 ! http://www.coozhi.com
 ||img.coozhi.com/skin/images/shouji.png$image
-||img.coozhi.com/skin/images/shouji.png$image
-||img.coozhi.com/skin/images/shouji.png$image
 www.coozhi.com##li:nth-of-type(5)
 www.coozhi.com##.btn-article-like
 www.coozhi.com##.news2
@@ -1916,10 +1896,6 @@ www.91exam.org##.a2 > div
 
 ! http://edu.youth.cn
 ||news.youth.cn/images/youth_sjy_64.jpg$image
-||news.youth.cn/images/youth_sjy_64.jpg$image
-||news.youth.cn/images/sub_icon_tb2_03.jpg$image
-||news.youth.cn/images/sub_icon_tb2_03.jpg$image
-||news.youth.cn/images/sub_icon_tb2_03.jpg$image
 ||news.youth.cn/images/sub_icon_tb2_03.jpg$image
 ||news.youth.cn/images/*.jpg$image
 edu.youth.cn##div:nth-of-type(12)
@@ -2068,7 +2044,6 @@ www.hfnl.ustc.edu.cn##.fx > .bdshare-button-style0-16.bdsharebuttonbox
 
 ! https://url54.ctfile.com
 ||webapi.ctfile.com/assets/img/illustrations/corner-2.png$image
-||webapi.ctfile.com/assets/img/illustrations/corner-2.png$image
 url54.ctfile.com##.p-3.modal-body > div
 url54.ctfile.com##.flex-row.d-flex.p-3.card-body
 url54.ctfile.com##.fs--1.btn-light.btn-sm.btn
@@ -2110,7 +2085,6 @@ www.tianyancha.com##.tyc-home > .container
 www.tianyancha.com##.show.banner-bottom
 www.tianyancha.com##.tyc-bottom-banner-model
 www.tianyancha.com##.index_activity-home-popup__yvYIZ.tyc-modal
-||image.tianyancha.com/activity/image/online/5049271d12b744f78d091945ad2d7396.jpg$image
 ||image.tianyancha.com/activity/image/online/5049271d12b744f78d091945ad2d7396.jpg$image
 www.tianyancha.com##.tyc-modal-centered.tyc-modal-wrap
 www.tianyancha.com##.tyc-modal-mask
@@ -2216,6 +2190,8 @@ m.elecfans.com##.open_app_fixed.flex.open_app
 m.elecfans.com##.btn-createCover.ft_share
 m.elecfans.com##.perfect_infomation_tip
 m.elecfans.com##.aside_adv5.aside_adv
+m.elecfans.com##.baidu_click_tongji2.open_app_arc
+m.elecfans.com##div.flex-center:nth-of-type(1)
 
 ! https://time.is
 ||time.is/img/app_store_badge/Download_on_the_App_Store_Badge_CN_135x40.svg$image
@@ -2236,8 +2212,6 @@ www.aliyundrive.com##.container--CIvrv
 www.koubei.com###JS-appdownload
 www.koubei.com##.koubei-section3-box
 www.koubei.com##.koubei-section3
-||zos.alipayobjects.com/rmsportal/DTivOJnXWclPwJLVZkRM.png$image
-||zos.alipayobjects.com/rmsportal/DTivOJnXWclPwJLVZkRM.png$image
 ||zos.alipayobjects.com/rmsportal/DTivOJnXWclPwJLVZkRM.png$image
 
 ! https://cq.ganji.com
@@ -2343,7 +2317,6 @@ www.sci-hub.ren###share
 
 ! https://ifeng.com
 ||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
-||x0.ifengimg.com/ucms/2021_51/34E3B7153C9BD3CBF9FED49B3B2222C155B86001_size13_w640_h92.jpg$image
 tech.ifeng.com##.share_box-1HbOUEQZ > .share_box-29at7jsG
 tech.ifeng.com##.share_box-3jSFjXRC > .share_box-29at7jsG
 tech.ifeng.com##.qr_box-1n_2SIw3
@@ -2376,7 +2349,6 @@ www.1kkk.com##.index-right-float > li
 www.1kkk.com##.container-fluid.footer
 www.1kkk.com##.index-friendship
 ||css99tel.cdndm5.com/v202111301550/blue/images/sd/index-side-code.png$image
-||css99tel.cdndm5.com/v202111301550/blue/images/sd/index-side-code.png$image
 ||css99tel.cdndm5.com/v202111301550/blue/images/sd/detail-share.png$image
 
 ! https://manhua.dmzj.com
@@ -2397,7 +2369,6 @@ www.mkzhan.com##.qr-code.aside__item
 www.mkzhan.com##.share.aside__item
 
 ! https://afdian.net
-||pic1.afdiancdn.com/static/img/banner/app-web-banner03.png$image
 ||pic1.afdiancdn.com/static/img/banner/app-web-banner03.png$image
 afdian.net##.mt-32-0.mq.block.banner-door
 afdian.net##.info > .vm-btn
@@ -2429,10 +2400,7 @@ www.cnbeta.com##
 
 ! http://www.360doc.com
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
-||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1105/23/22445022_1002945349.shtml&aid=1002945349&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
 ||www.360doc.com/loginRegisterLayerNew.aspx?layer=1&&isScrllLogin=1&reurl=http://www.360doc.com/content/21/1106/20/321901_1003053090.shtml&aid=1003053090&isSNSSaveArt=0&oneVip=0&isScrollLogin=1&artreg=1$subdocument
-||pubimage.360doc.com/NewArticle/wz2020.png$image
-||pubimage.360doc.com/NewArticle/wz2020.png$image
 ||pubimage.360doc.com/NewArticle/wz2020.png$image
 www.360doc.com###registerOrLoginLayer
 www.360doc.com###zcommondID > .newbtn_share
@@ -2524,8 +2492,6 @@ www.1ting.com##[href="http://d.1ting.com/听音乐.url"]
 ! https://hao.360.com
 hao.360.com##.plane-bd [href="https://go.360.cn/"]
 hao.360.com##.plane-bd > li
-||hao1.qhimg.com/t01c7482186d291c85e.png$image
-||hao1.qhimg.com/t01c7482186d291c85e.png$image
 ||hao1.qhimg.com/t01c7482186d291c85e.png$image
 
 ! https://www.yszzq.com
@@ -3956,4 +3922,3 @@ tech.hqew.com##.tech-detail-share
 
 ! https://www.icxbk.com
 www.icxbk.com##.banner-sys
-
