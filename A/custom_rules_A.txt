@@ -1,8 +1,8 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules_A
+! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-12
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
+! TimeUpdated: 2022-07-13
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 广告弹窗/元素
 ! https://sogou.com
@@ -171,6 +171,11 @@ passport.baidu.com##.qrcode-download
 baijiahao.baidu.com##.index-module_bottomContainer_2QFqg
 baijiahao.baidu.com##.index-module_relateContainer_3RNjY
 baijiahao.baidu.com##.index-module_recentArticleContainer_13m7C
+baijiahao.baidu.com##.headDeflectorContainer
+baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
+baijiahao.baidu.com##.contentPadding.bottomTTSStruct
+baijiahao.baidu.com##._16ea1zqC310VrXHS_t0WKV > ._2pAQdW0IKWK9Gls6a_Vbh > .I93A3I9G2BRddV73LoQ37
+baijiahao.baidu.com##.I93A3I9G2BRddV73LoQ37
 dumall.baidu.com##div.whiteBg.com-focus.jsx-1049465603:nth-of-type(4)
 dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
 dumall.baidu.com##.whiteBg.com-advertisement.jsx-1049465603
@@ -1260,6 +1265,13 @@ www.jianshu.com##.download-btn
 www.jianshu.com##.call-app-btn
 www.jianshu.com##.app-open
 www.jianshu.com##.header-download
+www.jianshu.com##.baidu-app-download-2eIkf_1
+www.jianshu.com##.download
+www.jianshu.com##.border.item
+www.jianshu.com##span.line:nth-of-type(1)
+www.jianshu.com##.recommend-ad.recommend-wrap
+www.jianshu.com##.btn-content > button:nth-of-type(2)
+www.jianshu.com##.note-graceful-button
 
 ! https://www.mingyantong.com
 www.mingyantong.com###jushare
@@ -2202,6 +2214,8 @@ www.elecfans.com##.detail-share
 m.elecfans.com##.btn-createCover.share
 m.elecfans.com##.open_app_fixed.flex.open_app
 m.elecfans.com##.btn-createCover.ft_share
+m.elecfans.com##.perfect_infomation_tip
+m.elecfans.com##.aside_adv5.aside_adv
 
 ! https://time.is
 ||time.is/img/app_store_badge/Download_on_the_App_Store_Badge_CN_135x40.svg$image
@@ -2432,6 +2446,9 @@ www.360doc.com##.floatqrcode
 www.360doc.com###fixedShareArt
 www.360doc.com##.ul-similar
 www.360doc.com##div.str_border:nth-of-type(5)
+
+! http://www.360doc.cn
+www.360doc.cn##.abtn_openapp
 
 ! https://www.dazhuanlan.com
 www.dazhuanlan.com##.social-share-button
@@ -3366,6 +3383,8 @@ rf.eefocus.com##.api-qrcode-panel-show.hidden-xxs.api-qrcode-panel
 
 ! https://www.eefocus.com
 www.eefocus.com##.icon-container
+www.eefocus.com##.eef-ad-type-billboard
+www.eefocus.com##.ad-bottom-new
 
 ! https://m.eefocus.com
 m.eefocus.com##.common-top-ad-container > .pro-placeholder
@@ -3926,4 +3945,15 @@ news.cnhubei.com###cjly_nav01
 
 ! https://m.jrj.com.cn
 m.jrj.com.cn##.showNew.btntop
+
+! http://www.qiaomi.cn
+www.qiaomi.cn##.sharelink
+
+! https://tech.hqew.com
+tech.hqew.com##.qr
+tech.hqew.com##.header-qrcode-qiaqia
+tech.hqew.com##.tech-detail-share
+
+! https://www.icxbk.com
+www.icxbk.com##.banner-sys
 
