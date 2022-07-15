@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-13
+! TimeUpdated: 2022-07-15
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -441,6 +441,7 @@ www.bilibili.com##.download-entry__icon > path
 www.bilibili.com##.download-entry__icon
 www.bilibili.com##.clearfix.h5-download-bar.d-f-s
 www.bilibili.com##.download-client-trigger.download-entry
+www.bilibili.com##.desktop-download-tip
 bilibili.com##div.qrcode-wrapper:nth-of-type(1)
 bilibili.com##div.qrcode-wrapper:nth-of-type(3)
 bilibili.com##div.qrcode-wrapper:nth-of-type(4)
