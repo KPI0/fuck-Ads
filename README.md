@@ -102,6 +102,11 @@
 ```
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
+```
+  https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
+```
+
+
 
 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
