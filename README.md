@@ -103,7 +103,7 @@
   https://gitee.com/halflife/list/raw/master/ad.txt
 ```
 ```
-  https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
+https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 ```
 
 
