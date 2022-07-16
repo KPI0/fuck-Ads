@@ -109,7 +109,7 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
-## 广告拦截分数评估  
+# 广告拦截分数评估  
 
 [<img align="left" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/logo.c41e6f93.svg" width="33px" />](https://checkadblock.ru/) https://checkadblock.ru
 
