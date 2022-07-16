@@ -53,19 +53,19 @@
 ### 复制下面的规则链接地址(4任选1)，在插件以下图位置中添加订阅链接更新即可。
 - jsDelivr 更新延迟24h
 ```
-  https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
+https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
 ``` 
 - GitHub   更新延迟<1h
 ```
-  https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 - Gitee    更新延迟<1h
 ```
-   https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
+https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
 ```
 - fastgit  更新延迟24h
 ```
-  https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
 
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
@@ -82,31 +82,29 @@
 
 > ### [互联网规则集合](https://filterlists.com/)
 ```
-  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 ```
 ```
-  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/EasyList.txt
 ```
 ```
-  https://cdn.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt 
+https://cdn.jsdelivr.net/gh/cyao2q/files/filters/AdGuardChinese.txt 
 ```
 ```
-  https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt 
+https://gitee.com/cexoso/codes/cxpjzkd028vas94rgio6383/raw?blob_name=360adblock.txt 
 ```
 ```
-  https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
+https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts 
 ```
 ```
-  https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
+https://gitee.com/xinggsf/Adblock-Rule/raw/master/rule.txt
 ```
 ```
-  https://gitee.com/halflife/list/raw/master/ad.txt
+https://gitee.com/halflife/list/raw/master/ad.txt
 ```
 ```
 https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 ```
-
-
 
 [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
