@@ -112,7 +112,7 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 
 ## 广告拦截分数评估  
 
-[<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/logo.c41e6f93.svg" width="53px" />](https://checkadblock.ru/)  
+[<img align="left" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/logo.c41e6f93.svg" width="53px" />](https://checkadblock.ru/)  
 
 
 ## 目的：网站页面更加干净、清爽、简洁、健康。
