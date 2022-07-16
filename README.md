@@ -110,9 +110,9 @@ https://cats-team.coding.net/p/adguard/d/AdRules/git/raw/main/adblock.txt
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
-### 广告拦截分数评估
+## 广告拦截分数评估
 [https://checkadblock.ru](https://checkadblock.ru/)  
 
 
-### 目的：网站页面更加干净、清爽、简洁、健康。
+## 目的：网站页面更加干净、清爽、简洁、健康。
 
