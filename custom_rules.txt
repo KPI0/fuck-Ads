@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-15
+! TimeUpdated: 2022-07-20
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓软件/网站/反智媒体/传销诈骗
@@ -314,7 +314,6 @@ bigojav.com##*
 123.sogou.com##.leftbar
 mse.sogou.com##*
 ||123p0.sogoucdn.com/imgu/2016/10/20161020190026_635.png?v=20180711$image
-||123p0.sogoucdn.com/imgu/2016/10/20161020190026_635.png?v=20180711$image
 
 ! https://www.facebook.com
 m.facebook.com###login_top_banner
@@ -360,6 +359,7 @@ www.baidu.com##._1_KgV.card._8naka.c-container
 www.baidu.com##.c-gap-top.op-guide-cont
 www.baidu.com###wenda_inquiry
 www.baidu.com##.recommend-wrapper_M-eYq
+www.baidu.com##.op-guide
 
 ! https://aiqicha.baidu.com
 aiqicha.baidu.com##.show.content
@@ -447,10 +447,8 @@ fanyi.baidu.com##.app-guide-outter
 fanyi.baidu.com##.app-new-guide-outter
 fanyi.baidu.com##.app-guide
 ||webmap1.bdimg.com/wolfman/static/common/images/activity-banner/background_47269be.png$image
-||webmap1.bdimg.com/wolfman/static/common/images/activity-banner/background_47269be.png$image
 map.baidu.com###activity-banner-panel
 ||iknow-base.cdn.bcebos.com/jingdianyoushang.png$image
-||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
 ||iknowpc.bdimg.com/static/common/widget/task/img/e*$image
 ||iknowpc.bdimg.com/static/common/widget/task/img/entrance-expand.8e1816a.png$image
 ||iknowpc.bdimg.com/static/common/widget/task/img/earn-points-exchange-gifts-bubble.4db996d.png?__sprite$image
@@ -503,13 +501,13 @@ pan.baidu.com##.operate-guide-img
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 pan.baidu.com##.nd-operate-guidance
 pan.baidu.com##.wp-aside-nav__main-item.wp-aside-nav-bubble
+pan.baidu.com##.nd-dialog-workspace--bg.nd-dialog-common-header.u-dialog__wrapper > .u-dialog__mini.u-dialog
+pan.baidu.com##.nd-dialog-workspace--bg.nd-dialog-common-header.u-dialog__wrapper
+pan.baidu.com##.v-modal
+pan.baidu.com##.wp-s-aside-nav__main-item.wp-s-aside-nav-bubble
 ||staticsns.cdn.bcebos.com/amis/2021-4/1619596757214/web%E5%A4%96%E9%93%BE%E9%A1%B5.jpg$image
-||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
-||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
 ||nd-static.bdstatic.com/m-static/v20-main/img/littlexiangce.9ce6a222.png$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
-||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
-||pannss.bdstatic.com/m-static/interface-widget-1/wpguide/img/wp-banner_d64447d.gif$image
 ||pannss.bdstatic.com/m-static/interface-widget-1/wpguide/img/wp-banner_d64447d.gif$image
 
 ! https://eyun.baidu.com
@@ -624,16 +622,14 @@ wenku.baidu.com##.vip-privilege-card-wrap
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(1)
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(2)
 wenku.baidu.com##div.group-block:nth-of-type(5) > .class-list > div.class-item:nth-of-type(3)
+wenku.baidu.com##.has-cashier-card.try-end-fold-page
+wenku.baidu.com##div.small-btn:nth-of-type(2)
 ||edu-wenku.bdimg.com/v1/pc/activity-assets/newtermsale/pc_dialog.png$image
-||edu-wenku.bdimg.com/v1/pc/activity-assets/newtermsale/pc_dialog.png$image
-||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
-||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
 ||edu-wenku.bdimg.com/v1/icon/PC%E4%BC%9A%E5%91%98%E5%8D%A1%E7%89%87/25-80-1-1616986892595.png$image
 ||edu-tob.bdimg.com/v1/pc/4e48a463c34091a7fa489525833883a6-1618206292859.PNG$image
 ||wkstatic.bdimg.com/static/ndpcwenku/static/ndview/img/bg-vip.cc1b810a540ff78307960636b3ad7896.png$image
 
 ! https://www.dubox.com
-||data.dubox.com/issue/dubox/%2Fweb-Rename-3.22/web_activity_back.png?size=c300_u300$image
 ||data.dubox.com/issue/dubox/%2Fweb-Rename-3.22/web_activity_*.png?size=c300_u300$image
 ||data.dubox.com/issue/dubox/%2Fweb-Rename-3.22/web_activity_back.png?size=c300_u300$image
 www.dubox.com##.notification-wrap
@@ -649,13 +645,7 @@ music.163.com##.m-top
 music.163.com##.f-pr.download > .btn
 ||s2.music.126.net/style/web2/img/frame/topbar.png?398b6fcf944f8e81ae63573e389aaaf2$image
 ||s2.music.126.net/style/web2/img/frame/topbar.png?7ffbfa72872896d428cebadecd571a42$image
-||s2.music.126.net/style/web2/img/frame/topbar.png?7ffbfa72872896d428cebadecd571a42$image
-||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
-||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
-||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
 ||s2.music.126.net/style/web2/img/index/download.png$image
-||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
-||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
 ||s2.music.126.net/style/web2/img/index/download.png?0bb7b9547eb8c78f56729708dbc9f306$image
 www.163.com##.ntes-nav-entry-bgblack.ntes-nav-mobile-title
 www.163.com##.newsapp-qrcode
@@ -672,7 +662,6 @@ mail.163.com###_mail_component_128_128
 mail.163.com###_mail_component_108_108
 mail.163.com##.nui-closeable.gWel-promt-radius.gWel-recommend
 mail.163.com###_mail_component_106_106 > .nui-txt-link.sh0.js-component-component
-||mail-activity.nosdn.127.net/d78ddd66-8318-44f2-a7a8-8214d1426a4a$image
 email.163.com###mailgg__10241024_0 > .fadeIn.animated.theme-item
 ||mail-activity.nosdn.127.net/4f3936ac-fa84-4073-8b75-19158a41db06$image
 email.163.com###mailgg__10241024_2 > .fadeIn.animated.theme-item
@@ -697,6 +686,7 @@ www.ghxi.com###modules-12
 www.ghxi.com##.width-footer-bar.footer
 www.ghxi.com##.j-share.action-item
 www.ghxi.com##.ad_single_12.ghxi_wpcom_ad_wrap
+www.ghxi.com##div:nth-of-type(6)
 ||img.lovestu.com/uploads/2019/05/gzwxad.png$image
 ||img.lguohe.com/uploads/2021/03/xrk20210304154055.png$image
 ||www.ghxi.com/wp-content/uploads/2019/11/kmsbanner.png$image
@@ -751,6 +741,7 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
 t.bilibili.com##.notice-panel
+t.bilibili.com##.download-client-trigger.download-entry
 
 ! https://search.bilibili.com
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -935,8 +926,6 @@ pc.qq.com##.footer
 pc.qq.com##.container_12.link
 pc.qq.com##.category-wrap
 ||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
-||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
-||pc2.gtimg.com/softmgr/picture/v3/subject/47937044f464ac59003dae1436250c13.png$image
 ||pc1.gtimg.com/act/brand/sem/images/bg02-14c8eef4ab.jpg$image
 ||pc1.gtimg.com/act/brand/sem/images/*g$image
 ||pc2.gtimg.com/softmgr/picture/v3/subject/781f1a3558604f3369a814dd7fef0cc9.png$image
@@ -995,7 +984,6 @@ so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
 ||pic2.iqiyipic.com/common/lego/20180803/49751bff3e7f46ac85c699dc56e560e4.png$image
 ||www.iqiyipic.com/common/fix/site-v4/classes-logo-big-open20200720.png$image
 ||www.iqiyipic.com/common/fix/site-v4/play/pca-pc-bg-20200605@2x.png$image
-||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
 ||pic2.iqiyipic.com/common/lego/20210218/119ab2cdf5c74674befc93011b230e45.png$image
 ||static-s.iqiyi.com/common/20201125/qiyue2.0/25/f2/523670ca9db5490ebb72bc501f1fe1245463045906107138077.png$image
 ||www.iqiyipic.com/common/fix/h5-aura/banner-new.png$image
@@ -1134,8 +1122,6 @@ music.douban.com##.artist-wx-qrcode
 
 ! https://www.youku.com
 ||ykimg.alicdn.com/develop/image/2020-02-19/b63e77a964648ba174aff4b5aa156975.png$image
-||ykimg.alicdn.com/develop/image/2020-02-19/b63e77a964648ba174aff4b5aa156975.png$image
-||ykimg.alicdn.com/develop/image/2020-02-19/b63e77a964648ba174aff4b5aa156975.png$image
 ||img.alicdn.com/tfs/TB1.JQ_irY1gK0jSZTEXXXDQVXa-1116-342.png$image
 ||img.alicdn.com/imgextra/i4/O1CN01N8K7Q727WHbc7cFq4_!!6000000007804-2-tps-200-200.png$image
 ||ykimg.alicdn.com/develop/image/2020-12-17/c9d83e11cb40c71503c2d6033bca270a.jpg$image
@@ -1197,12 +1183,10 @@ youku.com##.callEnd_box
 
 ! http://www.yhdm.io
 www.yhdm.io##.bdshare-button-style0-16.l.bdsharebuttonbox
-www.yhdm.io##.bdshare-button-style0-16.l.bdsharebuttonbox
 www.yhdm.io##.l.share > span
 ||bdimg.share.baidu.com/static/images/r4.gif$image
 
 ! https://store.steampowered.com
-||store.st.dl.pinyuncloud.com/public/shared/images/header/btn_header_installsteam_download.png?v=1$image
 ||store.st.dl.pinyuncloud.com/public/shared/images/header/btn_header_installsteam_download.png$image
 ||store.st.dl.pinyuncloud.com/public/shared/images/header/btn_header_installsteam_download.png?v=1$image
 ||store.cloudflare.steamstatic.com/public/shared/images/header/btn_header_installsteam_download.png?v=1$image
@@ -1255,9 +1239,6 @@ www.360lvse.com##div.banner:nth-of-type(6)
 ||www.doc88.com/upload/image/indexpage/ad1582701550.png$image
 ||www.doc88.com/upload/image/indexpage/ad1582701570.png$image
 ||www.doc88.com//resources/images/reading/daoke300.jpg$image
-||www.doc88.com//resources/images/reading/daoke300.jpg$image
-||www.doc88.com//resources/images/reading/298@1x.jpg$image
-||www.doc88.com//resources/images/reading/298@1x.jpg$image
 ||www.doc88.com//resources/images/reading/298@1x.jpg$image
 ||res1.doc88.com/assets/images/tips/skintips.png$image
 www.doc88.com##.header-func > .wrapper > ul > li > [href="/app.html"]
@@ -1288,7 +1269,6 @@ www.doc88.com###app_read
 www.docer.com##.footer-info__subscribe.footer-info__column > dt
 www.docer.com##.footer-info__subscribe.footer-info__column > dd
 www.docer.com##div.footer-info__qcode:nth-of-type(2)
-||s4.vas.wpscdn.cn/official/img/sprite.bada7ce.png$image
 ||s4.vas.wpscdn.cn/official/img/sprite.bada7ce.png$image
 
 ! https://www.kejiwanjia.com
@@ -2464,6 +2444,7 @@ bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##.bdshare-slide-button
 bbs.elecfans.com###a_top_url
+bbs.elecfans.com##.qrcode
 www.elecfans.com##[src="https://skin.elecfans.com/images/open_ad_172.jpg"]
 www.elecfans.com##[href="https://dfm.elecfans.com/uploads/software/promoter/hqdfm_download.zip"]
 www.elecfans.com##[src="http://skin.elecfans.com/images/wx_right.jpg"]
@@ -4090,11 +4071,14 @@ www.php.cn##.wwads-vertical.wwads-cn
 ishare.iask.sina.com.cn##.detail-topbanner
 ishare.iask.sina.com.cn##.fix-right-bannertop
 
+! http://gd.sina.com.cn
+gd.sina.com.cn##.share-sns
+gd.sina.com.cn##.share-layout
+
 ! http://blog.chinaunix.net
 blog.chinaunix.net##.bdshare-button-style0-16.bdsharebuttonbox
 
 ! http://news.eeworld.com.cn
-||static.eewimg.cn/news/statics/images/channelicon.png$image
 ||static.eewimg.cn/news/statics/images/channelicon.png$image
 news.eeworld.com.cn##.fengxiang
 
@@ -4214,3 +4198,9 @@ tech.hqew.com##.tech-detail-share
 
 ! https://www.icxbk.com
 www.icxbk.com##.banner-sys
+
+! http://club.szlcsc.com
+club.szlcsc.com##.bdshare-button-style1-16.bdsharebuttonbox
+
+! https://easyeda.com
+easyeda.com###editor_start_right_page
