@@ -123,6 +123,7 @@ haokan.baidu.com##.player-pause-code
 haokan.baidu.com##.follow-btn
 haokan.baidu.com##.about
 haokan.baidu.com##.landrightbanner
+haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
 
 ! https://b2b.baidu.com
 b2b.baidu.com##div.item > .wrap
@@ -177,7 +178,6 @@ baijiahao.baidu.com##.I93A3I9G2BRddV73LoQ37
 dumall.baidu.com##div.whiteBg.com-focus.jsx-1049465603:nth-of-type(4)
 dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
 dumall.baidu.com##.whiteBg.com-advertisement.jsx-1049465603
-||fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/appGuide/img/shadow_ac90d66.png$image
 baijiahao.baidu.com##.index-module_topList_k56w2
 ||fex.baidu.com/public/images/erwei.jpg$image
 ||fanyi-cdn.cdn.bcebos.com/static/translation/widget/translate/appGuide/img/shadow_ac90d66.png$image
@@ -185,7 +185,6 @@ v.hao123.baidu.com##.home
 v.baidu.com##.bt-mobile
 ||video-static.xdcdn.xiaodutv.com/browse_static/v3/common/widget/video/footer/qrcodeimg_ed64b690.png$image
 v.baidu.com##.link
-haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
 ||cpu.baidu.com/block/wap/275555091/93607?source=http%3A%2F%2Fwww.cip.cc%2F&title=IP%E6%9F%A5%E8%AF%A2%20-%20%E6%9F%A5IP(www.cip.cc)&keywords=IP%2C%20%E6%9F%A5IP%2C%20IP%E6%9F%A5%E8%AF%A2&$subdocument
 news.baidu.com###share
 image.baidu.com##.boxBanner
@@ -3913,3 +3912,4 @@ club.szlcsc.com##.bdshare-button-style1-16.bdsharebuttonbox
 
 ! https://easyeda.com
 easyeda.com###editor_start_right_page
+
