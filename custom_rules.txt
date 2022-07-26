@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-20
+! TimeUpdated: 2022-07-26
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓软件/网站/反智媒体/传销诈骗
@@ -168,6 +168,11 @@ somode.com##*
 download.pchome.net##*
 
 ! 色情低俗
+javsex.guru##*
+javgg.net##*
+javcloud.com##*
+javlast.com##*
+watchjavonline.com##*
 xiguayul.com##*
 9sex.tv##*
 missav.com##*
