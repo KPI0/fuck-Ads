@@ -686,6 +686,7 @@ www.ghxi.com##.width-footer-bar.footer
 www.ghxi.com##.j-share.action-item
 www.ghxi.com##.ad_single_12.ghxi_wpcom_ad_wrap
 www.ghxi.com##div:nth-of-type(6)
+www.ghxi.com##div:nth-of-type(5)
 ||img.lovestu.com/uploads/2019/05/gzwxad.png$image
 ||img.lguohe.com/uploads/2021/03/xrk20210304154055.png$image
 ||www.ghxi.com/wp-content/uploads/2019/11/kmsbanner.png$image
@@ -4203,4 +4204,17 @@ club.szlcsc.com##.bdshare-button-style1-16.bdsharebuttonbox
 
 ! https://easyeda.com
 easyeda.com###editor_start_right_page
+
+! http://www.a8wl.xyz
+www.a8wl.xyz##.widget
+
+! https://onedream.yfdnb.com
+||img.collection.yfdnb.com/image/loginBg.png$image
+onedream.yfdnb.com##.u-popup__content
+onedream.yfdnb.com##.uni-modal
+onedream.yfdnb.com##uni-modal > .uni-mask
+onedream.yfdnb.com##uni-modal
+
+! https://baiyunju.cc
+baiyunju.cc##.widget_ssr_inner
 
