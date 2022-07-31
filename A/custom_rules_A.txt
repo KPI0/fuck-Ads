@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-26
+! TimeUpdated: 2022-07-31
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -1024,6 +1024,8 @@ www.docin.com##.recommend_fy_hd
 www.docin.com###fyItems
 www.docin.com##.clear.recommend_fy
 www.docin.com##li:nth-of-type(5)
+www.docin.com##.addFavoritesTips
+www.docin.com##.bold_nav_item
 
 ! https://www.91wenmi.com
 www.91wenmi.com##[href="https://www.91wenmi.com/xiezuo/#lt"]
@@ -1359,6 +1361,7 @@ www.heytap.com##li.float-wrap-btn:nth-of-type(3)
 
 ! https://yaohuo.me
 yaohuo.me##[src="/tupian/看广告会变帅.gif"]
+yaohuo.me##div:nth-of-type(22)
 
 ! https://www.diyifanwen.com
 www.diyifanwen.com###share_top
@@ -3348,6 +3351,13 @@ www.kepuchina.cn##.share
 baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
 baike.pcauto.com.cn###JtopshareToole > .share-tit
 
+! https://m.pcauto.com.cn
+m.pcauto.com.cn##.sub-item-xz.sub-header-item
+m.pcauto.com.cn##.cmt-share-wrap
+m.pcauto.com.cn###daogou
+m.pcauto.com.cn##.bottom-half-dialog-content
+m.pcauto.com.cn###home-bottom-half-dialog
+
 ! https://www.jfdaily.com
 www.jfdaily.com##.xz
 www.jfdaily.com##div.title:nth-of-type(16)
@@ -3593,6 +3603,12 @@ fy.tingclass.net##.tips-xcx-div
 jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.task-panel-entrance
 
+! https://hanyu.baidu.com
+hanyu.baidu.com##.module.nav-list.left
+hanyu.baidu.com##.app-qrcode
+hanyu.baidu.com##li.userbar-item:nth-of-type(3)
+hanyu.baidu.com##li.userbar-item.pipe:nth-of-type(4)
+
 ! https://www.runoob.com
 www.runoob.com##.qrcode
 
@@ -3731,6 +3747,10 @@ wenda.so.com##.js-share-btn.share-btn.ans-opt-btn
 wenda.so.com###task-left-wrap
 wenda.so.com##.js-mod-flow.hide.pt25.mod-detail-normal
 wenda.so.com##.js-detail-guess.pb20.pt25.mod-detail-normal
+
+! https://upimg.baike.so.com
+upimg.baike.so.com##.shareicon
+upimg.baike.so.com##.wrap.entry-plus > .boxwrap
 
 ! http://dljz.nicethemes.cn
 dljz.nicethemes.cn##.share
@@ -3927,3 +3947,17 @@ onedream.yfdnb.com##uni-modal
 ! https://baiyunju.cc
 baiyunju.cc##.widget_ssr_inner
 
+! http://www.zzyyww.cn
+www.zzyyww.cn##.resource
+www.zzyyww.cn##.history-list > li:nth-of-type(2)
+www.zzyyww.cn##.history-list > li:nth-of-type(1)
+www.zzyyww.cn##.tags
+
+! https://m.kq7.com
+m.kq7.com##.article_head > div
+m.kq7.com##[src^="https://b.wzu.com/zgsgv?kwr%wtu&vsw%u01&rw%my0uvutu&g1%yvwy0w00t&g2%wyw0zwuy&zhi%.llhkUv2Uu7Uu7eUScizUSXgeUu7rapmft0utwtzUu7&rq%v&dof%wtup01u&sldg%ttsuzu,ttsuxz,ttsss1,tttsst,ttsstt&hdf%tyx1suy1uuuzs&dg%tv1vps&dwg%TtpTt&dgg%wtuptxut&jsf%szuz&rfw%s&obh%t&th"]
+m.kq7.com##[src^="//b.wzu.com/ywidzs?kwr%wtu&vsw%uss&rw%my0uvuts&g1%vvssysuz1&g2%uvxty10utt&zhi%.llhkUv2Uu7Uu7eUScizUSXgeUu7rapmft0utwtzUu7&rq%v&qsq%ML7T0&dgg%wtuptvtx&obh%t&dg%tt0zps&dqg%wtupz01&dwg%TtpTt&dgw%Zx11YwzzvZvyvzvx&jsf%szuz&row%u&rfw%s&rha%9LEDSHGKL&dof%wtup01u&"]
+m.kq7.com##[src^="//b.wzu.com/jhjitlbwwv?kwr%wtu&vsw%u01&rw%my0uvutu&g1%vwyxszwztt&g2%zwu0w0v1y&zhi%.llhkUv2Uu7Uu7eUScizUSXgeUu7rapmft0utwtzUu7&rq%v&dgg%wtupw0z1&rfw%s&obh%t&jsf%szuz&qsq%ML7T0&dof%wtup01u&row%v&sqr%t&th%u&dwg%TtpTt&sldg%ttsuzu,ttsuxz,ttsss1,tttsst,ttsstt&dq"]
+m.kq7.com##.xxwz
+m.kq7.com##body > div > div > div > div > div
+||b.wzu.com/*?kwr%*&vsw%*&rw%my0uv*&g1%*&g2%*&zhi%.llhkUv2Uu7Uu7eUScizUSXgeUu7rapmft0utwtzUu7&rq%v&*&swt=1$subdocument
