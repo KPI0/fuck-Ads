@@ -2,7 +2,7 @@
 > > - ### uBlock Origin 扩展程序_源码地址：   [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 扩展程序_安装地址：   [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > > - ### 支持此扩展程序的手机浏览器：   [Kiwi](https://kiwibrowser.com/)、    [Firefox](https://www.firefox.com.cn/)、           [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)、    [Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
-> > - ### 支持订阅规则集的浏览器：  [Vivaldi](https://vivaldi.com/)   
+> > - ### 支持订阅该规则集的浏览器：  [Vivaldi](https://vivaldi.com/)   
 
 ----
 
