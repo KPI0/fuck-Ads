@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-07-31
+! TimeUpdated: 2022-08-03
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -213,6 +213,7 @@ pan.baidu.com##.nd-dialog-workspace--bg.nd-dialog-common-header.u-dialog__wrappe
 pan.baidu.com##.nd-dialog-workspace--bg.nd-dialog-common-header.u-dialog__wrapper
 pan.baidu.com##.v-modal
 pan.baidu.com##.wp-s-aside-nav__main-item.wp-s-aside-nav-bubble
+pan.baidu.com##.rights-section-banner-tag.rights-section
 ||staticsns.cdn.bcebos.com/amis/2021-4/1619596757214/web%E5%A4%96%E9%93%BE%E9%A1%B5.jpg$image
 ||nd-static.bdstatic.com/m-static/v20-main/img/littlexiangce.9ce6a222.png$image
 ||pannss.bdstatic.com/m-static/disk-theme/theme/night/img/main_bg.png?t=1626087673058$image
@@ -455,6 +456,7 @@ t.bilibili.com##.download-client-trigger.download-entry
 ! https://search.bilibili.com
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 search.bilibili.com##.footer_right
+search.bilibili.com##.download-client-trigger.download-entry
 
 ! https://passport.bilibili.com
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -908,6 +910,18 @@ www.gog.com##div.footer-microservice__middle-section:nth-of-type(2)
 
 ! https://ask.zol.com.cn
 ask.zol.com.cn##.weixin-box-c
+
+! https://www.zol.com.cn
+www.zol.com.cn##.tools-nav
+www.zol.com.cn##.client-enter
+www.zol.com.cn##.today-hot-layer
+www.zol.com.cn##dl:nth-of-type(7)
+www.zol.com.cn##dl:nth-of-type(6)
+www.zol.com.cn##[href="//xiazai.zol.com.cn/"] > strong
+www.zol.com.cn##div.main-nav-line:nth-of-type(8)
+
+! https://nb.zol.com.cn
+nb.zol.com.cn##.article-side-box
 
 ! https://www.huobi.com
 www.huobi.com##.fedui-header-download > .fedui-theme-text
@@ -3961,3 +3975,6 @@ m.kq7.com##[src^="//b.wzu.com/jhjitlbwwv?kwr%wtu&vsw%u01&rw%my0uvutu&g1%vwyxszwz
 m.kq7.com##.xxwz
 m.kq7.com##body > div > div > div > div > div
 ||b.wzu.com/*?kwr%*&vsw%*&rw%my0uv*&g1%*&g2%*&zhi%.llhkUv2Uu7Uu7eUScizUSXgeUu7rapmft0utwtzUu7&rq%v&*&swt=1$subdocument
+
+! https://www.xcc.com
+www.xcc.com##.app
