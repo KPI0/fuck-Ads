@@ -1661,11 +1661,7 @@ dbgjd.com##.social
 www.heytap.com##li.float-wrap-btn:nth-of-type(3)
 
 ! https://yaohuo.me
-yaohuo.me##div:nth-of-type(22)
-yaohuo.me##div:nth-of-type(20)
-yaohuo.me##div:nth-of-type(23)
-yaohuo.me##div:nth-of-type(19)
-yaohuo.me##body > div:nth-of-type(13)
+||y.yaohuo.me
 
 ! https://www.diyifanwen.com
 www.diyifanwen.com###share_top
@@ -2411,6 +2407,8 @@ www.elecfans.com###shareAddPcb > .clearfix > .fr.bdsharebuttonbox
 www.elecfans.com###a_top_img
 www.elecfans.com##.perfect_infomation_tip
 www.elecfans.com##.detail-share
+www.elecfans.com##.aside_app
+www.elecfans.com##.aside_bdsharebuttonbox
 
 ! https://m.elecfans.com
 m.elecfans.com##.btn-createCover.share
@@ -3974,6 +3972,7 @@ wenda.so.com##.js-detail-guess.pb20.pt25.mod-detail-normal
 ! https://upimg.baike.so.com
 upimg.baike.so.com##.shareicon
 upimg.baike.so.com##.wrap.entry-plus > .boxwrap
+upimg.baike.so.com##.gallery-page.gallery-page-ft
 
 ! http://dljz.nicethemes.cn
 dljz.nicethemes.cn##.share
@@ -4191,4 +4190,10 @@ m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot:nth-of-type(2)
 m.shezhan88.com##dl.arcHot:nth-of-type(3)
 m.shezhan88.com##dl.arcHot:nth-of-type(4)
+
+! https://www.shezhan88.com
+www.shezhan88.com##.return > ul > li > .cur
+www.shezhan88.com##[href="/news/notice/16.html"]
+www.shezhan88.com##.return [href="javascript:void(0);"]
+www.shezhan88.com##[href="javascript:alert("]
 
