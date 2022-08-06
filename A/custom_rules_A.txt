@@ -1,8 +1,8 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules
+! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
 ! TimeUpdated: 2022-08-06
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
+! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
 ! https://sogou.com
