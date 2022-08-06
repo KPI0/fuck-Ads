@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-05
+! TimeUpdated: 2022-08-06
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓网站
@@ -782,7 +782,6 @@ ac.qq.com##.works-slider-ad
 ac.qq.com##.ui-ma.mod-footer-scan > li
 
 ! https://mail.qq.com
-mail.qq.com##[src="https://rescdn.qqmail.com/qqmail/images/ftn_feedback_32.png"]
 mail.qq.com##.icon_top_sendtomobile_init.pointer
 mail.qq.com##.f_size.content.T190322_downloadApp
 mail.qq.com###weather-box
@@ -1036,8 +1035,6 @@ www.sohu.com##.sunshine-title
 www.sohu.com##.sunshine-wrap
 www.sohu.com##.bord.clear.hot-article
 www.sohu.com##.hot-atlas.bord.clearfix > .titleR
-www.sohu.com##div.img-do.pic > [href^="https://www.sohu.com/a/499458101_100036910"] > [src="//p4.itc.cn/q_70,c_lfill,w_300,h_200,g_faces/images01/20211105/6d06054fffe54e80b18e25396e0bad20.jpeg"]
-www.sohu.com##[src="//p3.itc.cn/q_70,c_lfill,w_300,h_200,g_faces/images03/20211106/86d377b0bf8d42358ee6b4948aec2b60.jpeg"]
 www.sohu.com##li.new-end:nth-of-type(2)
 www.sohu.com##.clearfix.pic-group
 www.sohu.com###right-side-bar
@@ -1144,9 +1141,7 @@ music.douban.com##.artist-wx-qrcode
 
 ! https://www.youku.com
 www.youku.com##.u-app_Ubbmj
-www.youku.com##[src="//ykimg.alicdn.com/develop/image/2020-02-19/b63e77a964648ba174aff4b5aa156975.png"]
 www.youku.com##a.aplus_clk.aplus_exp.homepage_opt_hide_1:nth-of-type(2)
-www.youku.com##[src="//ykimg.alicdn.com/develop/image/2020-01-10/3f8b6e8ae33fd64d9efd10c9d44588d6.png"]
 www.youku.com##.homepage_opt_wrap > a.aplus_clk.aplus_exp
 www.youku.com##.g-footer_2MHYp
 www.youku.com##.u-phone_2eD26
@@ -1250,7 +1245,6 @@ www.okex.com##.other-wrap.nav-download
 
 ! https://max.book118.com
 max.book118.com##.client > [href="javascript:;"]
-max.book118.com##[src="//img.book118.com/sr1/M00/31/33/wKh2AmEfhAKIOFNnAAANUWzeG9EAAtHUQHlwkQAAA1p436.png"]
 max.book118.com##.sidebar-wechat.sidebar-item > .sidebar-item-on
 max.book118.com##.sidebar-wechat.sidebar-item
 max.book118.com##.site-link
@@ -1283,7 +1277,6 @@ www.doc88.com##.mainpart > .clearfix
 www.doc88.com##div.columns:nth-of-type(1)
 www.doc88.com##div.columns:nth-of-type(3)
 www.doc88.com##div.columns:nth-of-type(2)
-www.doc88.com##[src="https://res1.doc88.com/assets/images/weixin.jpg"]
 www.doc88.com###footer > .mainpart
 www.doc88.com##.qrcode > p
 www.doc88.com##.share
@@ -1302,16 +1295,11 @@ www.docer.com##.footer-info__subscribe.footer-info__column > dd
 www.docer.com##div.footer-info__qcode:nth-of-type(2)
 
 ! https://www.kejiwanjia.com
-www.kejiwanjia.com##[src="https://www.kejiwanjia.com/wp-content/uploads/2021/10/jingdongshuang11banner.gif"]
-www.kejiwanjia.com##[src="https://www.kejiwanjia.com/wp-content/uploads/2021/11/taobao1111.gif"]
 www.kejiwanjia.com###b2-widget-html-10 > .b2-widget-title > .widget-title
 www.kejiwanjia.com###b2-widget-html-10 > .b2-widget-box > .html-widget
-www.kejiwanjia.com##[src="https://www.kejiwanjia.com/wp-content/uploads/2021/10/jd1111huodong-yasuo.gif"]
 www.kejiwanjia.com##.b2-share-forward-fill.b2font
 www.kejiwanjia.com##.b2tooltipbox.poster-span
 www.kejiwanjia.com##.show.fade.alert-dismissible.alert-light.\;.alert
-www.kejiwanjia.com##[src="https://image.kejiwanjia.com/wp-content/uploads/2021/11/jingdong11miaosha.gif"]
-www.kejiwanjia.com##[src="https://image.kejiwanjia.com/wp-content/uploads/2021/11/taote11.gif"]
 www.kejiwanjia.com###b2-widget-html-3 > .b2-widget-title > .widget-title
 www.kejiwanjia.com###b2-widget-html-20 > .b2-widget-box > .html-widget
 www.kejiwanjia.com###b2-widget-html-3 > .b2-widget-box > .html-widget
@@ -1320,11 +1308,8 @@ www.kejiwanjia.com##.show-modal.gg-box.modal
 www.kejiwanjia.com##.bar-qrcode.bar-item
 www.kejiwanjia.com##div.bar-item:nth-of-type(3)
 www.kejiwanjia.com##.site-footer-nav
-www.kejiwanjia.com##[src="https://image.kejiwanjia.com/wp-content/uploads/2021/10/jingdongshuang11banner.gif"]
-www.kejiwanjia.com##[src="https://image.kejiwanjia.com/wp-content/uploads/2021/11/taobao1111.gif"]
 www.kejiwanjia.com###b2-widget-html-28 > .b2-widget-title > .widget-title
 www.kejiwanjia.com###b2-widget-html-28 > .b2-widget-box > .html-widget
-www.kejiwanjia.com##.html-widget-content > [src="https://image.kejiwanjia.com/wp-content/uploads/2021/10/qrcode_for_gh_b6676f6a43aa_258.jpg"]
 www.kejiwanjia.com##code:nth-of-type(3)
 
 ! http://www.81.cn
@@ -1406,6 +1391,8 @@ gd.sina.com.cn##.share-layout
 
 ! https://app.mi.com
 app.mi.com##[src="/get_qrcode_image"]
+
+! https://www.mi.com
 www.mi.com##.follow
 www.mi.com###J_siteDownloadApp
 www.mi.com##span.sep:nth-of-type(11)
@@ -1492,9 +1479,6 @@ i.chaoxing.com##li.black.appDown:nth-of-type(2)
 ! http://www.chaoxing.com
 www.chaoxing.com##.xxtXz
 
-! https://www.med66.com
-www.med66.com##[src="//www.med66.com/upload/resources/image/2020/11/25/171793.png"]
-
 ! http://qikan.cqvip.com
 qikan.cqvip.com##[href^="/Qikan/WebControl/AppIntroduce"]
 
@@ -1567,7 +1551,6 @@ www.mingyantong.com###jubigshare
 www.jsw95.net##.post-con > [href="http://www.jsw95.net/post/57952.html"]
 www.jsw95.net###post_box1 > .post-left > .post-con
 www.jsw95.net###post_box1
-www.jsw95.net##[src="/zb_users/upload/2021/08/20210808204925162842696520359.gif"]
 www.jsw95.net##.footer-sns
 www.jsw95.net##.footer
 www.jsw95.net##.tabcelan.widget-content
@@ -1576,9 +1559,6 @@ www.jsw95.net###divTags
 www.jsw95.net###tabcelan
 
 ! https://www.aofuo.com
-www.aofuo.com##[src="https://img11.360buyimg.com/ddimg/jfs/t1/193500/28/19030/845292/611cb808Ef30d0330/e3e49c65c939102a.gif"]
-www.aofuo.com##[src="https://img10.360buyimg.com/ddimg/jfs/t1/181469/5/20074/86354/611cb7feEce816b26/13639bfa069fa239.gif"]
-www.aofuo.com##[src="https://img10.360buyimg.com/ddimg/jfs/t1/81991/24/16396/461821/613da275E2359e97f/6c98033671f8c308.gif"]
 www.aofuo.com##.clearfix.myui-foot
 
 ! https://www.nfmovies.com
@@ -1681,7 +1661,6 @@ dbgjd.com##.social
 www.heytap.com##li.float-wrap-btn:nth-of-type(3)
 
 ! https://yaohuo.me
-yaohuo.me##[src="/tupian/看广告会变帅.gif"]
 yaohuo.me##div:nth-of-type(22)
 yaohuo.me##div:nth-of-type(20)
 yaohuo.me##div:nth-of-type(23)
@@ -1702,13 +1681,11 @@ www.ifeidian.com##.fa-lg.fa-qq.fa
 www.ifeidian.com##.hidden-xs.qq
 
 ! https://www.shuaji.net
-www.shuaji.net##[src="http://imgvip.yhj2000.com/upfiles/image/20200608/20200608143514_3249.png"]
 www.shuaji.net##.footer-box-left
 www.shuaji.net##.footer-box
 www.shuaji.net##.footer-container
 
 ! http://bukaivip1.com
-bukaivip1.com##[src="https://aod.cos.tx.xmcdn.com/storages/237c-audiofreehighqps/27/4B/GMCoOSQF5nDsAAaQlQEZULR4.png"]
 bukaivip1.com##.open-share > .icon-share.iconfont.icon
 bukaivip1.com##.open-share
 bukaivip1.com##.copylink.btn-default.btn
@@ -1720,7 +1697,6 @@ www.bangxuetang.com##.admod
 
 ! http://www.qingdaonews.com
 www.qingdaonews.com##.bdshare-button-style0-32.bdsharebuttonbox
-www.qingdaonews.com##[src="../../../images/68342.files/64090bp.jpg"]
 
 ! https://www.hxcpp73.com
 www.hxcpp73.com##.active.text
@@ -1774,8 +1750,6 @@ daybyday.top##[href^="https://buy.dnspod.cn/dns/free"]
 daybyday.top##.DNParking-event-hot
 
 ! https://www.juan920.com
-www.juan920.com##[src="https://www.juan920.com/wp-content/uploads/2021/03/dc5c7986daef.png"]
-www.juan920.com##[src="https://www.juan920.com/wp-content/uploads/2021/07/5346e18a1864.png"]
 www.juan920.com##hr
 www.juan920.com##.container-footer.container-fluid > .list-inline
 www.juan920.com##.footer
@@ -1831,7 +1805,6 @@ www.xuexila.com##.gf_tousu
 www.xuexila.com##.arcfu_btn
 
 ! http://www.1010jiajiao.com
-www.1010jiajiao.com##[src="http://thumb2018.1010pic.com/images/erweima_pc3.png"]
 www.1010jiajiao.com##div.box_head > div
 www.1010jiajiao.com##div.box_body:nth-of-type(5)
 www.1010jiajiao.com##.right_box
@@ -1839,10 +1812,6 @@ www.1010jiajiao.com##.right_box
 ! https://www.dawendou.com
 www.dawendou.com##.alert-bounceIn.copy-alert
 www.dawendou.com##.marks
-
-! http://news.cyol.com
-news.cyol.com##[src="http://img.cyol.com/tplimg/news/bdapp22222.jpg"]
-news.cyol.com##[src="http://img.cyol.com/tplimg/home/jubaoapp.jpg"]
 
 ! https://www.wjx.cn
 www.wjx.cn##[href="https://www.wjx.cn/app/themehtml/nocodehome.aspx"] > .normalsrc
@@ -1899,9 +1868,6 @@ www.58pic.com##.activitySettings-fixedBottom > [href^="https://www.58pic.com/ind
 588ku.com##.listloginBox.listlogin-box
 588ku.com##.editIndexEntry.editIndex-entry > .editIndexClick
 588ku.com##.close-btn
-
-! https://www.suning.com
-www.suning.com##[src="//image4.suning.cn/uimg/cms/img/163790976260118402.jpg"]
 
 ! https://jinrong.suning.com
 jinrong.suning.com##.lc-footer-bot-last.lc-footer-bot-list > dt > .lazy-loading.lazy-img
@@ -2016,8 +1982,8 @@ www.fx361.com##span.tool-icon:nth-of-type(3)
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(1)
 m.fx361.com##span.tool-icon:nth-of-type(2)
-m.fx361.com##span.tool-icon:nth-of-type(4)
 m.fx361.com##span.tool-icon:nth-of-type(3)
+m.fx361.com##span.tool-icon:nth-of-type(4)
 
 ! https://news.mydrivers.com
 news.mydrivers.com###right_tab
@@ -2040,7 +2006,6 @@ www.chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 
 ! https://cn.chinadaily.com.cn
 cn.chinadaily.com.cn##.more
-cn.chinadaily.com.cn##[href="https://www.chinadaily.com.cn/image_e/2020/logo21.jpg"]
 cn.chinadaily.com.cn##.weixinqrcode
 cn.chinadaily.com.cn##.xinf-ri
 cn.chinadaily.com.cn##.lo-bott-one
@@ -2693,7 +2658,6 @@ www.zongheng.com##[href^="//www.zongheng.com/feedback"]
 www.zongheng.com##.game_center
 www.zongheng.com##.foot-blank.wchat
 www.zongheng.com##.foot-blank.app > p
-www.zongheng.com##[src="//rcode.zongheng.com/v2018/images/app.png"]
 
 ! http://book.zongheng.com
 book.zongheng.com##.clearfix.app-in
@@ -2718,7 +2682,6 @@ juejin.cn##.app-link
 juejin.cn##.download-icon.link-item.nav-item
 juejin.cn##.extension > .link
 juejin.cn##.extension
-juejin.cn##[src="//lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web/img/1024.714fcaa.png"]
 
 ! https://www.qidian.com
 www.qidian.com##li.nav-li:nth-of-type(9)
@@ -3063,7 +3026,6 @@ www.toutiao.com##.add-to-desktop-wrapper
 www.toutiao.com##.detail-side-interaction > div:nth-of-type(5)
 
 ! https://www.tiatiatoutiao.com
-www.tiatiatoutiao.com##[src="/uploads/allimg/190427/1-1Z42F0444U55.png"]
 www.tiatiatoutiao.com###J_shoucang
 www.tiatiatoutiao.com##.show_go_1
 
@@ -3077,9 +3039,6 @@ www.51hei.com##.topbar_dot > [href="#"]
 ! http://www.prechin.net
 www.prechin.net##[href="http://prechin.net/"]
 www.prechin.net##.z > [href="javascript:;"]
-
-! https://www.panelook.cn
-www.panelook.cn##[src="//www.panelook.cn/cms-templates/cn/images/cn_mobile.gif"]
 
 ! https://theone.art
 theone.art##.v1-footer-main > div:nth-of-type(2)
@@ -3137,8 +3096,6 @@ tv.people.com.cn##.right_nav p
 ! http://theory.people.com.cn
 theory.people.com.cn##.ops_icons
 theory.people.com.cn##.ops_tit
-theory.people.com.cn##[src="/NMediaFile/2018/1122/MAIN201811221335070839702214548.jpg"]
-theory.people.com.cn##[src="/NMediaFile/2019/0703/MAIN201907031544318028330183523.jpg"]
 theory.people.com.cn##p.gray:nth-of-type(2)
 theory.people.com.cn##p.gray:nth-of-type(1)
 theory.people.com.cn##.ol_bg.clearfix
@@ -3842,7 +3799,6 @@ www.b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
 
 ! https://zhazhijiav.top
 zhazhijiav.top##div.container:nth-of-type(2)
-zhazhijiav.top##[src="https://app0001.top/upload/site/20210926-1/3ab8779d85407f725851197c9400169c.gif"]
 
 ! https://61maoak.com
 61maoak.com##li.scroll-list:nth-of-type(2)
@@ -4060,7 +4016,6 @@ c.biancheng.net###ad-arc-top
 
 ! https://www.php.cn
 www.php.cn##.bdshare-button-style0-16.bdsharebuttonbox.layui-clear.share
-www.php.cn##[src="https://img.php.cn/upload/course/000/000/071/627b7006bee65506.png"]
 www.php.cn##.wwads-vertical.wwads-cn
 
 ! http://blog.chinaunix.net
@@ -4224,4 +4179,16 @@ www.json.cn##.xf-window
 ! https://www.gerenjianli.com
 www.gerenjianli.com###float
 www.gerenjianli.com##div.leftbox > div
+
+! https://www.maijia.com
+www.maijia.com###detail-slider-top-image
+www.maijia.com###mainRight
+www.maijia.com###detail-content-bottom-image
+
+! https://m.shezhan88.com
+m.shezhan88.com##.videoWrap
+m.shezhan88.com##.wz-cont > div
+m.shezhan88.com##dl.arcHot:nth-of-type(2)
+m.shezhan88.com##dl.arcHot:nth-of-type(3)
+m.shezhan88.com##dl.arcHot:nth-of-type(4)
 
