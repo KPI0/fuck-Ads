@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-06
+! TimeUpdated: 2022-08-12
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -264,6 +264,7 @@ tieba.baidu.com##.left-cont-wraper
 tieba.baidu.com##.app_download_box.aside_region
 tieba.baidu.com##.open-app
 tieba.baidu.com##.nav-bar-bottom
+tieba.baidu.com###spage-tbshare-container
 
 ! https://wenku.baidu.com
 wenku.baidu.com##.hx-recom-wrapper
@@ -572,6 +573,8 @@ v.qq.com##.ft_cell_feedback.ft_cell
 v.qq.com###choice_xcc_vshou
 v.qq.com##.quick_vip.quick_item
 v.qq.com##.x_modal_download
+v.qq.com##div.player-bottom__item.player-bottom__popup:nth-of-type(2)
+v.qq.com##.player-bottom__item-download.player-bottom__item.player-bottom__popup
 
 ! https://book.qq.com
 book.qq.com##.fr.headQrCode
@@ -582,24 +585,15 @@ book.qq.com##.recSiteWrap
 docs.qq.com##.full.down
 
 ! https://y.qq.com
-y.qq.com##.footer
-y.qq.com##.popup_guide
 y.qq.com##.top_nav__item--subnav.top_nav__item > .top_nav__link
-y.qq.com##.client_guide
-y.qq.com##.player_login__guide_btn
-y.qq.com##li.top_nav__item:nth-of-type(5)
-y.qq.com##.mod_select--open.mod_select_green.mod_select > .select__choose
-y.qq.com##.mod_select--open.mod_select_green.mod_select
-y.qq.com##.mod_select--pay.mod_select > .select__choose
-y.qq.com##.mod_select--pay.mod_select
-y.qq.com##.product--other.product > .product_list
-y.qq.com##.product--other.product > .product__tit
-y.qq.com##.sprite_before.btn_bottom_player
-y.qq.com##.js_btn_feedback.btn_bottom_feedback
-y.qq.com##.login-box-download__btn
-y.qq.com##a.mod_btn:nth-of-type(3)
-y.qq.com##.yqq-dialog_centered.yqq-dialog
-y.qq.com##.btn_big_down
+y.qq.com##.footer
+y.qq.com##.login-box-download
+y.qq.com###page_box
+y.qq.com##li.top_nav__item:nth-of-type(5) > .top_nav__link
+y.qq.com##.top_nav__item--subnav.top_nav__item
+
+! https://i.y.qq.com
+i.y.qq.com##.c_bg1.bottom_bar__bd
 
 ! https://www.qq.com
 www.qq.com##.l-qzone.q-icons
@@ -658,9 +652,6 @@ browser.qq.com###p0_btn_pc_sub
 
 ! https://work.weixin.qq.com
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
-
-! https://i.y.qq.com
-i.y.qq.com##.c_bg1.bottom_bar__bd
 
 ! https://www.xiaomiyoupin.com
 www.xiaomiyoupin.com##.fixed-nav > li:nth-of-type(2)
@@ -2152,6 +2143,10 @@ cq.ganji.com##[href="//www.ganji.com/download"]
 ! https://www.kugou.com
 www.kugou.com###productCenter
 www.kugou.com##.download
+www.kugou.com##.cmfoot
+www.kugou.com##div.homep_d2:nth-of-type(9)
+www.kugou.com##div.s4rs_d1:nth-of-type(1)
+www.kugou.com###_downloadhome
 
 ! https://a.kugou.com
 m.kugou.com##.foot-launchApp
@@ -2167,6 +2162,9 @@ www.kuwo.cn##.foot_tit > p:nth-of-type(1)
 www.kuwo.cn##.windows.item
 www.kuwo.cn##li.item:nth-of-type(4)
 www.kuwo.cn##.android.item
+www.kuwo.cn##.copy
+www.kuwo.cn##.footer
+www.kuwo.cn##.qrcode-container
 
 ! http://m.kuwo.cn
 m.kuwo.cn##.flexbody
@@ -3904,4 +3902,8 @@ www.shezhan88.com##.return > ul > li > .cur
 www.shezhan88.com##[href="/news/notice/16.html"]
 www.shezhan88.com##.return [href="javascript:void(0);"]
 www.shezhan88.com##[href="javascript:alert("]
+
+! http://www.yinghuacd.com
+www.yinghuacd.com##.bdshare-button-style0-16.l.bdsharebuttonbox
+www.yinghuacd.com###bdshare
 
