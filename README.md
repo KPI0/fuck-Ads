@@ -32,9 +32,16 @@
 > - ### 屏蔽`微博微信关注`元素
 > - ### 屏蔽`Adobe Flash Player 已不再受支持`元素
 
+
+<details>
+  <summary>折叠时展示的文字
 *1、除以上列举的几点外还屏蔽了网页上某些不必要的元素，极大简化网站页面。*    
 *2、某安全卫士调教一下就可以使用了，考虑到它某些方面比较强，暂未将它标记为流氓软件。*    
 *3、某些优质的网站论坛靠广告费生存维护但不屏蔽违背了写这个集合的初衷向站长说一声抱歉，建议大家在该网站上禁用广告拦截以支持网站的长久运行。*  
+  </summary>
+</details>
+
+
 
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt)
 ### [点击此处或后面的小飞机可直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
