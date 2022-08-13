@@ -89,7 +89,7 @@ https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 
 ## 规则推荐
 
-> ### [互联网规则集合](https://filterlists.com/)
+### [互联网规则集合](https://filterlists.com/)
 ```
 https://cdn.jsdelivr.net/gh/cyao2q/files/filters/uBlock.txt
 ```
