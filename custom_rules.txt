@@ -2622,6 +2622,7 @@ www.taobao.com##.clearfix.qr-bd
 
 ! https://main.m.taobao.com
 main.m.taobao.com###SLK_evokeUI_v2
+main.m.taobao.com##button
 
 ! https://www.nftcn.com.cn
 www.nftcn.com.cn##.img > p
