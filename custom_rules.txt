@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-12
+! TimeUpdated: 2022-08-14
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓网站
@@ -502,6 +502,13 @@ pan.baidu.com##.rights-section-banner-tag.rights-section
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##.wp-s-header__right-item.web-header-ad-item
 pan.baidu.com##.wp-s-header-cert__tooltip-display.wp-s-header-cert__tooltip > .u-popover__reference-wrapper
+pan.baidu.com##.pdf2word-tip-wrapper
+pan.baidu.com##.wp-guide-dialog-box
+pan.baidu.com##.wp-guide-dialog.dialog-wpGuideDialog.wpGuideDialog
+pan.baidu.com##.module-canvas
+pan.baidu.com##.norecognition.module-device-box
+pan.baidu.com##.module-device-mask
+pan.baidu.com##.dialog-gray.guide-share-dir-tip.dialog-dialog1.dialog
 
 ! https://eyun.baidu.com
 eyun.baidu.com##.default-text.client-download
@@ -629,6 +636,9 @@ music.163.com##.f-pr.download
 music.163.com##.m-top
 music.163.com##.f-pr.download > .btn
 
+! https://y.music.163.com
+y.music.163.com##.m-homeft
+
 ! https://www.163.com
 www.163.com##.ntes-nav-entry-bgblack.ntes-nav-mobile-title
 www.163.com##.newsapp-qrcode
@@ -727,6 +737,10 @@ m.bilibili.com##.m-home-float-openapp
 m.bilibili.com##.m-nav-openapp.launch-app-btn
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-main-img
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
+m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn > .container > .btn-text
+m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn > .container
+m.bilibili.com##.m-video2-awaken-btn
+m.bilibili.com##.m-video2-float-openapp
 
 ! https://t.bilibili.com
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
@@ -806,7 +820,6 @@ m.v.qq.com##.at-app-banner__layer
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.at-app-banner__content
 m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn > span
-m.v.qq.com##[src="//vfiles.gtimg.cn/vupload/20210415/6407271618491171592.png"]
 m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn
 m.v.qq.com##.mod_game_rec.mod_box
 m.v.qq.com##.mod_privilege
@@ -889,14 +902,11 @@ i.y.qq.com##.c_bg1.bottom_bar__bd
 
 ! https://www.qq.com
 www.qq.com##.l-qzone.q-icons
-www.qq.com##[src="https://inews.gtimg.com/newsapp_bt/0/092414533156_7716/0"]
-www.qq.com##[src="https://inews.gtimg.com/newsapp_bt/0/09241451069_3873/0"]
 www.qq.com##.l-qmail.q-icons
 www.qq.com##.qq-footer.layout
 www.qq.com##.side
 
 ! https://new.qq.com
-new.qq.com##[src="//inews.gtimg.com/newsapp_ls/0/14245640137_294195/0"]
 new.qq.com###xgtj-20211130A04RHG > .pic
 new.qq.com###xgtj-20211130A04RHG > .txt
 new.qq.com##.txp_shadow
@@ -1009,6 +1019,7 @@ m.iqiyi.com##a.m-user-base:nth-of-type(2)
 m.iqiyi.com##.m-videoUser-spacing
 m.iqiyi.com##.hotWords-wrap
 m.iqiyi.com##div.m-box:nth-of-type(10)
+m.iqiyi.com##.ChannelHomeBanner_mbox_2Q4aQ
 
 ! https://www.sohu.com
 www.sohu.com##.god-article-bottom
@@ -1644,6 +1655,8 @@ jelly.jd.com##.dzsc_item.share
 
 ! https://m.jd.com
 m.jd.com###imk2FixedBottom
+m.jd.com##.carousel-wrapper
+m.jd.com##.pannel-seat
 
 ! https://dbgjd.com
 dbgjd.com##.social
@@ -1960,10 +1973,10 @@ www.fx361.com###ks_dir_ifra
 www.fx361.com##.ks_dir_bg > div
 www.fx361.com###k_s_ol_chatWin
 www.fx361.com##.footer
-www.fx361.com##span.tool-icon:nth-of-type(2)
-www.fx361.com##span.tool-icon:nth-of-type(4)
 www.fx361.com##span.tool-icon:nth-of-type(1)
+www.fx361.com##span.tool-icon:nth-of-type(2)
 www.fx361.com##span.tool-icon:nth-of-type(3)
+www.fx361.com##span.tool-icon:nth-of-type(4)
 
 ! https://m.fx361.com
 m.fx361.com##.icon-shouji.iconfont
@@ -2061,8 +2074,8 @@ www.jswvip.net##.theiaStickySidebar
 ! https://sms.cabq.nl
 sms.cabq.nl##.swiper-wrapper
 sms.cabq.nl##.swiper-container
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(6)
 sms.cabq.nl##.alert-danger.alert
+sms.cabq.nl##div.reed.list-group-item:nth-of-type(6)
 sms.cabq.nl##div.reed.list-group-item:nth-of-type(4)
 sms.cabq.nl##div.reed.list-group-item:nth-of-type(7)
 sms.cabq.nl##div.reed.list-group-item:nth-of-type(5)
@@ -2071,8 +2084,8 @@ sms.cabq.nl##a.btn-sm.btn-default.btn:nth-of-type(2)
 
 ! http://xn--fx1ay19a.cc
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(1)
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(3)
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(2)
+xn--fx1ay19a.cc##li.list-group-item:nth-of-type(3)
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(4)
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(5)
 
@@ -2606,6 +2619,9 @@ market.m.taobao.com##.mainMenu
 
 ! https://www.taobao.com
 www.taobao.com##.clearfix.qr-bd
+
+! https://main.m.taobao.com
+main.m.taobao.com###SLK_evokeUI_v2
 
 ! https://www.nftcn.com.cn
 www.nftcn.com.cn##.img > p
@@ -4198,4 +4214,7 @@ www.shezhan88.com##[href="javascript:alert("]
 ! http://www.yinghuacd.com
 www.yinghuacd.com##.bdshare-button-style0-16.l.bdsharebuttonbox
 www.yinghuacd.com###bdshare
+
+! https://mobile.twitter.com
+mobile.twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > .r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
 
