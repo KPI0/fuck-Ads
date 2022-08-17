@@ -22,21 +22,25 @@
 > - ### 屏蔽`收藏本站`元素
 > - ### 屏蔽`客户端下载`元素
 > - ### 屏蔽`微博微信关注`元素
-## 规则订阅链接（4任选1）
+## 规则订阅链接（5任选1）
 
-- jsDelivr 更新延迟24h
-```
-https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/A/custom_rules_A.txt
-``` 
-- GitHub   更新延迟<1h
+- GitHub
 ```
 https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt
 ```
-- Gitee    更新延迟<1h
+- Gitee
 ```
 https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/A/custom_rules_A.txt
 ```
-- fastgit  更新延迟24h
+- GitLab
+```
+https://jihulab.com/KPI0/uBlock-Origin_custom-rules/-/raw/main/custom_rules.txt
+``` 
+- fastgit
 ```
 https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt
 ```
+- jsDelivr
+```
+https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/A/custom_rules_A.txt
+``` 
