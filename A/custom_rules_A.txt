@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-16
+! TimeUpdated: 2022-08-17
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -3929,4 +3929,25 @@ mobile.twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.c
 
 ! https://v2rayse.com
 v2rayse.com##.theme--light.v-sheet.v-card.mt-2
+
+! https://xuewen.cnki.net
+xuewen.cnki.net##.share
+xuewen.cnki.net##.top-share
+
+! https://www.to8to.com
+www.to8to.com##.bottom_slide_img
+www.to8to.com##.bottom_slide_click
+www.to8to.com##.slide_box_shade
+www.to8to.com##.bottom_slide_wh_img
+
+! https://www.jamesdailylife.com
+www.jamesdailylife.com###block-5
+www.jamesdailylife.com###sidebar-sticky > .widget_media_image.widget_block.widget
+www.jamesdailylife.com###block-3
+www.jamesdailylife.com###custom_html-8
+www.jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
+
+! https://ivpsr.com
+ivpsr.com##.ad-plane-post-comment
+ivpsr.com##.ad-plane-post-in
 
