@@ -56,7 +56,7 @@
 ![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
-### 复制下面的规则链接地址(4任选1)，在插件以下图位置中添加订阅链接更新即可。
+### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
 ```
 https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
