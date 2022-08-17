@@ -34,7 +34,7 @@ https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/A/custom_rules_A.txt
 ```
 - GitLab
 ```
-https://jihulab.com/KPI0/uBlock-Origin_custom-rules/-/raw/main/custom_rules.txt
+https://jihulab.com/KPI0/uBlock-Origin_custom-rules/-/raw/main/A/custom_rules_A.txt
 ``` 
 - fastgit
 ```
