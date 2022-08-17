@@ -57,19 +57,23 @@
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
 ### 复制下面的规则链接地址(4任选1)，在插件以下图位置中添加订阅链接更新即可。
-- jsDelivr 更新延迟24h
-```
-https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
-``` 
-- GitHub   更新延迟<1h
+- GitHub
 ```
 https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
-- Gitee    更新延迟<1h
+- Gitee
 ```
 https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
 ```
-- fastgit  更新延迟24h
+- GitLab
+```
+https://jihulab.com/KPI0/uBlock-Origin_custom-rules/-/raw/main/custom_rules.txt
+``` 
+- jsDelivr
+```
+https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
+``` 
+- fastgit
 ```
 https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
 ```
