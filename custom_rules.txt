@@ -1,10 +1,11 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-17
+! TimeUpdated: 2022-08-22
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓网站
+wkhere.com##*
 15mstr.sh##*
 wifi.com##*
 13833937800.com##*
@@ -714,6 +715,7 @@ www.bilibili.com##.download-client-trigger.download-entry
 www.bilibili.com##.desktop-download-tip
 www.bilibili.com##.left-loc-entry.v-popover-wrap > div
 www.bilibili.com##.inside-wrp
+www.bilibili.com##.share-wrap
 
 ! https://bilibili.com
 bilibili.com##div.qrcode-wrapper:nth-of-type(1)
@@ -1468,6 +1470,9 @@ k.sina.cn##.an.j_callST.callApp_fl_btn
 k.sina.cn##.s_card.art_t
 k.sina.cn##.look_more_a
 k.sina.cn###_811e59a161716377PDPS000000059757
+
+! https://finance.sina.cn
+finance.sina.cn##.j_shareBtn.fl_words_ic
 
 ! https://www.cn-healthcare.com
 www.cn-healthcare.com##.wapnav
@@ -2581,6 +2586,10 @@ wap.yc.ifeng.com##.img
 finance.ifeng.com##.share_box-1HbOUEQZ
 finance.ifeng.com##.share_box-3jSFjXRC
 
+! https://auto.ifeng.com
+auto.ifeng.com##.share_box-1K0x8V7f
+auto.ifeng.com##.share_box-QgjJbrYD
+
 ! https://www.1kkk.com
 www.1kkk.com##[href="/download/"]
 www.1kkk.com##.bottom-ys-con
@@ -2967,6 +2976,7 @@ sm.ms##.google-download
 
 ! https://apkpure.com
 apkpure.com##.share-web.share-btn > ul
+apkpure.com###policy-info
 
 ! http://www.bianews.com
 www.bianews.com##.bdshare-button-style0-16.share_infos_wrap.fr.bdsharebuttonbox
@@ -3077,6 +3087,9 @@ www.huawei.com##.list-unstyled.share-box
 ! https://consumer.huawei.com
 consumer.huawei.com##.huawei-bootom-cookie
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
+
+! https://e.huawei.com
+e.huawei.com##.global-share
 
 ! https://www.360.cn
 www.360.cn##.topbnr
@@ -3515,6 +3528,8 @@ cloud.tencent.com##.link-share.com-opt-link
 cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.c-btn-weak.c-btn
 cloud.tencent.com##.pls-footer-website-contact-view
+cloud.tencent.com##.event.theme2.com-3-article-panel
+cloud.tencent.com##.com-event-panel-img
 console.cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 
 ! https://www.infineon.com
@@ -4243,4 +4258,45 @@ www.jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
 ! https://ivpsr.com
 ivpsr.com##.ad-plane-post-comment
 ivpsr.com##.ad-plane-post-in
+
+! https://www.woshipm.com
+www.woshipm.com##.postlist-item.js-aladdin-24.js-aladdin > .overlayAdlink.home-ad-link
+
+! https://www.qklw.com
+www.qklw.com##[href="http://oyi.guru/"] > .img-responsive
+www.qklw.com##.list-inline > .pull-right
+www.qklw.com##.no-padding.no-border.box-footer
+www.qklw.com##[href^="https://h5.bkex.pub/partnerInvestment"] > .img-responsive
+
+! https://www.yezicc.com
+www.yezicc.com##.article-top
+www.yezicc.com##.article-bottom
+
+! http://www.24688.cn
+www.24688.cn##.social-share.share-component
+
+! https://gmtv1.xyz
+gmtv1.xyz##.pc_rb_float
+
+! http://www.winwin7.com
+www.winwin7.com##.zixun-share
+www.winwin7.com##.text-content > div
+
+! https://fanqiang.network
+fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+
+! https://freeroad.org
+freeroad.org##.top-inside.force-desktop.smt-app-message_bar.smt-app
+freeroad.org##[src="https://freeroad.org/wp-content/uploads/2021/01/Photography-Workshop.png"]
+freeroad.org##.w-ad.widget
+
+! https://aleikeji.com
+aleikeji.com##.advert.card
+
+! https://www.d1ev.com
+www.d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
+www.d1ev.com##.action_share
+
+! https://www.findic.com
+www.findic.com##.share.item
 
