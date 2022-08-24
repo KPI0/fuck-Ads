@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-22
+! TimeUpdated: 2022-08-24
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
 ! 流氓网站
@@ -670,6 +670,13 @@ cc.163.com###download
 
 ! https://3g.163.com
 3g.163.com##.js-open-app.backflow-floating
+
+! https://money.163.com
+money.163.com##.keyword_topnews > .keyword_new > .keyword_other > .keyword_share
+money.163.com##.keyword_list > div.keyword_new > .keyword_other > .keyword_share
+
+! http://163.com
+163.com##.post_top_share
 
 ! https://www.ghxi.com
 www.ghxi.com###custom_html-10 > .custom-html-widget.textwidget
@@ -1451,6 +1458,7 @@ www.xinhuanet.com##.roedeer-container.nav-op > .nav-khd
 www.xinhuanet.com##.share
 www.xinhuanet.com##.domMobile111
 www.xinhuanet.com##.domPC.xwApp
+www.xinhuanet.com##.domPC.fix-ewm
 
 ! http://www.duyou8.com
 www.duyou8.com##.arcfu_btn
@@ -1470,6 +1478,7 @@ k.sina.cn##.an.j_callST.callApp_fl_btn
 k.sina.cn##.s_card.art_t
 k.sina.cn##.look_more_a
 k.sina.cn###_811e59a161716377PDPS000000059757
+k.sina.cn##.icon_share2
 
 ! https://finance.sina.cn
 finance.sina.cn##.j_shareBtn.fl_words_ic
@@ -2271,6 +2280,9 @@ www.giiso.com##.bottom
 ! http://www.hfnl.ustc.edu.cn
 www.hfnl.ustc.edu.cn##.fx > .bdshare-button-style0-16.bdsharebuttonbox
 
+! http://news.ustc.edu.cn
+news.ustc.edu.cn##.share
+
 ! https://url54.ctfile.com
 url54.ctfile.com##.p-3.modal-body > div
 url54.ctfile.com##.flex-row.d-flex.p-3.card-body
@@ -2744,6 +2756,7 @@ www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.bt
 www.chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share
 www.chongdiantou.com##.size-full.attachment-full.wp-image-121974.image
 www.chongdiantou.com##.widget_search.card.widget
+www.chongdiantou.com##.btn-share-toggler.btn-rounded.btn-icon.btn-light.btn
 
 ! https://www.ithome.com
 www.ithome.com##.sideweixin.sfa
@@ -3187,6 +3200,8 @@ www.amap.com##.usel.amap-app-download
 news.cctv.com##.cur.silde > .right_text > .share
 news.cctv.com##.xinwen18886_iphonesee01
 news.cctv.com##.bottom > .share
+news.cctv.com##.right > .share
+news.cctv.com##.sharelike
 
 ! https://v.cctv.com
 v.cctv.com##.download
@@ -4299,4 +4314,48 @@ www.d1ev.com##.action_share
 
 ! https://www.findic.com
 www.findic.com##.share.item
+
+! http://news.cyol.com
+news.cyol.com##.bdshare-button-style0-32.bdsharebuttonbox
+
+! https://rmh.pdnews.cn
+rmh.pdnews.cn##.share.social-share
+
+! https://www.yjbys.com
+www.yjbys.com##.conttop_code
+www.yjbys.com##.banner
+
+! https://www.xianjichina.com
+www.xianjichina.com##.fenxiang
+
+! http://news.cnr.cn
+news.cnr.cn##.bdshare-button-style0-32.shareSmall.bdsharebuttonbox
+
+! http://www.cnr.cn
+www.cnr.cn##.tip
+
+! https://cnr.cn
+cnr.cn##.shares
+
+! https://www.cas.cn
+www.cas.cn##.bdshare-button-style0-32.bdsharebuttonbox.share
+www.cas.cn##[src="//www.cas.cn/images/z19_scroll_wb.png"]
+www.cas.cn##[src="//www.cas.cn/images/z19_scroll_wx.png"]
+
+! https://www.freedidi.com
+www.freedidi.com###text-8
+www.freedidi.com###text-3
+www.freedidi.com###text-4
+www.freedidi.com###text-10
+www.freedidi.com###text-12
+www.freedidi.com##.group.sharrre-header.sharrre-container
+
+! https://katadata.co.id
+katadata.co.id##.mt-md-0.mt-3.icons.detail-share
+
+! https://tekno.kompas.com
+tekno.kompas.com##.eee.social--inline > .clearfix.social--article.social
+tekno.kompas.com##.eee.social--inline > .social--text
+tekno.kompas.com##.container.social--container > .clearfix.social--article.social
+tekno.kompas.com##.container.social--container > .social--text
 
