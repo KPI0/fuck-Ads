@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules_A
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-24
+! TimeUpdated: 2022-08-28
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
 !
 ! 广告弹窗/元素
@@ -33,6 +33,7 @@ m.facebook.com###login_top_banner
 ! https://www.facebook.com
 www.facebook.com##span > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+www.facebook.com##.om3e55n1.cgu29s5g.cqf1kptm.alzwoclg > .q46jt4gp > div > span
 
 ! https://webact.185.hk
 webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
@@ -596,6 +597,11 @@ v.qq.com##.quick_vip.quick_item
 v.qq.com##.x_modal_download
 v.qq.com##div.player-bottom__item.player-bottom__popup:nth-of-type(2)
 v.qq.com##.player-bottom__item-download.player-bottom__item.player-bottom__popup
+v.qq.com##.quick_games.quick_item
+v.qq.com##div.player-bottom__item.player-bottom__popup:nth-of-type(4) > .player-bottom__popup-btn.c-popup
+
+! https://mp.v.qq.com
+mp.v.qq.com##.container___3IFD3
 
 ! https://book.qq.com
 book.qq.com##.fr.headQrCode
@@ -656,9 +662,6 @@ pc.qq.com##.footer
 pc.qq.com##.container_12.link
 pc.qq.com##.category-wrap
 pc.qq.com###J_banmgrbox
-
-! https://mp.v.qq.com
-mp.v.qq.com##.container___3IFD3
 
 ! https://chuangshi.qq.com
 chuangshi.qq.com##.fixedRight.codeWrap
@@ -925,6 +928,9 @@ youku.com##.ad-banner-wrapper
 youku.com###download_btn
 youku.com##.callEnd_fixed_box
 youku.com##.callEnd_box
+youku.com##.u-phone_2eD26
+youku.com##.u-app_Ubbmj
+youku.com##.show_C8p0e.info-bottom_3C0mQ
 
 ! http://www.yhdm.io
 www.yhdm.io##.bdshare-button-style0-16.l.bdsharebuttonbox
@@ -1340,6 +1346,8 @@ www.smzdm.com##.J_index_elevator
 www.smzdm.com##.qrcode > svg > image
 www.smzdm.com##.qrcode > svg
 www.smzdm.com##.footer-floating-layer
+www.smzdm.com##.J_common_shares.left-share
+www.smzdm.com###elevator > li:nth-of-type(1)
 
 ! https://search.smzdm.com
 search.smzdm.com###subscribes
@@ -1355,6 +1363,10 @@ post.smzdm.com###elevator > li:nth-of-type(1)
 ! https://m.smzdm.com
 m.smzdm.com##[href^="https://app.smzdm.com/xiazai/"]
 m.smzdm.com##.footer-banner
+
+! https://post.m.smzdm.com
+post.m.smzdm.com##.foot-banner
+post.m.smzdm.com##.logo-download
 
 ! https://zhiyou.smzdm.com
 zhiyou.smzdm.com##.z-clearfix.footer-inner
@@ -1694,26 +1706,19 @@ www.fx361.com###ks_dir_ifra
 www.fx361.com##.ks_dir_bg > div
 www.fx361.com###k_s_ol_chatWin
 www.fx361.com##.footer
-www.fx361.com##span.tool-icon:nth-of-type(1)
-www.fx361.com##span.tool-icon:nth-of-type(2)
-www.fx361.com##span.tool-icon:nth-of-type(3)
-www.fx361.com##span.tool-icon:nth-of-type(4)
+www.fx361.com##span.tool-icon:nth-of-type(n)
 
 ! https://m.fx361.com
 m.fx361.com##.icon-shouji.iconfont
-m.fx361.com##span.tool-icon:nth-of-type(1)
-m.fx361.com##span.tool-icon:nth-of-type(2)
-m.fx361.com##span.tool-icon:nth-of-type(3)
-m.fx361.com##span.tool-icon:nth-of-type(4)
+m.fx361.com##span.tool-icon:nth-of-type(n)
 
 ! https://news.mydrivers.com
 news.mydrivers.com###right_tab
 news.mydrivers.com##.footer_about
-news.mydrivers.com##p.copyright:nth-of-type(1)
-news.mydrivers.com##p.copyright:nth-of-type(2)
-news.mydrivers.com##p.copyright:nth-of-type(3)
+news.mydrivers.com##p.copyright:nth-of-type(n)
 news.mydrivers.com##.share > table > tbody > tr > td
 news.mydrivers.com##.share
+news.mydrivers.com##.fenxiang > li
 
 ! https://m.mydrivers.com
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
@@ -1796,19 +1801,10 @@ www.jswvip.net##.theiaStickySidebar
 sms.cabq.nl##.swiper-wrapper
 sms.cabq.nl##.swiper-container
 sms.cabq.nl##.alert-danger.alert
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(6)
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(4)
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(7)
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(5)
-sms.cabq.nl##div.reed.list-group-item:nth-of-type(8)
-sms.cabq.nl##a.btn-sm.btn-default.btn:nth-of-type(2)
+sms.cabq.nl##a.btn-sm.btn-default.btn:nth-of-type(n+1)
 
 ! http://xn--fx1ay19a.cc
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(1)
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(2)
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(3)
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(4)
-xn--fx1ay19a.cc##li.list-group-item:nth-of-type(5)
+xn--fx1ay19a.cc##li.list-group-item:nth-of-type(n)
 
 ! https://chp.shadiao.app
 chp.shadiao.app###show-ganfan
@@ -3421,6 +3417,8 @@ www.anwangxia.com##.share.info-item
 ! https://www.1905.com
 www.1905.com###playerBox-info-share
 www.1905.com###playerBox-info-mobile
+www.1905.com##.clear.pic-other
+www.1905.com##.hidden-sm.hidden-xs.clear.share
 
 ! https://www.608y.com
 www.608y.com##.qrcode_box
@@ -4002,6 +4000,8 @@ gmtv1.xyz##.pc_rb_float
 ! http://www.winwin7.com
 www.winwin7.com##.zixun-share
 www.winwin7.com##.text-content > div
+www.winwin7.com##.bdshare-slide-style-r0.bdshare-slide-button-box
+www.winwin7.com##.baidufx
 
 ! https://fanqiang.network
 fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
@@ -4064,4 +4064,76 @@ tekno.kompas.com##.eee.social--inline > .clearfix.social--article.social
 tekno.kompas.com##.eee.social--inline > .social--text
 tekno.kompas.com##.container.social--container > .clearfix.social--article.social
 tekno.kompas.com##.container.social--container > .social--text
+
+! https://www.heziku.com
+www.heziku.com##.share.info-item
+www.heziku.com##.j-share.action-item
+
+! https://www.extfans.com
+www.extfans.com##.share-content.d-lg-block.d-none
+
+! https://www.chajian5.com
+www.chajian5.com##.speedbar
+www.chajian5.com##.banner-post.banner
+
+! https://www.361shipin.com
+www.361shipin.com##.sm6.xs12.align-self-center.text-right.flex
+
+! https://today.line.me
+today.line.me##.interactiveShare
+
+! https://www.runningcheese.com
+www.runningcheese.com###move_share
+
+! https://www.chromefk.com
+www.chromefk.com##.st-show-total.st-has-labels.st-toggleable.st-right.st-sticky-share-buttons
+
+! https://www.leixue.com
+www.leixue.com##.share
+
+! https://hostloc.com
+hostloc.com##.wp > .z
+
+! https://www.veidc.com
+www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n+2)
+www.veidc.com##.orbui-site-01.orbui-site.orbui
+www.veidc.com##.widget_ui_textorbui.widget.widget-on-phone
+www.veidc.com##.shares
+www.veidc.com##.orbui-index-01.orbui-index.orbui
+www.veidc.com##.asb-indexd-01.asb-indexd.asb
+www.veidc.com##.orbui-index-02.orbui-index.orbui
+
+! https://www.5axxw.com
+www.5axxw.com###gzh-modal
+www.5axxw.com###gzh-mask
+www.5axxw.com##.d-xl-flex.mb-4.float-ads.align-items-center.justify-content-center.d-none.overflow-hidden.border-0.card
+
+! https://www.renminshangjin.com
+www.renminshangjin.com###bay
+
+! https://dadablog.cn
+dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
+
+! https://www.dmys2.com
+www.dmys2.com##.btn-share.btn-collect.btn-large
+
+! https://www.znds.com
+www.znds.com##.a_czt
+www.znds.com##.a_f.aa
+www.znds.com##a[href="https://www.znds.com/"]:nth-of-type(2)
+www.znds.com###portal_block_272_content > .portal_block_summary
+www.znds.com###portal_block_288_content > .portal_block_summary
+
+! https://www.tanmizhi.com
+www.tanmizhi.com##.bdshare-button-style2-32.bdsharebuttonbox
+
+! http://www.chaicp.com
+www.chaicp.com##.w.icp_top > .clearfix
+
+! http://jeyi.net
+jeyi.net##.cl.tshare
+
+! https://www.51dongshi.com
+www.51dongshi.com##.icon-medium-plus.bshare-custom
+www.51dongshi.com##.weixin_e
 
