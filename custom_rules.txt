@@ -1,10 +1,10 @@
 ! [uBlock Origin]
 ! Title: uBlock Origin_custom rules
 ! uBlock Origin_自定义静态规则
-! TimeUpdated: 2022-08-29
+! TimeUpdated: 2022-08-31
 ! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules
 !
-! 流氓网站
+! 流氓软件/网站
 13833937800.com##*
 15mstr.sh##*
 160.com##*
@@ -169,9 +169,11 @@ zs.91.com##*
 
 ! 色情低俗
 09.gay##*
+1678av.com##*
 18maogk.com##*
 18qwe.com##*
 29maonn.com##*
+3345av.com##*
 56maoee.com##*
 57maoee.com##*
 59867pq.com##*
@@ -300,6 +302,14 @@ zztt24.com##*
 zzzttt.life##*
 
 ! 广告弹窗/元素
+##.post-bottom
+##.list-inline .fb_iframe_widget.fb-like
+##.weixinqrcode
+##.weibo
+##.wechat
+##.bottom > .share
+##.right_text > .share
+
 ! https://123.sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
 123.sogou.com###addBook
@@ -349,6 +359,9 @@ cloud.189.cn##.enterprise-guide-ad-box
 cloud.189.cn##.enterprise-guide-box
 cloud.189.cn##.advertising-popup
 cloud.189.cn##.advertising-mask
+
+! https://baidu.com
+baidu.com##.app-download
 
 ! https://www.baidu.com
 www.baidu.com###hotsearch-content-wrapper
@@ -481,7 +494,6 @@ dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
 dumall.baidu.com##.whiteBg.com-advertisement.jsx-1049465603
 
 ! https://pan.baidu.com
-pan.baidu.com##.app-download
 pan.baidu.com##.BHgeMdb
 pan.baidu.com##.dialog-gray.guide-share-dir-tip.dialog-dialog1.dialog
 pan.baidu.com##.g-clearfix.KzGbKPb
@@ -2027,14 +2039,12 @@ www.chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 
 ! https://cn.chinadaily.com.cn
 cn.chinadaily.com.cn##.more
-cn.chinadaily.com.cn##.weixinqrcode
 cn.chinadaily.com.cn##.xinf-ri
 cn.chinadaily.com.cn##.lo-bott-one
 
 ! http://china.chinadaily.com.cn
 china.chinadaily.com.cn##.lo-rig-bott > table > tbody > tr > td:nth-of-type(1)
 china.chinadaily.com.cn##.more
-china.chinadaily.com.cn##.weixinqrcode
 china.chinadaily.com.cn##.xinf-ri
 china.chinadaily.com.cn##.xinf-ri2 > [href^="http://v.t.sina.com.cn/share/share.php"]
 china.chinadaily.com.cn##div.fenx:nth-of-type(7)
@@ -3199,6 +3209,8 @@ news.cctv.com##.xinwen18886_iphonesee01
 news.cctv.com##.bottom > .share
 news.cctv.com##.right > .share
 news.cctv.com##.sharelike
+news.cctv.com##.slideDown
+news.cctv.com##.weima
 
 ! https://v.cctv.com
 v.cctv.com##.download
@@ -4489,4 +4501,72 @@ www.wdashi.com##.wrap > .bdshare-button-style0-16.bdsharebuttonbox
 
 ! https://www.51sjk.com
 www.51sjk.com##.shares.range
+
+! http://pdfzj.cn
+pdfzj.cn##a[href="javascript:void(0);"]:nth-of-type(2)
+pdfzj.cn##.g-abs.h-right > a[href="javascript:void(0);"]:nth-of-type(1)
+pdfzj.cn##.mumu
+pdfzj.cn##.spig
+
+! http://theme.loome.net
+theme.loome.net##.baishare
+
+! https://www.ximalaya.com
+www.ximalaya.com##.xz_.dl-pc
+www.ximalaya.com##div.mgb-20:nth-of-type(1)
+www.ximalaya.com##._uH.header-pc.header-gray.xui-header-iconNav-item
+www.ximalaya.com##button.F_n.old-btn.xui-btn:nth-of-type(3)
+www.ximalaya.com##button.F_n.old-btn.xui-btn:nth-of-type(1)
+
+! https://www.chinatimes.com
+www.chinatimes.com##.col-md-auto > .social-share
+www.chinatimes.com##.social-share-wrapper
+
+! https://eastweek.my-magazine.me
+eastweek.my-magazine.me##.col-xs-12.col-sm-12.col-md-8.col-lg-8 > div.clearfix > .share-btn > .a2a_default_style.a2a_kit_size_32.a2a_kit.pull-right
+eastweek.my-magazine.me##.view-footer > .clearfix > .share-btn > .a2a_default_style.a2a_kit_size_32.a2a_kit.pull-right
+eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(1)
+eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(2)
+eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(4)
+eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(6)
+eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(7)
+
+! https://docsmall.com
+docsmall.com##.show.modal-connection > .content
+docsmall.com##.show.modal-connection
+
+! https://myqqjd.com
+myqqjd.com##.entry-content > .sharing-box
+myqqjd.com##.fds.like-left-box
+
+! https://3dmgame.com
+3dmgame.com##.Cs_share
+3dmgame.com##.cl.tshare
+
+! https://www.llxbw.com
+www.llxbw.com##.layui-col-space5.layui-row.layui-clear
+
+! https://www.906k.cn
+www.906k.cn##.ad
+
+! https://new.9ihb.com
+new.9ihb.com##.jinsom-single-left-bar
+
+! http://3345av.com
+3345av.com##table
+3345av.com##ins
+
+! http://1678av.com
+1678av.com##table
+1678av.com##ins
+
+! https://m.ijjxs.com
+m.ijjxs.com##.footer
+m.ijjxs.com###js2
+
+! http://www.dmh8.com
+www.dmh8.com##.bdshare-button-style0-24.hidden-xs.hidden-sm.text-center.bdsharebuttonbox.bdshare
+
+! http://m.dmh8.com
+||m.dmh8.com^$all
 
