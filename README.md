@@ -1,4 +1,4 @@
-> # [![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/) uBlock Origin
+> # [![image](https://github.com/KPI0/fuck-Ads/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/) uBlock Origin
 > > - ### uBlock Origin 扩展程序_源码地址：   [uBlock](https://github.com/gorhill/uBlock/)
 > > - ### uBlock Origin 扩展程序_安装地址：   [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > > - ### 支持此扩展程序的手机浏览器：   [Kiwi](https://kiwibrowser.com/)、    [Firefox](https://www.firefox.com.cn/)、           [Lemur](https://lemurbrowser.com)、      [Yandex](https://browser.yandex.com/)、    [Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
@@ -7,14 +7,14 @@
 ----
 
 # 自定义静态规则范围
-[<img align="right" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="303px" />](https://www.360.cn/)
+[<img align="right" src="https://github.com/KPI0/fuck-Ads/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="303px" />](https://www.360.cn/)
 
 > - ### 屏蔽`网页广告`
 > - ### 屏蔽`网页弹窗`
 > - ### 屏蔽`装机联盟`网页
 > - ### 屏蔽`钓鱼链接`网页
 > - ### 屏蔽`反智媒体`网页
-> - ### 屏蔽[`色情低俗`](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/Website/sex)网页
+> - ### 屏蔽[`色情低俗`](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/Website/sex)网页
 > - ### 屏蔽人血馒头网页
 > - ### 屏蔽传销诈骗网页
 > - ### 屏蔽流氓软件网页
