@@ -1,17 +1,22 @@
 ! [uBlock Origin]
-! Title: uBlock Origin_custom rules_A
-! uBlock Origin_自定义静态规则
+! Title: ubo_rules_A
 ! TimeUpdated: 2022-08-31
-! Homepage: https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A
+! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 !
 ! 广告弹窗/元素
-##.post-bottom
+##.bdshare-button-style0-24.bdsharebuttonbox
+##.bottom > .share
+##.download-app
+##.fenxiang
 ##.list-inline .fb_iframe_widget.fb-like
+##.right_text > .share
+##.share
+##.shares
 ##.weixinqrcode
 ##.weibo
 ##.wechat
-##.bottom > .share
-##.right_text > .share
+##.page-share.info-fr
+##.post-bottom
 
 ! https://123.sogou.com
 123.sogou.com##.m.m-nav > .cf > li > .tg
@@ -32,9 +37,6 @@
 123.sogou.com##.sidebar
 123.sogou.com##.style_infoFlowCoolsite__3qAHc
 
-! https://mse.sogou.com
-mse.sogou.com##*
-
 ! https://m.facebook.com
 m.facebook.com###login_top_banner
 
@@ -50,7 +52,6 @@ webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
 www.acfun.cn##.app-guide
 www.acfun.cn###footer
 www.acfun.cn##.icon-dao-hang-phone.icon-ks
-www.acfun.cn##.download-app
 
 ! https://cloud.189.cn
 cloud.189.cn###J_DLMenu > .dropdown-toggle
@@ -644,7 +645,6 @@ new.qq.com###xgtj-20211130A04RHG > .txt
 new.qq.com##.txp_shadow
 new.qq.com##.right-bar > div
 new.qq.com##.through.share-title
-new.qq.com##.share
 new.qq.com##a.item:nth-of-type(4)
 new.qq.com##a.item > .txt
 new.qq.com##.fixed-bar
@@ -786,7 +786,6 @@ www.sohu.com##li.new-end:nth-of-type(2)
 ! https://news.sohu.com
 news.sohu.com###share > ul
 news.sohu.com###share > .title
-news.sohu.com##.share
 
 ! https://tv.sohu.com
 tv.sohu.com##.s_default_wrap.vbtn-fa.vbtn
@@ -968,6 +967,9 @@ www.zol.com.cn##div.main-nav-line:nth-of-type(8)
 ! https://nb.zol.com.cn
 nb.zol.com.cn##.article-side-box
 
+! https://diy.zol.com.cn
+diy.zol.com.cn##.share-icon.icon
+
 ! https://www.huobi.com
 www.huobi.com##.fedui-header-download > .fedui-theme-text
 www.huobi.com##.fedui-header-download
@@ -983,7 +985,6 @@ max.book118.com##.sidebar-wechat.sidebar-item > .sidebar-item-on
 max.book118.com##.sidebar-wechat.sidebar-item
 max.book118.com##.site-link
 max.book118.com###footer
-max.book118.com##.share
 max.book118.com##[href^="/user_center_v1/upload/Upload/ordinary.html"] > .lazy-success
 max.book118.com##.mqrcode > .drop-down
 max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
@@ -1014,7 +1015,6 @@ www.doc88.com##.header-func > .wrapper > ul > li:nth-of-type(2)
 www.doc88.com##.iamge1
 www.doc88.com##.mainpart > .clearfix
 www.doc88.com##.qrcode > p
-www.doc88.com##.share
 www.doc88.com##.top-wx > [href]
 www.doc88.com##div.columns:nth-of-type(1)
 www.doc88.com##div.columns:nth-of-type(2)
@@ -1177,7 +1177,6 @@ www.xinhuanet.com##.i-xt.xs.right-wap
 www.xinhuanet.com##.no-ad.fixed.part-right
 www.xinhuanet.com##.part-right
 www.xinhuanet.com##.roedeer-container.nav-op > .nav-khd
-www.xinhuanet.com##.share
 www.xinhuanet.com##.domMobile111
 www.xinhuanet.com##.domPC.xwApp
 www.xinhuanet.com##.domPC.fix-ewm
@@ -1190,9 +1189,8 @@ wap.pai-hang-bang.com##.foot
 
 ! https://sina.cn
 sina.cn##a.ft_down_a:nth-of-type(2)
-
-! https://news.sina.cn
-news.sina.cn##.j_shareBtn.fl_words_ic
+sina.cn##.j_shareBtn.fl_words_ic
+sina.cn##.fl_suspension_box
 
 ! https://k.sina.cn
 k.sina.cn##.qweasd.sw_c0
@@ -1202,8 +1200,8 @@ k.sina.cn##.look_more_a
 k.sina.cn###_811e59a161716377PDPS000000059757
 k.sina.cn##.icon_share2
 
-! https://finance.sina.cn
-finance.sina.cn##.j_shareBtn.fl_words_ic
+! https://lotto.sina.cn
+lotto.sina.cn##div.cta:nth-of-type(3)
 
 ! https://www.cn-healthcare.com
 www.cn-healthcare.com##.wapnav
@@ -1322,9 +1320,6 @@ www.zikao365.com##.fl.info-share-new
 ! https://ha.huatu.com
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
 ha.huatu.com##body > div > div
-
-! https://gd.huatu.com
-gd.huatu.com##.share
 
 ! https://sydw.huatu.com
 sydw.huatu.com##.bottomBar
@@ -1691,7 +1686,6 @@ www.jiemian.com##.share-article > .article-share
 ! https://m.jiemian.com
 m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
 m.jiemian.com##.app-open
-m.jiemian.com##.download-app
 
 ! http://www.ceconline.com
 www.ceconline.com##.CEC_fixedSideBox
@@ -1727,8 +1721,6 @@ news.mydrivers.com###right_tab
 news.mydrivers.com##.footer_about
 news.mydrivers.com##p.copyright:nth-of-type(n)
 news.mydrivers.com##.share > table > tbody > tr > td
-news.mydrivers.com##.share
-news.mydrivers.com##.fenxiang > li
 
 ! https://m.mydrivers.com
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
@@ -1960,7 +1952,6 @@ www.a8q.cn##marquee
 www.dandanzan.com##.lgyPl_v2_record_item_saytext
 www.dandanzan.com##.lgyPl_v2_load_more_record
 www.dandanzan.com##.lgyPl_v2_inner
-www.dandanzan.com##.shares
 
 ! https://maker.lceda.cn
 maker.lceda.cn##.float-ul
@@ -1977,7 +1968,6 @@ www.hupu.com##.footer-floor
 www.hupu.com##[href^="https://mobile.hupu.com/"]
 
 ! https://bbs.hupu.com
-bbs.hupu.com##.download-app
 bbs.hupu.com##.qrcodeLink_3wVdw.link_2iELG
 bbs.hupu.com##.game-center-sidebar
 bbs.hupu.com##.gamecenter
@@ -1989,9 +1979,6 @@ www.giiso.com##.bottom
 
 ! http://www.hfnl.ustc.edu.cn
 www.hfnl.ustc.edu.cn##.fx > .bdshare-button-style0-16.bdsharebuttonbox
-
-! http://news.ustc.edu.cn
-news.ustc.edu.cn##.share
 
 ! https://url54.ctfile.com
 url54.ctfile.com##.p-3.modal-body > div
@@ -2359,9 +2346,9 @@ main.m.taobao.com##button
 ! https://www.nftcn.com.cn
 www.nftcn.com.cn##.img > p
 
-! http://news.10jqka.com.cn
-news.10jqka.com.cn##.page-share.info-fr
-news.10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
+! http://10jqka.com.cn
+10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
+10jqka.com.cn##.dimonsion
 
 ! https://www.8btc.com
 www.8btc.com##div.item:nth-of-type(2)
@@ -2547,9 +2534,6 @@ www.ibox.art##.navs > li > [href="/zh-cn/download/"]
 
 ! https://addons.opera.com
 addons.opera.com###overlay
-
-! http://www.oupeng.com
-www.oupeng.com##.share
 
 ! https://bbs.kafan.cn
 bbs.kafan.cn##.z > [href="https://bbs.kafan.cn/"]
@@ -2760,11 +2744,7 @@ www.aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
 www.aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
 
 ! http://www.yes321.com
-www.yes321.com##.shares
 www.yes321.com##[href="https://www.yes321.com/prod/yesapp/commonality/downApp/down.html"]
-
-! http://china.qianlong.com
-china.qianlong.com##.fenxiang
 
 ! https://www.toutiao.com
 www.toutiao.com##.feedback.tool-item
@@ -3118,9 +3098,6 @@ www.znjj.tv##.kf_box
 www.znjj.tv##.qqcen_lf
 www.znjj.tv##.headlines_qr
 
-! http://m.znjj.tv
-m.znjj.tv##.bdshare-button-style0-24.bdsharebuttonbox.clearfix
-
 ! https://www.zhuangku.com
 www.zhuangku.com##.service-fixed
 
@@ -3250,7 +3227,6 @@ www.newiot.com###ggxc
 www.canva.cn##.jv5LaQ
 
 ! https://www.secrss.com
-www.secrss.com##.download-app
 www.secrss.com##.qrcode
 
 ! http://boyumai.com
@@ -3334,9 +3310,6 @@ m.eefocus.com##.common-top-ad-container
 
 ! http://www.rsdznjj.com
 www.rsdznjj.com##.layout-entry-share
-
-! https://www.kepuchina.cn
-www.kepuchina.cn##.share
 
 ! https://baike.pcauto.com.cn
 baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
@@ -3549,9 +3522,6 @@ www.ifanr.com##.c-single-video-share-bar__medias.c-social-bar--sqaured.c-social-
 www.dyhzdl.cn##.flr.casedetail-share
 www.dyhzdl.cn##.clearfix.fr.arti-hi-phone
 
-! https://tougao.12371.cn
-tougao.12371.cn##.fenxiang
-
 ! https://www.528btc.com
 www.528btc.com##.share-component.social-share
 www.528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
@@ -3672,7 +3642,6 @@ stdaily.com##.content-l2-l-share-l3 > .bdshare-button-style0-24.bdsharebuttonbox
 
 ! http://www.eepw.com.cn
 www.eepw.com.cn##.bdshare-button-style1-32.bdsharebuttonbox
-www.eepw.com.cn##.share
 
 ! https://cc1986.com
 cc1986.com##.sharebox
@@ -3724,12 +3693,8 @@ www.pcbems.com###bdshare
 ! http://www.cnmaxwell.com
 www.cnmaxwell.com##.fr > [href="#"]
 
-! http://www.maijx.com
-www.maijx.com##.share
-
 ! https://www.mayiwenku.com
 www.mayiwenku.com###boxleft > table
-www.mayiwenku.com##.share
 
 ! https://wenda.so.com
 wenda.so.com##.top-search-banner
@@ -3744,7 +3709,6 @@ upimg.baike.so.com##.wrap.entry-plus > .boxwrap
 upimg.baike.so.com##.gallery-page.gallery-page-ft
 
 ! http://dljz.nicethemes.cn
-dljz.nicethemes.cn##.share
 dljz.nicethemes.cn##.art_share
 
 ! http://www.china-audit.com
@@ -3793,7 +3757,6 @@ blog.chinaunix.net##.bdshare-button-style0-16.bdsharebuttonbox
 news.eeworld.com.cn##.fengxiang
 
 ! http://www.xde6.net
-www.xde6.net##.bdshare-button-style0-24.bdsharebuttonbox
 www.xde6.net##.fr.gb_resLay
 
 ! https://www.xiexiebang.com
@@ -3822,7 +3785,6 @@ www.h61889.com##.xwfbzs2 .bdshare-button-style0-16.bdsharebuttonbox
 www.takungpao.com##.bdshare-button-style0-24.clearfix.bdsharebuttonbox.tkp_con_share
 
 ! http://www.dzwww.com
-www.dzwww.com##.share
 www.dzwww.com##.right > .bdshare-button-style0-16.bdsharebuttonbox.get-codes-bdshare.bds_tools.bdshare_t
 
 ! https://www.feimiao.cn
@@ -3846,9 +3808,6 @@ www.tiw.cn###targetDiv
 
 ! https://s.kaoyaya.com
 s.kaoyaya.com##.custom-window
-
-! http://www.javashuo.com
-www.javashuo.com##.share
 
 ! https://www.xuesai.cn
 www.xuesai.cn##.searchList_side
@@ -3977,7 +3936,6 @@ mobile.twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.c
 v2rayse.com##.theme--light.v-sheet.v-card.mt-2
 
 ! https://xuewen.cnki.net
-xuewen.cnki.net##.share
 xuewen.cnki.net##.top-share
 
 ! https://www.to8to.com
@@ -4050,17 +4008,11 @@ rmh.pdnews.cn##.share.social-share
 www.yjbys.com##.conttop_code
 www.yjbys.com##.banner
 
-! https://www.xianjichina.com
-www.xianjichina.com##.fenxiang
-
 ! http://news.cnr.cn
 news.cnr.cn##.bdshare-button-style0-32.shareSmall.bdsharebuttonbox
 
 ! http://www.cnr.cn
 www.cnr.cn##.tip
-
-! https://cnr.cn
-cnr.cn##.shares
 
 ! https://www.cas.cn
 www.cas.cn##.bdshare-button-style0-32.bdsharebuttonbox.share
@@ -4107,20 +4059,16 @@ www.runningcheese.com###move_share
 ! https://www.chromefk.com
 www.chromefk.com##.st-show-total.st-has-labels.st-toggleable.st-right.st-sticky-share-buttons
 
-! https://www.leixue.com
-www.leixue.com##.share
-
 ! https://hostloc.com
 hostloc.com##.wp > .z
 
 ! https://www.veidc.com
-www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n+2)
 www.veidc.com##.orbui-site-01.orbui-site.orbui
 www.veidc.com##.widget_ui_textorbui.widget.widget-on-phone
-www.veidc.com##.shares
 www.veidc.com##.orbui-index-01.orbui-index.orbui
 www.veidc.com##.asb-indexd-01.asb-indexd.asb
 www.veidc.com##.orbui-index-02.orbui-index.orbui
+www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n)
 
 ! https://www.5axxw.com
 www.5axxw.com###gzh-modal
@@ -4187,10 +4135,8 @@ www.bbsnet.com##.baishare
 ! http://www.weixinbqb.com
 www.weixinbqb.com##[src="/style/images/jsq.gif"]
 www.weixinbqb.com##.d_tags > p
-www.weixinbqb.com##.shares
 
 ! http://desktx.com
-desktx.com##.bdshare-button-style0-24.bdsharebuttonbox
 desktx.com##.bdshare-slide-style-r5.bdshare-slide-button-box
 desktx.com##.current > span
 desktx.com##.msg_con > span:nth-of-type(1)
@@ -4218,8 +4164,8 @@ theme.loome.net##.baishare
 www.ximalaya.com##.xz_.dl-pc
 www.ximalaya.com##div.mgb-20:nth-of-type(1)
 www.ximalaya.com##._uH.header-pc.header-gray.xui-header-iconNav-item
-www.ximalaya.com##button.F_n.old-btn.xui-btn:nth-of-type(3)
 www.ximalaya.com##button.F_n.old-btn.xui-btn:nth-of-type(1)
+www.ximalaya.com##button.F_n.old-btn.xui-btn:nth-of-type(3)
 
 ! https://www.chinatimes.com
 www.chinatimes.com##.col-md-auto > .social-share
@@ -4235,8 +4181,8 @@ eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(
 eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12:nth-of-type(7)
 
 ! https://docsmall.com
-docsmall.com##.show.modal-connection > .content
 docsmall.com##.show.modal-connection
+docsmall.com##.show.modal-connection > .content
 
 ! https://myqqjd.com
 myqqjd.com##.entry-content > .sharing-box
@@ -4266,10 +4212,20 @@ new.9ihb.com##.jinsom-single-left-bar
 ! https://m.ijjxs.com
 m.ijjxs.com##.footer
 m.ijjxs.com###js2
+m.ijjxs.com##div[class="pd6"]
 
 ! http://www.dmh8.com
 www.dmh8.com##.bdshare-button-style0-24.hidden-xs.hidden-sm.text-center.bdsharebuttonbox.bdshare
 
 ! http://m.dmh8.com
-||m.dmh8.com^$all
+m.dmh8.com##.dropdown-hover.playshare
+
+! https://www.zhcw.com
+www.zhcw.com##.zwqk > .ztX3w-L
+
+! https://news.eda365.com
+news.eda365.com##.headerbg
+news.eda365.com##.infobg
+news.eda365.com##.shareType
+news.eda365.com##.pagebg.bannerbg
 
