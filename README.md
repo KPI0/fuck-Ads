@@ -41,47 +41,47 @@
 
 
 
-### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/A/custom_rules_A.txt)
-### [点击此处或后面的小飞机可直达](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A) [<img align="center" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/uBlock-Origin_custom-rules/tree/main/A)
+### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [uBlock Origin_custom rules_A](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/custom_rules_A.txt)
+### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://github.com/KPI0/fuck-Ads/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
 # 举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽。不会弹出选择，只是打开网页一片空白。*  
 *！！！空白网页表示已标记为黑名单！！！*
-![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/kk.png)
+![image](https://github.com/KPI0/fuck-Ads/blob/main/images/kk.png)
 # 使用方法
 
 ## 第一种方法（不推荐，不能及时更新）
-### 直接复制[custom-rules.txt](https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
-![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
+### 直接复制[custom-rules.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/custom_rules.txt)规则或者下载该文件，在插件以下图位置中添加规则即可。
+![image](https://github.com/KPI0/fuck-Ads/blob/main/images/Snipaste_2022-02-28_18-40-26.png)
 
 ## 第二种方法（强烈推荐！方便快捷更新及时）
 ### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
 ```
-https://raw.githubusercontent.com/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+https://raw.githubusercontent.com/KPI0/fuck-Ads/main/custom_rules.txt
 ```
 - Gitee
 ```
-https://gitee.com/KPI0/uBlock-Origin-custom-rules/raw/main/custom_rules.txt
+https://gitee.com/KPI0/fuck-Ads/raw/main/custom_rules.txt
 ```
 - GitLab
 ```
-https://jihulab.com/KPI0/uBlock-Origin_custom-rules/-/raw/main/custom_rules.txt
+https://jihulab.com/KPI0/fuck-Ads/-/raw/main/custom_rules.txt
 ``` 
 - jsDelivr
 ```
-https://cdn.jsdelivr.net/gh/KPI0/uBlock-Origin_custom-rules@main/custom_rules.txt
+https://cdn.jsdelivr.net/gh/KPI0/fuck-Ads@main/custom_rules.txt
 ``` 
 - fastgit
 ```
-https://raw.fastgit.org/KPI0/uBlock-Origin_custom-rules/main/custom_rules.txt
+https://raw.fastgit.org/KPI0/fuck-Ads/main/custom_rules.txt
 ```
 
-![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
+![image](https://github.com/KPI0/fuck-Ads/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
 
 
-## 推荐几个 <img align="" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/np.png" width="100px" />的规则。
+## 推荐几个 <img align="" src="https://github.com/KPI0/fuck-Ads/blob/main/images/np.png" width="100px" />的规则。
 
 <details>
   <summary>注意事项</summary>
@@ -119,13 +119,13 @@ https://gitee.com/halflife/list/raw/master/ad.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 ```
 
-[![image](https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
+[![image](https://github.com/KPI0/fuck-Ads/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
 # 广告拦截分数评估  
 
-[<img align="bottom" src="https://github.com/KPI0/uBlock-Origin_custom-rules/blob/main/images/logo.c41e6f93.svg" width="33px" />](https://checkadblock.ru/) https://checkadblock.ru
+[<img align="bottom" src="https://github.com/KPI0/fuck-Ads/blob/main/images/logo.c41e6f93.svg" width="33px" />](https://checkadblock.ru/) https://checkadblock.ru
 
 ## 目的：网站页面更加干净、清爽、简洁、健康。
 
