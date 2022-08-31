@@ -59,23 +59,23 @@
 ### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
 ```
-https://raw.githubusercontent.com/KPI0/fuck-Ads/main/custom_rules.txt
+https://raw.githubusercontent.com/KPI0/fuck-Ads/main/ubo_rules.txt
 ```
 - Gitee
 ```
-https://gitee.com/KPI0/fuck-Ads/raw/main/custom_rules.txt
+https://gitee.com/KPI0/fuck-Ads/raw/main/ubo_rules.txt
 ```
 - GitLab
 ```
-https://jihulab.com/KPI0/fuck-Ads/-/raw/main/custom_rules.txt
+https://jihulab.com/KPI0/fuck-Ads/-/raw/main/ubo_rules.txt
 ``` 
 - jsDelivr
 ```
-https://cdn.jsdelivr.net/gh/KPI0/fuck-Ads@main/custom_rules.txt
+https://cdn.jsdelivr.net/gh/KPI0/fuck-Ads@main/ubo_rules.txt
 ``` 
 - fastgit
 ```
-https://raw.fastgit.org/KPI0/fuck-Ads/main/custom_rules.txt
+https://raw.fastgit.org/KPI0/fuck-Ads/main/ubo_rules.txt
 ```
 
 ![image](https://github.com/KPI0/fuck-Ads/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
