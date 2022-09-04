@@ -4,6 +4,7 @@
 > > - ### 支持此扩展程序的手机浏览器：[Kiwi](https://kiwibrowser.com/)、[Firefox](https://www.firefox.com.cn/)、[Lemur](https://lemurbrowser.com)、[Yandex](https://browser.yandex.com/)、[Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
 > > - ### 支持此扩展程序的电脑浏览器：[百分](https://static.centbrowser.cn/win_beta/)、[猫眼](https://www.catsxp.com/)、[Tor](https://www.torproject.org/)、[LibreWolf](https://librewolf.net/)、[星愿](https://www.twinkstar.com/)
 > > - ### 支持订阅该规则集的浏览器：[Vivaldi](https://vivaldi.com/)、[雨见](https://club.yujianweb.cn/index.php/archives/13/)
+> > - ### 其他浏览器参考教程：[参考](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ----
 
