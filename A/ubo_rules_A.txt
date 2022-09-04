@@ -1,7 +1,7 @@
 ! [uBlock Origin]
 ! Title: ubo_rules_A
-! TimeUpdated: 2022-09-01
-! Homepage: https://github.com/KPI0/fuck-Ads
+! TimeUpdated: 2022-09-04
+! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 !
 ! 广告弹窗/元素
@@ -2744,6 +2744,8 @@ www.iplaysoft.com##li > .ipsicon-phone.ipsicon
 www.iplaysoft.com##.elevator > li
 www.iplaysoft.com###sidebar_scroll_box > .popWxgzh
 www.iplaysoft.com###sidebar_scroll_wb
+www.iplaysoft.com##.socialshare
+www.iplaysoft.com###link1111
 
 ! https://www.73508.com
 www.73508.com###xh_index_footzc
@@ -2867,13 +2869,15 @@ tv.cctv.com##.download
 tv.cctv.com##.leftBar > .share
 
 ! https://www.chinanews.com.cn
+www.chinanews.com.cn###newewm
+www.chinanews.com.cn###qizhi_div1200 > .social-share.share-component.share
+www.chinanews.com.cn###second-title > .divnew > .social-share.share-component.share
+www.chinanews.com.cn##.download_wrapper
 www.chinanews.com.cn##.index_layerul [href="/app/chinanews/index.shtml"]
 www.chinanews.com.cn##.index_layerul > li
+www.chinanews.com.cn##.right.con_left_nav_share
 www.chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-select
 www.chinanews.com.cn##li.division:nth-of-type(1)
-www.chinanews.com.cn###qizhi_div1200 > .social-share.share-component.share
-www.chinanews.com.cn###newewm
-www.chinanews.com.cn###second-title > .divnew > .social-share.share-component.share
 
 ! https://www.ip138.com
 www.ip138.com##.mod-news.module
