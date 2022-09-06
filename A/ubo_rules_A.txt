@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: ubo_rules_A
-! TimeUpdated: 2022-09-04
+! TimeUpdated: 2022-09-06
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 !
@@ -4213,4 +4213,7 @@ ifeng.com##div[class="advDetail-content1"]
 
 ! https://www.appinn.com
 www.appinn.com##.related-posts.mylike
+
+! http://www.yi2.net
+www.yi2.net##.details-bot-bar
 
