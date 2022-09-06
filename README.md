@@ -114,9 +114,5 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
-# :triangular_ruler:广告拦截分数评估  
-
-[<img align="bottom" src="https://github.com/KPI0/fuck-Ads/blob/main/images/logo.c41e6f93.svg" width="33px" />](https://checkadblock.ru/) https://checkadblock.ru
-
-## 目的：网站页面更加干净、清爽、简洁、健康。
-
+# :triangular_ruler:广告拦截分数评估
+[https://checkadblock.ru](https://checkadblock.ru)
