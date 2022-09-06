@@ -8,7 +8,7 @@
 
 ----
 
-# 自定义静态规则范围
+# :pill:自定义静态规则范围
 [<img align="right" src="https://github.com/KPI0/fuck-Ads/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="303px" />](https://www.360.cn/)
 
 > - ### 屏蔽`网页广告`
