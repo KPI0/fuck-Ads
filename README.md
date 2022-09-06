@@ -11,7 +11,7 @@
 # :pill:自定义静态规则范围
 [<img align="right" src="https://github.com/KPI0/fuck-Ads/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="303px" />](https://www.360.cn/)
 
- - ### 屏蔽`网页广告`
+ - #### 屏蔽`网页广告`
  - ### 屏蔽`网页弹窗`
  - ### 屏蔽`装机联盟`网页
  - ### 屏蔽`钓鱼链接`网页
