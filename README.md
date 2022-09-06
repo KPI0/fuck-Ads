@@ -16,7 +16,7 @@
  - ### 屏蔽`装机联盟`网页
  - ### 屏蔽`钓鱼链接`网页
  - ### 屏蔽`反智媒体`网页
- - ### 屏蔽[`:underage:`](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/Website/sex)网页
+ - ### 屏蔽:underage:网页
  - ### 屏蔽人血馒头网页
  - ### 屏蔽传销诈骗网页
  - ### 屏蔽流氓软件网页
