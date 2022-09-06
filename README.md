@@ -116,3 +116,7 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
 # :triangular_ruler:广告拦截分数评估
 [https://checkadblock.ru](https://checkadblock.ru)
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
