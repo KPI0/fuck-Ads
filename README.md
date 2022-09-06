@@ -119,4 +119,4 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
+[![历史Star](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
