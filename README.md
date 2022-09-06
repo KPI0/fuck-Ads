@@ -41,7 +41,7 @@
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [ubo_rules_A.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt)
 ### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://github.com/KPI0/fuck-Ads/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
-# 举例参考
+# :raising_hand:举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽。不会弹出选择，只是打开网页一片空白。*  
 *！！！空白网页表示已标记为黑名单！！！*
