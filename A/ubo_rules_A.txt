@@ -1,9 +1,8 @@
 ! [uBlock Origin]
-! Title: ubo_rules_A
-! TimeUpdated: 2022-09-06
+! Title: fuck Ads rules_A
+! TimeUpdated: 2022-09-07
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
-!
 ! 广告弹窗/元素
 ##.bdshare-button-style0-24.bdsharebuttonbox
 ##.bdshare-button-style0-32.bdsharebuttonbox
@@ -2688,9 +2687,17 @@ www.3721dh.com###extra > .column
 www.3721dh.com###new_sc
 
 ! https://www.tudou.com
-www.tudou.com##.u-app_2yGae
 www.tudou.com##.qr-code_2ipWU
 www.tudou.com##.qr-code-footer_277OH
+
+! https://tudou.com
+tudou.com##.u-app_2yGae
+
+! https://new-www.tudou.com
+new-www.tudou.com##.td-h__dl
+new-www.tudou.com##.dropdown__panel__con
+new-www.tudou.com##.qr-code-footer
+new-www.tudou.com##li.td-side-bar-item > .dropdown__panel
 
 ! https://b.faloo.com
 b.faloo.com##[href="//b.faloo.com/down_0_1.html"]
@@ -3912,10 +3919,12 @@ ivpsr.com##.ad-plane-post-in
 www.woshipm.com##.postlist-item.js-aladdin-24.js-aladdin > .overlayAdlink.home-ad-link
 
 ! https://www.qklw.com
-www.qklw.com##.list-inline > .pull-right
-www.qklw.com##.no-padding.no-border.box-footer
-www.qklw.com##[href^="https://h5.bkex.pub/partnerInvestment"] > .img-responsive
-www.qklw.com##[href="http://oyi.guru/"] > .img-responsive
+www.qklw.com##[title="广告"]
+www.qklw.com##div[class="pull-right"]
+www.qklw.com##.pull-right
+www.qklw.com##.qklw-adv.slide.carousel
+www.qklw.com##div.qklw-adv:nth-of-type(4)
+www.qklw.com##.text-right.col-sm-4
 
 ! https://www.yezicc.com
 www.yezicc.com##.article-top
@@ -4216,4 +4225,21 @@ www.appinn.com##.related-posts.mylike
 
 ! http://www.yi2.net
 www.yi2.net##.details-bot-bar
+
+! https://www.yhd.com
+www.yhd.com##[style="z-index: 1;"]
+
+! https://www.yoojia.com
+www.yoojia.com##.page-root > div
+
+! https://libattery.ofweek.com
+libattery.ofweek.com##div:nth-of-type(8)
+libattery.ofweek.com###goto_phone
+libattery.ofweek.com###two-bar-codes
+libattery.ofweek.com###gongzhonghao
+
+! http://www.infzm.com
+www.infzm.com##.nfzm-left-bar > span
+www.infzm.com##.color-weibo.icon-item
+www.infzm.com##[href="/download"]
 
