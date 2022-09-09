@@ -1,7 +1,7 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules
+! Title: fuck Ads rules_A
 ! TimeUpdated: 2022-09-09
-! Homepage: https://github.com/KPI0/fuck-Ads
+! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
 ! 广告弹窗/元素
