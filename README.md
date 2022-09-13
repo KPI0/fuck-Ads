@@ -1,4 +1,4 @@
-> # [![image](https://github.com/KPI0/fuck-Ads/blob/main/images/uBlock%20Origin_logo.png)](https://github.com/gorhill/uBlock/) uBlock Origin
+> # [![image](https://s2.loli.net/2022/09/13/FrBnD6HZML2Ald5.png)](https://github.com/gorhill/uBlock/) uBlock Origin
 > - ### uBlock Origin 扩展程序_源码地址：[uBlock](https://github.com/gorhill/uBlock/)
 > - ### uBlock Origin 扩展程序_安装地址：[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > - ### 支持此扩展程序的手机浏览器：[Kiwi](https://kiwibrowser.com/)、[Firefox](https://www.firefox.com.cn/)、[Lemur](https://lemurbrowser.com)、[Yandex](https://browser.yandex.com/)、[Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
@@ -8,12 +8,12 @@
 
 ----
 
-# :pill:自定义静态规则范围
-[<img align="right" src="https://github.com/KPI0/fuck-Ads/blob/main/images/AnimatedEmojies-512px-59_31019989245786.gif" width="303px" />](https://www.360.cn/)
+# 自定义静态规则范围
+[<img align="right" src="https://s2.loli.net/2022/09/13/C8U7BS5IDtiXwVT.gif" width="303px" />](https://www.360.cn/)
 
  - ### 屏蔽`网页广告`
  - ### 屏蔽`网页弹窗`
- - ### 屏蔽:underage:网页
+ - ### 屏蔽`限制级`网页
  - ### 屏蔽`装机联盟`网页
  - ### 屏蔽`流氓软件`网页
  - ### 屏蔽`第三方下载站`网页
@@ -41,12 +41,12 @@
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [ubo_rules_A.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt)
 ### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://github.com/KPI0/fuck-Ads/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
-# :raising_hand:举例参考
+# 举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽。不会弹出选择，只是打开网页一片空白。*  
 *！！！空白网页表示已标记为黑名单！！！*
 ![image](https://github.com/KPI0/fuck-Ads/blob/main/images/kk.png)
-# :eyes:使用方法
+# 使用方法
 ### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
 ```
@@ -114,9 +114,9 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
-# :triangular_ruler:广告拦截分数评估
+# 广告拦截分数评估
 [https://checkadblock.ru](https://checkadblock.ru)
 
-# 历史:star:
+# 历史Star
 
 [![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
