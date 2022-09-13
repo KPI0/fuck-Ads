@@ -39,7 +39,7 @@
 
 
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [ubo_rules_A.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt)
-### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://pic.imgdb.cn/item/6320333e16f2c2beb1638ccd.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
+### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://s2.loli.net/2022/09/13/wuYZof2UEWxP3D8.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
 # 举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
