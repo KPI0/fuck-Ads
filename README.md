@@ -1,4 +1,4 @@
-> # [![image](https://s2.loli.net/2022/09/13/FrBnD6HZML2Ald5.png)](https://github.com/gorhill/uBlock/) uBlock Origin
+> # [![image](https://pic.imgdb.cn/item/6320335116f2c2beb163a45e.png)](https://github.com/gorhill/uBlock/) uBlock Origin
 > - ### uBlock Origin 扩展程序_源码地址：[uBlock](https://github.com/gorhill/uBlock/)
 > - ### uBlock Origin 扩展程序_安装地址：[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
 > - ### 支持此扩展程序的手机浏览器：[Kiwi](https://kiwibrowser.com/)、[Firefox](https://www.firefox.com.cn/)、[Lemur](https://lemurbrowser.com)、[Yandex](https://browser.yandex.com/)、[Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
@@ -9,7 +9,7 @@
 ----
 
 # 自定义静态规则范围
-[<img align="right" src="https://s2.loli.net/2022/09/13/C8U7BS5IDtiXwVT.gif" width="303px" />](https://www.360.cn/)
+[<img align="right" src="https://pic.imgdb.cn/item/632031ac16f2c2beb161e01d.gif" width="303px" />](https://www.360.cn/)
 
  - ### 屏蔽`网页广告`
  - ### 屏蔽`网页弹窗`
@@ -39,13 +39,13 @@
 
 
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [ubo_rules_A.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt)
-### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://s2.loli.net/2022/09/13/wuYZof2UEWxP3D8.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
+### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://pic.imgdb.cn/item/6320333e16f2c2beb1638ccd.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
 # 举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽。不会弹出选择，只是打开网页一片空白。*  
 *！！！空白网页表示已标记为黑名单！！！*
-![image](https://s2.loli.net/2022/09/13/HnipzaKsI7PbqAZ.png)
+![image](https://pic.imgdb.cn/item/6320333e16f2c2beb1638cd6.png)
 # 使用方法
 ### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
@@ -72,7 +72,7 @@ https://raw.fastgit.org/KPI0/fuck-Ads/main/ubo_rules.txt
 ![image](https://s2.loli.net/2022/09/13/zkUPAvlYgNQLX28.png)
 
 
-## 推荐几个 <img align="" src="https://s2.loli.net/2022/09/13/wp3FLYlVPs4K7Sk.png" width="100px" />的规则。
+## 推荐几个 <img align="" src="https://pic.imgdb.cn/item/6320333e16f2c2beb1638ce3.png" width="100px" />的规则。
 
 <details>
   <summary>注意事项</summary>
@@ -110,7 +110,7 @@ https://gitee.com/halflife/list/raw/master/ad.txt
 https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 ```
 
-[![image](https://github.com/KPI0/fuck-Ads/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
+[![image](https://pic.imgdb.cn/item/6320333e16f2c2beb1638cbc.gif)](https://github.com/KPI0)
 
 *拦截规则不定期更新，如有错误欢迎反馈吐槽！*
 
