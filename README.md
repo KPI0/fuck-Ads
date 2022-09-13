@@ -39,13 +39,13 @@
 
 
 ### 由于部分用户不需要特别严格的过滤，故新增一个规则集合：  [ubo_rules_A.txt](https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt)
-### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://github.com/KPI0/fuck-Ads/blob/main/images/dcb840b6b74f03361e5cc1c5a57a6c57.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
+### [点击此处或后面的小飞机可直达](https://github.com/KPI0/fuck-Ads/tree/main/A) [<img align="center" src="https://s2.loli.net/2022/09/13/wuYZof2UEWxP3D8.gif" width="100px" />](https://github.com/KPI0/fuck-Ads/tree/main/A)
 
 # 举例参考
 ### 左图为禁用屏蔽时状态，右图为启用屏蔽时状态
 *对于部分网站默认的规则会直接弹出拦截选项，故采用此方法屏蔽。不会弹出选择，只是打开网页一片空白。*  
 *！！！空白网页表示已标记为黑名单！！！*
-![image](https://github.com/KPI0/fuck-Ads/blob/main/images/kk.png)
+![image](https://s2.loli.net/2022/09/13/HnipzaKsI7PbqAZ.png)
 # 使用方法
 ### 复制下面的规则链接地址(5任选1)，在插件以下图位置中添加订阅链接更新即可。
 - GitHub
@@ -69,10 +69,10 @@ https://cdn.jsdelivr.net/gh/KPI0/fuck-Ads@main/ubo_rules.txt
 https://raw.fastgit.org/KPI0/fuck-Ads/main/ubo_rules.txt
 ```
 
-![image](https://github.com/KPI0/fuck-Ads/blob/main/images/Snipaste_2022-02-28_18-36-37.png)
+![image](https://s2.loli.net/2022/09/13/zkUPAvlYgNQLX28.png)
 
 
-## 推荐几个 <img align="" src="https://github.com/KPI0/fuck-Ads/blob/main/images/np.png" width="100px" />的规则。
+## 推荐几个 <img align="" src="https://s2.loli.net/2022/09/13/wp3FLYlVPs4K7Sk.png" width="100px" />的规则。
 
 <details>
   <summary>注意事项</summary>
