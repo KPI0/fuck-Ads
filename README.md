@@ -118,5 +118,4 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 [https://checkadblock.ru](https://checkadblock.ru)
 
 # 历史Star
-
 [![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
