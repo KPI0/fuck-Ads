@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-09-13
+! TimeUpdated: 2022-09-14
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -109,8 +109,8 @@ fbjav.com##*
 fhpaaa.com##*
 flash.cn##*
 flashget.com##*
-fuckisex.com##*
 fuck-videos.xxx##*
+fuckisex.com##*
 fuli16.se##*
 ggdyx.com##*
 greenxf.com##*
@@ -324,6 +324,7 @@ zzzttt.life##*
 ##.down-app
 ##.download
 ##.download-app
+##.download_area
 ##.fenxiang
 ##.icon_download.icon
 ##.list-inline .fb_iframe_widget.fb-like
@@ -341,10 +342,6 @@ zzzttt.life##*
 ##.weibo
 ##.weixinqrcode
 ##.xshare
-||*zztt*.com
-||b1.feimiao.cn/*$subdocument
-||www.pornlulu.com/*$image
-||y.yaohuo.me
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
 113123.xyz##.article-fx
@@ -436,6 +433,8 @@ app.4399.cn##.fullscreen.install
 app.4399.cn##.m_nav
 app.4399.cn##.phone_footer
 app.mi.com##[src="/get_qrcode_image"]
+app.weijj.com##.discuss_article > .look_more_btn.deepshare
+app.weijj.com##.white.down-top
 archives.zujuan.com##[src="/qrcode_zujuan.jpg"]
 ask.mzhishi.com##.details_by_tg
 ask.mzhishi.com##.show_site_img
@@ -519,6 +518,7 @@ blog.csdn.net##.passport-login-mark
 blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##li > [href^="//www.csdn.net/apps/download"]
+blog.lygmedia.com##.cf.divShareAll
 blog.sina.com.cn##.clearfix.share-pannel
 blog.sina.com.cn##.share-title
 book.km.com##.btn_A.btnHook
@@ -697,13 +697,16 @@ eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##.g-clearfix.app-list
 eyun.baidu.com##[href^="https://eyun.baidu.com/enterprise/product"]
 fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+fanyi-app.baidu.com##.top-bn-btn-open
 fanyi.baidu.com###app-read
+fanyi.baidu.com##.app-bar
 fanyi.baidu.com##.app-guide
 fanyi.baidu.com##.app-guide-outter
 fanyi.baidu.com##.app-list-name.list-name
 fanyi.baidu.com##.app-new-guide-outter
 fanyi.baidu.com##.app-side-banner
 fanyi.baidu.com##.app-side-link
+fanyi.baidu.com##.bottom-intro
 fanyi.baidu.com##.desktop-guide
 fanyi.baidu.com##.desktop-guide-inner
 fanyi.baidu.com##.desktop-guide-outter
@@ -711,8 +714,13 @@ fanyi.baidu.com##.download-app.guide-list
 fanyi.baidu.com##.download-plugin.guide-list
 fanyi.baidu.com##.download-plugin.guide-list > .list-name
 fanyi.baidu.com##.follow-btns
+fanyi.baidu.com##.go-to-download
+fanyi.baidu.com##.jifeng-ad-wrapper
+fanyi.baidu.com##.new-header-dl
 fanyi.baidu.com##.products-list
 fanyi.baidu.com##.sideQrContainer
+fanyi.sogou.com##.btn-app
+fanyi.sogou.com##.btn-download
 fanyi.youdao.com##.doc__upload--tip
 fanyi.youdao.com##.side__nav__fanyiguan
 fanyiguan.youdao.com###bar
@@ -737,6 +745,7 @@ freeroad.org##.w-ad.widget
 freeroad.org##[src="https://freeroad.org/wp-content/uploads/2021/01/Photography-Workshop.png"]
 fy.tingclass.net###scanning_tbox
 fy.tingclass.net##.tips-xcx-div
+gank.fanpiece.com##.right.options
 gd.sina.com.cn##.share-layout
 gd.sina.com.cn##.share-sns
 gitee.com###git-footer-main > .container.ui
@@ -804,6 +813,9 @@ haokan.baidu.com##li.link-item:nth-of-type(1)
 haokan.baidu.com##li.link-item:nth-of-type(3)
 hecoinfo.com##.col-lg-5.col-12
 hk.finance.yahoo.com##.caas-share-section
+hk.news.yahoo.com##.Mih\(82px\).Z\(3\).End\(0\).Start\(0\).B\(56px\).Pos\(f\).D\(f\).Bgc\(\$c-fuji-charcoal\)
+hk.news.yahoo.com##.Mt\(24px\).Mb\(24px\).Mx\(20px\)
+hk.news.yahoo.com##.Z\(2\).D\(b\).T\(12px\).End\(4px\).Pos\(a\).H\(30px\).Maw\(26\%\).W\(26\%\).app-promo
 home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
 home.vip.youku.com##.dropdown_3IYGs
 home.vip.youku.com##.g-bottom
@@ -912,6 +924,7 @@ live.bilibili.com##.bili-btn-warp.open-app-btn
 live.bilibili.com##.f-right.footer-right
 live.nuedc-training.com.cn##div.fl.clearfix:nth-of-type(1)
 lotto.sina.cn##div.cta:nth-of-type(3)
+m.1688.com##.header-wrapper
 m.4399.cn##.cn-mt10.cn-app_download
 m.baidu.com###header > div > div > div > div
 m.baidu.com##._1_KgV._8naka.c-container > footer
@@ -971,6 +984,7 @@ m.iask.sina.com.cn###share-button > .shear-click
 m.ijjxs.com###js2
 m.ijjxs.com##.footer
 m.ijjxs.com##div[class="pd6"]
+m.intl.taobao.com##button
 m.iqiyi.com###app > div > div > div > div > .m-box
 m.iqiyi.com##.c-guide-img
 m.iqiyi.com##.ChannelHomeBanner_mbox_2Q4aQ
@@ -1014,6 +1028,7 @@ m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
 m.jinse.com##.openApps
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
 m.jrj.com.cn##.showNew.btntop
+m.ke.qq.com##.show.app-guide
 m.kq7.com##.article_head > div
 m.kq7.com##.xxwz
 m.kq7.com##body > div > div > div > div > div
@@ -1026,6 +1041,7 @@ m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
+m.maigoo.com##.commentads
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
 m.pcauto.com.cn###daogou
 m.pcauto.com.cn###home-bottom-half-dialog
@@ -1048,8 +1064,10 @@ m.qidian.com##div.jsAuthorSay.read-author-say:nth-of-type(3)
 m.qidian.com##div.jsAuthorSay.read-author-say:nth-of-type(4)
 m.readnovel.com##.active.read-rb-b
 m.readnovel.com##.detail-pure-ad-hx-btn.btn-change-cell
+m.readnovel.com##.jsAuthorSay.read-author-say
 m.readnovel.com##.qq.footer-app-fixed.prevent-shield
 m.readnovel.com##.rb-cover
+m.readnovel.com##div.read-chapter-forum:nth-of-type(n)
 m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot:nth-of-type(2)
@@ -1090,6 +1108,9 @@ m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
 m.xzbu.com###doyoo_monitor
 m.xzbu.com##.down-box
 m.ydxgnd.com##.icon-defaultColor.newsShare.g_round.g_iconMiddle.icon-share
+m.youdao.com##div:nth-of-type(3)
+m.youdao.com##div:nth-of-type(7)
+m.youdao.com##div:nth-of-type(8)
 m.youku.com##.Corner-container
 m.youku.com##.downloadApp.icon
 m.youku.com##.h5-detail-ad
@@ -1099,6 +1120,13 @@ m.youku.com##div.item:nth-of-type(1)
 m.youku.com##div.item:nth-of-type(4)
 m.youku.com##div.item:nth-of-type(5)
 m.zhibo8.cc##.top-header
+m.zongheng.com###fukerrwowo
+m.zongheng.com###fukerrwowo_bot
+m.zongheng.com##.body > .olnk
+m.zongheng.com##.but_client
+m.zongheng.com##.download_app
+m.zongheng.com##[href^="/h5/getDiversionBook"]
+m.zongheng.com##div[id]
 mail.163.com###_mail_component_106_106 > .nui-txt-link.sh0.js-component-component
 mail.163.com###_mail_component_108_108
 mail.163.com###_mail_component_128_128
@@ -1204,6 +1232,8 @@ news.cctv.com##.xinwen18886_iphonesee01
 news.cngold.org##.article-info
 news.cnhubei.com###cjly_nav01
 news.cnr.cn##.bdshare-button-style0-32.shareSmall.bdsharebuttonbox
+news.dayoo.com##.dy-article-share
+news.dayoo.com##.pc > .share-fixed
 news.eda365.com##.headerbg
 news.eda365.com##.infobg
 news.eda365.com##.pagebg.bannerbg
@@ -1341,7 +1371,6 @@ sh.people.com.cn##.cf.rm_download.rm_relevant
 sh.people.com.cn##.nav_jia
 sh.people.com.cn##.paper_num
 sh.people.com.cn##.section-common-share-wrap.btn_share
-share.mala.cn##.download_area
 share.mala.cn##.white.down-top
 show.bilibili.com##li:nth-of-type(3)
 shzpmc.chinacrane.net###top > a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(1)
@@ -1381,6 +1410,10 @@ sydw.huatu.com##.bottomBar
 t.bilibili.com##.download-client-trigger.download-entry
 t.bilibili.com##.notice-panel
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
+tanbi.baidu.com##.bartop
+tanbi.baidu.com##.folder-open
+tanbi.baidu.com##.wk-bottom-btn
+tanbi.baidu.com##.wk-student
 tech.hqew.com##.header-qrcode-qiaqia
 tech.hqew.com##.qr
 tech.hqew.com##.tech-detail-share
@@ -1417,9 +1450,12 @@ tieba.baidu.com##.j_topic_toplist.topic_list.topic_list_hot
 tieba.baidu.com##.left-cont-fixed.left-cont-wraper
 tieba.baidu.com##.left-cont-wraper
 tieba.baidu.com##.media_item.item
+tieba.baidu.com##.more-btn-desc
+tieba.baidu.com##.more-image-desc
 tieba.baidu.com##.nav-bar-bottom
 tieba.baidu.com##.notice_item.item
 tieba.baidu.com##.open-app
+tieba.baidu.com##.recommend-title-open-app
 tieba.baidu.com##.region_header > .title
 tieba.baidu.com##.tbshare_popup_enter
 tieba.baidu.com##.tbui_fbar_down.tbui_aside_fbar_button
@@ -1589,11 +1625,15 @@ wap.faloo.com##.openApp.bl_ad
 wap.faloo.com##.page_title
 wap.faloo.com##.show.zheZhao2.zheZhao
 wap.faloo.com##.textHide.openApp2.display_flex_center.f_m_btn1.f_m_btn
+wap.fuling.com##.discuss_article > .look_more_btn.deepshare
+wap.fuling.com##.white.down-top
+wap.mail.qq.com##.btn
 wap.pai-hang-bang.com##.foot
 wap.peopleapp.com##.article-container > div > div > .top-header > .m-open-btn
 wap.peopleapp.com##.public-btn-wrapper
 wap.peopleapp.com##.read-more-btm
 wap.pp.cn##.pro-ad-pageend
+wap.tcmap.com.cn##div:nth-of-type(17)
 web.4399.com###wall_box > a.link
 web.4399.com##.add_favior_btn.menu
 web.4399.com##.bj_l
@@ -1650,6 +1690,7 @@ wenku.baidu.com##.sidebar-wrapper
 wenku.baidu.com##.sider-edge.wk-web-5219.fix-block.relative-doc-newwrapper > .relative-doc-in-wrapper > .hx-wrapper
 wenku.baidu.com##.small-btn-wrap > .share-btn.small-btn
 wenku.baidu.com##.tip-text
+wenku.baidu.com##.tool-bar-wrap > .btns-wrap
 wenku.baidu.com##.tool-bar.app-btn.small-btn > .tool-icon
 wenku.baidu.com##.toolbar-pc-search-guide
 wenku.baidu.com##.tools-wrapper
@@ -1670,6 +1711,17 @@ wenku.baidu.com##div.tool-item:nth-of-type(3)
 wenku.baidu.com##div.tool-item:nth-of-type(4)
 wiki.jikexueyuan.com##.clearfix.detail-share
 wiki.mbalib.com###rqCodeBtn
+wiki.mbalib.com##.app-ad
+wiki.mbalib.com##.download_app.download-text
+wiki.mbalib.com##.open
+wk.baidu.com###carousel
+wk.baidu.com##.card-box
+wk.baidu.com##.card-wrap
+wk.baidu.com##.fold-page-conversion
+wk.baidu.com##.guide-bottom-btn-wrap
+wk.baidu.com##.guide-btn
+wk.baidu.com##.not-baidu.college-strong-guide-contain
+wk.baidu.com##.wk-student
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
 world.huanqiu.com##.metadata-share.icon-medium-plus.bshare-custom > ul > li
 wosn.net##.fadeInUp.wow.feed.widget
@@ -1684,6 +1736,7 @@ www.02516.com##.cf.header-bd
 www.02516.com##.fl.sideBar
 www.02516.com##.mcol
 www.02516.com##.qingtiancms_famous_tip
+www.029ztxx.com###v_footer
 www.0813fs.com##.b_login
 www.10086.cn###sjyyt
 www.10086.cn###tempBar1
@@ -1843,6 +1896,8 @@ www.amap.com##.usel.amap-app-download
 www.anfensi.com##strong
 www.aofuo.com##.clearfix.myui-foot
 www.appinn.com##.related-posts.mylike
+www.as886.com##.article-ade
+www.as886.com##.mt-4.index-banner
 www.asklib.com##.listright
 www.asklib.com##.xiaoyun-entry-button
 www.b4x99.com##.col4.row
@@ -1877,6 +1932,7 @@ www.bddhw.cn##.j-share.action-item
 www.bianews.com##.bdshare-button-style0-16.share_infos_wrap.fr.bdsharebuttonbox
 www.bianews.com##.fr.we_img_box
 www.bianews.com##.nav-tr-lang
+www.biketo.com##.sidebar-QRcode
 www.bilibili.com##.app-download-link
 www.bilibili.com##.battle-area
 www.bilibili.com##.bili-footer
@@ -1909,6 +1965,7 @@ www.blockvalue.com##div.wrap2.new:nth-of-type(4)
 www.bscscan.com##.col-lg-5.col-12
 www.businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
 www.caacnews.com.cn###FenXiang
+www.cangchou.com##.j-share.action-item
 www.canva.cn##.jv5LaQ
 www.cas.cn##.bdshare-button-style0-32.bdsharebuttonbox.share
 www.cas.cn##[src="//www.cas.cn/images/z19_scroll_wb.png"]
@@ -2023,6 +2080,7 @@ www.cu518.com##.hidden-xs.hidden-sm.hidden-md.col-lg-wide-25 > .stui-pannel_hd >
 www.cu518.com##[href="https://maoyun.jomay.cc"]
 www.cu518.com##canvas
 www.cww.net.cn###share_news
+www.cyloushi.cn##.bdshare-button-style1-24.bdsharebuttonbox
 www.d1ev.com##.action_share
 www.d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
 www.dandanzan.com##.lgyPl_v2_inner
@@ -2095,6 +2153,8 @@ www.douyu.com##.HeaderGif-right
 www.douyu.com##.is-appDown.RightNavigate-icon
 www.douyu.com##li.RightNavigate-item > [href^="/client"]
 www.douyu.com##li.RightNavigate-item:nth-of-type(2)
+www.dtime.com###divPrevious
+www.dtime.com##div.sjwu.fr.right:nth-of-type(2)
 www.duanmeiwen.com##.mySwiperBox
 www.dubox.com##.notification-wrap
 www.duitang.com##.dt_down_guide_small_tip
@@ -2106,6 +2166,7 @@ www.dw.com###sharing-bar
 www.dyhzdl.cn##.clearfix.fr.arti-hi-phone
 www.dyhzdl.cn##.flr.casedetail-share
 www.dzwww.com##.right > .bdshare-button-style0-16.bdsharebuttonbox.get-codes-bdshare.bds_tools.bdshare_t
+www.ebay.com##.gh-app-banner--visible.gh-app-banner
 www.educity.cn##.ecv2_detail > .search_recom
 www.educity.cn##.ecv2_search_cont > .search_recom
 www.eduei.com##.a-qrcode.a
@@ -2264,6 +2325,7 @@ www.i2345.cn##.top
 www.ibox.art##.navs > li > [href="/zh-cn/download/"]
 www.icourse163.org###j-activityBanner
 www.icourse163.org##.e-hover-source.m-head-right-more.u-navLogin-kaoyan.j-kaoyan-link > [href] > .nav
+www.icswb.com##.div_share_agree
 www.icxbk.com##.banner-sys
 www.ifanr.com##.c-article-share__button
 www.ifanr.com##.c-goto-top-item--app.c-goto-top-item
@@ -2320,6 +2382,7 @@ www.ithome.com##.shareto
 www.ithome.com##.sideweixin.sfa
 www.ithome.com##.so.mt > .s
 www.ithome.com##div.mt:nth-of-type(2) > .l
+www.ittime.com.cn##.toolbar
 www.ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
 www.ixigua.com##.icon-pc-add2
 www.ixigua.com##.icon-share2
@@ -2511,6 +2574,7 @@ www.mop.com##.goto-3g > i
 www.mop.com##div.dzh-heat:nth-of-type(2)
 www.mop.com##div.dzh-heat:nth-of-type(5)
 www.mop.com##div.mop-sport:nth-of-type(2)
+www.motorolasolutions.com##.social-widget
 www.musichive.com.cn##.qrcode___1ze6R
 www.mydigit.cn##.z > [href="https://www.mydigit.cn/"]
 www.mydigit.cn##.z > [href="javascript:;"]
@@ -2753,6 +2817,7 @@ www.stcn.com##.yw_ewm
 www.sydneytoday.com##.sharebar
 www.takungpao.com##.bdshare-button-style0-24.clearfix.bdsharebuttonbox.tkp_con_share
 www.tanmizhi.com##.bdshare-button-style2-32.bdsharebuttonbox
+www.taobao.com##.callapp-btn.rax-view-v2
 www.taobao.com##.clearfix.qr-bd
 www.taodocs.com###show_wx
 www.taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
@@ -2824,6 +2889,7 @@ www.veidc.com##.widget_ui_textorbui.widget.widget-on-phone
 www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n)
 www.w3h5.com##.widget_lf-bt-box.widget
 www.w3h5.com##.widget_lf-bt-box_inner.widget_inner
+www.w3school.com.cn###sidebar_zzs
 www.wdashi.com##.wrap > .bdshare-button-style0-16.bdsharebuttonbox
 www.webhek.com###overlay99
 www.weidian.com##.keep-track-of-show-animation.keep-track-of-show.keep-track-of
@@ -2862,6 +2928,7 @@ www.wwei.cn##div.all-client:nth-of-type(1)
 www.wwei.cn##div.all-client:nth-of-type(2)
 www.wwei.cn##div.all-client:nth-of-type(4)
 www.wyzxwk.com##.f-fr.HRshare3
+www.wyzxwk.com##.m-tools
 www.x-mol.com##.moquu_wapp_new
 www.x-mol.com##.moquu_wshare_new
 www.x-mol.com##a.space-right-m20.itsmblue:nth-of-type(1)
@@ -2953,10 +3020,12 @@ www.zhaoav2.cloud##.wrap > .right
 www.zhcw.com##.zwqk > .ztX3w-L
 www.zhibo8.cc##.new_ch
 www.zhibo8.cc##.pop-autoapp
+www.zhihu.com##.css-1e447mw.is-higher.OpenInAppButton
 www.zhihu.com##.css-cazai8.OpenInApp.OpenInAppButton
 www.zhihu.com##.Footer
 www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.MobileAppHeader-downloadLink
+www.zhimeng.com.cn##.mr20.dropdown-toggle.fl
 www.zhipin.com##.footer-icon
 www.zhipin.com##li > [href="https://app.zhipin.com/"]
 www.zhongruitong.cn##.not-real-name-button
@@ -3023,6 +3092,7 @@ y.music.163.com##.topfr
 y.qq.com###page_box
 y.qq.com##.footer
 y.qq.com##.login-box-download
+y.qq.com##.popup_guide
 y.qq.com##.top_nav__item--subnav.top_nav__item
 y.qq.com##.top_nav__item--subnav.top_nav__item > .top_nav__link
 y.qq.com##li.top_nav__item:nth-of-type(5) > .top_nav__link
@@ -3042,7 +3112,6 @@ yun.139.com##.down_explain_div_span
 yun.139.com##.fr
 yun.139.com##[href="#/client"]
 yun.139.com##div.document_top_menu:nth-of-type(7)
-yz.chsi.com.cn###share
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
 zhazhijiav.top##div.container:nth-of-type(2)
 zhidao.baidu.com##.cannotanswer.share-area > .wgt-share-btn
@@ -3060,3 +3129,12 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
+||*zztt*.com
+||b1.feimiao.cn/*$subdocument
+||gw.alicdn.com/imgextra/i3/*.png?$image
+||js2.mgjianshe.com$subdocument
+||mmjs.tcmap.com.cn/*$subdocument
+||www.pornlulu.com/*$image
+||y.yaohuo.me
+||yy2022.dtime.com/*$subdocument
+||zv.china-10.com$subdocument
