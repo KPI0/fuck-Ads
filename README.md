@@ -9,7 +9,7 @@
 ----
 
 # 自定义静态规则范围
-[<img align="right" src="https://pic.imgdb.cn/item/632031ac16f2c2beb161e01d.gif" width="303px" />](https://www.360.cn/)
+[<img align="right" src="http://tu.996plus.icu/LightPicture/2022/09/08b640783a60defe.gif" width="303px" />](https://www.360.cn/)
 
  - ### 屏蔽`网页广告`
  - ### 屏蔽`网页弹窗`
