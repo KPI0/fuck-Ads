@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-09-14
+! TimeUpdated: 2022-09-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -370,6 +370,7 @@ zzzttt.life##*
 3dmgame.com##.cl.tshare
 3dmgame.com##.Cs_share
 3g.163.com##.js-open-app.backflow-floating
+3g.163.com##.js-open-app.main-openApp
 588ku.com##.close-btn
 588ku.com##.editIndexEntry.editIndex-entry > .editIndexClick
 588ku.com##.listlogin-ctn.w1680.clearfix
@@ -560,6 +561,7 @@ china.chinadaily.com.cn##.more
 china.chinadaily.com.cn##.xinf-ri
 china.chinadaily.com.cn##.xinf-ri2 > [href^="http://v.t.sina.com.cn/share/share.php"]
 china.chinadaily.com.cn##div.fenx:nth-of-type(7)
+chongqing.anjuke.com##.home-footer
 chp.shadiao.app###index > section.mdl-grid--no-spacing.mdl-grid.section--center li
 chp.shadiao.app###show-ganfan
 chp.shadiao.app###show-wxgroup
@@ -855,6 +857,7 @@ jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
 jelly.jd.com##.dzsc_item.share
 jelly.jd.com##.weibo.calendar_contact_a_item
 jeyi.net##.cl.tshare
+jeyi.net##.wp > .z
 jf.10086.cn##.mt8
 jf.10086.cn##.scanCode
 jf.10086.cn##[src="/static/img/hejifen.ece7db2.jpg"]
@@ -885,6 +888,7 @@ juejin.cn##.extension
 juejin.cn##.extension > .link
 juejin.cn##.panel-btn.share-btn
 jz.fkw.com##.fk-articleShareWrap.f-shareWrap
+jz.sxgov.cn###flash
 k.sina.cn###_811e59a161716377PDPS000000059757
 k.sina.cn##.an.j_callST.callApp_fl_btn
 k.sina.cn##.icon_share2
@@ -1149,7 +1153,9 @@ manga.bilibili.com##.app-button.download-app
 manga.bilibili.com##.app.app-button.back-to-button
 manhua.dmzj.com##[href="//www.dmzj.com/app/index.html"]
 map.baidu.com###activity-banner-panel
+map.baidu.com###card-n
 map.baidu.com##.message-panel-open
+map.baidu.com##[class="route-search-banner leadDownloadCard"]
 market.m.taobao.com##.mainMenu
 masuit.com###ujl6j5sefq4g
 masuit.com###ujl6j5sefq4g > .panel-info.panel > .panel-heading
@@ -1169,6 +1175,7 @@ max.book118.com##.sidebar-wechat.sidebar-item > .sidebar-item-on
 max.book118.com##.site-link
 max.book118.com##[href^="/user_center_v1/upload/Upload/ordinary.html"] > .lazy-success
 mbb.eet-china.com##.site-follow
+mcar.vip##.get-codes-bdshare.bds_tools_32.bdshare_t
 minsu.dianping.com##.lg-hide.b-cover
 mobile.twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > .r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
 money.163.com##.keyword_list > div.keyword_new > .keyword_other > .keyword_share
@@ -1737,6 +1744,7 @@ www.02516.com##.fl.sideBar
 www.02516.com##.mcol
 www.02516.com##.qingtiancms_famous_tip
 www.029ztxx.com###v_footer
+www.0574bbs.com###thread-share
 www.0813fs.com##.b_login
 www.10086.cn###sjyyt
 www.10086.cn###tempBar1
@@ -1822,6 +1830,7 @@ www.3rxing.org###fullDD > div
 www.3rxing.org##div.dd300:nth-of-type(3)
 www.4399.com##.link_w
 www.4399.com##[href="//www.4399.com/desk/"]
+www.5151sc.com##div.begin:nth-of-type(3)
 www.51cto.com##.ad-article
 www.51cto.com##.article-left > .share
 www.51cto.com##.erweima-box
@@ -2654,6 +2663,8 @@ www.pdf365.cn##.DoubleEleven
 www.pdf365.cn##[src="https://static.pdf365.cn/pdf365%2FlinkImg%2Fcad.png"]
 www.php.cn##.bdshare-button-style0-16.bdsharebuttonbox.layui-clear.share
 www.php.cn##.wwads-vertical.wwads-cn
+www.pmptuan.com###kfoutdetainwin > div
+www.pmptuan.com###kfoutdetainwin > div > div
 www.pornlulu.com###chromeModal > .modal-dialog
 www.pornlulu.com##.show.fade.modal
 www.pornlulu.com##.show.fade.modal-backdrop
@@ -2919,6 +2930,7 @@ www.winwin7.com##.zixun-share
 www.wjx.cn##[href="/app/360staff.aspx"] > .normalsrc
 www.wjx.cn##[href="https://www.wjx.cn/app/themehtml/nocodehome.aspx"] > .normalsrc
 www.woliakan.com##.clearfix.stui-extra
+www.worldmetals.com.cn##.bdshare-button-style0-16.bdsharebuttonbox
 www.woshipm.com##.postlist-item.js-aladdin-24.js-aladdin > .overlayAdlink.home-ad-link
 www.wuxiaworld.com##.space-y-1.mx-2
 www.wwei.cn###go-fav
@@ -3007,6 +3019,7 @@ www.youku.com##div.module_mod:nth-of-type(21)
 www.youku.com##div.module_mod:nth-of-type(29)
 www.youku.com##div.module_mod:nth-of-type(30)
 www.youku.com##div.module_mod:nth-of-type(9)
+www.youlai.cn##.relevant
 www.youtube.com##tp-yt-paper-dialog.ytd-popup-container.style-scope:nth-of-type(2)
 www.youzan.com###resource-package
 www.youzan.com##.clue-components-form-list__item--active.clue-components-form-list__item
@@ -3016,6 +3029,7 @@ www.ypppt.com##.bdshare-button-style1-24.right.clear.bdsharebuttonbox
 www.yszzq.com##.date
 www.yuque.com##.index-module_qrCodeWrapper_6UwnH
 www.zaixian-fanyi.com##div:nth-of-type(10)
+www.zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
 www.zhaoav2.cloud##.wrap > .right
 www.zhcw.com##.zwqk > .ztX3w-L
 www.zhibo8.cc##.new_ch
@@ -3027,6 +3041,7 @@ www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.MobileAppHeader-downloadLink
 www.zhimeng.com.cn##.mr20.dropdown-toggle.fl
 www.zhipin.com##.footer-icon
+www.zhipin.com##.home-main
 www.zhipin.com##li > [href="https://app.zhipin.com/"]
 www.zhongruitong.cn##.not-real-name-button
 www.zhuangku.com##.service-fixed
