@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-09-16
+! TimeUpdated: 2022-09-18
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -954,6 +954,7 @@ news.sohu.com###share > ul
 nftlabm.yuzhouya.com##.tips_active.tips_pop
 nftlabm.yuzhouya.com##.tips_box
 nordvpn.com##.cc-color-override--1748216957.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
+note.baidu.com##.download-btn
 note.youdao.com###ft-follow-us
 note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
 office.iask.com##.loginRedPacket-dialog
@@ -965,6 +966,7 @@ opinion.people.com.cn###ops_share
 oshwhub.com###footer
 oshwhub.com###footer > .container
 pan.baidu.com##.BHgeMdb
+pan.baidu.com##.callApp
 pan.baidu.com##.dialog-gray.guide-share-dir-tip.dialog-dialog1.dialog
 pan.baidu.com##.g-clearfix.KzGbKPb
 pan.baidu.com##.g-clearfix.wp-side-options
@@ -995,6 +997,7 @@ pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(4)
 pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(6)
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
+pan.baidu.com##div.wp-s-header__right-item:nth-of-type(3)
 passport.bilibili.com##.right.block
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 pay.bilibili.com##.biliapp
@@ -1366,6 +1369,7 @@ wenku.baidu.com##.dialog-mask
 wenku.baidu.com##.doc-btns-wrap > .app-btn.small-btn
 wenku.baidu.com##.doc-btns-wrap > .app-btn.small-btn > .tool-icon > .app-icon
 wenku.baidu.com##.doc-btns-wrap > .share-btn.small-btn
+wenku.baidu.com##.download-text
 wenku.baidu.com##.edit-subscription-content
 wenku.baidu.com##.experience-card-content
 wenku.baidu.com##.experience-card-wrap
@@ -2180,6 +2184,8 @@ www.kanshuwangzhan.com##div.HexpGG:nth-of-type(6)
 www.kanshuwangzhan.com##div.MainLeftWen > div
 www.kanshuwangzhan.com##div.Mains:nth-of-type(7)
 www.kanshuwangzhan.com##div.Mains:nth-of-type(8)
+www.kanxi123.net##.stui-content__side
+www.kanxi123.net##body > ul
 www.kdocs.cn##.el-submenu.k-el-menu-root > .el-submenu__title
 www.kejiwanjia.com###b2-widget-html-10 > .b2-widget-box > .html-widget
 www.kejiwanjia.com###b2-widget-html-10 > .b2-widget-title > .widget-title
@@ -2342,6 +2348,8 @@ www.oschina.net##.tb-hide.column.computer.three.tablet.five.mobile.wide.eight.al
 www.oschina.net##div.action-item:nth-of-type(3)
 www.panewslab.com##.phone.item
 www.patreon.com##.bottomLeft__3ZFPD.root__1VdHR
+www.pbpb.tv##.stui-content__side
+www.pbpb.tv##body > ul
 www.pc521.net##[data-hover="分享"]
 www.pcbems.com###bdshare
 www.pcbeta.com##.pt_rtpl
@@ -2838,6 +2846,7 @@ zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||js2.mgjianshe.com$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
+||p1.meituan.net/csc/*.gif$image
 ||www.pornlulu.com/*$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
