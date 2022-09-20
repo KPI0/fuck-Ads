@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-09-18
+! TimeUpdated: 2022-09-20
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -665,6 +665,9 @@ m.elecfans.com##.perfect_infomation_tip
 m.elecfans.com##div.flex-center:nth-of-type(1)
 m.facebook.com###login_top_banner
 m.facebook.com##.accelerate._1s0f._3jcw._5bob._7a_1._544l
+m.feijisu06.com##.footer
+m.feijisu06.com##.wrapper > .footer
+m.feijisu09.com##.footer
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.huya.com###template
@@ -798,6 +801,9 @@ m.v.qq.com##.mod_source_box_fixed.mod_source_box
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
 m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.xsyq.cc##a#__dfdsdefsdb.__foiud:nth-of-type(1)
+m.xsyq.cc##a#__dfdsdefsdb.__foiud:nth-of-type(2)
+m.xsyq.cc##b
 m.xzbu.com###doyoo_monitor
 m.xzbu.com##.down-box
 m.ydxgnd.com##.icon-defaultColor.newsShare.g_round.g_iconMiddle.icon-share
@@ -1304,6 +1310,8 @@ vip.iqiyi.com##.J-download-title > .header-sideItemCon
 vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
+vr.sina.com.cn##.share_wrap
+vr.sina.com.cn##.VR-headAD
 wap.bixiabook.com###baseHeight
 wap.bixiabook.com###duoyxferci
 wap.bixiabook.com##.an.callApp_fl_btn
