@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-09-20
+! TimeUpdated: 2022-09-23
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -60,6 +60,7 @@
 3dmgame.com##.Cs_share
 3g.163.com##.js-open-app.backflow-floating
 3g.163.com##.js-open-app.main-openApp
+3g.china.com##.header_app
 588ku.com##.close-btn
 588ku.com##.editIndexEntry.editIndex-entry > .editIndexClick
 588ku.com##.listlogin-ctn.w1680.clearfix
@@ -104,6 +105,7 @@ aha-music.com##.ckcontent
 aibicl.com##.arrow
 aibicl.com##.ctrolPanel
 aibicl.com##.message
+aicesu.com##.img-ad
 aiqicha.baidu.com##.aqc-home-float-wrapper
 aiqicha.baidu.com##.float-banner
 aiqicha.baidu.com##.ivu-poptip.app-qrcode-poptip.poptip-wrap
@@ -276,6 +278,8 @@ cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.pls-footer-website-contact-view
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 club.szlcsc.com##.bdshare-button-style1-16.bdsharebuttonbox
+cn.chinadaily.com.cn###identifier-pannel2
+cn.chinadaily.com.cn###identifier-pannel3
 cn.chinadaily.com.cn##.lo-bott-one
 cn.chinadaily.com.cn##.more
 cn.chinadaily.com.cn##.xinf-ri
@@ -312,6 +316,7 @@ desktx.com##.bdshare-slide-style-r5.bdshare-slide-button-box
 desktx.com##.current > span
 desktx.com##.msg_con > span:nth-of-type(1)
 detail.zol.com.cn###zolapp-float-qrcode
+developer.aliyun.com##.app-fixed-btn
 dianying.taobao.com##.banner-container.J_smartBanner
 dict.cn###dshared
 dict.cn##[href^="http://cidian.haidii.com/home.html"]
@@ -379,6 +384,7 @@ email.163.com###mailgg__10241024_0 > .fadeIn.animated.theme-item
 email.163.com###mailgg__10241024_2 > .fadeIn.animated.theme-item
 email.163.com###mailgg__10241024_3 > .fadeIn.animated.theme-item
 enet.com.cn##.bdshare-button-style1-24.bdsharebuttonbox
+ex.chinadaily.com.cn##div.fenx:nth-of-type(3)
 exmail.qq.com###todayMain2 > .rounded3.today_bd
 exmail.qq.com##.td_userInfo
 exmail.qq.com##.today_bd.rounded3.today_titlebar_bg.msg_info
@@ -649,6 +655,8 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
 m.china.com.cn##.fx
 m.dmh8.com##.dropdown-hover.playshare
+m.douban.com##.green.btn
+m.douban.com##.splash-btn
 m.douyu.com##.abtest-downloadDialog
 m.douyu.com##.abtest-downloadDialog-wrap
 m.douyu.com##.btn-open-app
@@ -680,6 +688,7 @@ m.iask.sina.com.cn###share-button > .shear-click
 m.ijjxs.com###js2
 m.ijjxs.com##.footer
 m.ijjxs.com##div[class="pd6"]
+m.imdb.com##.frtlkg.sc-f20690b4-0
 m.intl.taobao.com##button
 m.iqiyi.com###app > div > div > div > div > .m-box
 m.iqiyi.com##.c-guide-img
@@ -774,6 +783,8 @@ m.smzdm.com##[href^="https://app.smzdm.com/xiazai/"]
 m.sohu.com###weChatShare
 m.sohu.com##.index.new.fixed.fixed-setto-desktop
 m.sohu.com##.reply-opare__share.reply-opare__a
+m.speedtest.cn##.download-wrap
+m.speedtest.cn##.tools-banner
 m.tadu.com###awakenapp
 m.tadu.com##.inset_login_box
 m.toutiao.com###top-banner-container-1648038047365
@@ -1087,6 +1098,7 @@ sina.com.cn##.tab_related_app_imglink
 sina.com.cn##.tool-share.tool-icon
 sina.com.cn##.tool-wb.tool-icon
 sina.com.cn##.tool-wx.tool-icon
+sj.qq.com##.Header_downloadQRCodeContainer__kt_si
 sm.ms##.apps-download
 sm.ms##.footer
 sm.ms##.google-download
@@ -1672,6 +1684,7 @@ www.blockvalue.com##.bdshare-button-style0-32.bdsharebuttonbox
 www.blockvalue.com##.wbox
 www.blockvalue.com##.wbox.new
 www.blockvalue.com##div.wrap2.new:nth-of-type(4)
+www.boce.com##.money_left
 www.bscscan.com##.col-lg-5.col-12
 www.businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
 www.caacnews.com.cn###FenXiang
@@ -2523,6 +2536,7 @@ www.speedtest.cn##.tisubtn
 www.speedtest.cn##.topDownload
 www.speedtest.cn##.wrap > .title
 www.speedtest.cn##li.nav-enterprise-service.nav-item:nth-of-type(3) > .nav-item-link
+www.speedtest.net##.mobile-pretest
 www.sqjob.cn###BottomBg
 www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
 www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
@@ -2851,10 +2865,13 @@ zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
 ||*zztt*.com
 ||b1.feimiao.cn/*$subdocument
+||bchina-2.xsfaya.com/*$subdocument
+||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||js2.mgjianshe.com$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
 ||p1.meituan.net/csc/*.gif$image
+||www.boce.com/uploads/AdvertImages/*$image
 ||www.pornlulu.com/*$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
