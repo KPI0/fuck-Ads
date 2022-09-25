@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-09-23
+! TimeUpdated: 2022-09-25
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -529,6 +529,8 @@ huang.1.cheapshop.cn##.ziti.topliucheng > b
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
 i.y.qq.com##.c_bg1.bottom_bar__bd
+iask.sina.com.cn##.new-user-bar.cf.iask-user-bar > .detail-operation-con > .op-share-con
+iask.sina.com.cn##li.other_item > .cf.iask-user-bar > .detail-operation-con > .op-share-con
 ibaotu.com##.ibanner-tips-close
 iehou.com##.iehou_side_nav
 ifeng.com##.qr_box-1n_2SIw3
@@ -982,6 +984,7 @@ onedream.yfdnb.com##uni-modal > .uni-mask
 opinion.people.com.cn###ops_share
 oshwhub.com###footer
 oshwhub.com###footer > .container
+oshwhub.com##.float-share.float-hide
 pan.baidu.com##.BHgeMdb
 pan.baidu.com##.callApp
 pan.baidu.com##.dialog-gray.guide-share-dir-tip.dialog-dialog1.dialog
@@ -1014,6 +1017,7 @@ pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(4)
 pan.baidu.com##a.wp-disk-header__right-item:nth-of-type(6)
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
+pan.baidu.com##div.wp-s-header__right-item:nth-of-type(2)
 pan.baidu.com##div.wp-s-header__right-item:nth-of-type(3)
 passport.bilibili.com##.right.block
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -1046,6 +1050,7 @@ post.m.smzdm.com##.foot-banner
 post.m.smzdm.com##.logo-download
 post.smzdm.com###elevator > li:nth-of-type(1)
 post.smzdm.com###elevator > li:nth-of-type(1) > span
+post.smzdm.com###J_common_shares
 post.smzdm.com##.J_common_shares.left-share
 pro.lceda.cn##.weui-banner.box_shadow
 qb.zuoyebang.com##.answerAnalyzeAd_-hW0z
@@ -1593,6 +1598,13 @@ www.91wenmi.com##[href="https://www.91wenmi.com/xiezuo/#lt"]
 www.91wenmi.com##[href="https://www.91wenmi.com/xiezuo/#rt"]
 www.980a.com##[src="//inews.gtimg.com/newsapp_ls/0/14230079538/0"]
 www.99114.com##.cgtcode > span
+www.99hufu.com##.j-share.action-item
+www.99hufu.com##[class="share-icon qq"]
+www.99hufu.com##[class="share-icon qzone"]
+www.99hufu.com##[class="share-icon wechat"]
+www.99hufu.com##[class="share-wx-wrap"]
+www.99hufu.com##div.tx-info-module-down1-box.tx-info-module-down-box.tx-info-module-box:nth-of-type(1)
+www.99hufu.com##div.tx-info-module-down1-box.tx-info-module-down-box.tx-info-module-box:nth-of-type(2)
 www.a8q.cn##li.list-group-item:nth-of-type(3)
 www.a8q.cn##marquee
 www.a8wl.xyz##.widget
@@ -1978,6 +1990,9 @@ www.giiso.com##.clearfix.auto
 www.gog.com##div.footer-microservice__middle-section:nth-of-type(2)
 www.golue.com##.rztList
 www.golue.com##.w320.fr.right
+www.gome.com.cn###gome-aside-app
+www.gome.com.cn###gome-aside-app-code
+www.gome.com.cn###gome-phone
 www.google.com##.SSwjIe.KxwPGc
 www.google.com##.uU7dJb
 www.gototsinghua.org.cn##.footer
@@ -2255,6 +2270,7 @@ www.lapin365.com##.app.member > [href="//m.lapin365.com/apps.htm"]
 www.lapin365.com##.container
 www.lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 www.lckdj.com##.online_wechat.online_item
+www.lianmenhu.com##.bdsharebuttonbox.m-s-shear
 www.liuxue86.com##.bdsharebuttonbox
 www.liuxue86.com##.modal-pay.modal
 www.ljsrc.com###gg
@@ -2868,6 +2884,7 @@ zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
 ||bchina-2.xsfaya.com/*$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
+||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
 ||p1.meituan.net/csc/*.gif$image
