@@ -32,4 +32,16 @@ www.veidc.com##div[class="widget_text widget-on-phone widget widget_custom_html"
 ```
 www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n)
 ```
+##### 审查元素
+```
+<div class="bmqvwHLQ"style="line-height: 115px; top: 0px; left: 0px; z-index: 1211; width: 100vw; background: url("https://91zsri0.sanso.hk/MTMyMA13201320/0402/1585822437.gif91zsri0.sanso.hk/MTMyMA13201320/1023/1571821329.gif") 0px 0px / 100vw 115px no-repeat;">    
+<div class="berxzCJY"style="line-height: 115px; top: 0px; left: 0px; z-index: 1211; width: 100vw; background: url("https://91zsri0.sanso.hk/MTMyMg13221322/0402/1585822374.gif") 0px 0px / 100vw 115px no-repeat;">   
+<div class="hlowzSTZ"style="line-height: 115px; top: 0px; left: 0px; z-index: 1211; width: 100vw; background: url("https://91zsri0.sanso.hk/MTMyMw13231323/0323/1648011591.gif") 0px 0px / 100vw 115px no-repeat;">
+```
+通用规则  
+```
+##div[style*="z-index: 1211"]
+```
+
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------
