@@ -5,33 +5,33 @@
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
 ! 广告弹窗/元素
-###share
-##.appdown
-##.bdshare-button-style0-24.bdsharebuttonbox
-##.bdshare-button-style0-32.bdsharebuttonbox
-##.bottom > .share
-##.down-app
-##.download
-##.download-app
-##.download_area
-##.fenxiang
-##.icon_download.icon
-##.list-inline .fb_iframe_widget.fb-like
-##.page-share.info-fr
-##.post-bottom
-##.qrcode
-##.qrcode-container
-##.right_text > .share
-##.share
-##.share-box
-##.share.info-item
-##.share.item
-##.sharebox
-##.shares
-##.wechat
-##.weibo
-##.weixinqrcode
-##.xshare
+*###share
+*##.appdown
+*##.bdshare-button-style0-24.bdsharebuttonbox
+*##.bdshare-button-style0-32.bdsharebuttonbox
+*##.bottom > .share
+*##.down-app
+*##.download
+*##.download-app
+*##.download_area
+*##.fenxiang
+*##.icon_download.icon
+*##.list-inline .fb_iframe_widget.fb-like
+*##.page-share.info-fr
+*##.post-bottom
+*##.qrcode
+*##.qrcode-container
+*##.right_text > .share
+*##.share
+*##.share-box
+*##.share.info-item
+*##.share.item
+*##.sharebox
+*##.shares
+*##.wechat
+*##.weibo
+*##.weixinqrcode
+*##.xshare
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
 113123.xyz##.article-fx
