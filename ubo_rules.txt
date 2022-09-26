@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-09-25
+! TimeUpdated: 2022-09-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -340,6 +340,7 @@ zzzttt.life##*
 ##.share
 ##.share-box
 ##.share.info-item
+##.share.item
 ##.sharebox
 ##.shares
 ##.wechat
@@ -843,12 +844,18 @@ huaban.com##.ant-tooltip-inner
 huang.1.cheapshop.cn##.ziti.topliucheng > b
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
+i.ifeng.com##.fixSlideBox-2_z-8q73
+i.ifeng.com##.link-1xGgkMtk
 i.y.qq.com##.c_bg1.bottom_bar__bd
+i.y.qq.com##.flotage
+i.y.qq.com##.top_operation_bar__btn
 iask.sina.com.cn##.new-user-bar.cf.iask-user-bar > .detail-operation-con > .op-share-con
 iask.sina.com.cn##li.other_item > .cf.iask-user-bar > .detail-operation-con > .op-share-con
 ibaotu.com##.ibanner-tips-close
 iehou.com##.iehou_side_nav
+ifeng.com##.bottom_box-2ABrMRcu
 ifeng.com##.qr_box-1n_2SIw3
+ifeng.com##.shareIcon-17ZpqlJH
 ifeng.com##[data-item]
 ifeng.com##div[class="advDetail-content1"]
 ifeng.com##ol
@@ -995,6 +1002,8 @@ m.feijisu06.com##.wrapper > .footer
 m.feijisu09.com##.footer
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
+m.hupu.com##.open-hupu
+m.hupu.com##.tabs-component-search-app
 m.huya.com###template
 m.huya.com##.header-app-btn
 m.huya.com##.pop-download
@@ -1015,6 +1024,7 @@ m.iqiyi.com##.hotWords-wrap
 m.iqiyi.com##.iqyGuide-content
 m.iqiyi.com##.m-footer
 m.iqiyi.com##.m-iqylink-guide
+m.iqiyi.com##.m-loginGoApp
 m.iqiyi.com##.m-videoUser-spacing
 m.iqiyi.com##.m-videoUserSpace-two.m-videoUser-spacing
 m.iqiyi.com##.m-videoUserSpace-twoSliding.m-videoUser-spacing
@@ -1054,11 +1064,24 @@ m.ke.qq.com##.show.app-guide
 m.kq7.com##.article_head > div
 m.kq7.com##.xxwz
 m.kq7.com##body > div > div > div > div > div
+m.kugou.com###mod_collection > a
+m.kugou.com##._homeFootBtn.download-app.m_footer1_a1
+m.kugou.com##._homeHeadBtn.download-app.m_head1_d1_a1
+m.kugou.com##.download-app.m_head1_d1_a1
+m.kugou.com##.download-app.tsm_comm_downloadad_a1
+m.kugou.com##.download-app.tsm_comm_foot_a1
+m.kugou.com##.floating-btn
+m.kugou.com##.FocusBtn_focus_btn__3QgWr
 m.kugou.com##.foot-launchApp
+m.kugou.com##.js-downloadApp.download-app
+m.kugou.com##.m_warp_a1
+m.kugou.com##.openAppBtn
 m.kugou.com##.openAppBtn1
 m.kugou.com##.ploading-done
 m.kugou.com##div.s4rs_d1:nth-of-type(1)
+m.kuwo.cn##.Bottom_butt
 m.kuwo.cn##.flexbody
+m.kuwo.cn##.right
 m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
@@ -1129,6 +1152,15 @@ m.v.qq.com##.mod_source_box_fixed.mod_source_box
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
 m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.xbbshuwu.com###chaptercontent > p
+m.xbbshuwu.com##.layui-row
+m.xbbshuwu.com##.show-app2
+m.xbbshuwu.com##[href="https://xsxapp.oss-cn-hangzhou.aliyuncs.com/xiaoshuoxia.apk"]
+m.xbbshuwu.com##div[style*="line-height: 115px"]
+m.xbbshuwu.com##div[style*="top: 0px"]
+m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
+m.xbbshuwu.com##p:nth-of-type(4)
+m.xbbshuwu.com##p:nth-of-type(5)
 m.xsyq.cc##a#__dfdsdefsdb.__foiud:nth-of-type(1)
 m.xsyq.cc##a#__dfdsdefsdb.__foiud:nth-of-type(2)
 m.xsyq.cc##b
@@ -1177,6 +1209,8 @@ manga.bilibili.com##.app.app-button.back-to-button
 manhua.dmzj.com##[href="//www.dmzj.com/app/index.html"]
 map.baidu.com###activity-banner-panel
 map.baidu.com###card-n
+map.baidu.com###common-bottombanner-widget-fis
+map.baidu.com##.common-widget-bottom-banner-changeId.styleguide
 map.baidu.com##.message-panel-open
 map.baidu.com##[class="route-search-banner leadDownloadCard"]
 market.m.taobao.com##.mainMenu
@@ -1222,7 +1256,9 @@ music.163.com##.f-pr.download > .btn
 music.163.com##.f-pr.download > p
 music.163.com##.g-ft
 music.163.com##.hot
+music.163.com##.m-song-friend
 music.163.com##.m-top
+music.163.com##.top-tip-container
 music.douban.com##.artist-wx-qrcode
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(1)
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(2)
@@ -1272,6 +1308,7 @@ news.eeworld.com.cn##.fengxiang
 news.hbtv.com.cn###article_attr > .bdshare-button-style1-24.bdsharebuttonbox.flex_sbc
 news.hbtv.com.cn##.bdshare-button-style1-24.bdsharebuttonbox.flex_sbc
 news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
+news.ifeng.com##.link-1xGgkMtk
 news.ittime.com.cn##.login
 news.ittime.com.cn##.share_box
 news.mingpao.com##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
@@ -2266,7 +2303,6 @@ www.feimiao.cn##.fr
 www.feimiao.cn##.page_right > .advert
 www.feimiao.cn##.user_box
 www.fibaro.com###cookie-info
-www.findic.com##.share.item
 www.freedidi.com###text-10
 www.freedidi.com###text-12
 www.freedidi.com###text-3
@@ -3195,10 +3231,12 @@ zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
 ||*zztt*.com
+||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
+||jiansuo.cdn-bandao.cn/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
