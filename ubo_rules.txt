@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-09-26
+! TimeUpdated: 2022-09-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -370,6 +370,7 @@ zzzttt.life##*
 163.com##.post_top_share
 1678av.com##ins
 1678av.com##table
+20095c5e34.xttop.cc##.bg-white.fixed-bottom.container
 3345av.com##ins
 3345av.com##table
 3dmgame.com##.cl.tshare
@@ -986,6 +987,8 @@ m.douyu.com##.abtest-downloadDialog-wrap
 m.douyu.com##.btn-open-app
 m.douyu.com##.DownloadBtn
 m.douyu.com##.HomeHeader-openAppB
+m.eda365.com##.appopen
+m.eda365.com##.openapp
 m.eefocus.com##.common-top-ad-container
 m.eefocus.com##.common-top-ad-container > .pro-placeholder
 m.elecfans.com##.aside_adv5.aside_adv
@@ -1539,6 +1542,7 @@ tieba.baidu.com##.topic_list_box > .item_hd
 tieba.baidu.com##.u-f-w > .clearfix
 tieba.baidu.com##.u_menu_member.u_menu_item
 tieba.baidu.com##.ufw-gap.u-f-t
+tieba.baidu.com##.wake
 tieba.baidu.com##div.f-d-item:nth-of-type(2)
 tieba.baidu.com##div.f-d-item:nth-of-type(6)
 tieba.baidu.com##div.f-d-item:nth-of-type(9)
@@ -1859,6 +1863,8 @@ www.265.com##.b-A-B-C-D.b-A-B-C
 www.265.com##.b-Cb-Db-f.b-f
 www.265.com##.b-Cb-Db-f.b-f > .b-f-e > .b-f-g-h
 www.265.com##.b-p-e-f.b-f
+www.27ka.cn##.orbui-site-01.orbui-site.orbui
+www.27ka.cn##div.widget_ui_orbui.widget.widget-on-phone:nth-of-type(2)
 www.360.cn##.need_to_fixed.weibo
 www.360.cn##.topbnr
 www.360.cn##dl.list:nth-of-type(2) > dd.product:nth-of-type(4)
@@ -2124,6 +2130,7 @@ www.cn-healthcare.com##footer
 www.cnbeta.com###McYZCXfQZn
 www.cnblogs.com###green_channel_wechat
 www.cnblogs.com###green_channel_weibo
+www.cnblogs.com##.formobile.bannerbar-mobile
 www.cncjj.com##.clear.entry-bottom
 www.cncjj.com##.entry-content > .xh-social
 www.cncjj.com##.entry-meta > .custom-share
@@ -2269,6 +2276,7 @@ www.eefocus.com##.icon-container
 www.eepw.com.cn##.bdshare-button-style1-32.bdsharebuttonbox
 www.eet-china.com##.channel-list-seat
 www.eet-china.com##.hidden-xs.sidebar-code
+www.eet-china.com##.share-btn-xs.myicon-icon
 www.eet-china.com##section:nth-of-type(26)
 www.eet-china.com##section:nth-of-type(27)
 www.elecfans.com###a_top_img
@@ -2395,6 +2403,7 @@ www.huobi.com##.fedui-header-download
 www.huobi.com##.fedui-header-download > .fedui-theme-text
 www.hupu.com##.footer-floor
 www.hupu.com##[href^="https://mobile.hupu.com/"]
+www.huxiu.com##.share-wrap.detail-icons.mb24
 www.huya.com###download-pc-btn
 www.huya.com###UDBSdkLgn
 www.huya.com###UDBSdkLgn-box
@@ -2472,6 +2481,8 @@ www.ithome.com##.sideweixin.sfa
 www.ithome.com##.so.mt > .s
 www.ithome.com##div.mt:nth-of-type(2) > .l
 www.ittime.com.cn##.toolbar
+www.itxen.cn##.action-share.action.dropup.hover-show
+www.itxen.cn##div.widget_custom_html.zib-widget.widget_text:nth-of-type(2)
 www.ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
 www.ixigua.com##.icon-pc-add2
 www.ixigua.com##.icon-share2
@@ -2911,6 +2922,7 @@ www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
 www.stcn.com##.adv
 www.stcn.com##.top_r
 www.stcn.com##.yw_ewm
+www.stockfeel.com.tw##.fixed.single-float-share-web > .pointer.contain.dib.single-float-share-extend.single-share-btns
 www.sydneytoday.com##.sharebar
 www.takungpao.com##.bdshare-button-style0-24.clearfix.bdsharebuttonbox.tkp_con_share
 www.tanmizhi.com##.bdshare-button-style2-32.bdsharebuttonbox
@@ -3223,6 +3235,7 @@ zhidao.baidu.com##[class="share-area"]
 zhiliao.h3c.com##.p_sidebar
 zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
+zhuanlan.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
 zhuanlan.zhihu.com##.ContentItem-actions > .ShareMenu.Popover
 zhuanlan.zhihu.com##.css-v91ii.OpenInAppButton
 zhuanlan.zhihu.com##.Post-SideActions > .ShareMenu.Popover
