@@ -19,8 +19,6 @@
 *##.list-inline .fb_iframe_widget.fb-like
 *##.page-share.info-fr
 *##.post-bottom
-*##.qrcode
-*##.qrcode-container
 *##.right_text > .share
 *##.share
 *##.share-box
@@ -107,6 +105,7 @@ aha-music.com##.ckcontent
 aibicl.com##.arrow
 aibicl.com##.ctrolPanel
 aibicl.com##.message
+aibicl.com##.qrcode
 aicesu.com##.img-ad
 aiqicha.baidu.com##.aqc-home-float-wrapper
 aiqicha.baidu.com##.float-banner
@@ -166,6 +165,7 @@ bbs.csdn.net##.no—h.option-box
 bbs.elecfans.com###a_top_url
 bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
 bbs.elecfans.com##.bdshare-slide-button
+bbs.elecfans.com##.qrcode
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
 bbs.hupu.com##.game-center-sidebar
@@ -1025,6 +1025,7 @@ opinion.people.com.cn###ops_share
 oshwhub.com###footer
 oshwhub.com###footer > .container
 oshwhub.com##.float-share.float-hide
+page.om.qq.com##.qrcode
 pan.baidu.com##.BHgeMdb
 pan.baidu.com##.callApp
 pan.baidu.com##.dialog-gray.guide-share-dir-tip.dialog-dialog1.dialog
@@ -1092,6 +1093,7 @@ post.smzdm.com###elevator > li:nth-of-type(1)
 post.smzdm.com###elevator > li:nth-of-type(1) > span
 post.smzdm.com###J_common_shares
 post.smzdm.com##.J_common_shares.left-share
+post.smzdm.com##.qrcode
 pro.lceda.cn##.weui-banner.box_shadow
 qb.zuoyebang.com##.answerAnalyzeAd_-hW0z
 qb.zuoyebang.com##.aside_2NzA4 > .card_3l6Tq.Card_3tgEd
@@ -2307,6 +2309,7 @@ www.kuwo.cn##.copy
 www.kuwo.cn##.download > li
 www.kuwo.cn##.foot_tit > p:nth-of-type(1)
 www.kuwo.cn##.footer
+www.kuwo.cn##.qrcode-container
 www.kuwo.cn##.windows.item
 www.kuwo.cn##[href="/down"]
 www.kuwo.cn##li.item:nth-of-type(4)
@@ -2505,8 +2508,10 @@ www.right.com.cn##.z > [href="https://www.right.com.cn/forum/"]
 www.right.com.cn##.z > [href="javascript:;"]
 www.rsdznjj.com##.layout-entry-share
 www.runningcheese.com###move_share
+www.runoob.com##.qrcode
 www.samsungeshop.com.cn##li:nth-of-type(3)
 www.samsungeshop.com.cn##li:nth-of-type(3) > [href="/activitys/SamsungAPPActivity"]
+www.secrss.com##.qrcode
 www.sensorexpert.com.cn##.active.postbird-box-container
 www.sensorexpert.com.cn##.detail-do > .clearfix
 www.sensorexpert.com.cn##.postbird-box-dialog > .postbird-box-content
