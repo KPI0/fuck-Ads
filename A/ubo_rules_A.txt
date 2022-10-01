@@ -1,7 +1,7 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules_A
-! TimeUpdated: 2022-09-29
-! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
+! Title: fuck Ads rules
+! TimeUpdated: 2022-10-01
+! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
 ! 广告弹窗/元素
@@ -286,6 +286,7 @@ cn.chinadaily.com.cn##.lo-bott-one
 cn.chinadaily.com.cn##.more
 cn.chinadaily.com.cn##.xinf-ri
 cn.lvmh.com##.ot-sdk-container > .ot-sdk-row
+cn.nikkei.com##.bdshare-button-style0-16.bdsharebuttonbox
 cn.nytimes.com##.download_app
 cn.nytimes.com##.footerLink.last
 cn.nytimes.com##.mobile-article.share-tools
@@ -600,6 +601,8 @@ k.sina.cn##.icon_share2
 k.sina.cn##.look_more_a
 k.sina.cn##.qweasd.sw_c0
 k.sina.cn##.s_card.art_t
+kaifa.baidu.com##.reward-entry-home-81a02
+kaifa.baidu.com##.reward-entry-search-6e208
 kaoyan.koolearn.com##.bottom-fixed-zhenti
 kaoyan.koolearn.com##.kyzb_layer
 kaoyan.koolearn.com##.zhezhao
@@ -1160,6 +1163,8 @@ so.iqiyi.com##.qy-svgicon-game.qy-svgicon
 so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
+sohu.com##.share-list
+sohu.com##.topic-share
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
 sports.2008.sina.com.cn##.tiyu__icon
 sports.sina.cn##a.ft_cm_nav_a:nth-of-type(3)
@@ -1810,6 +1815,7 @@ www.chromeliulanqi.com###footer
 www.chromeliulanqi.com###topNavC
 www.chromeliulanqi.com##.browser-welcome
 www.chromeliulanqi.com##.g-split.g-tpl-160.g-section
+www.cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
 www.cn-healthcare.com##.appupdownnavwap
 www.cn-healthcare.com##.de_vedio_wrap > .goApp
 www.cn-healthcare.com##.wapnav
@@ -1940,6 +1946,7 @@ www.duanmeiwen.com##.mySwiperBox
 www.dubox.com##.notification-wrap
 www.duitang.com##.dt_down_guide_small_tip
 www.duitang.com##.top.app-download-guide
+www.dujin.org##div.widget_custom_html.widget.widget_text:nth-of-type(4)
 www.dushu.com##.text-gray.text-center.margin-big-top
 www.dushu.com##canvas
 www.duyou8.com##.arcfu_btn
@@ -2033,6 +2040,7 @@ www.gif8.com###stuff
 www.gif8.com##.row > .col-sm-3
 www.giiso.com##.bottom
 www.giiso.com##.clearfix.auto
+www.globalsir.com###id-lev-f
 www.gog.com##div.footer-microservice__middle-section:nth-of-type(2)
 www.golue.com##.rztList
 www.golue.com##.w320.fr.right
@@ -2222,6 +2230,7 @@ www.jihaoba.com##.footer.main
 www.jihaoba.com##div.foot:nth-of-type(18)
 www.jihaoba.com##div.foot:nth-of-type(22)
 www.jinse.com##.js-foot-status > .js-right
+www.jinse.com##[class="article_details_top"]
 www.jokerlu.com##.main.col-md-offset-2.col-md-10.col-sm-offset-3.col-sm-9
 www.jokerlu.com##.navbar-fixed-top.navbar-inverse.navbar
 www.jokerlu.com##.sidebar.col-md-2.col-sm-3
@@ -2910,6 +2919,7 @@ youku.com##.show_C8p0e.info-bottom_3C0mQ
 youku.com##.u-app_Ubbmj
 youku.com##.u-phone_2eD26
 youwuqiong.top##.weapp_image_link
+yule.sohu.com##.share-list
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
 yun.139.com##.fr
