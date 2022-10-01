@@ -2033,9 +2033,6 @@ www.ghxi.com##.clearfix.entry-bar-inner
 www.ghxi.com##.entry-bar
 www.ghxi.com##.j-share.action-item
 www.ghxi.com##.text-center.info
-www.ghxi.com##.width-footer-bar.footer
-www.ghxi.com##div:nth-of-type(5)
-www.ghxi.com##div:nth-of-type(6)
 www.gif8.com###stuff
 www.gif8.com##.row > .col-sm-3
 www.giiso.com##.bottom
