@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-01
+! TimeUpdated: 2022-10-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -245,6 +245,7 @@ skycn.net##*
 softrw.com##*
 sokmil.com##*
 somode.com##*
+ssd456.com##*
 sushiguang.com##*
 suzip.com##*
 svjav.com##*
@@ -2931,6 +2932,11 @@ www.sqjob.cn###BottomBg
 www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
 www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
 www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
+www.ssd456.com###btmBox
+www.ssd456.com###couplet
+www.ssd456.com###midBox
+www.ssd456.com###subMenuBox > dl
+www.ssd456.com##li:nth-of-type(3)
 www.stcn.com##.adv
 www.stcn.com##.top_r
 www.stcn.com##.yw_ewm
