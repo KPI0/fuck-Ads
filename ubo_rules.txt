@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-03
+! TimeUpdated: 2022-10-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -70,6 +70,7 @@ baiduliulanqi.05102.com##*
 baofeng.com##*
 bbailo.vip##*
 bear20.com##*
+bel345.com##*
 beqq.net##*
 besthistorypodcasts.com##*
 bigojav.com##*
@@ -246,6 +247,7 @@ softrw.com##*
 sokmil.com##*
 somode.com##*
 ssd456.com##*
+sur789.com##*
 sushiguang.com##*
 suzip.com##*
 svjav.com##*
@@ -322,11 +324,19 @@ zztt33.com##*
 zztt34.com##*
 zzzttt.life##*
 ! 广告弹窗/元素
+*###btmBox
+*###couplet
+*###listBox > dl
+*###listwoBox
+*###midBox
+*###randomBox
 *###share
+*###subMenuBox > dl
 *##.appdown
 *##.bdshare-button-style0-24.bdsharebuttonbox
 *##.bdshare-button-style0-32.bdsharebuttonbox
 *##.bottom > .share
+*##.copy
 *##.down-app
 *##.download
 *##.download-app
@@ -347,6 +357,7 @@ zzzttt.life##*
 *##.weibo
 *##.weixinqrcode
 *##.xshare
+*##div#listBox > dl
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
 113123.xyz##.article-fx
@@ -2628,7 +2639,6 @@ www.kugou.com##div.homep_d2:nth-of-type(9)
 www.kugou.com##div.s4rs_d1:nth-of-type(1)
 www.kuwo.cn##.android.item
 www.kuwo.cn##.banner_out > .download
-www.kuwo.cn##.copy
 www.kuwo.cn##.download > li
 www.kuwo.cn##.foot_tit > p:nth-of-type(1)
 www.kuwo.cn##.footer
@@ -2932,11 +2942,6 @@ www.sqjob.cn###BottomBg
 www.sqjob.cn##h1.list_box_top1:nth-of-type(2)
 www.sqjob.cn##h1.list_box_top1:nth-of-type(4)
 www.sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
-www.ssd456.com###btmBox
-www.ssd456.com###couplet
-www.ssd456.com###midBox
-www.ssd456.com###subMenuBox > dl
-www.ssd456.com##li:nth-of-type(3)
 www.stcn.com##.adv
 www.stcn.com##.top_r
 www.stcn.com##.yw_ewm
