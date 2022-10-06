@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-04
+! TimeUpdated: 2022-10-06
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -30,6 +30,7 @@
 32r.com##*
 3345av.com##*
 355.fun##*
+4hu.tv##*
 51xiazai.cn##*
 52av.one##*
 52pk.com##*
@@ -71,8 +72,10 @@ baofeng.com##*
 bbailo.vip##*
 bear20.com##*
 bel345.com##*
+bel789.com##*
 beqq.net##*
 besthistorypodcasts.com##*
+bgd567.com##*
 bigojav.com##*
 birdpaper.cn##*
 buliangdh46.xyz##*
@@ -129,6 +132,7 @@ heiliao9.pro##*
 hi.com##*
 hpjav.tv##*
 i57n.com##*
+idn234.com##*
 ie.sogou.com##*
 iefans.net##*
 ijinshan.com##*
@@ -178,6 +182,7 @@ languang.com##*
 laomaotao.net##*
 liqucn.com##*
 lmt.hebop.cn##*
+lotto60.com##*
 ludashi.com##*
 m.0ig.top##*
 m.qq.com##*
@@ -263,6 +268,7 @@ tom3828.com##*
 tonywardcouture.com##*
 tzdsjx.com##*
 uc.cn##*
+upsjav.com##*
 uzzf.com##*
 veryhuo.com##*
 video.xunlei.com##*
@@ -499,6 +505,8 @@ bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
 bbs.hupu.com##.game-center-sidebar
 bbs.hupu.com##.gamecenter
 bbs.hupu.com##.qrcodeLink_3wVdw.link_2iELG
+bbs.hupu.com##.swiper-container-horizontal.swiper-container-initialized.swiper-container
+bbs.hupu.com##.todo-list.post-operate-comp-main-share
 bbs.hupu.com##li.mobileclientDown:nth-of-type(3)
 bbs.kafan.cn##.z > [href="https://bbs.kafan.cn/"]
 bbs.ludeqi.com##.swal2-content
@@ -716,11 +724,6 @@ email.163.com###mailgg__10241024_2 > .fadeIn.animated.theme-item
 email.163.com###mailgg__10241024_3 > .fadeIn.animated.theme-item
 enet.com.cn##.bdshare-button-style1-24.bdsharebuttonbox
 ex.chinadaily.com.cn##div.fenx:nth-of-type(3)
-exmail.qq.com###todayMain2 > .rounded3.today_bd
-exmail.qq.com##.td_userInfo
-exmail.qq.com##.today_bd.rounded3.today_titlebar_bg.msg_info
-exmail.qq.com##[href^="/cgi-bin/setting4"]
-exmail.qq.com##body > .clr
 eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##.g-clearfix.app-list
 eyun.baidu.com##[href^="https://eyun.baidu.com/enterprise/product"]
@@ -1219,6 +1222,7 @@ mail.qq.com##.icon_top_sendtomobile_init.pointer
 mail.qq.com##.rounded3.todayTool2_bd.bd
 mail.qq.com##.todayInfoPanelTab.bd.bold.settingtable.tipstitle_title
 mail.qq.com##body > .clr
+maimai.cn##.p-y-10.downloadFixed
 main.m.taobao.com###SLK_evokeUI_v2
 main.m.taobao.com##button
 maker.lceda.cn##.float-ul
@@ -1341,6 +1345,7 @@ news.sina.com.cn##.side-btns-2w
 news.sina.com.cn##.tab-related-fixed.tab-related
 news.sohu.com###share > .title
 news.sohu.com###share > ul
+news.zol.com.cn##.share-icon.icon
 nftlabm.yuzhouya.com##.tips_active.tips_pop
 nftlabm.yuzhouya.com##.tips_box
 nordvpn.com##.cc-color-override--1748216957.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
@@ -2041,6 +2046,7 @@ www.bbc.com###post_60812699 > .lx-stream-post__footer > .lx-stream-post__footer-
 www.bbc.com##.e1nbsi9l0.bbc-n7zdg2
 www.bbsnet.com##.baishare
 www.bddhw.cn##.j-share.action-item
+www.bel789.com##li:nth-of-type(3)
 www.bianews.com##.bdshare-button-style0-16.share_infos_wrap.fr.bdsharebuttonbox
 www.bianews.com##.fr.we_img_box
 www.bianews.com##.nav-tr-lang
@@ -2247,6 +2253,7 @@ www.docin.com##.share_new_style
 www.docin.com##.share_style2.docin_share_sns > .share_award > .shang
 www.docin.com##.share_style2.docin_share_sns > .share_award > span
 www.docin.com##.share_style2.docin_share_sns > span
+www.docin.com##.slideButton
 www.docin.com##li:nth-of-type(5)
 www.douban.com###landing-bar
 www.douban.com##.lnk-doubanapp
@@ -2526,6 +2533,7 @@ www.jfdaily.com##.f_con
 www.jfdaily.com##.xz
 www.jfdaily.com##div.title:nth-of-type(14)
 www.jfdaily.com##div.title:nth-of-type(16)
+www.jianhepcb.com###bdshare
 www.jianshu.com###index-aside-download-qrbox
 www.jianshu.com###web-nav-app-download-btn
 www.jianshu.com##._16AzcO
@@ -3002,6 +3010,7 @@ www.to8to.com##.slide_box_shade
 www.toutiao.com##.add-to-desktop-wrapper
 www.toutiao.com##.detail-side-interaction > div:nth-of-type(5)
 www.toutiao.com##.feedback.tool-item
+www.toutiao.com##.left-container
 www.toutiao.com##[href="//app.toutiao.com/news_article/"]
 www.tretars.com###sidebar-left-xf > .widget_vfilmtime_ad.sidebox
 www.tretars.com###sidebar-right > .widget_vfilmtime_ad.sidebox
@@ -3155,11 +3164,13 @@ www.zhaoav2.cloud##.wrap > .right
 www.zhcw.com##.zwqk > .ztX3w-L
 www.zhibo8.cc##.new_ch
 www.zhibo8.cc##.pop-autoapp
+www.zhihu.com##.ContentItem-action.ShareMenu.Popover
 www.zhihu.com##.css-1e447mw.is-higher.OpenInAppButton
 www.zhihu.com##.css-cazai8.OpenInApp.OpenInAppButton
 www.zhihu.com##.Footer
 www.zhihu.com##.LegacyUserStatus
 www.zhihu.com##.MobileAppHeader-downloadLink
+www.zhihu.com##.QuestionHeaderActions > .ShareMenu.Popover
 www.zhimeng.com.cn##.mr20.dropdown-toggle.fl
 www.zhipin.com##.footer-icon
 www.zhipin.com##.home-main
