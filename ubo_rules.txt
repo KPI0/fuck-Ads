@@ -18,14 +18,9 @@
 2265.com##*
 2345.cc##*
 2345.cn##*
-2345.com##*
 2345.com.cn##*
 2345.net##*
-2345bj.com##*
 2345gho.cn##*
-2345pc.com##*
-2345uu.com##*
-2345zj.com##*
 29maonn.com##*
 32r.com##*
 3345av.com##*
@@ -84,6 +79,7 @@ buliangdh46.xyz##*
 buy.rising.com.cn##*
 byym75.com##*
 ccafc.org.cn##*
+ccbflp.com##*
 ccho.cc##*
 cfgioa.com##*
 chipmong666.xyz##*
@@ -113,6 +109,7 @@ dyxhw.com##*
 e59f.com##*
 e989.tv##*
 epochtimes.com##*
+eth567.com##*
 eubaiu.xin##*
 fbjav.com##*
 fhpaaa.com##*
@@ -135,8 +132,10 @@ hb6s.com##*
 heiliao9.pro##*
 hi.com##*
 hk123.net##*
+hotshortstories.com##*
 hpjav.tv##*
 hzj98.com##*
+i4hu.com##*
 i57n.com##*
 idn234.com##*
 ie.sogou.com##*
@@ -212,6 +211,7 @@ my123.com##*
 mydown.com##*
 mydown.yesky.com##*
 netflav1.com##*
+nga567.com##*
 night97.cc##*
 niuc1.com##*
 nor789.com##*
@@ -245,6 +245,7 @@ qyule.com##*
 r18.com##*
 rouav.com##*
 rsst.xyz##*
+sclddn.com##*
 secretmine.net##*
 sehuatang.net##*
 sem6.cc##*
@@ -258,6 +259,7 @@ skycn.com##*
 skycn.net##*
 softrw.com##*
 sokmil.com##*
+som456.com##*
 somode.com##*
 ssd456.com##*
 sur789.com##*
@@ -277,10 +279,12 @@ tom3828.com##*
 tonywardcouture.com##*
 tzdsjx.com##*
 uc.cn##*
+unacg.com##*
 upsjav.com##*
 uzzf.com##*
 veryhuo.com##*
 video.xunlei.com##*
+violatorrecords.com##*
 vip.aqdtv511.com##*
 vrzhijia.com##*
 watchjavonline.com##*
@@ -316,6 +320,7 @@ xxx.com##*
 xxxmadou.com##*
 xxxmmm.club##*
 xz7.com##*
+yangbit.com##*
 yashenggd.com##*
 ydan.cc##*
 yegonghaose555.com##*
@@ -330,6 +335,10 @@ zhazhijiav.top##*
 zhuangjiba.com##*
 zjbl.qq.com##*
 zs.91.com##*
+||*sehuiyao*.me
+||*zztt*.com
+||*zztt*.net
+||2345*.com
 ! 广告弹窗/元素
 *###btmBox
 *###couplet
@@ -633,6 +642,8 @@ cn.nytimes.com##.footerLink.last
 cn.nytimes.com##.mobile-article.share-tools
 cn.nytimes.com##.ribbon-show.article-ribbon
 cn.pornhub.com##.shareButton
+cointelegraphcn.com##.header-zone__banners
+cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
 cokemv.me##.share.module-player-handle-item
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
@@ -2081,6 +2092,7 @@ www.bilibili.com##section.bili-grid:nth-of-type(12)
 www.bilibili.com##section.bili-grid:nth-of-type(13)
 www.binance.com##.css-1ql2hru > .css-c510oc
 www.binance.com##.css-8non6d > .css-1n2fhb3
+www.bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 www.blockvalue.com##.bdshare-button-style0-32.bdsharebuttonbox
 www.blockvalue.com##.wbox
 www.blockvalue.com##.wbox.new
@@ -2659,6 +2671,7 @@ www.kuwo.cn##.qrcode-container
 www.kuwo.cn##.windows.item
 www.kuwo.cn##[href="/down"]
 www.kuwo.cn##li.item:nth-of-type(4)
+www.laohu8.com##.share-menu-root
 www.lapeople.com##.index-channel-fixed.index-channel.pull-left
 www.lapeople.com##.pane-box
 www.lapeople.com##a.tb-link.register-mp:nth-of-type(2)
@@ -3286,8 +3299,8 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
-||*sehuiyao*.me
-||*zztt*.com
+zztt03.net###mydi3
+zztt03.net##.overfloat
 ||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
