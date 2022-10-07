@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-06
+! TimeUpdated: 2022-10-07
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -10,9 +10,12 @@
 *###listBox > dl
 *###listwoBox
 *###midBox
+*###partners
 *###randomBox
 *###share
 *###subMenuBox > dl
+*##.a2hs-ios-dRZ.a2hs-container-2ZN
+*##.adv_block
 *##.appdown
 *##.bdshare-button-style0-24.bdsharebuttonbox
 *##.bdshare-button-style0-32.bdsharebuttonbox
@@ -26,6 +29,7 @@
 *##.icon_download.icon
 *##.list-inline .fb_iframe_widget.fb-like
 *##.page-share.info-fr
+*##.pop_con
 *##.post-bottom
 *##.right_text > .share
 *##.share
@@ -2641,6 +2645,9 @@ www.taodocs.com##li.ewm.mv_lis:nth-of-type(5)
 www.taomingren.com##.cite > .bdshare-button-style0-16.bdsharebuttonbox
 www.taptap.com##.pull-right
 www.taptap.com##.tap-footer__download
+www.tasexy.com###sexy_a1
+www.tasexy.com###sexy_a2
+www.tasexy.com##.left > .b300
 www.te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
 www.te.com.cn##.we-chat-wrapper
 www.techweb.com.cn##.app_item
@@ -2953,6 +2960,7 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
+||*sehuiyao*.me
 ||*zztt*.com
 ||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
