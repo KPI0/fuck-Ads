@@ -307,6 +307,8 @@ cn.nytimes.com##.footerLink.last
 cn.nytimes.com##.mobile-article.share-tools
 cn.nytimes.com##.ribbon-show.article-ribbon
 cn.pornhub.com##.shareButton
+cointelegraphcn.com##.header-zone__banners
+cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
 cokemv.me##.share.module-player-handle-item
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
@@ -1755,6 +1757,7 @@ www.bilibili.com##section.bili-grid:nth-of-type(12)
 www.bilibili.com##section.bili-grid:nth-of-type(13)
 www.binance.com##.css-1ql2hru > .css-c510oc
 www.binance.com##.css-8non6d > .css-1n2fhb3
+www.bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 www.blockvalue.com##.bdshare-button-style0-32.bdsharebuttonbox
 www.blockvalue.com##.wbox
 www.blockvalue.com##.wbox.new
@@ -2333,6 +2336,7 @@ www.kuwo.cn##.qrcode-container
 www.kuwo.cn##.windows.item
 www.kuwo.cn##[href="/down"]
 www.kuwo.cn##li.item:nth-of-type(4)
+www.laohu8.com##.share-menu-root
 www.lapeople.com##.index-channel-fixed.index-channel.pull-left
 www.lapeople.com##.pane-box
 www.lapeople.com##a.tb-link.register-mp:nth-of-type(2)
@@ -2960,8 +2964,8 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
-||*sehuiyao*.me
-||*zztt*.com
+zztt03.net###mydi3
+zztt03.net##.overfloat
 ||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
