@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-07
+! TimeUpdated: 2022-10-09
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -40,7 +40,6 @@
 *##.shares
 *##.wechat
 *##.weibo
-*##.weixinqrcode
 *##.xshare
 *##div#listBox > dl
 10jqka.com.cn##.dimonsion
@@ -2017,6 +2016,8 @@ www.fabiaoqing.com##.floatcenter.segment.ui
 www.facebook.com##.om3e55n1.cgu29s5g.cqf1kptm.alzwoclg > .q46jt4gp > div > span
 www.facebook.com##span > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
 www.facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
+www.fandom.com##.article-share
+www.fandom.com##[class="card-share"]
 www.feimiao.cn##.float
 www.feimiao.cn##.fr
 www.feimiao.cn##.page_right > .advert
@@ -2319,6 +2320,7 @@ www.koubei.com##.koubei-section3
 www.koubei.com##.koubei-section3-box
 www.kuaikanmanhua.com##.cls.oneLine > li > [href="https://www.kkmh.com/"]
 www.kuaikanmanhua.com##.code
+www.kuaikanmanhua.com##.show.giude
 www.kuaikanmanhua.com##.weibo.fl
 www.kuaikanmanhua.com##.weixin.fl
 www.kuaikanmanhua.com##li.item > [href="https://www.kkmh.com/"]
@@ -2652,6 +2654,7 @@ www.taptap.com##.tap-footer__download
 www.tasexy.com###sexy_a1
 www.tasexy.com###sexy_a2
 www.tasexy.com##.left > .b300
+www.tbs.co.jp##.tbs-gfooter-share
 www.te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
 www.te.com.cn##.we-chat-wrapper
 www.techweb.com.cn##.app_item
@@ -2863,11 +2866,14 @@ www.zhipin.com##.home-main
 www.zhipin.com##li > [href="https://app.zhipin.com/"]
 www.zhongruitong.cn##.not-real-name-button
 www.zhuangku.com##.service-fixed
+www.zikao365.com###advRollWarp
 www.zikao365.com###ZCMSAP_328
+www.zikao365.com##.beeBoxTop
 www.zikao365.com##.fl.info-share-new
 www.zikao365.com##.fl.snltxt
 www.zikao365.com##.pic-slider
-www.zikao365.com##[src="https://www.zikao365.com/upload/resources/image/2021/09/23/31680.png"]
+www.zikao365.com##.shuang_img
+www.zikao365.com##.shuang_mask
 www.zikao365.com##div.footerxx:nth-of-type(1)
 www.zikaosw.cn##.advbox
 www.zikaosw.cn##.adver-pic.boot
