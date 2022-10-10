@@ -340,6 +340,7 @@ zs.91.com##*
 ||*zztt*.net
 ||2345*.com
 ! 广告弹窗/元素
+*###bdshare
 *###btmBox
 *###couplet
 *###listBox > dl
@@ -2421,9 +2422,6 @@ www.guyuehome.com##.js_share.item
 www.guyuehome.com##.sticky-bar .icon-wechat
 www.guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
 www.gzfc.net##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
-www.h61889.com###bdSharePopup_selectshare1653632547797box
-www.h61889.com##.xwfbzs2 .bdshare-button-style0-16.bdsharebuttonbox
-www.hackdig.com###bdshare
 www.haoword.com###layui-layer-shade1
 www.haoword.com###right
 www.haoword.com##.clearfix.consult-header
@@ -2553,7 +2551,6 @@ www.jfdaily.com##.f_con
 www.jfdaily.com##.xz
 www.jfdaily.com##div.title:nth-of-type(14)
 www.jfdaily.com##div.title:nth-of-type(16)
-www.jianhepcb.com###bdshare
 www.jianshu.com###index-aside-download-qrbox
 www.jianshu.com###web-nav-app-download-btn
 www.jianshu.com##._16AzcO
@@ -2801,7 +2798,6 @@ www.patreon.com##.bottomLeft__3ZFPD.root__1VdHR
 www.pbpb.tv##.stui-content__side
 www.pbpb.tv##body > ul
 www.pc521.net##[data-hover="分享"]
-www.pcbems.com###bdshare
 www.pcbeta.com##.pt_rtpl
 www.pcpop.com##.icon-tel
 www.pcpop.com##.ts-function
@@ -3158,7 +3154,6 @@ www.yhdm.io##.l.share > span
 www.yhdm8.co##.bdshare-button-style0-24.pull-right.hidden-xs.hidden-sm.bdsharebuttonbox.share
 www.yhdm8.co##li.hidden-xs:nth-of-type(4)
 www.yi2.net##.details-bot-bar
-www.yinghuacd.com###bdshare
 www.yinghuacd.com##.bdshare-button-style0-16.l.bdsharebuttonbox
 www.yjbys.com##.banner
 www.yjbys.com##.conttop_code
