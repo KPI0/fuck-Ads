@@ -345,7 +345,6 @@ zs.91.com##*
 *###couplet
 *###listBox > dl
 *###listwoBox
-##.share-list
 *###midBox
 *###partners
 *###randomBox
@@ -371,6 +370,7 @@ zs.91.com##*
 *##.right_text > .share
 *##.share
 *##.share-box
+*##.share-list
 *##.share.info-item
 *##.share.item
 *##.sharebox
