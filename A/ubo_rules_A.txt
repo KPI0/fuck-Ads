@@ -10,6 +10,7 @@
 *###couplet
 *###listBox > dl
 *###listwoBox
+##.share-list
 *###midBox
 *###partners
 *###randomBox
@@ -163,7 +164,6 @@ baijiahao.baidu.com##.index-module_topList_k56w2
 baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
 baike.baidu.com##._4txvhmc
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
-baike.baidu.com##.share-list
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.top-share.bksharebuttonbox
 baike.baidu.com##.topA
@@ -1177,7 +1177,6 @@ so.iqiyi.com##.qy-svgicon-game.qy-svgicon
 so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
-sohu.com##.share-list
 sohu.com##.topic-share
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
 sports.2008.sina.com.cn##.tiyu__icon
@@ -2943,7 +2942,6 @@ youku.com##.show_C8p0e.info-bottom_3C0mQ
 youku.com##.u-app_Ubbmj
 youku.com##.u-phone_2eD26
 youwuqiong.top##.weapp_image_link
-yule.sohu.com##.share-list
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
 yun.139.com##.fr
