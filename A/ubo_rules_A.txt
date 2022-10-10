@@ -10,7 +10,6 @@
 *###couplet
 *###listBox > dl
 *###listwoBox
-##.share-list
 *###midBox
 *###partners
 *###randomBox
@@ -36,6 +35,7 @@
 *##.right_text > .share
 *##.share
 *##.share-box
+*##.share-list
 *##.share.info-item
 *##.share.item
 *##.sharebox
