@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-09
+! TimeUpdated: 2022-10-10
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1426,6 +1426,8 @@ web.4399.com##.floatL.floatS
 web.4399.com##.floatL.floatS > [href^="http://web.4399.com/user/to_newgame.php"] > .img
 web.4399.com##.to_desktop_btn.menu
 web.4399.com##.wall_box
+web.shobserver.com##.xiazai-bottom
+web.shobserver.com##.xiazai-top > .open-app
 web02.cnki.net##[href="https://inks.cnki.net"]
 webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
 wen.baidu.com##.f-aid.wgt-answers-operator > .share-area
