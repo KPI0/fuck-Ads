@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-11
+! TimeUpdated: 2022-10-12
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -20,6 +20,8 @@
 *##.appdown
 *##.bdshare-button-style0-24.bdsharebuttonbox
 *##.bdshare-button-style0-32.bdsharebuttonbox
+*##.bdshare-slide-style-r1.bdshare-slide-button-box
+*##.bdshare-slide-style-r2.bdshare-slide-button-box
 *##.bottom > .share
 *##.copy
 *##.down-app
@@ -117,6 +119,9 @@
 21jingji.com##[href="https://app.21jingji.com/"]
 230890.com##.clear.entry-footer
 230890.com##.entry-meta-right
+23bei.com###layui-layer-shade1
+23bei.com##.layui-layer-iframe.layui-layer
+23bei.com##div.hidden-m:nth-of-type(n)
 24688.cn##.social-share.share-component
 265.com##.b-A-B-C-D.b-A-B-C
 265.com##.b-Cb-Db-f.b-f
@@ -193,6 +198,7 @@
 51pptmoban.com##.pdad
 51pptmoban.com##.pptsc
 51pptmoban.com##.tb1
+51sjk.com##.footer
 51sjk.com##.shares.range
 51test.net##.content-fr > div
 51test.net##.word_download_tip_btn
@@ -552,7 +558,6 @@ china.chinadaily.com.cn##.more
 china.chinadaily.com.cn##.xinf-ri
 china.chinadaily.com.cn##.xinf-ri2 > [href^="http://v.t.sina.com.cn/share/share.php"]
 china.chinadaily.com.cn##div.fenx:nth-of-type(7)
-china10.org##.bdshare-slide-style-r2.bdshare-slide-button-box
 chinadaily.com.cn##.newtipbox > .floatrgt
 chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 chinanews.com.cn###newewm
@@ -1208,7 +1213,6 @@ infzm.com##.color-weibo.icon-item
 infzm.com##.nfzm-left-bar > span
 infzm.com##[href="/download"]
 ip.yqie.com###navigationtopleft > .navigationlink
-ip.yqie.com##.bdshare-slide-style-r2.bdshare-slide-button-box
 ip138.com##.mod-friendlink.module
 ip138.com##.mod-news.module
 iplaysoft.com###link1111
@@ -2474,6 +2478,7 @@ to8to.com##.bottom_slide_img
 to8to.com##.bottom_slide_wh_img
 to8to.com##.slide_box_shade
 today.line.me##.interactiveShare
+tool.520101.com##.baidu_ad
 tool.chinaz.com##.toolvip
 tool.chinaz.com##div.toItem:nth-of-type(1)
 tool.cncn.com##.ewm
