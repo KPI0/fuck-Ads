@@ -239,7 +239,9 @@
 91wenmi.com##[href="https://91wenmi.com/xiezuo/#rt"]
 980a.com##[src="//inews.gtimg.com/newsapp_ls/0/14230079538/0"]
 99114.com##.cgtcode > span
+99hufu.com##.item-ad
 99hufu.com##.j-share.action-item
+99hufu.com##.wpcom_ad_wrap
 99hufu.com##[class="share-icon qq"]
 99hufu.com##[class="share-icon qzone"]
 99hufu.com##[class="share-icon wechat"]
@@ -351,6 +353,12 @@ baidu.com##.s-hotsearch-title
 baidu.com##.s-isindex-wrap.s-bottom-layer
 baidu.com##.s-isindex-wrap.s-top-left-new
 baidu.com##.s-isindex-wrap.s-top-wrap
+baidu.com##[class="bottomBtn"]
+baidu.com##[class="follow"]
+baidu.com##[class="open"]
+baidu.com##[class="tgSGu46bOeqca"]
+baidu.com##[class="tgSGud4cOeqca"]
+baidu.com##[class="topImg"]
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(1)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(2)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(5)
@@ -1053,13 +1061,17 @@ haokan.baidu.com##.adv-fullscreen
 haokan.baidu.com##.download-hover.link-item
 haokan.baidu.com##.ec_result.skeletonbg.adv
 haokan.baidu.com##.follow-btn
+haokan.baidu.com##.growth-ad
 haokan.baidu.com##.landrightbanner
 haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.navigation-download
 haokan.baidu.com##.page-top-rightinfo-download.page-top-rightinfo-btn
 haokan.baidu.com##.player-pause-code
+haokan.baidu.com##.video-icon-btn-share.video-list-item-btns-share
 haokan.baidu.com##.videoinfo-phone
 haokan.baidu.com##.videoinfo-share
+haokan.baidu.com##.wx-share-launch.open-app-bottom
+haokan.baidu.com##.wx-share-launch.open-app-top
 haokan.baidu.com##li.link-item:nth-of-type(1)
 haokan.baidu.com##li.link-item:nth-of-type(3)
 haoword.com###layui-layer-shade1
@@ -1450,6 +1462,10 @@ m-lou.com##.wrap.caf304
 m.1688.com##.header-wrapper
 m.4399.cn##.cn-mt10.cn-app_download
 m.51job.com##.goApp
+m.699pic.com##.chongzhiact
+m.699pic.com##.fl.footer-share
+m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
+m.699pic.com##.show.top-notice-position
 m.baidu.com###header > div > div > div > div
 m.baidu.com##._1_KgV._8naka.c-container > footer
 m.baidu.com##._1VOQE > .c-blocka
@@ -1658,6 +1674,7 @@ m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
 m.v.qq.com##.mod_privilege
 m.v.qq.com##.mod_source
 m.v.qq.com##.mod_source_box_fixed.mod_source_box
+m.v.qq.com##.player-mask__small-tips
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
 m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
@@ -1684,6 +1701,7 @@ m.youku.com##.downloadApp.icon
 m.youku.com##.h5-detail-ad
 m.youku.com##.h5-detail-guide.clipboard
 m.youku.com##.h5-detail-vip-guide.clipboard
+m.youku.com##.x-top-control
 m.youku.com##div.item:nth-of-type(1)
 m.youku.com##div.item:nth-of-type(4)
 m.youku.com##div.item:nth-of-type(5)
@@ -2179,6 +2197,8 @@ sj.qq.com##.Header_downloadQRCodeContainer__kt_si
 sm.ms##.apps-download
 sm.ms##.footer
 sm.ms##.google-download
+smart.mail.126.com###topDropImg
+smart.mail.yeah.net###topDropImg
 smarthome.qianjia.com##.clearfix.welcome-join.mod
 smarthome.qianjia.com##.tool-share
 smarthome.qianjia.com##p.MsoNormal:nth-of-type(16)
