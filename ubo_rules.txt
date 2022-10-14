@@ -90,6 +90,7 @@ ccho.cc##*
 cdymsm.com##*
 cfgioa.com##*
 chipmong666.xyz##*
+clkoo.cn##*
 cmdh.me##*
 cncrk.com##*
 cr173.com##*
@@ -231,6 +232,7 @@ netflav1.com##*
 nga345.com##*
 nga567.com##*
 night97.cc##*
+niu234.com##*
 niuc1.com##*
 nor789.com##*
 ntdtv.com##*
@@ -528,6 +530,9 @@ zyjiadian.com##*
 3g.163.com##.js-open-app.open-btn
 3g.163.com##.js-open-app.s-openApp
 3g.163.com##.js-open-app.s-tip
+3g.163.com##.s-openApp
+3g.163.com##.widget-floatMenu
+3g.163.com##footer > span
 3g.china.com##.header_app
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
@@ -1981,7 +1986,13 @@ m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
 m.maigoo.com##.commentads
+m.mudvod.tv###bottom_btn
+m.mudvod.tv##.android_banner.m-box
+m.mudvod.tv##.banner_android.m-box-items-full.m-box-items
+m.mudvod.tv##.header_app.iqiyi-h5-empty
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
+m.nivod.tv###bottom_btn
+m.nivod.tv##.android_banner.m-box
 m.pcauto.com.cn###daogou
 m.pcauto.com.cn###home-bottom-half-dialog
 m.pcauto.com.cn##.bottom-half-dialog-content
@@ -2312,6 +2323,8 @@ oneplusbbs.com##.download.hot > h4
 oneplusbbs.com##.foot
 oneplusbbs.com##.service.clearf
 oneplusbbs.com##[href="plugin-apk_download.html"]
+oneyac.com##.oy-top_right > [href="javascript:;"]
+oneyac.com##em:nth-of-type(5)
 ooopic.com##.active-part.wt-asideItem
 ooopic.com##.show.loginTip-box
 ooopic.com##.wt-aside-footer > div.wt-asideItem
@@ -2478,6 +2491,7 @@ qunzou.com##.mask.copy_mask
 quotes.sina.cn###__callup_bottom
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
+remark.sohu.com##span.item:nth-of-type(1)
 renminshangjin.com###bay
 rf.eefocus.com##.api-qrcode-panel-show.hidden-xxs.api-qrcode-panel
 rf.eefocus.com##div.clearfix:nth-of-type(4)
@@ -2911,6 +2925,7 @@ v.youku.com##div.pic-text-item:nth-of-type(1)
 v.youku.com##div.pic-text-item:nth-of-type(2)
 v.youku.com##li.fn-phonewatch.play-fn-li:nth-of-type(2)
 v.youku.com##li.fn-phonewatch.play-fn-li:nth-of-type(3)
+v2ex.com##div.box > .inner
 v2ph.com##.st-lang-zh.st-show-total.st-has-labels.st-toggleable.st-left.st-sticky-share-buttons
 v2rayse.com##.theme--light.v-sheet.v-card.mt-2
 v5ppt.com##.picinfo-video
@@ -2919,7 +2934,9 @@ veidc.com##.orbui
 veidc.com##.widget_ui_textorbui.widget.widget-on-phone
 veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n)
 view.inews.qq.com##._1SWUWqTi2R592v5SdoMlaN
+view.inews.qq.com##.main-video_downloaderMainVideo__tziBm
 view.inews.qq.com##.slider-top-bar_open__1rKOo
+view.inews.qq.com##.style_floatingIcon__lb8m9
 view.inews.qq.com##.xwiconfontv1_icon-xwclose__3nqhj.xwiconfontv1_xwiconfont__2t3zT.slider-top-bar_close__3Zlb3
 vip.iqiyi.com##.growth_num
 vip.iqiyi.com##.J-download-title > .header-sideItemCon
@@ -3224,6 +3241,7 @@ zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.wgt-footer-new
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
 zhidao.baidu.com##[class="share-area"]
+zhihu.com###js-openInApp
 zhihu.com##.after-none.MobileAppHeader-actions
 zhihu.com##.Footer
 zhihu.com##.LegacyUserStatus
