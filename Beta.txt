@@ -340,6 +340,7 @@ xvideos.com##*
 xxoo.su##*
 xxx.com##*
 xxxmadou.com##*
+lovepapas.com##*
 xxxmmm.club##*
 xz7.com##*
 yangbit.com##*
@@ -3327,3 +3328,12 @@ zzyyww.cn##.tags
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
+10jqka.com.cn##.share-tool
+kompas.com##.kcm
+kompas.com##[class="kcm__articleList"]
+kompas.com##.eee.social--inline
+kompas.com##.native-wrap
+douyin.com##div.JTui1eE0:nth-of-type(3)
+douyin.com##.uaGzVRKT.gVAgxPt4
+iwshang.com##.content-section > .content-span
+iwshang.com##.page > div > .content-span
