@@ -1528,8 +1528,6 @@ ifeidian.com##.fa-lg.fa-weixin.fa
 ifeidian.com##.hidden-xs.qq
 ifeidian.com##.hidden-xs.weixin
 ifeng.com##.app-hook
-ifeng.com##[class^="share_items"]:nth-ancestor(1)
-ifeng.com##[class^="shareIcon"]:nth-ancestor(1)
 ifeng.com##[data-item]
 ifeng.com##div[class="advDetail-content1"]
 ifeng.com##div[id="qrCode"]
@@ -3326,3 +3324,4 @@ zzyyww.cn##.tags
 ||zv.china-10.com$subdocument
 ifeng.com##.news_list_ggMark-2tTaF7M9
 ifeng.com##[class^="share_box"]
+
