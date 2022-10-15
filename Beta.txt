@@ -385,9 +385,6 @@ zyjiadian.com##*
 *##.bksharebuttonbox
 *##.copy
 *##.down-app
-*##.download
-*##.download-app
-*##.download_area
 *##.fenxiang
 *##.icon_download.icon
 *##.list-inline .fb_iframe_widget.fb-like
@@ -2184,14 +2181,6 @@ msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
 music-pi.vercel.app##.bar-right
-music.163.com###topbar-download-link > em
-music.163.com##.f-cb.wrap
-music.163.com##.f-pr.download
-music.163.com##.g-ft
-music.163.com##.hot
-music.163.com##.m-song-friend
-music.163.com##.m-top
-music.163.com##.top-tip-container
 music.douban.com##.artist-wx-qrcode
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(1)
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(2)
@@ -3166,8 +3155,7 @@ xzbu.com###down-file
 xzbu.com###doyoo_monitor
 xzbu.com##.zazhi-com-cn
 xzbu.com##.zoomIn
-y.music.163.com##.m-homeft
-y.music.163.com##.topfr
+
 y.qq.com###page_box
 y.qq.com##.footer
 y.qq.com##.login-box-download
@@ -3337,3 +3325,6 @@ douyin.com##div.JTui1eE0:nth-of-type(3)
 douyin.com##.uaGzVRKT.gVAgxPt4
 iwshang.com##.content-section > .content-span
 iwshang.com##.page > div > .content-span
+music.163.com##.lst
+music.163.com##[class="m-playlist-see-more"]
+music.163.com##[class="m-multi"]
