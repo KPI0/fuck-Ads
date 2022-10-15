@@ -1169,12 +1169,11 @@ ifeidian.com##.fa-lg.fa-weixin.fa
 ifeidian.com##.hidden-xs.qq
 ifeidian.com##.hidden-xs.weixin
 ifeng.com##.app-hook
-ifeng.com##.fixSlideBox-2_z-8q73
-ifeng.com##[class^="bottom_box"]:nth-ancestor(1)
-ifeng.com##[class^="link"]:nth-ancestor(1)
-ifeng.com##[class^="qr_box"]:nth-ancestor(1)
-ifeng.com##[class^="share_items"]:nth-ancestor(1)
-ifeng.com##[class^="shareIcon"]:nth-ancestor(1)
+ifeng.com##.bottom_box-2ABrMRcu
+ifeng.com##.link-1xGgkMtk
+ifeng.com##.news_list_ggMark-2tTaF7M9
+ifeng.com##[class^="pageBottomBrand"]:nth-ancestor(1)
+ifeng.com##[class^="share_box"]
 ifeng.com##[data-item]
 ifeng.com##div[class="advDetail-content1"]
 ifeng.com##div[id="qrCode"]
