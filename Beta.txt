@@ -3328,3 +3328,10 @@ iwshang.com##.page > div > .content-span
 music.163.com##.lst
 music.163.com##[class="m-playlist-see-more"]
 music.163.com##[class="m-multi"]
+i.ifeng.com##.bookrack-2087uMYt
+y.music.163.com##.topfr
+y.music.163.com##.m-homeft
+m.v.qq.com##.open-app
+m.v.qq.com##.game
+sports.iqiyi.com##.style_banner_1hPUc
+sports.iqiyi.com##.style_bottomBanner_2eyDT
