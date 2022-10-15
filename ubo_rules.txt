@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-14
+! TimeUpdated: 2022-10-15
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -364,6 +364,7 @@ zyjiadian.com##*
 ||*zztt*.net
 ||2345*.com
 ! 广告弹窗/元素
+
 *###bdshare
 *###btmBox
 *###couplet
@@ -1503,8 +1504,6 @@ hxm5.com###qrcode
 hxm5.com##.cate-title
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
-i.ifeng.com##.fixSlideBox-2_z-8q73
-i.ifeng.com##.link-1xGgkMtk
 i.y.qq.com##.c_bg1.bottom_bar__bd
 i.y.qq.com##.flotage
 i.y.qq.com##.top_operation_bar__btn
@@ -1529,9 +1528,13 @@ ifeidian.com##.fa-lg.fa-qq.fa
 ifeidian.com##.fa-lg.fa-weixin.fa
 ifeidian.com##.hidden-xs.qq
 ifeidian.com##.hidden-xs.weixin
-ifeng.com##.bottom_box-2ABrMRcu
-ifeng.com##.qr_box-1n_2SIw3
-ifeng.com##.shareIcon-17ZpqlJH
+ifeng.com##.app-hook
+ifeng.com##.fixSlideBox-2_z-8q73
+ifeng.com##[class^="bottom_box"]:nth-ancestor(1)
+ifeng.com##[class^="link"]:nth-ancestor(1)
+ifeng.com##[class^="qr_box"]:nth-ancestor(1)
+ifeng.com##[class^="share_items"]:nth-ancestor(1)
+ifeng.com##[class^="shareIcon"]:nth-ancestor(1)
 ifeng.com##[data-item]
 ifeng.com##div[class="advDetail-content1"]
 ifeng.com##div[id="qrCode"]
@@ -1746,16 +1749,9 @@ kaoyan.koolearn.com##.kyzb_layer
 kaoyan.koolearn.com##.zhezhao
 katadata.co.id##.mt-md-0.mt-3.icons.detail-share
 kdocs.cn##.el-submenu.k-el-menu-root > .el-submenu__title
-ke.qq.com##.download-tips
-ke.qq.com##.downloadchrome-ctn
-ke.qq.com##.dropdown-tt.download-tt
-ke.qq.com##.folded.touchpoint-bottom-bar-img
-ke.qq.com##.item-icon.i-phone.icon-font
-ke.qq.com##.js-report-link.touchpoint-banner
-ke.qq.com##.qrcode-maker
-ke.qq.com##a.link-service:nth-of-type(1)
-ke.qq.com##a.link-service:nth-of-type(2)
-ke.qq.com##div.header-item.share:nth-of-type(3)
+ke.qq.com##.download-ctn
+ke.qq.com##.header-index-download---TwAqgw
+ke.qq.com##.wrap-side-operation---f3MTMA
 ke.youdao.com##._2E3aw
 ke.youdao.com##._2JLL4wVedZBJXx9O701i8R._3Nu0ehzy2yuIsz2HsS3d6D
 ke.youdao.com##[href^="/download"]
@@ -1959,7 +1955,6 @@ m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
 m.jinse.com##.openApps
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
 m.jrj.com.cn##.showNew.btntop
-m.ke.qq.com##.show.app-guide
 m.kq7.com##.article_head > div
 m.kq7.com##.xxwz
 m.kq7.com##body > div > div > div > div > div
@@ -2119,6 +2114,7 @@ mall.cnki.net##.last.downloadApp
 manga.bilibili.com##.app-button.download-app
 manga.bilibili.com##.app.app-button.back-to-button
 manhua.dmzj.com##[href="//dmzj.com/app/index.html"]
+manmanapp.com##.down_app_prompt
 map.baidu.com###activity-banner-panel
 map.baidu.com###card-n
 map.baidu.com###common-bottombanner-widget-fis
@@ -2247,7 +2243,6 @@ news.eda365.com##.pagebg.bannerbg
 news.eda365.com##.shareType
 news.eeworld.com.cn##.fengxiang
 news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
-news.ifeng.com##.link-1xGgkMtk
 news.ittime.com.cn##.login
 news.ittime.com.cn##.share_box
 news.mingpao.com##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
@@ -3229,6 +3224,7 @@ yun.139.com##div.document_top_menu:nth-of-type(7)
 yuque.com##.index-module_qrCodeWrapper_6UwnH
 zaixian-fanyi.com##div:nth-of-type(10)
 zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
+zaoju.xuexiaodaquan.com##div.fhg_div
 zf.bbskali.cn##.cl.tshare
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
@@ -3237,6 +3233,7 @@ zhcw.com##.zwqk > .ztX3w-L
 zhibo8.cc##.new_ch
 zhibo8.cc##.pop-autoapp
 zhidao.baidu.com##.cannotanswer.share-area > .wgt-share-btn
+zhidao.baidu.com##.ec-ad
 zhidao.baidu.com##.task-list-button
 zhidao.baidu.com##.wgt-footer-new
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
@@ -3329,5 +3326,6 @@ zzyyww.cn##.tags
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
+||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
