@@ -46,9 +46,9 @@ www.veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-
 ```
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ##### 元素选择器模式
-i.ifeng.com##.share_items-1SYjHZrS
-i.ifeng.com##.share_items-2SfbdZr8
-i.ifeng.com##.share_items-3SrjHZrr
+i.ifeng.com##.share_items-1SYjHZrS    
+i.ifeng.com##.share_items-2SfbdZr8   
+i.ifeng.com##.share_items-3SrjHZrr    
 通用规则
 ```
 i.ifeng.com##[class^="share_items"]:nth-ancestor(1)
