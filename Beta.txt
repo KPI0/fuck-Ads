@@ -132,6 +132,7 @@ ggdyx.com##*
 gokahoikuen.com##*
 greenxf.com##*
 greenxiazai.com##*
+grl567.com##*
 guanjia.qq.com##*
 guomoshe.com##*
 gzpd15.com##*
@@ -283,7 +284,6 @@ softrw.com##*
 sokmil.com##*
 som456.com##*
 somode.com##*
-grl567.com##*
 ssd456.com##*
 sur789.com##*
 sushiguang.com##*
@@ -963,6 +963,13 @@ chromeliulanqi.com##.g-split.g-tpl-160.g-section
 chuangshi.qq.com##.favorite
 chuangshi.qq.com##.fixedRight.codeWrap
 chuangshi.qq.com##.quickLink
+cj.sina.cn###m-sentiment3
+cj.sina.cn##.js-callup-client.m-callup-client2
+cj.sina.cn##.js-guss-caijing.m-guss-caijing
+cj.sina.cn##.js-nav-client-down.client-down
+cj.sina.cn##.shou.broadcast
+cj.sina.cn##.show.broadcast
+cj.sina.cn##.unfold-words
 cloud.189.cn###J_DLMenu > .dropdown-toggle
 cloud.189.cn##.advertising-mask
 cloud.189.cn##.advertising-popup
@@ -1308,6 +1315,8 @@ film.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
 film.qq.com##.icon_client.icon
 film.qq.com##.site_footer
 finance.ce.cn###div1
+finance.sina.cn###sentiment2
+finance.sina.cn##.client-down
 finance.sina.com.cn###tab_related_btn
 finance.sina.com.cn##.app-kaihu-qr
 finance.sina.com.cn##.appendQr_wrap.clearfix
@@ -1468,6 +1477,9 @@ haoword.com##.consult-title
 haoword.com##.layui-layer-dialog.layui-anim-05.layui-layer
 haoword.com##.ss
 haoword.com##[href="http://haoword.com/shortcut.php"]
+health.sina.cn##.download-app-block
+health.sina.cn##.download_app
+health.sina.cn##.nav_wrapper
 hecoinfo.com##.col-lg-5.col-12
 heytap.com##li.float-wrap-btn:nth-of-type(3)
 heziku.com##.j-share.action-item
@@ -1731,6 +1743,7 @@ juan920.com##.container-footer.container-fluid > .list-inline
 juan920.com##.footer
 juan920.com##.modal-content > .modal-body
 juan920.com##hr
+juejin.cn##.advertisement
 juejin.cn##.app-link
 juejin.cn##.app-open-button.open-button
 juejin.cn##.download-icon.link-item.nav-item
@@ -2571,8 +2584,11 @@ shuashuati.com##.homeBanner_3YHSR
 shuashuati.com##.tiQuestionBottom_1AYu2
 shzpmc.chinacrane.net###top > a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(1)
 shzpmc.chinacrane.net##a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(2)
+sina.cn##.callApp_fl_btn
 sina.cn##.fl_suspension_box
 sina.cn##.j_shareBtn.fl_words_ic
+sina.cn##.ldy_art_bottom_button
+sina.cn##.sina_sliders_pos
 sina.cn##a.ft_down_a:nth-of-type(2)
 sina.com.cn##.mod02-cont
 sina.com.cn##.part-a-l > .mod-02
@@ -2984,6 +3000,8 @@ wap.bixiabook.com##.zbtqbqzdn1648110344 > div
 wap.bixiabook.com##[src="https://p.oysmbaw.cn/JCn03wOf17MIJ16159MzH55348.dl"]
 wap.bixiabook.com##dd > div
 wap.bixiabook.com##ul
+wap.cj.sina.cn##.hd_app_down
+wap.cj.sina.cn##.pluse.animated.btn-subpage-bottom-callup
 wap.cnki.net##.fix-bottom-content-inner
 wap.cnki.net##.fix-top
 wap.eastmoney.com###liShare
@@ -3128,6 +3146,7 @@ wwei.cn###go-fav
 wwei.cn##.sidebar-client-box.sidebar-block
 wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
+www.baidu.com##.ec_wise_ad
 wwwx168.cn##.post-share
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
@@ -3377,21 +3396,3 @@ zzyyww.cn##.tags
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
-juejin.cn##.advertisement
-cj.sina.cn##.show.broadcast
-cj.sina.cn##.js-guss-caijing.m-guss-caijing
-cj.sina.cn##.js-nav-client-down.client-down
-cj.sina.cn##.unfold-words
-cj.sina.cn##.shou.broadcast
-finance.sina.cn###sentiment2
-finance.sina.cn##.client-down
-cj.sina.cn###m-sentiment3
-wap.cj.sina.cn##.pluse.animated.btn-subpage-bottom-callup
-wap.cj.sina.cn##.hd_app_down
-cj.sina.cn##.js-callup-client.m-callup-client2
-sina.cn##.callApp_fl_btn
-sina.cn##.ldy_art_bottom_button
-sina.cn##.sina_sliders_pos
-health.sina.cn##.download-app-block
-health.sina.cn##.download_app
-health.sina.cn##.nav_wrapper
