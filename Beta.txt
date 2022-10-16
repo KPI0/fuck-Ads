@@ -365,7 +365,6 @@ zyjiadian.com##*
 ||*zztt*.net
 ||2345*.com
 ! 广告弹窗/元素
-
 *###bdshare
 *###btmBox
 *###couplet
@@ -648,9 +647,11 @@ aibicl.com##.ctrolPanel
 aibicl.com##.message
 aibicl.com##.qrcode
 aicesu.com##.img-ad
+aiqicha.baidu.com##.app-enter
 aiqicha.baidu.com##.aqc-home-float-wrapper
 aiqicha.baidu.com##.float-banner
 aiqicha.baidu.com##.ivu-poptip.app-qrcode-poptip.poptip-wrap
+aiqicha.baidu.com##.open-app
 aiqicha.baidu.com##.show-mark.mark
 aiqicha.baidu.com##.show.content
 aiqicha.baidu.com##.swiper-container-horizontal.swiper-container-initialized.swiper.zx-bottom-banner
@@ -693,6 +694,7 @@ ask.mzhishi.com##.show_site_img
 ask.zol.com.cn##.weixin-box-c
 asklib.com##.listright
 asklib.com##.xiaoyun-entry-button
+auto.ifeng.com##.bottom_box-qClU0haT
 b.faloo.com###er
 b.faloo.com##.centerSixteen
 b.faloo.com##[href="//b.faloo.com/down_0_1.html"]
@@ -855,6 +857,16 @@ book.zongheng.com##.bImg > em
 book.zongheng.com##.clearfix.app-in
 book.zongheng.com##[href^="//zongheng.com/feedback"]
 book.zongheng.com##[href^="http://game.zongheng.com/static/gamestart.html"] > span
+boxnovel.baidu.com##.ad-wrap
+boxnovel.baidu.com##.book-info
+boxnovel.baidu.com##.bottom-fixed-btn
+boxnovel.baidu.com##.container > .btn
+boxnovel.baidu.com##.detail-download-btn
+boxnovel.baidu.com##.detail-fixed-bars
+boxnovel.baidu.com##.download-confirm-body
+boxnovel.baidu.com##.intercept-container > .content
+boxnovel.baidu.com##.open-fixed-bars
+boxnovel.baidu.com##.page-mask
 boyumai.com##.fr.fewm
 browser.360.cn##.qrCodeWb
 browser.360.cn##.qrCodeWx
@@ -1719,8 +1731,10 @@ juan920.com##.footer
 juan920.com##.modal-content > .modal-body
 juan920.com##hr
 juejin.cn##.app-link
+juejin.cn##.app-open-button.open-button
 juejin.cn##.download-icon.link-item.nav-item
 juejin.cn##.extension
+juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
 jwview.com##.bshare
 jwview.com##.ewm_box
@@ -1870,6 +1884,8 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn > .container > .btn-text
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-main-img
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
+m.bqg65.com###goimg
+m.bqg65.com##.readwz
 m.china.com.cn##.fx
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
@@ -2986,6 +3002,9 @@ wap.peopleapp.com##.public-btn-wrapper
 wap.peopleapp.com##.read-more-btm
 wap.pp.cn##.pro-ad-pageend
 wap.tcmap.com.cn##div:nth-of-type(17)
+wap.yc.ifeng.com##.bookpart-down-href
+wap.yc.ifeng.com##.down17-float
+wap.yc.ifeng.com##.toper > .openapp
 wap.zol.com.cn##[src="https://icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/ask-3.png"]
 web.4399.com###wall_box > a.link
 web.4399.com##.add_favior_btn.menu
@@ -3194,6 +3213,16 @@ y.qq.com##li.top_nav__item:nth-of-type(5) > .top_nav__link
 yangkatie.com##[src="//yangkatie.com/images/OKX_pc.jpg?5"]
 yangkatie.com##[src="//yangkatie.com/images/OKX_pc.jpg?6.21"]
 yangmao.info##.ix22m7-post.ix22m7
+yd.baidu.com##.ad-wrap
+yd.baidu.com##.book-info
+yd.baidu.com##.bottom-fixed-btn
+yd.baidu.com##.container > .btn
+yd.baidu.com##.detail-download-btn
+yd.baidu.com##.detail-fixed-bars
+yd.baidu.com##.download-confirm-body
+yd.baidu.com##.open-fixed-bars
+yd.baidu.com##.page-mask
+yd.baidu.com##.top-download
 yes321.com##[href="https://yes321.com/prod/yesapp/commonality/downApp/down.html"]
 yesky.com##li:nth-of-type(4)
 yezicc.com##.article-bottom
