@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-15
+! TimeUpdated: 2022-10-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -204,6 +204,7 @@ laomaotao.net##*
 liqucn.com##*
 lmt.hebop.cn##*
 lotto60.com##*
+lovepapas.com##*
 ludashi.com##*
 m.0ig.top##*
 m.qq.com##*
@@ -340,7 +341,6 @@ xvideos.com##*
 xxoo.su##*
 xxx.com##*
 xxxmadou.com##*
-lovepapas.com##*
 xxxmmm.club##*
 xz7.com##*
 yangbit.com##*
@@ -365,6 +365,7 @@ zyjiadian.com##*
 ||*zztt*.net
 ||2345*.com
 ! 广告弹窗/元素
+
 *###bdshare
 *###btmBox
 *###couplet
@@ -421,6 +422,7 @@ zyjiadian.com##*
 1010jiajiao.com##div.box_head > div
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
+10jqka.com.cn##.share-tool
 113123.xyz##.article-fx
 11467.com###erweimadiv
 11467.com##div > .navright
@@ -1132,6 +1134,8 @@ douyin.com##.kMBreToA
 douyin.com##.login-guide
 douyin.com##.open-btn
 douyin.com##.right > .d-icon
+douyin.com##.uaGzVRKT.gVAgxPt4
+douyin.com##div.JTui1eE0:nth-of-type(3)
 douyin.com##div.RlnaLU74._1mUxLpY9:nth-of-type(11)
 douyin.com##div.RlnaLU74.xNopLZos._1mUxLpY9:nth-of-type(10)
 douyin.com##div.RlnaLU74.xNopLZos._1mUxLpY9:nth-of-type(14)
@@ -1501,6 +1505,7 @@ hxm5.com###qrcode
 hxm5.com##.cate-title
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
+i.ifeng.com##.bookrack-2087uMYt
 i.y.qq.com##.c_bg1.bottom_bar__bd
 i.y.qq.com##.flotage
 i.y.qq.com##.top_operation_bar__btn
@@ -1591,6 +1596,8 @@ itxen.cn##.action-share.action.dropup.hover-show
 itxen.cn##div.widget_custom_html.zib-widget.widget_text:nth-of-type(2)
 ivpsr.com##.ad-plane-post-comment
 ivpsr.com##.ad-plane-post-in
+iwshang.com##.content-section > .content-span
+iwshang.com##.page > div > .content-span
 ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
 ixigua.com##.icon-pc-add2
 ixigua.com##.icon-share2
@@ -1768,6 +1775,10 @@ kknews.cc###sharebar
 kknews.cc##.clearfix.entry > .sharebtn
 knowledgeatwharton.com.cn###article-main > .article-tools-horizontal
 knowledgeatwharton.com.cn##ul > ul
+kompas.com##.eee.social--inline
+kompas.com##.kcm
+kompas.com##.native-wrap
+kompas.com##[class="kcm__articleList"]
 koubei.com###JS-appdownload
 koubei.com##.koubei-section3
 koubei.com##.koubei-section3-box
@@ -1840,6 +1851,7 @@ m.baidu.com##.c-line-clamp1.c-title > .c-title-text
 m.baidu.com##.card._1_KgV._8naka.c-container
 m.baidu.com##.img-wrapper
 m.baidu.com##.news-container
+m.baidu.com##.sfc-video-page-index-info-cambrian
 m.baidu.com##.vid-monitor-card__3zFRO
 m.baidu.com##div.result.c-result:nth-of-type(2)
 m.baidu.com##div.result.c-result:nth-of-type(4)
@@ -2037,12 +2049,14 @@ m.v.qq.com##.at-app-banner__content
 m.v.qq.com##.at-app-banner__layer
 m.v.qq.com##.btn_download
 m.v.qq.com##.btn_sharpness
+m.v.qq.com##.game
 m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_game_rec.mod_box
 m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
 m.v.qq.com##.mod_privilege
 m.v.qq.com##.mod_source
 m.v.qq.com##.mod_source_box_fixed.mod_source_box
+m.v.qq.com##.open-app
 m.v.qq.com##.player-mask__small-tips
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
@@ -2136,6 +2150,7 @@ mayiwenku.com###boxleft > table
 mbachina.com##.jesong_pan_icon
 mbachina.com##.suspend-right > ul
 mbb.eet-china.com##.site-follow
+mbd.baidu.com##.headDeflectorContainer
 meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
 meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
 meijumi.top###sgpb-popup-dialog-main-div > div > .sg-popup-builder-content
@@ -2181,6 +2196,9 @@ msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
 music-pi.vercel.app##.bar-right
+music.163.com##.lst
+music.163.com##[class="m-multi"]
+music.163.com##[class="m-playlist-see-more"]
 music.douban.com##.artist-wx-qrcode
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(1)
 music.douban.com##ul.clearfix.embassy-list:nth-of-type(2)
@@ -2641,11 +2659,16 @@ splashtennis.com##.visible-xs.head
 splashtennis.com##.visible-xs.myui-header__top
 splashtennis.com##.visible-xs.tabbar1
 sports.2008.sina.com.cn##.tiyu__icon
+sports.iqiyi.com##.style_banner_1hPUc
+sports.iqiyi.com##.style_bottomBanner_2eyDT
 sports.sina.cn##a.ft_cm_nav_a:nth-of-type(3)
 sqjob.cn###BottomBg
 sqjob.cn##h1.list_box_top1:nth-of-type(2)
 sqjob.cn##h1.list_box_top1:nth-of-type(4)
 sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
+srxzz.com##.tanchuang
+srxzz.com##.zhezao
+srxzz.com##header
 sspai.com###btn-call-app
 stcn.com##.adv
 stcn.com##.top_r
@@ -3073,6 +3096,11 @@ world.huanqiu.com##.metadata-share.icon-medium-plus.bshare-custom > ul > li
 woshipm.com##.postlist-item.js-aladdin-24.js-aladdin > .overlayAdlink.home-ad-link
 wosn.net##.fadeInUp.wow.feed.widget
 wosn.net##.s-weixin
+wpok.cn###home-row-pics > .wrapper
+wpok.cn##.b2-radius.box.mg-b.single-bottom-html
+wpok.cn##.html-box
+wpok.cn##.sidebar
+wpok.cn##div.b2-radius.box.mg-b.single-bottom-ads
 wuxiaworld.com##.space-y-1.mx-2
 ww2.mathworks.cn##.col-md-3.col-xs-12
 ww2.mathworks.cn##.list-unstyled.social_media_icons
@@ -3155,7 +3183,8 @@ xzbu.com###down-file
 xzbu.com###doyoo_monitor
 xzbu.com##.zazhi-com-cn
 xzbu.com##.zoomIn
-
+y.music.163.com##.m-homeft
+y.music.163.com##.topfr
 y.qq.com###page_box
 y.qq.com##.footer
 y.qq.com##.login-box-download
@@ -3311,27 +3340,10 @@ zzyyww.cn##.tags
 ||p1.meituan.net/csc/*.gif$image
 ||pornlulu.com/*$image
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
+||srxzz.com/bimg/ad1.jpg$image
+||srxzz.com/bimg/banner1.jpg$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
-10jqka.com.cn##.share-tool
-kompas.com##.kcm
-kompas.com##[class="kcm__articleList"]
-kompas.com##.eee.social--inline
-kompas.com##.native-wrap
-douyin.com##div.JTui1eE0:nth-of-type(3)
-douyin.com##.uaGzVRKT.gVAgxPt4
-iwshang.com##.content-section > .content-span
-iwshang.com##.page > div > .content-span
-music.163.com##.lst
-music.163.com##[class="m-playlist-see-more"]
-music.163.com##[class="m-multi"]
-i.ifeng.com##.bookrack-2087uMYt
-y.music.163.com##.topfr
-y.music.163.com##.m-homeft
-m.v.qq.com##.open-app
-m.v.qq.com##.game
-sports.iqiyi.com##.style_banner_1hPUc
-sports.iqiyi.com##.style_bottomBanner_2eyDT
