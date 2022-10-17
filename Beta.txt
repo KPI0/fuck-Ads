@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-16
+! TimeUpdated: 2022-10-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -11,6 +11,7 @@
 13833937800.com##*
 15mstr.sh##*
 160.com##*
+guf678.com##*
 1678av.com##*
 188soft.com##*
 18maogk.com##*
@@ -366,6 +367,19 @@ zyjiadian.com##*
 ||*zztt*.net
 ||2345*.com
 ! 广告弹窗/元素
+*##.float-ads
+*##.ads-item
+*###footerAds
+*##.videoSideAds
+*##.commentads
+*##single-bottom-ads
+*###ads_general_1_bottom
+*##.com-advertisement
+*##.advertising-mask
+*##.advertising-popup
+*##.ad-card
+*##.feed-ad-wrap
+*##.fc-ad-wrap
 *###bdshare
 *###btmBox
 *###couplet
@@ -373,8 +387,11 @@ zyjiadian.com##*
 *###listwoBox
 *###midBox
 *###partners
+*##.js-head-advertising
 *###randomBox
 *###share
+*##.advertisement
+*##.advert
 *###subMenuBox > dl
 *##.a2hs-ios-dRZ.a2hs-container-2ZN
 *##.adv_block
@@ -571,7 +588,6 @@ zyjiadian.com##*
 58pic.com##.activitySettings-fixedBottom > [href^="https://58pic.com/index.php"] > .loading_space_img
 5axxw.com###gzh-mask
 5axxw.com###gzh-modal
-5axxw.com##.d-xl-flex.mb-4.float-ads.align-items-center.justify-content-center.d-none.overflow-hidden.border-0.card
 608y.com##.qrcode_box
 61maoak.com##li.scroll-list:nth-of-type(2)
 699pic.com###login-box_home
@@ -663,7 +679,6 @@ aisoutu.com###baidulianmeng3
 aizhan.com##.ico-nav-mobile
 aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
 aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
-aleikeji.com##.advert.card
 aliyun.com##.app-btn
 aliyundrive.com##.container--CIvrv
 aliyundrive.com##.desktop-reminder--1IK76
@@ -707,7 +722,6 @@ b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
 baidu.com###hotsearch-content-wrapper
 baidu.com###wenda_inquiry
 baidu.com##._1_KgV.card._8naka.c-container
-baidu.com##.ads-item
 baidu.com##.app-download
 baidu.com##.app_mobile_ex._8naka.c-container
 baidu.com##.c-gap-top.op-guide-cont
@@ -827,11 +841,9 @@ blog.csdn.net###wap_open_app_btn
 blog.csdn.net##.blog-slide-ad-box
 blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.common-nps-box.recommend-nps-box
-blog.csdn.net##.csdn-common-logo-advert
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.floatL.operate_common.operate_share.share-btn
 blog.csdn.net##.guide-box
-blog.csdn.net##.logo-advert-back
 blog.csdn.net##.m_toolbar_left_app_btn
 blog.csdn.net##.operate_share_box
 blog.csdn.net##.passport-login-box
@@ -971,8 +983,6 @@ cj.sina.cn##.shou.broadcast
 cj.sina.cn##.show.broadcast
 cj.sina.cn##.unfold-words
 cloud.189.cn###J_DLMenu > .dropdown-toggle
-cloud.189.cn##.advertising-mask
-cloud.189.cn##.advertising-popup
 cloud.189.cn##.enterprise-guide
 cloud.189.cn##.enterprise-guide-ad-box
 cloud.189.cn##.enterprise-guide-box
@@ -1022,8 +1032,6 @@ cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
 consumer.huawei.com##.huawei-bootom-cookie
-coolinet.net###footerAds
-coolinet.net##.videoSideAds
 coolinet.net##center:nth-of-type(4)
 coolinet.net##div > table > tbody > tr > td
 coolinet.net##div:nth-of-type(3)
@@ -1167,7 +1175,6 @@ douyu.com##.is-appDown.RightNavigate-icon
 douyu.com##li.RightNavigate-item > [href^="/client"]
 douyu.com##li.RightNavigate-item:nth-of-type(2)
 download.csdn.net##.blind_box
-download.csdn.net##.csdn-common-logo-advert
 download.csdn.net##.m_toolbar_left_app_btn
 download.csdn.net##.passport-login-box
 download.csdn.net##.passport-login-container
@@ -1181,7 +1188,6 @@ duitang.com##.dt_down_guide_small_tip
 duitang.com##.top.app-download-guide
 dujin.org##div.widget_custom_html.widget.widget_text:nth-of-type(4)
 dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
-dumall.baidu.com##.whiteBg.com-advertisement.jsx-1049465603
 dumall.baidu.com##div.whiteBg.com-focus.jsx-1049465603:nth-of-type(4)
 dushu.com##.text-gray.text-center.margin-big-top
 dushu.com##canvas
@@ -1307,7 +1313,6 @@ fanyi.youdao.com##.side__nav__fanyiguan
 fanyiguan.youdao.com###bar
 feimiao.cn##.float
 feimiao.cn##.fr
-feimiao.cn##.page_right > .advert
 feimiao.cn##.user_box
 fibaro.com###cookie-info
 film.qq.com###pc_client > .quick_link
@@ -1388,7 +1393,6 @@ gnews.org##.panel-container > .section-social-share > .g-social-share
 go.cqmmgo.com##.wanneng-menu > .wn-box
 go.cqmmgo.com##.wn-icon
 godbolt.org##.btn-outline-primary.btn.nav-item
-godbolt.org##.community-advert.mr-auto.navbar-center.navbar-nav
 gog.com##div.footer-microservice__middle-section:nth-of-type(2)
 golue.com##.rztList
 golue.com##.w320.fr.right
@@ -1743,7 +1747,6 @@ juan920.com##.container-footer.container-fluid > .list-inline
 juan920.com##.footer
 juan920.com##.modal-content > .modal-body
 juan920.com##hr
-juejin.cn##.advertisement
 juejin.cn##.app-link
 juejin.cn##.app-open-button.open-button
 juejin.cn##.download-icon.link-item.nav-item
@@ -1986,7 +1989,6 @@ m.jinse.com##.bottom.js-linkApp.js-read-full__open
 m.jinse.com##.custom-ad-statistic.js-article-ad
 m.jinse.com##.js-article-share
 m.jinse.com##.js-footer__tools
-m.jinse.com##.js-head-advertising
 m.jinse.com##.js-linkApp.jinse_app
 m.jinse.com##.js-opration-box
 m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
@@ -2018,7 +2020,6 @@ m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
-m.maigoo.com##.commentads
 m.mudvod.tv###bottom_btn
 m.mudvod.tv##.android_banner.m-box
 m.mudvod.tv##.banner_android.m-box-items-full.m-box-items
@@ -2567,7 +2568,6 @@ shangxueba.com##.detnew_adv
 shangxueba.com##.fr.top_crumbs_r [href="javascript:;"]
 shangxueba.com##.sus_app.sus_btn
 shangxueba.com##[href="//shangxueba.com/app/converge.html"]
-shangyexinzhi.com##.advert.h5-detail-bottom-advertise
 shangyexinzhi.com##.h5shareimg
 share.mala.cn##.white.down-top
 shenmegeng.cn##.floatbtn-share.floatbtn-item
@@ -3138,7 +3138,6 @@ wpok.cn###home-row-pics > .wrapper
 wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
-wpok.cn##div.b2-radius.box.mg-b.single-bottom-ads
 wuxiaworld.com##.space-y-1.mx-2
 ww2.mathworks.cn##.col-md-3.col-xs-12
 ww2.mathworks.cn##.list-unstyled.social_media_icons
@@ -3146,7 +3145,7 @@ wwei.cn###go-fav
 wwei.cn##.sidebar-client-box.sidebar-block
 wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
-www.baidu.com##.ec_wise_ad
+baidu.com##.ec_wise_ad
 wwwx168.cn##.post-share
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
@@ -3352,7 +3351,6 @@ znjj.tv##.kf_box
 znjj.tv##.left-welcom
 znjj.tv##.qqcen_lf
 znjj.tv##.sharebg
-zol.com.cn###ads_general_1_bottom
 zol.com.cn##.client-enter
 zol.com.cn##.section-param-openapp
 zol.com.cn##.today-hot-layer
@@ -3396,3 +3394,20 @@ zzyyww.cn##.tags
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
+xyyyzzs.com##.fbAkSl
+zhenniuw.com##.a_pt
+zhenniuw.com###hd
+zhenniuw.com##.z.klp_zhdp
+zhenniuw.com##body > .cl.wp
+zhenniuw.com###portal_block_69_content > li:nth-of-type(2)
+zhenniuw.com###portal_block_69_content > li:nth-of-type(1)
+zhenniuw.com###mo_stickthread_1185441
+lanzouo.com##body > div:nth-of-type(4)
+lanzouo.com##div:nth-of-type(8)
+wk.baidu.com##.middle-box-root
+wk.baidu.com##.not-baidu.core-btn-guide
+xiaohongshu.com##.open-app-btn
+xiaohongshu.com##.android
+xiaohongshu.com##.sub-total-link
+m.ke.qq.com##.download-btns
+m.ke.qq.com##.show.app-guide
