@@ -368,6 +368,8 @@ zyjiadian.com##*
 ||2345*.com
 ! 广告弹窗/元素
 *##.float-ads
+*##div.feed-ecom-ads
+*##.question-ads-exp
 *##.ads-item
 *###footerAds
 *##.videoSideAds
@@ -3411,3 +3413,4 @@ xiaohongshu.com##.android
 xiaohongshu.com##.sub-total-link
 m.ke.qq.com##.download-btns
 m.ke.qq.com##.show.app-guide
+zhidao.baidu.com##.wap-youx-change-asp
