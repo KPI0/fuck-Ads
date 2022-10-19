@@ -3,7 +3,7 @@
 ! TimeUpdated: 2022-10-19
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
-! 0-9,a-z
+! 0-9,a-z 
 05cg.com##*
 05sun.com##*
 09.gay##*
