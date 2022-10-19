@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-17
+! TimeUpdated: 2022-10-19
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -80,6 +80,7 @@ besthistorypodcasts.com##*
 bgd567.com##*
 bgr678.com##*
 bigojav.com##*
+bilibili03.tv##*
 birdpaper.cn##*
 buliangdh46.xyz##*
 buy.rising.com.cn##*
