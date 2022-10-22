@@ -1,9 +1,9 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-19
+! TimeUpdated: 2022-10-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
-! 0-9,a-z 
+! 0-9,a-z
 05cg.com##*
 05sun.com##*
 09.gay##*
@@ -513,6 +513,7 @@ zyjiadian.com##*
 360.cn##.need_to_fixed.weibo
 360.cn##.topbnr
 360.cn##dl.list:nth-of-type(2) > dd.product:nth-of-type(4)
+360doc.cn###adimgsrc1
 360doc.cn##.abtn_openapp
 360doc.com###adfloatbaidu
 360doc.com###arttopbdad
@@ -908,6 +909,7 @@ caacnews.com.cn###FenXiang
 caibian.net##.j-share.action-item
 cangchou.com##.j-share.action-item
 canva.cn##.jv5LaQ
+caotama.com###block-4
 car.yiche.com##.adv10
 car.yiche.com##.adv7
 car.yiche.com##[href="//app.yiche.com/yiche/"]
@@ -1002,6 +1004,7 @@ cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
 cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.tencent.com##.c-btn-weak.c-btn
 cloud.tencent.com##.com-event-panel-img
+cloud.tencent.com##.com-module-content
 cloud.tencent.com##.com-widget-global > div
 cloud.tencent.com##.com-widget-operations
 cloud.tencent.com##.event.theme2.com-3-article-panel
@@ -1068,6 +1071,7 @@ csdn.net##.m_toolbar_left_app_btn
 csdn.net##.no—h.option-box
 csdn.net##.openApp
 csdn.net##.so-questionnaire
+csdn.net##[class="csdn-common-logo-advert"]
 csdn.net##li > [href^="//csdn.net/apps/download"]
 cslab.gxu.edu.cn##body > table:nth-of-type(1) > tbody > tr > td
 cslab.gxu.edu.cn##embed
@@ -1146,11 +1150,14 @@ doc88.com##span.client-show:nth-of-type(2)
 docer.com##.footer-info__subscribe.footer-info__column > dd
 docer.com##.footer-info__subscribe.footer-info__column > dt
 docer.com##div.footer-info__qcode:nth-of-type(2)
+docin.com###docin_html_3
 docin.com###fyItems
 docin.com##.addFavoritesTips
 docin.com##.backToTop
 docin.com##.bold_nav_item
 docin.com##.clear.recommend_fy
+docin.com##.moneyBox
+docin.com##.open_in_app
 docin.com##.recommend_fy_hd
 docin.com##.share_button_box
 docin.com##.share_new_style
@@ -3013,6 +3020,7 @@ wap.bixiabook.com##dd > div
 wap.bixiabook.com##ul
 wap.cj.sina.cn##.hd_app_down
 wap.cj.sina.cn##.pluse.animated.btn-subpage-bottom-callup
+wap.cnki.net##.cum-browser
 wap.cnki.net##.fix-bottom-content-inner
 wap.cnki.net##.fix-top
 wap.eastmoney.com###liShare
@@ -3154,6 +3162,7 @@ wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
 wuxiaworld.com##.space-y-1.mx-2
+wuzhuiso.com##.common-click-block.msocom-bottom-banner
 ww2.mathworks.cn##.col-md-3.col-xs-12
 ww2.mathworks.cn##.list-unstyled.social_media_icons
 wwei.cn###go-fav
