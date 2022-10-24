@@ -1,13 +1,16 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-10-22
+! TimeUpdated: 2022-10-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
+00791.com##*
+05102.com##*
 05cg.com##*
 05sun.com##*
 09.gay##*
 0feng.net##*
+125de.cam##*
 13833937800.com##*
 15mstr.sh##*
 160.com##*
@@ -26,9 +29,12 @@
 32r.com##*
 3345av.com##*
 355.fun##*
+36717.info##*
+36717.pw##*
 42xz.com##*
 455.fun##*
 4hu.tv##*
+516b.info##*
 51xiazai.cn##*
 52av.one##*
 52pk.com##*
@@ -49,7 +55,9 @@
 855.fun##*
 9188qp.com##*
 91bx.org##*
+91md.me##*
 91porn.com##*
+91porny.com##*
 91url.info##*
 91yingshi9.me##*
 95jv.com##*
@@ -67,10 +75,10 @@ aqdmv143.com##*
 attvideo.com##*
 av5.net##*
 avgle.com##*
+avple.tv##*
 b4x99.com##*
-baiduliulanqi.00791.com##*
-baiduliulanqi.05102.com##*
 baofeng.com##*
+bb51.me##*
 bbailo.vip##*
 bear20.com##*
 bel345.com##*
@@ -85,12 +93,14 @@ birdpaper.cn##*
 buliangdh46.xyz##*
 buy.rising.com.cn##*
 byym75.com##*
+cableav.tv##*
 ccafc.org.cn##*
 ccbflp.com##*
 ccho.cc##*
 cdymsm.com##*
 cfgioa.com##*
 chipmong666.xyz##*
+clipsex.video##*
 clkoo.cn##*
 cmdh.me##*
 cncrk.com##*
@@ -104,6 +114,7 @@ ddooo.com##*
 dear2.co##*
 dkmkg.com##*
 dou20.me##*
+douying.uk##*
 downcc.com##*
 downkr.com##*
 download.pchome.net##*
@@ -187,6 +198,7 @@ jessicachina.net##*
 jiegeng.com##*
 jingmadou.com##*
 jisuxz.com##*
+jpwl88.cn##*
 jz5u.com##*
 jz807.com##*
 kaenv.com##*
@@ -209,14 +221,24 @@ lmt.hebop.cn##*
 lotto60.com##*
 lovepapas.com##*
 ludashi.com##*
+m-d.tv##*
 m.0ig.top##*
 m.qq.com##*
 madou.club##*
+madou.io##*
+madou.la##*
 madou.one##*
+madou.tel##*
+madou01.buzz##*
 madou101.com##*
+madoumedia.net##*
+madouqu.cc##*
 madouqu.com##*
 madouqu2.cc##*
+madouqu3.cc##*
+madoushe.cn##*
 mate2.cyou##*
+mauddhblia.com##*
 md11.cyou##*
 mdapp.us##*
 mdmcn01.com##*
@@ -224,6 +246,7 @@ mdmd.cyou##*
 mdpda.com##*
 men.com##*
 missav.com##*
+mod.run##*
 modelmediaus.com##*
 modeltv.com##*
 ms538.com##*
@@ -253,6 +276,7 @@ pc6.com##*
 pcsoft.com.cn##*
 peach-av.com##*
 peise.net##*
+phimsexhay669.com##*
 pincong.rocks##*
 playno1.com##*
 porn.com##*
@@ -278,6 +302,7 @@ sex.com##*
 shop.yipanhaocai.com##*
 shoujiweishi.baidu.com##*
 shuajizhijia.net##*
+sifang.city##*
 siwacos4.com##*
 sk734.com##*
 skycn.com##*
@@ -286,6 +311,8 @@ softrw.com##*
 sokmil.com##*
 som456.com##*
 somode.com##*
+spankbang.com##*
+spankbang.party##*
 ssd456.com##*
 sur789.com##*
 sushiguang.com##*
@@ -366,7 +393,9 @@ zyjiadian.com##*
 ||*sehuiyao*.me
 ||*zztt*.com
 ||*zztt*.net
+||178.128.25.172
 ||2345*.com
+||xvideos*.xxx
 ! 广告弹窗/元素
 *###ads_general_1_bottom
 *###bdshare
@@ -384,6 +413,7 @@ zyjiadian.com##*
 *##.a2hs-ios-dRZ.a2hs-container-2ZN
 *##.ad-card
 *##.adBox
+*##.ads
 *##.ads-item
 *##.adv_block
 *##.advert
@@ -3239,6 +3269,7 @@ xuexila.com##.copy-alert
 xuexila.com##.gf_fuzhi
 xuexila.com##.gf_tousu
 xuexila.com##.tanchuang666.marks
+xvideos99.xxx##.fads2
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.shareA.jsx-3819145385
 xxsy.net###weappimg > div
