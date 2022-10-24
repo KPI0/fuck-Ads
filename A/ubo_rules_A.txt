@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-22
+! TimeUpdated: 2022-10-24
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -21,6 +21,7 @@
 *##.a2hs-ios-dRZ.a2hs-container-2ZN
 *##.ad-card
 *##.adBox
+*##.ads
 *##.ads-item
 *##.adv_block
 *##.advert
@@ -2876,6 +2877,7 @@ xuexila.com##.copy-alert
 xuexila.com##.gf_fuzhi
 xuexila.com##.gf_tousu
 xuexila.com##.tanchuang666.marks
+xvideos99.xxx##.fads2
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.shareA.jsx-3819145385
 xxsy.net###weappimg > div
