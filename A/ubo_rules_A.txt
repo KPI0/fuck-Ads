@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-24
+! TimeUpdated: 2022-10-27
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -443,6 +443,7 @@ bbs.tianya.cn##.scroll-btn
 bbsnet.com##.baishare
 bddhw.cn##.j-share.action-item
 bel789.com##li:nth-of-type(3)
+best.pconline.com.cn##.no-login-fixed-bottom
 bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 bg.qianzhan.com##.qqonline
 bg.qianzhan.com##.rpt-des-new.rpt-des-r > p:nth-of-type(3)
@@ -460,12 +461,14 @@ bilibili.com##.download-entry > span
 bilibili.com##.download-entry__icon
 bilibili.com##.download-entry__icon > path
 bilibili.com##.fixed-service-bg
+bilibili.com##.float-btn
 bilibili.com##.inside-wrp
 bilibili.com##.inside-wrp > .left
 bilibili.com##.international-footer
 bilibili.com##.left-loc-entry.v-popover-wrap > div
 bilibili.com##.link-box
 bilibili.com##.mobile.nav-item
+bilibili.com##.open-btn
 bilibili.com##.share-btn.share-container
 bilibili.com##.share-info
 bilibili.com##.variety-area
@@ -738,6 +741,8 @@ dandanzan.com##.lgyPl_v2_record_item_saytext
 daniao.org###custom_html-10
 dawendou.com##.alert-bounceIn.copy-alert
 dawendou.com##.marks
+daxuesoutijiang.com##.download-bar-btn
+daxuesoutijiang.com##.download-btn-container
 daybyday.top##.DNParking-event-hot
 daybyday.top##[href^="https://buy.dnspod.cn/dns/free"]
 dazhuanlan.com##.social-share-button
@@ -1343,6 +1348,8 @@ jianshu.com##.recommend-ad.recommend-wrap
 jianshu.com##a._1OhGeD.hM7XFL:nth-of-type(2)
 jianshu.com##canvas
 jianshu.com##span.line:nth-of-type(1)
+jiayongluyou.com###single-widget
+jiayongluyou.com##.tg-box
 jiema.wwei.cn###go-fav
 jiema.wwei.cn##.sidebar-client-box.sidebar-block
 jiema.wwei.cn##.sidebar_jump
@@ -2095,6 +2102,7 @@ pinglun.youth.cn##.youth-footer
 pinglun.youth.cn##[href^="//youth.cn/mobile/"]
 pinglun.youth.cn##span:nth-of-type(3)
 pkdoutu.com##.pic-title > div > .row
+playezu.com##.tg-site.tg-pc
 pmptuan.com###kfoutdetainwin > div
 polygonscan.com##.col-lg-5.col-12
 pornlulu.com###chromeModal > .modal-dialog
@@ -3043,6 +3051,9 @@ zsjj.zhaosw.com##.hot.recommend
 zuixu.com###layui-layer-shade1
 zuixu.com###layui-layer-shade2
 zuixu.com##.layui-layer-iframe.layui-layer
+zuoyebang.com##.adCard_3H6n7
+zuoyebang.com##.download_kNXRu
+zuoyebang.com##.footer_1HFD5
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 ||360doc.com/ad/*$subdocument
