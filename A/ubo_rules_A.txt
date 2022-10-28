@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-27
+! TimeUpdated: 2022-10-28
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -634,6 +634,7 @@ chuangshi.qq.com##.favorite
 chuangshi.qq.com##.fixedRight.codeWrap
 chuangshi.qq.com##.quickLink
 cj.sina.cn###m-sentiment3
+cj.sina.cn###norm_qrcode_link_auto
 cj.sina.cn##.js-callup-client.m-callup-client2
 cj.sina.cn##.js-guss-caijing.m-guss-caijing
 cj.sina.cn##.js-nav-client-down.client-down
@@ -1014,6 +1015,7 @@ fx361.com##.ks_dir_bg > div
 fx361.com##span.tool-icon:nth-of-type(n)
 fy.tingclass.net###scanning_tbox
 fy.tingclass.net##.tips-xcx-div
+g.pconline.com.cn##.enter-zt
 gank.fanpiece.com##.right.options
 gaojiufeng.cn##.main-footer
 gbs.cn##.toolbar
@@ -1027,6 +1029,7 @@ gerenjianli.com##div.leftbox > div
 getitfree.cn##.call-action-style_1.call-action-dark.call-action-unlogged
 ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 ghxi.com###modules-12
+ghxi.com##.ad_single_1
 ghxi.com##.clearfix.entry-bar-inner
 ghxi.com##.entry-bar
 ghxi.com##.ghxi_wpcom_ad_wrap
@@ -1364,6 +1367,7 @@ jihaoba.com##div.foot:nth-of-type(18)
 jihaoba.com##div.foot:nth-of-type(22)
 jikipedia.com##.hoverable.action-button.button.share
 jingfen.jd.com##.box-link
+jingyan.baidu.com##.asp-self-rander
 jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.task-panel-entrance
 jingyan.baidu.com##.w-share
@@ -1661,6 +1665,7 @@ m.jinse.com##.js-opration-box
 m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
 m.jinse.com##.openApps
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+m.jobui.com##.j-jobBanner-box
 m.jrj.com.cn##.showNew.btntop
 m.ke.qq.com##.download-btns
 m.ke.qq.com##.show.app-guide
@@ -1862,6 +1867,7 @@ mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
 mgtv.com##.sidebar-download
 mgtv.com##div.icon:nth-of-type(2)
+mguba.eastmoney.com###open_app
 mhgui.com##.desktop
 mi.com###J_siteDownloadApp
 mi.com##.follow
@@ -2803,7 +2809,9 @@ wk.baidu.com##.guide-btn
 wk.baidu.com##.middle-box-root
 wk.baidu.com##.not-baidu.college-strong-guide-contain
 wk.baidu.com##.not-baidu.core-btn-guide
+wk.baidu.com##.not-baidu.core-btn-guide-defence
 wk.baidu.com##.wk-student
+wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
 world.huanqiu.com##.metadata-share.icon-medium-plus.bshare-custom > ul > li
