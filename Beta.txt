@@ -3525,3 +3525,5 @@ zzyyww.cn##.tags
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zv.china-10.com$subdocument
+||135320.com$subdocument
+||cooboys.com^$script
