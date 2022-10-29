@@ -196,6 +196,7 @@ javlib.com##*
 javlibrary.cc##*
 javlibrary.com##*
 javlibrary.tv##*
+isr789.com##*
 javmost.com##*
 javmost.xyz##*
 javsex.guru##*
@@ -316,6 +317,7 @@ siwacos4.com##*
 sk734.com##*
 skycn.com##*
 skycn.net##*
+lao678.com##*
 softrw.com##*
 sokmil.com##*
 som456.com##*
@@ -3527,3 +3529,6 @@ zzyyww.cn##.tags
 ||zv.china-10.com$subdocument
 ||135320.com$subdocument
 ||cooboys.com^$script
+4pcc.com##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
+||4pcc.com^$script
+||jn.ivqtrjt.cn^$domain=m.4pcc.com
