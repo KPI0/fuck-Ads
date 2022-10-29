@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-28
+! TimeUpdated: 2022-10-29
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -16,6 +16,7 @@
 *###midBox
 *###partners
 *###randomBox
+*###rightadbox
 *###share
 *###subMenuBox > dl
 *##.a2hs-ios-dRZ.a2hs-container-2ZN
@@ -352,6 +353,7 @@ app.4399.cn##.fullscreen.header
 app.4399.cn##.fullscreen.install
 app.4399.cn##.m_nav
 app.4399.cn##.phone_footer
+app.ali213.net##.abdd
 app.mi.com##[src="/get_qrcode_image"]
 app.weijj.com##.discuss_article > .look_more_btn.deepshare
 app.weijj.com##.white.down-top
@@ -1580,6 +1582,7 @@ m.dgjs123.com##.gg_c3
 m.dgjs123.com##.xglist
 m.dgjs123.com##div.line10
 m.dgjs123.com##div.line5
+m.dict.cn###dbann
 m.dmh8.com##.dropdown-hover.playshare
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
@@ -1776,6 +1779,7 @@ m.xbbshuwu.com##div[style*="top: 0px"]
 m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
 m.xbbshuwu.com##p:nth-of-type(4)
 m.xbbshuwu.com##p:nth-of-type(5)
+m.xiqu9.com###jd_dom
 m.xsyq.cc##a#__dfdsdefsdb.__foiud
 m.xsyq.cc##b
 m.xzbu.com###doyoo_monitor
@@ -1922,6 +1926,7 @@ mydigit.cn##[href="https://mydigit.cn/thread-119068-1-1.html"]
 mydigit.cn##a[href^="plugin.php"]:nth-of-type(7)
 myqqjd.com##.entry-content > .sharing-box
 myqqjd.com##.fds.like-left-box
+n.miaopai.com##.footer
 naxuefen.com##.mip-share-container
 nb.zol.com.cn##.article-side-box
 new-tudou.com##.dropdown__panel__con
@@ -1978,6 +1983,7 @@ nftcn.com.cn##.img > p
 nftlabm.yuzhouya.com##.tips_active.tips_pop
 nftlabm.yuzhouya.com##.tips_box
 nga345.com##li:nth-of-type(3)
+nicotv.vip##.slide.ff-row.row
 nlc.cn##[src="../../images/wxindex_20140424yyc_01.jpg"]
 nlc.cn##[src="./images/wxindex_20140424yyc_01.jpg"]
 nlc.cn##body > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > div > table > tbody > tr > td > table > tbody > tr > td > table
@@ -2037,6 +2043,7 @@ ooopic.com##.show.loginTip-box
 ooopic.com##.wt-aside-footer > div.wt-asideItem
 ooopic.com##ul.fl:nth-of-type(5)
 opinion.people.com.cn###ops_share
+opssh.cn##.list-banner
 oracle.com##.active.ochat_slidew2
 oracle.com##.scl-icons
 oschina.net##.codeBlock
@@ -2090,7 +2097,14 @@ pc.qq.com##.content-wrap
 pc.qq.com##.footer
 pc521.net##[data-hover="分享"]
 pcbeta.com##.pt_rtpl
+pconline.com.cn##.art-banner
+pconline.com.cn##.btnForAppOpenA
+pconline.com.cn##.btnForAppOpenImg
+pconline.com.cn##.downloadBtn
+pconline.com.cn##.enter-zt
+pconline.com.cn##.m-auto-tg.m-box
 pconline.com.cn##.toolBox
+pconline.com.cn##.WakeUptop
 pcpop.com##.icon-tel
 pcpop.com##.ts-function
 pdf365.cn##.clientText
@@ -2459,6 +2473,7 @@ tieba.baidu.com##.app_download_box > .item_hd
 tieba.baidu.com##.app_download_box.aside_region
 tieba.baidu.com##.app_download_box.region_bright
 tieba.baidu.com##.app_download_wrap.clearfix
+tieba.baidu.com##.bottom-nav-bar
 tieba.baidu.com##.clearfix.rcmd_forum
 tieba.baidu.com##.clearfix.spage_liveshow_slide
 tieba.baidu.com##.clearfix.top-sec
@@ -2789,6 +2804,10 @@ wenshubang.com##.conttop_code
 wenshubang.com##.mySwiperBox
 wenxm.cn##.af_xz.af_btn
 wenxm.cn##.gf_xiazai
+west.cn###J_webhostingBanner
+west.cn###J_webhostingBannertop
+west.cn##.carousel-inner
+west.cn##.clouthost_out
 wiki.jikexueyuan.com##.clearfix.detail-share
 wiki.mbalib.com###rqCodeBtn
 wiki.mbalib.com##.app-ad
@@ -3076,6 +3095,7 @@ zuoyebang.com##.footer_1HFD5
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 ||360doc.com/ad/*$subdocument
+||520xingyun.com/images/*.gif$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
@@ -3085,6 +3105,7 @@ zzyyww.cn##.tags
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
+||img11.360buyimg.com/*.jpg$image
 ||jiansuo.cdn-bandao.cn/*$subdocument
 ||js.imgsina.com/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
