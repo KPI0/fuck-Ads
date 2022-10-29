@@ -143,6 +143,7 @@
 21jingji.com##[href="https://app.21jingji.com/"]
 230890.com##.clear.entry-footer
 230890.com##.entry-meta-right
+2345.com##.banner-ad
 23bei.com###layui-layer-shade1
 23bei.com##.layui-layer-iframe.layui-layer
 23bei.com##div.hidden-m:nth-of-type(n)
@@ -210,6 +211,7 @@
 3rxing.org##div.dd300:nth-of-type(3)
 4399.com##.link_w
 4399.com##[href="//4399.com/desk/"]
+4pcc.com##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
 5151sc.com##div.begin:nth-of-type(3)
 51cto.com##.ad-article
 51cto.com##.article-left > .share
@@ -1544,6 +1546,7 @@ m.699pic.com##.chongzhiact
 m.699pic.com##.fl.footer-share
 m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
 m.699pic.com##.show.top-notice-position
+m.ac.qq.com##.chapter-fixed-pop
 m.baidu.com###header > div > div > div > div
 m.baidu.com##._1_KgV._8naka.c-container > footer
 m.baidu.com##._1VOQE > .c-blocka
@@ -1697,6 +1700,7 @@ m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
+m.mgtv.com##.mg-down-btn
 m.mudvod.tv###bottom_btn
 m.mudvod.tv##.android_banner.m-box
 m.mudvod.tv##.banner_android.m-box-items-full.m-box-items
@@ -1722,6 +1726,7 @@ m.qidian.com##.module-merge.module
 m.qidian.com##.read-top-download
 m.qidian.com##body > .bound.jsDownloadLink.prevent-shield.auto-report.download-content
 m.qidian.com##div.jsAuthorSay.read-author-say
+m.qiman57.com###adhtml
 m.readnovel.com##.active.read-rb-b
 m.readnovel.com##.detail-pure-ad-hx-btn.btn-change-cell
 m.readnovel.com##.jsAuthorSay.read-author-say
@@ -1825,6 +1830,8 @@ mail.qq.com##.icon_top_sendtomobile_init.pointer
 mail.qq.com##.rounded3.todayTool2_bd.bd
 mail.qq.com##.todayInfoPanelTab.bd.bold.settingtable.tipstitle_title
 mail.qq.com##body > .clr
+mail.sina.cn###callAndrBtn2
+mail.sina.cn###mailFnCoverAndroid
 maimai.cn##.p-y-10.downloadFixed
 main.m.taobao.com###SLK_evokeUI_v2
 main.m.taobao.com##button
@@ -2292,6 +2299,7 @@ sm.ms##.apps-download
 sm.ms##.footer
 sm.ms##.google-download
 smart.mail.126.com###topDropImg
+smart.mail.163.com###topDropImg
 smart.mail.yeah.net###topDropImg
 smartapps.baidu.com##.swan-web-suspend-button
 smarthome.qianjia.com##.clearfix.welcome-join.mod
@@ -2849,6 +2857,7 @@ wwei.cn###go-fav
 wwei.cn##.sidebar-client-box.sidebar-block
 wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
+www.360doc.cn##[href^="intent://360doc/openApp"]
 wwwx168.cn##.post-share
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
@@ -3094,19 +3103,23 @@ zuoyebang.com##.download_kNXRu
 zuoyebang.com##.footer_1HFD5
 zzyyww.cn##.resource
 zzyyww.cn##.tags
+||135320.com$subdocument
 ||360doc.com/ad/*$subdocument
+||4pcc.com^$script
 ||520xingyun.com/images/*.gif$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||boce.com/uploads/AdvertImages/*$image
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
+||cooboys.com^$script
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
 ||img11.360buyimg.com/*.jpg$image
 ||jiansuo.cdn-bandao.cn/*$subdocument
+||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
 ||js.imgsina.com/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
