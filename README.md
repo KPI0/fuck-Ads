@@ -1,9 +1,9 @@
 > # [![image](https://s2.loli.net/2022/09/13/FrBnD6HZML2Ald5.png)](https://github.com/gorhill/uBlock/) uBlock Origin
 > - ### uBlock Origin 扩展程序_源码地址：[uBlock](https://github.com/gorhill/uBlock/)
-> - ### uBlock Origin 扩展程序_安装地址：[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)
-> - ### 支持此扩展程序的手机浏览器：[Kiwi](https://kiwibrowser.com/)、[Firefox](https://www.firefox.com.cn/)、[Lemur](https://lemurbrowser.com)、[Yandex](https://browser.yandex.com/)、[Iceraven](https://github.com/fork-maintainers/iceraven-browser)  
-> - ### 支持此扩展程序的电脑浏览器：[百分](https://static.centbrowser.cn/win_beta/)、[猫眼](https://www.catsxp.com/)、[星愿](https://www.twinkstar.com/)、[Tor](https://www.torproject.org/)、[LibreWolf](https://librewolf.net/)
-> - ### 支持订阅该规则集的浏览器：[雨见](https://club.yujianweb.cn/index.php/archives/13/)、[Vivaldi](https://vivaldi.com/)
+> - ### uBlock Origin 扩展程序_安装地址：[Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak/)、                      [Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/)、                                                                             [Firefox](https://addons.mozilla.org/zh-CN/firefox/addon/ublock-origin/)、                                                                                                       [Opera](https://addons.opera.com/zh-cn/extensions/details/ublock/)、……
+> - ### 支持此扩展程序的手机浏览器：[Kiwi](https://kiwibrowser.com/)、[Firefox](https://www.firefox.com.cn/)、[Lemur](https://lemurbrowser.com)、[Yandex](https://browser.yandex.com/)、[Iceraven](https://github.com/fork-maintainers/iceraven-browser)、……  
+> - ### 支持此扩展程序的电脑浏览器：[百分](https://static.centbrowser.cn/win_beta/)、[猫眼](https://www.catsxp.com/)、[星愿](https://www.twinkstar.com/)、[Tor](https://www.torproject.org/)、[LibreWolf](https://librewolf.net/)、……
+> - ### 支持订阅该规则集的浏览器：[雨见](https://club.yujianweb.cn/index.php/archives/13/)、[Vivaldi](https://vivaldi.com/)、……
 > - ### 其他浏览器参考教程：[参考](https://www.crxsoso.com/webstore/detail/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 
 ----
