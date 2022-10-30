@@ -58,7 +58,7 @@ https://gitee.com/KPI0/fuck-Ads/raw/main/ubo_rules.txt
 ```
 - GitLab
 ```
-https://jihulab.com/KPI0/fuck-Ads/-/raw/main/ubo_rules.txt
+<del>https://jihulab.com/KPI0/fuck-Ads/-/raw/main/ubo_rules.txt<del>
 ``` 
 - jsDelivr
 ```
