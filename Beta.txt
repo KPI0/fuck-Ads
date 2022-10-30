@@ -1,5 +1,5 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules
+! Title: fuck Ads rules_Beta
 ! TimeUpdated: 2022-10-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
@@ -824,6 +824,7 @@ baike.baidu.com##._4txvhmc
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.topA
 baike.baidu.com##[href^="/wapui/subpage/baikeappdownload"]
+baike.baidu.com##[style="transform: translate(0px, 0px); display: block;"]
 baike.pcauto.com.cn###JtopshareToole > .share-tit
 baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
 baikecun.com###post-45216 > .clear.entry-bottom > .custom-share
@@ -2571,6 +2572,9 @@ pptstore.net###second_menu > .weixin
 prechin.net##.z > [href="javascript:;"]
 prechin.net##[href="http://prechin.net/"]
 pro.lceda.cn##.weui-banner.box_shadow
+product.pconline.com.cn##.artBottomQRcode
+product.pconline.com.cn##.fixLeftQRcode
+product.pconline.com.cn##.pc-share
 qb.zuoyebang.com##.answerAnalyzeAd_-hW0z
 qb.zuoyebang.com##.aside_2NzA4 > .card_3l6Tq.Card_3tgEd
 qb.zuoyebang.com##.asideBanner_X4YnT
@@ -2851,6 +2855,7 @@ tech.hqew.com##.qr
 tech.hqew.com##.tech-detail-share
 tech.sina.com.cn##.notInPad.page-tools
 tech.sina.com.cn##.page-tool-s.page-tool-i
+tech.sina.com.cn##.side-btns-answer2022
 tech.wmzhe.com##.fr.article_title_share
 techweb.com.cn##.app_item
 techweb.com.cn##.partake
@@ -3547,10 +3552,10 @@ zzyyww.cn##.tags
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
+||statics.rili.com.cn$subdocument
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
-baike.baidu.com##[style="transform: translate(0px, 0px); display: block;"]
