@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-29
+! TimeUpdated: 2022-10-30
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -109,6 +109,7 @@
 123.sogou.com##.pos-navbar > .list > .cf
 123.sogou.com##.sidebar
 123.sogou.com##.style_infoFlowCoolsite__3qAHc
+123wxwx.net##b
 163.com##.mod_news_download
 163.com##.newsapp-qrcode
 163.com##.ntes-nav-entry-bgblack.ntes-nav-mobile-title
@@ -147,6 +148,7 @@
 23bei.com###layui-layer-shade1
 23bei.com##.layui-layer-iframe.layui-layer
 23bei.com##div.hidden-m:nth-of-type(n)
+23xstxt.net##b
 265.com##.b-A-B-C-D.b-A-B-C
 265.com##.b-Cb-Db-f.b-f
 265.com##.b-p-e-f.b-f
@@ -1216,6 +1218,9 @@ icourse163.org###j-activityBanner
 icourse163.org##.e-hover-source.m-head-right-more.u-navLogin-kaoyan.j-kaoyan-link > [href] > .nav
 icswb.com##.div_share_agree
 icxbk.com##.banner-sys
+idongde.com##.vip_c_bt
+idongde.com##.vip_view2
+idongde.com##.vipcode-follow
 iehou.com##.iehou_side_nav
 ifanr.com##.c-article-share__button
 ifanr.com##.c-goto-top-item--app.c-goto-top-item
@@ -1440,6 +1445,9 @@ k.sina.cn##.qweasd.sw_c0
 k.sina.cn##.s_card.art_t
 kaifa.baidu.com##.reward-entry-home-81a02
 kaifa.baidu.com##.reward-entry-search-6e208
+kanshu5.net##.callApp_fl_btn
+kanshu5.net##.look_more_a
+kanshu5.net##.sw_sp.m_f_a
 kanshuwangzhan.com##.Hexp
 kanshuwangzhan.com##.HexpDH
 kanshuwangzhan.com##.Hexps
@@ -1675,6 +1683,7 @@ m.jobui.com##.j-jobBanner-box
 m.jrj.com.cn##.showNew.btntop
 m.ke.qq.com##.download-btns
 m.ke.qq.com##.show.app-guide
+m.kq7.com###container
 m.kq7.com##.article_head > div
 m.kq7.com##.xxwz
 m.kq7.com##body > div > div > div > div > div
@@ -3108,6 +3117,7 @@ zzyyww.cn##.tags
 ||4pcc.com^$script
 ||520xingyun.com/images/*.gif$image
 ||91zsri0.sanso.hk/*.gif?$image
+||ass.izshi.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||boce.com/uploads/AdvertImages/*$image
@@ -3118,6 +3128,7 @@ zzyyww.cn##.tags
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
 ||img11.360buyimg.com/*.jpg$image
+||img2.idongde.com$subdocument
 ||jiansuo.cdn-bandao.cn/*$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
 ||js.imgsina.com/*$subdocument
@@ -3133,4 +3144,5 @@ zzyyww.cn##.tags
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||zhujicankao.com/img/images/*$image
+||zle.com$subdocument
 ||zv.china-10.com$subdocument
