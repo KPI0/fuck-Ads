@@ -113,8 +113,6 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 
 [![image](https://pic.imgdb.cn/item/6320333e16f2c2beb1638cbc.gif)](https://github.com/KPI0)
 
-*拦截规则不定期更新，如有错误欢迎反馈吐槽！*
-
 # 广告拦截分数评估
 [https://checkadblock.ru](https://checkadblock.ru)
 
