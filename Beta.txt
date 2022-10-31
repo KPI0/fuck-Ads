@@ -1,6 +1,6 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules_Beta
-! TimeUpdated: 2022-10-30
+! Title: fuck Ads rules
+! TimeUpdated: 2022-10-31
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -468,6 +468,7 @@ zyjiadian.com##*
 *##.shares
 *##.sider_guanggao
 *##.top_ad
+*##.tx-info-module-down-box
 *##.videoSideAds
 *##.wechat
 *##.weibo
@@ -691,7 +692,6 @@ zyjiadian.com##*
 99hufu.com##[class="share-icon qzone"]
 99hufu.com##[class="share-icon wechat"]
 99hufu.com##[class="share-wx-wrap"]
-99hufu.com##div.tx-info-module-down1-box.tx-info-module-down-box
 9sex.tv###carouselExampleControls
 9sex.tv##.higher.ivu-carousel-track
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
@@ -861,6 +861,7 @@ bbs.tianya.cn##.scroll-btn
 bbsnet.com##.baishare
 bddhw.cn##.j-share.action-item
 bel789.com##li:nth-of-type(3)
+benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
 bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 bg.qianzhan.com##.qqonline
@@ -900,6 +901,7 @@ bilibili.com##section.bili-grid:nth-of-type(13)
 binance.com##.css-1ql2hru > .css-c510oc
 binance.com##.css-8non6d > .css-1n2fhb3
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
+biyungu.com##.wpcom_myimg_wrap
 blockvalue.com##.wbox
 blockvalue.com##.wbox.new
 blockvalue.com##div.wrap2.new:nth-of-type(4)
@@ -952,6 +954,8 @@ boxnovel.baidu.com##.intercept-container > .content
 boxnovel.baidu.com##.open-fixed-bars
 boxnovel.baidu.com##.page-mask
 boyumai.com##.fr.fewm
+brcns.cn##.dk-index
+brcns.cn##.tx-info-module-box
 browser.360.cn##.qrCodeWb
 browser.360.cn##.qrCodeWx
 browser.qq.com###p0_btn_pc_sub
@@ -3532,6 +3536,7 @@ zzyyww.cn##.tags
 ||ass.izshi.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
+||bdb.wxhefei.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
