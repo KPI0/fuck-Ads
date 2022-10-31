@@ -1,5 +1,5 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules_Beta
+! Title: fuck Ads rules
 ! TimeUpdated: 2022-10-31
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
@@ -207,6 +207,7 @@ jessicachina.net##*
 jiegeng.com##*
 jingmadou.com##*
 jisuxz.com##*
+jor123.com##*
 jpwl88.cn##*
 jz5u.com##*
 jz807.com##*
@@ -384,7 +385,6 @@ xue51.com##*
 xuetianli.com##*
 xvideos.com##*
 xxoo.su##*
-jor123.com##*
 xxx.com##*
 xxxmadou.com##*
 xxxmmm.club##*
@@ -448,13 +448,14 @@ zyjiadian.com##*
 *##.commentads
 *##.copy
 *##.down-app
+*##.fb_iframe_widget.fb-like
 *##.fc-ad-wrap
 *##.feed-ad-wrap
+*##.feed-ecom-ads
 *##.fenxiang
 *##.float-ads
 *##.icon_download
 *##.js-head-advertising
-*##.fb_iframe_widget.fb-like
 *##.new-bdsharebuttonbox
 *##.page-share
 *##.page_ad
@@ -474,7 +475,6 @@ zyjiadian.com##*
 *##.wechat
 *##.weibo
 *##.xshare
-*##.feed-ecom-ads
 *##single-bottom-ads
 01caijing.com###headerApp
 02516.com###costom
@@ -494,6 +494,7 @@ zyjiadian.com##*
 1010jiajiao.com##.right_box
 1010jiajiao.com##div.box_body:nth-of-type(5)
 1010jiajiao.com##div.box_head > div
+10jqka.com.cn##.backWashNavBtn-show
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
 10jqka.com.cn##.share-tool
@@ -888,10 +889,10 @@ bilibili.com##.left-loc-entry.v-popover-wrap > div
 bilibili.com##.link-box
 bilibili.com##.mobile.nav-item
 bilibili.com##.open-btn
+bilibili.com##.qrcode-wrapper
 bilibili.com##.share-btn.share-container
 bilibili.com##.share-info
 bilibili.com##.variety-area
-bilibili.com##.qrcode-wrapper
 bilibili.com##li.nav-link-item:nth-of-type(8)
 bilibili.com##li.nav-link-item:nth-of-type(9)
 bilibili.com##section.bili-grid:nth-of-type(12)
@@ -1443,6 +1444,7 @@ geekpark.net##.tools-erweima.tools-item
 gerenjianli.com###float
 gerenjianli.com##div.leftbox > div
 getitfree.cn##.call-action-style_1.call-action-dark.call-action-unlogged
+ggcx.com##.advh5
 ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 ghxi.com###modules-12
 ghxi.com##.ad_single_1
@@ -1665,6 +1667,7 @@ infzm.com##.color-weibo.icon-item
 infzm.com##.nfzm-left-bar > span
 infzm.com##[href="/download"]
 ip.yqie.com###navigationtopleft > .navigationlink
+ip138.com##.mod-banner
 ip138.com##.mod-friendlink.module
 ip138.com##.mod-news.module
 iplaysoft.com###link1111
@@ -2355,6 +2358,7 @@ myqqjd.com##.fds.like-left-box
 n.miaopai.com##.footer
 naxuefen.com##.mip-share-container
 nb.zol.com.cn##.article-side-box
+netded.com##.jd-hongbao
 new-tudou.com##.dropdown__panel__con
 new-tudou.com##.qr-code-footer
 new-tudou.com##.td-h__dl
@@ -3423,6 +3427,7 @@ youwuqiong.top##.weapp_image_link
 youzan.com###resource-package
 youzan.com##.clue-components-form-list__item--active.clue-components-form-list__item
 ypppt.com##.aad4
+ys137.com##.baidu-gglist
 yszzq.com##.date
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
@@ -3556,6 +3561,7 @@ zzyyww.cn##.tags
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
 ||statics.rili.com.cn$subdocument
+||unmc.bj.bcebos.com$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
