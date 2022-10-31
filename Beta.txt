@@ -384,6 +384,7 @@ xue51.com##*
 xuetianli.com##*
 xvideos.com##*
 xxoo.su##*
+jor123.com##*
 xxx.com##*
 xxxmadou.com##*
 xxxmmm.club##*
@@ -418,15 +419,15 @@ zyjiadian.com##*
 *###couplet
 *###fanyi-advertising-space
 *###footerAds
-*###listBox > dl
+*###listBox
 *###listwoBox
 *###midBox
 *###partners
 *###randomBox
 *###rightadbox
 *###share
-*###subMenuBox > dl
-*##.a2hs-ios-dRZ.a2hs-container-2ZN
+*###subMenuBox
+*##.a2hs-ios-dRZ
 *##.ad
 *##.ad-card
 *##.adBox
@@ -451,11 +452,11 @@ zyjiadian.com##*
 *##.feed-ad-wrap
 *##.fenxiang
 *##.float-ads
-*##.icon_download.icon
+*##.icon_download
 *##.js-head-advertising
-*##.list-inline .fb_iframe_widget.fb-like
+*##.fb_iframe_widget.fb-like
 *##.new-bdsharebuttonbox
-*##.page-share.info-fr
+*##.page-share
 *##.page_ad
 *##.pop_con
 *##.post-bottom
@@ -473,8 +474,7 @@ zyjiadian.com##*
 *##.wechat
 *##.weibo
 *##.xshare
-*##div#listBox > dl
-*##div.feed-ecom-ads
+*##.feed-ecom-ads
 *##single-bottom-ads
 01caijing.com###headerApp
 02516.com###costom
@@ -891,9 +891,7 @@ bilibili.com##.open-btn
 bilibili.com##.share-btn.share-container
 bilibili.com##.share-info
 bilibili.com##.variety-area
-bilibili.com##div.qrcode-wrapper:nth-of-type(1)
-bilibili.com##div.qrcode-wrapper:nth-of-type(3)
-bilibili.com##div.qrcode-wrapper:nth-of-type(4)
+bilibili.com##.qrcode-wrapper
 bilibili.com##li.nav-link-item:nth-of-type(8)
 bilibili.com##li.nav-link-item:nth-of-type(9)
 bilibili.com##section.bili-grid:nth-of-type(12)
