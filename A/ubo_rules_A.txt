@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-10-30
+! TimeUpdated: 2022-10-31
 ! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -61,6 +61,7 @@
 *##.shares
 *##.sider_guanggao
 *##.top_ad
+*##.tx-info-module-down-box
 *##.videoSideAds
 *##.wechat
 *##.weibo
@@ -284,7 +285,6 @@
 99hufu.com##[class="share-icon qzone"]
 99hufu.com##[class="share-icon wechat"]
 99hufu.com##[class="share-wx-wrap"]
-99hufu.com##div.tx-info-module-down1-box.tx-info-module-down-box
 9sex.tv###carouselExampleControls
 9sex.tv##.higher.ivu-carousel-track
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
@@ -417,6 +417,7 @@ baike.baidu.com##._4txvhmc
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.topA
 baike.baidu.com##[href^="/wapui/subpage/baikeappdownload"]
+baike.baidu.com##[style="transform: translate(0px, 0px); display: block;"]
 baike.pcauto.com.cn###JtopshareToole > .share-tit
 baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
 baikecun.com###post-45216 > .clear.entry-bottom > .custom-share
@@ -453,6 +454,7 @@ bbs.tianya.cn##.scroll-btn
 bbsnet.com##.baishare
 bddhw.cn##.j-share.action-item
 bel789.com##li:nth-of-type(3)
+benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
 bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 bg.qianzhan.com##.qqonline
@@ -492,6 +494,7 @@ bilibili.com##section.bili-grid:nth-of-type(13)
 binance.com##.css-1ql2hru > .css-c510oc
 binance.com##.css-8non6d > .css-1n2fhb3
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
+biyungu.com##.wpcom_myimg_wrap
 blockvalue.com##.wbox
 blockvalue.com##.wbox.new
 blockvalue.com##div.wrap2.new:nth-of-type(4)
@@ -544,6 +547,8 @@ boxnovel.baidu.com##.intercept-container > .content
 boxnovel.baidu.com##.open-fixed-bars
 boxnovel.baidu.com##.page-mask
 boyumai.com##.fr.fewm
+brcns.cn##.dk-index
+brcns.cn##.tx-info-module-box
 browser.360.cn##.qrCodeWb
 browser.360.cn##.qrCodeWx
 browser.qq.com###p0_btn_pc_sub
@@ -2164,6 +2169,9 @@ pptstore.net###second_menu > .weixin
 prechin.net##.z > [href="javascript:;"]
 prechin.net##[href="http://prechin.net/"]
 pro.lceda.cn##.weui-banner.box_shadow
+product.pconline.com.cn##.artBottomQRcode
+product.pconline.com.cn##.fixLeftQRcode
+product.pconline.com.cn##.pc-share
 qb.zuoyebang.com##.answerAnalyzeAd_-hW0z
 qb.zuoyebang.com##.aside_2NzA4 > .card_3l6Tq.Card_3tgEd
 qb.zuoyebang.com##.asideBanner_X4YnT
@@ -2444,6 +2452,7 @@ tech.hqew.com##.qr
 tech.hqew.com##.tech-detail-share
 tech.sina.com.cn##.notInPad.page-tools
 tech.sina.com.cn##.page-tool-s.page-tool-i
+tech.sina.com.cn##.side-btns-answer2022
 tech.wmzhe.com##.fr.article_title_share
 techweb.com.cn##.app_item
 techweb.com.cn##.partake
@@ -3120,6 +3129,7 @@ zzyyww.cn##.tags
 ||ass.izshi.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
+||bdb.wxhefei.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
@@ -3140,6 +3150,7 @@ zzyyww.cn##.tags
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
+||statics.rili.com.cn$subdocument
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
