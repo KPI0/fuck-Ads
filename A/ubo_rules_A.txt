@@ -11,15 +11,15 @@
 *###couplet
 *###fanyi-advertising-space
 *###footerAds
-*###listBox > dl
+*###listBox
 *###listwoBox
 *###midBox
 *###partners
 *###randomBox
 *###rightadbox
 *###share
-*###subMenuBox > dl
-*##.a2hs-ios-dRZ.a2hs-container-2ZN
+*###subMenuBox
+*##.a2hs-ios-dRZ
 *##.ad
 *##.ad-card
 *##.adBox
@@ -30,6 +30,7 @@
 *##.advertisement
 *##.advertising-mask
 *##.advertising-popup
+*##.adwidget
 *##.app-open
 *##.appdown
 *##.bdshare-slide-button-box
@@ -40,15 +41,17 @@
 *##.commentads
 *##.copy
 *##.down-app
+*##.fb_iframe_widget.fb-like
 *##.fc-ad-wrap
 *##.feed-ad-wrap
+*##.feed-ecom-ads
 *##.fenxiang
 *##.float-ads
-*##.icon_download.icon
+*##.footerads
+*##.icon_download
 *##.js-head-advertising
-*##.list-inline .fb_iframe_widget.fb-like
 *##.new-bdsharebuttonbox
-*##.page-share.info-fr
+*##.page-share
 *##.page_ad
 *##.pop_con
 *##.post-bottom
@@ -60,14 +63,14 @@
 *##.sharebox
 *##.shares
 *##.sider_guanggao
+*##.single-bottom-ad
+*##.single-top-ad
 *##.top_ad
 *##.tx-info-module-down-box
 *##.videoSideAds
 *##.wechat
 *##.weibo
 *##.xshare
-*##div#listBox > dl
-*##div.feed-ecom-ads
 *##single-bottom-ads
 01caijing.com###headerApp
 02516.com###costom
@@ -87,6 +90,7 @@
 1010jiajiao.com##.right_box
 1010jiajiao.com##div.box_body:nth-of-type(5)
 1010jiajiao.com##div.box_head > div
+10jqka.com.cn##.backWashNavBtn-show
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
 10jqka.com.cn##.share-tool
@@ -481,12 +485,10 @@ bilibili.com##.left-loc-entry.v-popover-wrap > div
 bilibili.com##.link-box
 bilibili.com##.mobile.nav-item
 bilibili.com##.open-btn
+bilibili.com##.qrcode-wrapper
 bilibili.com##.share-btn.share-container
 bilibili.com##.share-info
 bilibili.com##.variety-area
-bilibili.com##div.qrcode-wrapper:nth-of-type(1)
-bilibili.com##div.qrcode-wrapper:nth-of-type(3)
-bilibili.com##div.qrcode-wrapper:nth-of-type(4)
 bilibili.com##li.nav-link-item:nth-of-type(8)
 bilibili.com##li.nav-link-item:nth-of-type(9)
 bilibili.com##section.bili-grid:nth-of-type(12)
@@ -1038,6 +1040,7 @@ geekpark.net##.tools-erweima.tools-item
 gerenjianli.com###float
 gerenjianli.com##div.leftbox > div
 getitfree.cn##.call-action-style_1.call-action-dark.call-action-unlogged
+ggcx.com##.advh5
 ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 ghxi.com###modules-12
 ghxi.com##.ad_single_1
@@ -1260,6 +1263,7 @@ infzm.com##.color-weibo.icon-item
 infzm.com##.nfzm-left-bar > span
 infzm.com##[href="/download"]
 ip.yqie.com###navigationtopleft > .navigationlink
+ip138.com##.mod-banner
 ip138.com##.mod-friendlink.module
 ip138.com##.mod-news.module
 iplaysoft.com###link1111
@@ -1436,6 +1440,7 @@ juejin.cn##.download-icon.link-item.nav-item
 juejin.cn##.extension
 juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
+juming.com##.share_login
 jwview.com##.bshare
 jwview.com##.ewm_box
 jxip.net##.b2tooltipbox.poster-span
@@ -1950,6 +1955,7 @@ myqqjd.com##.fds.like-left-box
 n.miaopai.com##.footer
 naxuefen.com##.mip-share-container
 nb.zol.com.cn##.article-side-box
+netded.com##.jd-hongbao
 new-tudou.com##.dropdown__panel__con
 new-tudou.com##.qr-code-footer
 new-tudou.com##.td-h__dl
@@ -2699,6 +2705,7 @@ vip.iqiyi.com##.J-download-title > .header-sideItemCon
 vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
+vpsche.com##.single-top-html
 vr.sina.com.cn##.share_wrap
 vr.sina.com.cn##.VR-headAD
 w3cjava.com##.share-s
@@ -3018,6 +3025,7 @@ youwuqiong.top##.weapp_image_link
 youzan.com###resource-package
 youzan.com##.clue-components-form-list__item--active.clue-components-form-list__item
 ypppt.com##.aad4
+ys137.com##.baidu-gglist
 yszzq.com##.date
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
@@ -3088,6 +3096,8 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
+zjtjxy.net##.static.pr-md-20.col-md-wide-75.main-left > div:nth-of-type(2)
+zjtjxy.net##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
 znds.com##.a_czt
 znds.com##.a_f.aa
 znds.com##.portal_block_summary
@@ -3131,6 +3141,7 @@ zzyyww.cn##.tags
 ||bchina-2.xsfaya.com/*$subdocument
 ||bdb.wxhefei.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
+||cdn.jiemeng.tw$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||gw.alicdn.com/imgextra/i3/*.png?$image
@@ -3151,6 +3162,7 @@ zzyyww.cn##.tags
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
 ||statics.rili.com.cn$subdocument
+||unmc.bj.bcebos.com$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
