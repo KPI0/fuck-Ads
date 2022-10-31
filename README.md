@@ -52,7 +52,7 @@
 ```
 https://raw.githubusercontent.com/KPI0/fuck-Ads/main/ubo_rules.txt
 ```
-- Gitee
+- ~~Gitee~~
 ```
 https://gitee.com/KPI0/fuck-Ads/raw/main/ubo_rules.txt
 ```
