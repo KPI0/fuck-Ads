@@ -1,5 +1,5 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules
+! Title: fuck Ads rules_Beta
 ! TimeUpdated: 2022-10-31
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
@@ -438,6 +438,7 @@ zyjiadian.com##*
 *##.advertisement
 *##.advertising-mask
 *##.advertising-popup
+*##.adwidget
 *##.app-open
 *##.appdown
 *##.bdshare-slide-button-box
@@ -454,6 +455,7 @@ zyjiadian.com##*
 *##.feed-ecom-ads
 *##.fenxiang
 *##.float-ads
+*##.footerads
 *##.icon_download
 *##.js-head-advertising
 *##.new-bdsharebuttonbox
@@ -469,6 +471,8 @@ zyjiadian.com##*
 *##.sharebox
 *##.shares
 *##.sider_guanggao
+*##.single-bottom-ad
+*##.single-top-ad
 *##.top_ad
 *##.tx-info-module-down-box
 *##.videoSideAds
@@ -1844,6 +1848,7 @@ juejin.cn##.download-icon.link-item.nav-item
 juejin.cn##.extension
 juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
+juming.com##.share_login
 jwview.com##.bshare
 jwview.com##.ewm_box
 jxip.net##.b2tooltipbox.poster-span
@@ -3108,6 +3113,7 @@ vip.iqiyi.com##.J-download-title > .header-sideItemCon
 vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
+vpsche.com##.single-top-html
 vr.sina.com.cn##.share_wrap
 vr.sina.com.cn##.VR-headAD
 w3cjava.com##.share-s
@@ -3498,6 +3504,8 @@ zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
+zjtjxy.net##.static.pr-md-20.col-md-wide-75.main-left > div:nth-of-type(2)
+zjtjxy.net##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
 znds.com##.a_czt
 znds.com##.a_f.aa
 znds.com##.portal_block_summary
@@ -3541,6 +3549,7 @@ zzyyww.cn##.tags
 ||bchina-2.xsfaya.com/*$subdocument
 ||bdb.wxhefei.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
+||cdn.jiemeng.tw$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||gw.alicdn.com/imgextra/i3/*.png?$image
