@@ -25,11 +25,11 @@
 ```
 https://raw.githubusercontent.com/KPI0/fuck-Ads/main/A/ubo_rules_A.txt
 ```
-- Gitee
+- ~~Gitee~~
 ```
 https://gitee.com/KPI0/fuck-Ads/raw/main/A/ubo_rules_A.txt
 ```
-- GitLab
+- ~~GitLab~~
 ```
 https://jihulab.com/KPI0/fuck-Ads/-/raw/main/A/ubo_rules_A.txt
 ``` 
