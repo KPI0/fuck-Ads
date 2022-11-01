@@ -1410,9 +1410,11 @@ film.qq.com##.site_footer
 finance.ce.cn###div1
 finance.sina.cn###sentiment2
 finance.sina.cn##.client-down
+finance.sina.com.cn###sina-finance-g1
 finance.sina.com.cn###tab_related_btn
 finance.sina.com.cn##.app-kaihu-qr
 finance.sina.com.cn##.appendQr_wrap.clearfix
+finance.sina.com.cn##.article-bottom-tg
 finance.sina.com.cn##.clearfix.blk-wxfollow
 finance.sina.com.cn##.clearfix.blk-zcapp
 finance.sina.com.cn##.fapp
@@ -2698,6 +2700,7 @@ shangxueba.com##[href="//shangxueba.com/app/converge.html"]
 shangyexinzhi.com##.h5shareimg
 share.mala.cn##.white.down-top
 shenmegeng.cn##.floatbtn-share.floatbtn-item
+shenzhen.cncn.com###ShowQQ
 shezhan88.com##.return > ul > li > .cur
 shezhan88.com##.return [href="javascript:void(0);"]
 shezhan88.com##[href="/news/notice/16.html"]
@@ -3098,7 +3101,6 @@ v.youku.com##div.pic-text-item:nth-of-type(1)
 v.youku.com##div.pic-text-item:nth-of-type(2)
 v.youku.com##li.fn-phonewatch.play-fn-li:nth-of-type(2)
 v.youku.com##li.fn-phonewatch.play-fn-li:nth-of-type(3)
-v2ex.com##div.box > .inner
 v2ph.com##.st-lang-zh.st-show-total.st-has-labels.st-toggleable.st-left.st-sticky-share-buttons
 v2rayse.com##.theme--light.v-sheet.v-card.mt-2
 v5ppt.com##.picinfo-video
@@ -3257,6 +3259,7 @@ wiki.mbalib.com###rqCodeBtn
 wiki.mbalib.com##.app-ad
 wiki.mbalib.com##.download_app
 wiki.mbalib.com##.open
+wiki.wosku.com##.gg
 wikiwand.com##.tooltipstered.menu-tooltip.article.share_btn
 winwin7.com##.baidufx
 winwin7.com##.text-content > div
@@ -3551,6 +3554,7 @@ zzyyww.cn##.tags
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||bdb.wxhefei.com$subdocument
+||bdjs.mapbar.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
 ||cdn.jiemeng.tw$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
@@ -3583,8 +3587,3 @@ zzyyww.cn##.tags
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
-finance.sina.com.cn###sina-finance-g1
-finance.sina.com.cn##.article-bottom-tg
-wiki.wosku.com##.gg
-||bdjs.mapbar.com$subdocument
-shenzhen.cncn.com###ShowQQ
