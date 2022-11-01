@@ -3583,3 +3583,8 @@ zzyyww.cn##.tags
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
+finance.sina.com.cn###sina-finance-g1
+finance.sina.com.cn##.article-bottom-tg
+wiki.wosku.com##.gg
+||bdjs.mapbar.com$subdocument
+shenzhen.cncn.com###ShowQQ
