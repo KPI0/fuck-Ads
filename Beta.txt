@@ -1,5 +1,5 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules
+! Title: fuck Ads rules_Beta
 ! TimeUpdated: 2022-11-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
