@@ -1,6 +1,6 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules_Beta
-! TimeUpdated: 2022-10-31
+! Title: fuck Ads rules
+! TimeUpdated: 2022-11-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1070,6 +1070,7 @@ cloud.189.cn##.nav-block.client-download
 cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
 cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.tencent.com##.c-btn-weak.c-btn
+cloud.tencent.com##.c-nav-advertising
 cloud.tencent.com##.com-event-panel-img
 cloud.tencent.com##.com-module-content
 cloud.tencent.com##.com-widget-global > div
@@ -1310,6 +1311,7 @@ easylearn.baidu.com##.client-wrap
 easylearn.baidu.com##.feedback-icon
 easylearn.baidu.com##.member-guide
 easylearn.baidu.com##.vip-banner-cont
+easylearn.baidu.com##.vip-bar
 ebay.com##.gh-app-banner--visible.gh-app-banner
 edu.liout.com###layui-layer-shade1
 edu.liout.com###zlkbAD > div
@@ -2957,6 +2959,7 @@ tmtpost.com##.share_info_end.share_info > .share
 to8to.com##.bottom_slide_click
 to8to.com##.bottom_slide_img
 to8to.com##.bottom_slide_wh_img
+to8to.com##.open-wx-plugin
 to8to.com##.slide_box_shade
 today.line.me##.interactiveShare
 tool.520101.com##.baidu_ad
@@ -3552,12 +3555,15 @@ zzyyww.cn##.tags
 ||cdn.jiemeng.tw$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
+||file3.dzsc.com/bigcustomerad$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
 ||img11.360buyimg.com/*.jpg$image
 ||img2.idongde.com$subdocument
+||img3.dzsc.com/img/web/g-g$image
+||jcylrv.iask.com.cn$subdocument
 ||jiansuo.cdn-bandao.cn/*$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
 ||js.imgsina.com/*$subdocument
