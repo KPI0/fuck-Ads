@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-11-02
+! TimeUpdated: 2022-11-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -27,6 +27,7 @@
 2345.com.cn##*
 2345.net##*
 2345gho.cn##*
+260.tv##*
 29maonn.com##*
 32r.com##*
 3345av.com##*
@@ -208,6 +209,7 @@ jiegeng.com##*
 jingmadou.com##*
 jisuxz.com##*
 jor123.com##*
+jor789.com##*
 jpwl88.cn##*
 jz5u.com##*
 jz807.com##*
@@ -399,6 +401,7 @@ youjizz.com##*
 youqian.360.cn##*
 yp988q0.wang##*
 yskhd.com##*
+z260.tv##*
 zhaoav2.cloud##*
 zhazhijiav.top##*
 zhuangjiba.com##*
@@ -1115,6 +1118,7 @@ cn.chinadaily.com.cn###identifier-pannel3
 cn.chinadaily.com.cn##.lo-bott-one
 cn.chinadaily.com.cn##.more
 cn.chinadaily.com.cn##.xinf-ri
+cn.linguee.com##.l_deepl_ad__content_container
 cn.lvmh.com##.ot-sdk-container > .ot-sdk-row
 cn.nytimes.com##.download_app
 cn.nytimes.com##.footerLink.last
@@ -2011,6 +2015,7 @@ m.baidu.com##div.result.c-result:nth-of-type(4)
 m.baidu.com##div.result.c-result:nth-of-type(5)
 m.baidu.com##div.result.c-result:nth-of-type(8)
 m.baidu.com##div:nth-of-type(6)
+m.baike.so.com##.business-flow
 m.bihu.info##.bihu-slogan button
 m.bihu.info##.home-download
 m.bilibili.com##.m-home-float-openapp
@@ -3554,6 +3559,7 @@ zzyyww.cn##.tags
 ||ass.izshi.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
+||bd2.520101.com$subdocument
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
@@ -3578,6 +3584,7 @@ zzyyww.cn##.tags
 ||mmjs.tcmap.com.cn/*$subdocument
 ||p1.meituan.net/csc/*.gif$image
 ||pornlulu.com/*$image
+||shiold2.zhaosw.com$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
