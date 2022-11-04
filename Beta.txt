@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_Beta
-! TimeUpdated: 2022-11-03
+! TimeUpdated: 2022-11-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -359,6 +359,7 @@ violatorrecords.com##*
 vip.aqdtv511.com##*
 vrzhijia.com##*
 watchjavonline.com##*
+aus234.com##*
 weav.xyz##*
 weidown.com##*
 weipatian.com##*
@@ -435,6 +436,8 @@ zyjiadian.com##*
 *##.a2hs-ios-dRZ
 *##.ad
 *##.ad-article
+*###Baidu-bottomAd
+*###Baidu-topAd
 *##.ad-banner-wrapper
 *##.ad-bottom-new
 *##.ad-card
