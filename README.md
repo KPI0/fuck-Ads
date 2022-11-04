@@ -80,6 +80,10 @@ https://raw.fastgit.org/KPI0/fuck-Ads/main/ubo_rules.txt
 2、建议使用插件默认勾选的就足够日常使用了，没有屏蔽掉的广告或碍眼的元素可以自己选择手动屏蔽。<br>
 3、如果网页打开错误只需在该网站临时禁用再刷新网页即可正常访问。<br>
 4、Beta为测试版，有较多误杀，不要使用。
+```
+https://raw.githubusercontent.com/KPI0/fuck-Ads/main/Beta.txt
+```
+
 </details>
 
 
