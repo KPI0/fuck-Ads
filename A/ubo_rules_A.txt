@@ -1,11 +1,13 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules_A
-! TimeUpdated: 2022-11-03
-! Homepage: https://github.com/KPI0/fuck-Ads/tree/main/A
+! TimeUpdated: 2022-11-04
+! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
 ! 广告弹窗/元素
 *###ads_general_1_bottom
+*###Baidu-bottomAd
+*###Baidu-topAd
 *###bdshare
 *###btmBox
 *###couplet
@@ -307,6 +309,7 @@
 91exam.org##.a2 > div
 91exam.org##.page
 91exam.org##div:nth-of-type(8)
+91rb.xyz##.i5a44cd6d5bf110aa604f696af5720367
 91sot.com##.top.text-right.list-inline.list-unstyled > li:nth-of-type(1)
 91wenmi.com###footer
 91wenmi.com##[href="https://91wenmi.com/xiezuo/#lt"]
@@ -1556,6 +1559,7 @@ lapin365.com##.app.member > [href="//m.lapin365.com/apps.htm"]
 lapin365.com##.container
 lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 lceda.cn###editor_start_right_page
+lceda.cn###sys-notice
 lceda.cn##.float-window
 lckdj.com##.online_wechat.online_item
 lcread.com###huodong
@@ -2399,6 +2403,8 @@ sohu.com##li.new-end:nth-of-type(2)
 sojson.com##._left_ad.layui-col-md4
 sojson.com##._right_ad.layui-col-md4
 sojson.com##.layui-word-aux.apend-txt
+soutongshipin.com##.bg-black
+soutongshipin.com##.transition-all
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
 speedtest.cn###speedApp > p
 speedtest.cn###speedUpNotice
@@ -3143,6 +3149,7 @@ zzyyww.cn##.tags
 ||135320.com$subdocument
 ||360doc.com/ad/*$subdocument
 ||4pcc.com^$script
+||51xl.xyz$image
 ||520xingyun.com/images/*.gif$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||ass.izshi.cn$subdocument
@@ -3170,6 +3177,7 @@ zzyyww.cn##.tags
 ||js.imgsina.com/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
+||kb69.top$image
 ||mmjs.tcmap.com.cn/*$subdocument
 ||p1.meituan.net/csc/*.gif$image
 ||pornlulu.com/*$image
