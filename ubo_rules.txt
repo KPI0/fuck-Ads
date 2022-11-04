@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads rules
-! TimeUpdated: 2022-11-03
+! TimeUpdated: 2022-11-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -64,7 +64,10 @@
 91bx.org##*
 91md.me##*
 91porn.com##*
+91pornd.com##*
 91porny.com##*
+91rb.net##*
+91rb.xyz##*
 91url.info##*
 91yingshi9.me##*
 95jv.com##*
@@ -72,6 +75,7 @@
 9sex.tv##*
 9upk.com##*
 9xxx.net##*
+a1av.xyz##*
 achickenb01.com##*
 aff002.net##*
 antivirus.rising.com.cn##*
@@ -80,6 +84,7 @@ anyxz.com##*
 appchina.com##*
 aqdmv143.com##*
 attvideo.com##*
+aus234.com##*
 av5.net##*
 avgle.com##*
 avple.tv##*
@@ -109,6 +114,7 @@ cfgioa.com##*
 chipmong666.xyz##*
 clipsex.video##*
 clkoo.cn##*
+club91.net##*
 cmdh.me##*
 cncrk.com##*
 cr173.com##*
@@ -144,9 +150,11 @@ fbjav.com##*
 fhpaaa.com##*
 flash.cn##*
 flashget.com##*
+fuccunt.com##*
 fuck-videos.xxx##*
 fuckisex.com##*
 fuli16.se##*
+fytt3.com##*
 ggdyx.com##*
 gha678.com##*
 gokahoikuen.com##*
@@ -168,6 +176,7 @@ hk123.net##*
 honewood.com##*
 hotshortstories.com##*
 hpjav.tv##*
+hsex.men##*
 hzj98.com##*
 i4hu.com##*
 i57n.com##*
@@ -208,12 +217,14 @@ jessicachina.net##*
 jiegeng.com##*
 jingmadou.com##*
 jisuxz.com##*
+jiuse204.com##*
 jor123.com##*
 jor789.com##*
 jpwl88.cn##*
 jz5u.com##*
 jz807.com##*
 kaenv.com##*
+kb69.top##*
 kids0cn.com##*
 kjcenter.com##*
 kkx.net##*
@@ -295,11 +306,13 @@ phimsexhay669.com##*
 pincong.rocks##*
 playno1.com##*
 porn.com##*
+pornfind.org##*
 pornhub.com##*
 pornhubpremium.com##*
 pppao1.com##*
 prgunai.store##*
 qinav.com##*
+qingse.one##*
 qq388.cn##*
 qqtn.com##*
 qqx15.com##*
@@ -326,6 +339,7 @@ softrw.com##*
 sokmil.com##*
 som456.com##*
 somode.com##*
+soutongshipin.com##*
 spankbang.com##*
 spankbang.party##*
 ssd456.com##*
@@ -352,6 +366,7 @@ uc.cn##*
 ukr456.com##*
 unacg.com##*
 upsjav.com##*
+uqkjz.com##*
 uzzf.com##*
 veryhuo.com##*
 video.xunlei.com##*
@@ -371,6 +386,7 @@ wkhere.com##*
 wywyx.com##*
 xdowns.com##*
 xfdown.com##*
+xfsr.xyz##*
 xhamster.com##*
 xiazai.zol.com.cn##*
 xiazaiba.com##*
@@ -390,6 +406,7 @@ xxoo.su##*
 xxx.com##*
 xxxmadou.com##*
 xxxmmm.club##*
+xxxxvideo.uno##*
 xz7.com##*
 yangbit.com##*
 yashenggd.com##*
@@ -401,6 +418,7 @@ youjizz.com##*
 youqian.360.cn##*
 yp988q0.wang##*
 yskhd.com##*
+yuewoba.xyz##*
 z260.tv##*
 zhaoav2.cloud##*
 zhazhijiav.top##*
@@ -417,6 +435,8 @@ zyjiadian.com##*
 ||xvideos*.xxx
 ! 广告弹窗/元素
 *###ads_general_1_bottom
+*###Baidu-bottomAd
+*###Baidu-topAd
 *###bdshare
 *###btmBox
 *###couplet
@@ -718,6 +738,7 @@ zyjiadian.com##*
 91exam.org##.a2 > div
 91exam.org##.page
 91exam.org##div:nth-of-type(8)
+91rb.xyz##.i5a44cd6d5bf110aa604f696af5720367
 91sot.com##.top.text-right.list-inline.list-unstyled > li:nth-of-type(1)
 91wenmi.com###footer
 91wenmi.com##[href="https://91wenmi.com/xiezuo/#lt"]
@@ -1967,6 +1988,7 @@ lapin365.com##.app.member > [href="//m.lapin365.com/apps.htm"]
 lapin365.com##.container
 lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 lceda.cn###editor_start_right_page
+lceda.cn###sys-notice
 lceda.cn##.float-window
 lckdj.com##.online_wechat.online_item
 lcread.com###huodong
@@ -2810,6 +2832,8 @@ sohu.com##li.new-end:nth-of-type(2)
 sojson.com##._left_ad.layui-col-md4
 sojson.com##._right_ad.layui-col-md4
 sojson.com##.layui-word-aux.apend-txt
+soutongshipin.com##.bg-black
+soutongshipin.com##.transition-all
 space.bilibili.com##li.nav-link-item:nth-of-type(8)
 speedtest.cn###speedApp > p
 speedtest.cn###speedUpNotice
@@ -3554,6 +3578,7 @@ zzyyww.cn##.tags
 ||135320.com$subdocument
 ||360doc.com/ad/*$subdocument
 ||4pcc.com^$script
+||51xl.xyz$image
 ||520xingyun.com/images/*.gif$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||ass.izshi.cn$subdocument
@@ -3581,6 +3606,7 @@ zzyyww.cn##.tags
 ||js.imgsina.com/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
+||kb69.top$image
 ||mmjs.tcmap.com.cn/*$subdocument
 ||p1.meituan.net/csc/*.gif$image
 ||pornlulu.com/*$image
