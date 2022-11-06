@@ -1,6 +1,6 @@
 ! [uBlock Origin]
-! Title: fuck Ads rules_Beta
-! TimeUpdated: 2022-11-04
+! Title: fuck Ads_Beta
+! TimeUpdated: 2022-11-06
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -568,6 +568,7 @@ zyjiadian.com##*
 *##.wechat
 *##.weibo
 *##.xshare
+*##.toolbar-advert
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
 *##single-bottom-ads
@@ -599,9 +600,7 @@ zyjiadian.com##*
 123.sogou.com###infoFlow
 123.sogou.com###setHome
 123.sogou.com##.container
-123.sogou.com##.container > ul
 123.sogou.com##.hotwords
-123.sogou.com##.hotwords > li:nth-of-type(2)
 123.sogou.com##.info_flow_sidebar__2Tw2H
 123.sogou.com##.l > span
 123.sogou.com##.leftbar
@@ -704,11 +703,7 @@ zyjiadian.com##*
 3dmgame.com##.cl.tshare
 3dmgame.com##.Cs_share
 3g.163.com##.comment-link > .js-open-app
-3g.163.com##.js-open-app.backflow-floating
-3g.163.com##.js-open-app.main-openApp
-3g.163.com##.js-open-app.open-btn
-3g.163.com##.js-open-app.s-openApp
-3g.163.com##.js-open-app.s-tip
+3g.163.com##.js-open-app
 3g.163.com##.s-openApp
 3g.163.com##.widget-floatMenu
 3g.163.com##footer > span
@@ -929,8 +924,8 @@ baike.pcauto.com.cn###JtopshareToole > .share-tit
 baike.pcauto.com.cn##.bk-ci-tags > .bk-share > .bk-fx.bk-share-item
 baikecun.com###post-45216 > .clear.entry-bottom > .custom-share
 baikecun.com###post-45216 > .entry-header > .entry-meta > .custom-share
-baikecun.com##.bottom-icon.icon-weibo
-baikecun.com##.bottom-icon.tooltip.icon-weixin
+baikecun.com##.icon-weibo
+baikecun.com##.icon-weixin
 baipiao2.com##.post-apd
 baiyunju.cc##.widget_ssr_inner
 bangxuetang.com##.admod
@@ -1002,7 +997,6 @@ binance.com##.css-8non6d > .css-1n2fhb3
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 biyungu.com##.wpcom_myimg_wrap
 blockvalue.com##.wbox
-blockvalue.com##.wbox.new
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.51cto.com##.action-box > ul > .share > strong
 blog.51cto.com##.inner > ul > .share > strong
@@ -3673,7 +3667,6 @@ zzyyww.cn##.tags
 ||js2.mgjianshe.com$subdocument
 ||kb69.top$image
 ||mmjs.tcmap.com.cn/*$subdocument
-||p.qlogo.cn$image
 ||p1.meituan.net/csc/*.gif$image
 ||pic.picnewsss.com$image
 ||pornlulu.com/*$image
@@ -3691,3 +3684,12 @@ zzyyww.cn##.tags
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
+zhongce.sina.com.cn##.side-btns-jfyb-resize
+download.csdn.net##.top-bar
+juejin.cn##[class="sidebar-block banner-block"]
+baijiahao.baidu.com##.undefined
+m.baidu.com##.ivk-bottom-panel-confirm-btn
+m.tmtpost.com##body > .app_html_btn
+m.tmtpost.com##.open_app
+m.tmtpost.com##.get_apps_btn
+zhidao.baidu.com##.knowledge-answer-list-index
