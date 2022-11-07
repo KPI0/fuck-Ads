@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-06
+! TimeUpdated: 2022-11-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -489,6 +489,8 @@ zyjiadian.com##*
 *###subMenuBox
 *##.a2hs-ios-dRZ
 *##.ad
+*##.advPop
+*##.advsmall
 *##.ad-article
 *##.ad-banner-wrapper
 *##.ad-bottom-new
@@ -510,6 +512,10 @@ zyjiadian.com##*
 *##.adwidget
 *##.app-ad
 *##.app-open
+*##.calc-guanggao
+*##.wwads-cn
+*##.gg_wap
+*##.adv-bottom
 *##.appdown
 *##.bdshare-slide-button-box
 *##.bdshare_t
@@ -3693,3 +3699,18 @@ m.tmtpost.com##body > .app_html_btn
 m.tmtpost.com##.open_app
 m.tmtpost.com##.get_apps_btn
 zhidao.baidu.com##.knowledge-answer-list-index
+woshipm.com##.fixed-linkedme
+wap.cnki.net##.Appopen
+||index.bizdirlib.com$subdocument
+zhujib.com##.pwaforwp-footer-prompt
+pcv.zhaosw.com##.hot.recommend
+||www.dnzp.com/uploads/kk$image
+dnzp.com##.postt
+||jz.down10s.com$subdocument
+||ubb.autotimes.com.cn$subdocument
+||fpb2.lz03.cn$subdocument
+||bd2.thyou.com$subdocument
+||b.pdftoword.cn$subdocument
+||4.qumama.cn$subdocument
+||dhn.jiankang123.net$subdocument
+||m6.66077.cn$subdocument
