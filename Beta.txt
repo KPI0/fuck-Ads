@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-07
+! TimeUpdated: 2022-11-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -11,6 +11,7 @@
 09.gay##*
 0feng.net##*
 11439.net##*
+are456.com##*
 115.fun##*
 125de.cam##*
 13833937800.com##*
@@ -244,6 +245,7 @@ jz5u.com##*
 jz807.com##*
 kaenv.com##*
 kb69.top##*
+jiubanzhifu.com##*
 kids0cn.com##*
 kjcenter.com##*
 kkx.net##*
@@ -271,6 +273,7 @@ m-d.tv##*
 m.0ig.top##*
 m.qq.com##*
 madou.club##*
+ata234.com##*
 madou.io##*
 madou.la##*
 madou.one##*
@@ -507,6 +510,8 @@ zyjiadian.com##*
 *##.advert
 *##.advertisement
 *##.advertising-mask
+*##.iguangao
+*##.guangaoi
 *##.advertising-popup
 *##.advPop
 *##.advsmall
@@ -3716,3 +3721,14 @@ zzyyww.cn##.tags
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
+m.ixigua.com##.page-detail__open-xigua
+||cc.psd8.com$subdocument
+||www.qycn.com/home/img/helpfile$image
+||imgs.itxueyuan.com/advPicture$image
+m.15tqw.com##.csbox
+||bd-un2.wanglv.com$subdocument
+||retrieve.64365.com$subdocument
+||bu2.wang1314.com$subdocument
+yuanheng0371.com##.wpcom_myimg_wrap
+m.278wan.com##.guideDownLoad
+m.yebaike.com##.weui-panel__bd > div
