@@ -3732,3 +3732,9 @@ m.15tqw.com##.csbox
 yuanheng0371.com##.wpcom_myimg_wrap
 m.278wan.com##.guideDownLoad
 m.yebaike.com##.weui-panel__bd > div
+m.icauto.com.cn##.ssi_2_yindao
+m.icauto.com.cn##.ssi_2_guessulike
+m.icauto.com.cn##.ssi_2_lastad
+||gg2.wenzhaihui.com$subdocument
+m.yoojia.com##.guide-float-layer
+m.yoojia.com##.download-app-bar
