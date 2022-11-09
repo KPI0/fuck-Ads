@@ -1,9 +1,10 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2022-11-07
+! TimeUpdated: 2022-11-09
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
+00000.la##*
 00791.com##*
 05102.com##*
 05cg.com##*
@@ -18,7 +19,9 @@
 160.com##*
 1678av.com##*
 17173.la##*
+17173zhubo.com##*
 188soft.com##*
+18cute.monster##*
 18maogk.com##*
 18qwe.com##*
 210t.com##*
@@ -45,6 +48,7 @@
 52av.one##*
 52pk.com##*
 52z.com##*
+53sb.com##*
 56maoee.com##*
 57maoee.com##*
 58.com##*
@@ -54,9 +58,13 @@
 61maoak.com##*
 65maott.com##*
 668.su##*
+66891.cc##*
+66se20.com##*
 69mnuuv.com##*
+69tang.org##*
 75717.cc##*
 7654.com##*
+7719.me##*
 78x.xyz##*
 7xdown.com##*
 7xg.cc##*
@@ -64,16 +72,24 @@
 88888888av.com##*
 9188qp.com##*
 91bx.org##*
+91hub.cc##*
+91hub.net##*
 91md.me##*
+91mdcm.com##*
 91porn.com##*
 91pornd.com##*
 91porny.com##*
+91pron.com.es##*
+91rb.com##*
 91rb.net##*
 91rb.xyz##*
 91url.info##*
 91yingshi9.me##*
 91zpc01.xyz##*
 95jv.com##*
+97mm.cc##*
+99883.cc##*
+99b74.com##*
 99box.com##*
 9sex.tv##*
 9upk.com##*
@@ -83,19 +99,25 @@ achickenb01.com##*
 aff002.net##*
 aff006.org##*
 aicediamond.top##*
+aidou.la##*
 aipaw1.com##*
 aipaw2.xyz##*
+aisejushi6.com##*
 antivirus.rising.com.cn##*
 anxz.com##*
 anyxz.com##*
+app378.com##*
 appav.live##*
 appchina.com##*
 aqdmv143.com##*
+are456.com##*
+ata234.com##*
 attvideo.com##*
 aus234.com##*
 av5.net##*
 avgle.com##*
 avjb.com##*
+avmoo.click##*
 avple.tv##*
 b4x99.com##*
 baipiao1.com##*
@@ -125,10 +147,12 @@ ccho.cc##*
 cdymsm.com##*
 cfgioa.com##*
 chipmong666.xyz##*
+clfb.xyz##*
 clipsex.video##*
 clkoo.cn##*
 club91.net##*
 cmdh.me##*
+cmm.lol##*
 cncrk.com##*
 cr173.com##*
 crsky.com##*
@@ -159,6 +183,7 @@ epochtimes.com##*
 etalon-lis.com##*
 eth567.com##*
 eubaiu.xin##*
+fangsung.com##*
 fbjav.com##*
 fhpaaa.com##*
 flash.cn##*
@@ -169,6 +194,8 @@ fuckisex.com##*
 fuli16.se##*
 fytt.com##*
 fytt3.com##*
+gcfuck.vip##*
+gcjx3.xyz##*
 ggdyx.com##*
 gha678.com##*
 gokahoikuen.com##*
@@ -186,7 +213,9 @@ harabox.com##*
 hardsextube.com##*
 hb6s.com##*
 hbook.me##*
+heibi100.com##*
 heiliao9.pro##*
+heraa.cc##*
 hi.com##*
 hiporn.cc##*
 hk123.net##*
@@ -195,6 +224,8 @@ hongkongdollvideo.com##*
 hotshortstories.com##*
 hpjav.tv##*
 hsex.men##*
+huahailou5.cfd##*
+huahailou5.com##*
 hzj98.com##*
 i4hu.com##*
 i57n.com##*
@@ -203,6 +234,7 @@ idn234.com##*
 ie.sogou.com##*
 iefans.net##*
 ijinshan.com##*
+imadou.cc##*
 irq234.com##*
 isr789.com##*
 itmop.com##*
@@ -231,10 +263,15 @@ javmost.xyz##*
 javsex.guru##*
 javxxx.me##*
 jb51.net##*
+jcss53.com##*
 jessicachina.net##*
+jiaojiao100.com##*
+jieav.com##*
 jiegeng.com##*
 jingmadou.com##*
+jipinfanhao.com##*
 jisuxz.com##*
+jiubanzhifu.com##*
 jiuse204.com##*
 jokerlutxt.top##*
 jor123.com##*
@@ -248,6 +285,7 @@ kids0cn.com##*
 kjcenter.com##*
 kkx.net##*
 kmff25.com##*
+kmff28.com##*
 kp26.net##*
 kuai8.com##*
 kuaihou.com##*
@@ -261,12 +299,17 @@ lalayy8.com##*
 languang.com##*
 lao678.com##*
 laomaotao.net##*
+lfge6.top##*
 liqucn.com##*
+llzyw48.com##*
 lmt.hebop.cn##*
 lotto60.com##*
 lovepapas.com##*
+lsj.im##*
 ltube.life##*
 ludashi.com##*
+lululu.one##*
+lyqapp.com##*
 m-d.tv##*
 m.0ig.top##*
 m.qq.com##*
@@ -285,6 +328,7 @@ madouqu.com##*
 madouqu2.cc##*
 madouqu3.cc##*
 madoushe.cn##*
+madousvip.com##*
 mate2.cyou##*
 mauddhblia.com##*
 md11.cyou##*
@@ -294,7 +338,9 @@ mdmd.cyou##*
 mdpda.com##*
 mdspw.com##*
 men.com##*
+mg86.net##*
 missav.com##*
+mnygk8.com##*
 mod.run##*
 modelmediaus.com##*
 modeltv.com##*
@@ -304,6 +350,7 @@ mt02.site##*
 my123.com##*
 mydown.com##*
 mydown.yesky.com##*
+nakedteengirls.org##*
 netflav1.com##*
 nga345.com##*
 nga567.com##*
@@ -320,6 +367,7 @@ onlinedown.net##*
 oofof.com##*
 ourshdtv.com##*
 ouyaoxiazai.com##*
+papersnowdge.cc##*
 pc.rising.com.cn##*
 pc6.com##*
 pcsoft.com.cn##*
@@ -327,6 +375,7 @@ peach-av.com##*
 peise.net##*
 phimsexhay669.com##*
 pincong.rocks##*
+playav.tv##*
 playno1.com##*
 porn.com##*
 pornfind.org##*
@@ -357,6 +406,7 @@ sex.com##*
 shop.yipanhaocai.com##*
 shoujiweishi.baidu.com##*
 shuajizhijia.net##*
+shuzhibanquan.com##*
 sifang.city##*
 siwacos4.com##*
 sk734.com##*
@@ -378,6 +428,7 @@ sysceo.cn##*
 sysceo.com##*
 taiav.com##*
 taobeike.com##*
+taose.tv##*
 tasexy.com##*
 tcyyxdjx.com##*
 theav.xyz##*
@@ -385,8 +436,11 @@ thepornbest.com##*
 theporndude.com##*
 thumbzilla.com##*
 tiandi.com##*
+timi21.com##*
+tkbpyg.life##*
 tom3828.com##*
 tonywardcouture.com##*
+tuaox.cc##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
@@ -400,6 +454,7 @@ veryhuo.com##*
 video.xunlei.com##*
 violatorrecords.com##*
 vip.aqdtv511.com##*
+vivo7.top##*
 vrzhijia.com##*
 watchjavonline.com##*
 weav.xyz##*
@@ -414,6 +469,7 @@ wkhere.com##*
 wmm221.com##*
 wmm222.com##*
 wywyx.com##*
+x227n.com##*
 xdowns.com##*
 xfdown.com##*
 xfsr.xyz##*
@@ -431,6 +487,8 @@ xmmv9.com##*
 xnxx.com##*
 xpc654.com##*
 xpwindow.com##*
+xsz-av.com##*
+xszav3.com##*
 xue51.com##*
 xuetianli.com##*
 xvideos.com##*
@@ -457,6 +515,7 @@ z260.tv##*
 zhaoav2.cloud##*
 zhazhijiav.top##*
 zhuangjiba.com##*
+zipaippp.com##*
 zjbl.qq.com##*
 zjyonghong.com##*
 zs.91.com##*
@@ -464,6 +523,7 @@ zyjiadian.com##*
 ||*sehuiyao*.me
 ||*zztt*.com
 ||*zztt*.net
+||164.155.162.66
 ||178.128.25.172
 ||2345*.com
 ||xvideos*.xxx
@@ -496,12 +556,15 @@ zyjiadian.com##*
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
 *##.ad-wrap
+*##.ad360
+*##.ad_box
 *##.ad_pic
 *##.ad_single_1
 *##.ad_single_title
 *##.adBox
 *##.ads
 *##.ads-item
+*##.adshoptop
 *##.adv-bottom
 *##.adv_block
 *##.advert
@@ -540,11 +603,15 @@ zyjiadian.com##*
 *##.fenxiang
 *##.float-ads
 *##.footerads
+*##.gg-box
 *##.gg_wap
+*##.ggshow
+*##.guangaoi
 *##.guanggao
 *##.h5-detail-ad
 *##.home-ad-link
 *##.icon_download
+*##.iguangao
 *##.img-ad
 *##.jifeng-ad-wrapper
 *##.js-article-ad
@@ -763,6 +830,7 @@ zyjiadian.com##*
 699pic.com##.springtime-pop1047-pop2.springtime-pop1047.springtime-pop
 699pic.com##.viewLimit
 699pic.com##.winpopbg
+69tang.org###item11
 73508.com###xh_index_footzc
 73508.com##.clearfix.gg_detail_cnt
 73508.com##.fl.user_error_share
@@ -776,6 +844,7 @@ zyjiadian.com##*
 91exam.org##.a2 > div
 91exam.org##.page
 91exam.org##div:nth-of-type(8)
+91rb.com##.top
 91rb.xyz##.i5a44cd6d5bf110aa604f696af5720367
 91sot.com##.top.text-right.list-inline.list-unstyled > li:nth-of-type(1)
 91wenmi.com###footer
@@ -784,6 +853,9 @@ zyjiadian.com##*
 91zpc01.xyz##.links-top
 980a.com##[src="//inews.gtimg.com/newsapp_ls/0/14230079538/0"]
 99114.com##.cgtcode > span
+99b74.com##.block
+99b74.com##.dmcenter
+99b74.com##.spot
 99hufu.com##.item-ad
 99hufu.com##.j-share.action-item
 99hufu.com##.wpcom_ad_wrap
@@ -1537,6 +1609,7 @@ g.pconline.com.cn##.enter-zt
 gank.fanpiece.com##.right.options
 gaojiufeng.cn##.main-footer
 gbs.cn##.toolbar
+gcjx3.xyz##[href="http://23.224.188.8:2939/vip200.html"] > .lazyloaded
 gd.sina.com.cn##.share-layout
 gd.sina.com.cn##.share-sns
 geekpark.net##.contact > div
@@ -2068,7 +2141,9 @@ lulian.cn##.met-editor > .social-box
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+m.15tqw.com##.csbox
 m.1688.com##.header-wrapper
+m.278wan.com##.guideDownLoad
 m.4399.cn##.cn-mt10.cn-app_download
 m.51job.com##.goApp
 m.699pic.com##.chongzhiact
@@ -2143,6 +2218,7 @@ m.feijisu06.com##.wrapper > .footer
 m.feijisu09.com##.footer
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
+m.haodf.com###open-app-box
 m.hupu.com##.open-hupu
 m.hupu.com##.tabs-component-search-app
 m.huya.com###template
@@ -2153,6 +2229,9 @@ m.huya.com##.pop-wrap
 m.huya.com##.start-btn
 m.iask.sina.com.cn###share-button
 m.iask.sina.com.cn##.baidu_iask
+m.icauto.com.cn##.ssi_2_guessulike
+m.icauto.com.cn##.ssi_2_lastad
+m.icauto.com.cn##.ssi_2_yindao
 m.ijjxs.com###js2
 m.ijjxs.com##.footer
 m.ijjxs.com##div[class="pd6"]
@@ -2185,11 +2264,13 @@ m.ithome.com##.news-share
 m.ithome.com##.open-app
 m.ithome.com##.open-app-banner
 m.ixigua.com##.banner_content
+m.ixigua.com##.page-detail__open-xigua
 m.ixigua.com##.xigua-download
 m.ixigua.com##.xigua-guide-button
 m.jd.com###imk2FixedBottom
 m.jd.com##.carousel-wrapper
 m.jd.com##.pannel-seat
+m.jiemian.com##.download-app
 m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
 m.jinse.com##.bottom.js-linkApp.js-read-full__open
 m.jinse.com##.js-article-share
@@ -2229,6 +2310,7 @@ m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
+m.lelewen.cn##.lmgg-block
 m.mgtv.com##.mg-down-btn
 m.mudvod.tv###bottom_btn
 m.mudvod.tv##.android_banner.m-box
@@ -2322,6 +2404,10 @@ m.xsyq.cc##b
 m.xzbu.com###doyoo_monitor
 m.xzbu.com##.down-box
 m.ydxgnd.com##.icon-defaultColor.newsShare.g_round.g_iconMiddle.icon-share
+m.yebaike.com##.weui-panel__bd > div
+m.yoojia.com##.download-app-bar
+m.yoojia.com##.guide-float-layer
+m.yoojia.com##.youjia-msgbox-confirm.youjia-msgbox-btn
 m.youdao.com##div:nth-of-type(3)
 m.youdao.com##div:nth-of-type(7)
 m.youdao.com##div:nth-of-type(8)
@@ -2345,6 +2431,8 @@ m.zongheng.com##div[id]
 madisonboom.com##.cf.fxBox
 madisonboom.com##[class="fx"]
 madou.sbs##.logo-banner
+madousvip.com##.da
+maidixun.com##table
 maigoo.com##.articlesharebox
 maijia.com###detail-content-bottom-image
 maijia.com###detail-slider-top-image
@@ -2409,6 +2497,8 @@ meijumi.top##.close
 meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-content
 meipian.cn##.header-navs-menu > .header-navs-link
 meipian.cn##div.bar-item:nth-of-type(3)
+meipian3.cn##.content > div.item:nth-of-type(2)
+meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
 mgtv.com##.sidebar-download
@@ -2447,6 +2537,7 @@ msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+mtop.chinaz.com##.TjLi
 music-pi.vercel.app##.bar-right
 music.163.com##.lst
 music.163.com##[class="m-multi"]
@@ -2963,6 +3054,7 @@ taodocs.com###show_wx
 taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
 taodocs.com##.link > span:nth-of-type(2)
 taodocs.com##li.ewm.mv_lis:nth-of-type(5)
+taose.tv###table1
 taptap.com##.pull-right
 taptap.com##.tap-footer__download
 tasexy.com###sexy_a1
@@ -3009,10 +3101,6 @@ tianyancha.com##.index_activity-home-popup__yvYIZ.tyc-modal
 tianyancha.com##.show.banner-bottom
 tianyancha.com##.tyc-bottom-banner-model
 tianyancha.com##.tyc-home > .container
-tianyancha.com##.tyc-modal-centered.tyc-modal-wrap
-tianyancha.com##.tyc-modal-mask
-tianyancha.com##div.item:nth-of-type(2)
-tianyancha.com##div.item:nth-of-type(3)
 tiatiatoutiao.com###J_shoucang
 tiatiatoutiao.com##.show_go_1
 tieba.baidu.com###spage-tbshare-container
@@ -3546,6 +3634,7 @@ youzan.com##.clue-components-form-list__item--active.clue-components-form-list__
 ypppt.com##.aad4
 ys137.com##.baidu-gglist
 yszzq.com##.date
+yuanheng0371.com##.wpcom_myimg_wrap
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
 yun.139.com##.fr
@@ -3613,6 +3702,7 @@ zikao365.com##.shuang_mask
 zikao365.com##div.footerxx:nth-of-type(1)
 zikaosw.cn##.advbox
 zikaosw.cn##.adver-pic.boot
+zipaippp.com##body > .wrap
 zjnews.china.com.cn##.chanpin
 zjnews.china.com.cn##.ewm
 zjnews.china.com.cn##li.fl:nth-of-type(1)
@@ -3654,6 +3744,8 @@ zzyyww.cn##.resource
 zzyyww.cn##.tags
 ||135320.com$subdocument
 ||14110.com$image
+||2.51sole.cn$subdocument
+||2.k1u.com$subdocument
 ||360doc.com/ad/*$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
@@ -3667,26 +3759,36 @@ zzyyww.cn##.tags
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
+||bd-un2.wanglv.com$subdocument
 ||bd2.520101.com$subdocument
 ||bd2.thyou.com$subdocument
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||boce.com/uploads/AdvertImages/*$image
+||bu2.wang1314.com$subdocument
+||cc.psd8.com$subdocument
 ||cdn.jiemeng.tw$subdocument
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||dhn.jiankang123.net$subdocument
+||dimg04.c-ctrip.com$image
+||dmn.lczk.cn$subdocument
 ||file3.dzsc.com/bigcustomerad$image
 ||fpb2.lz03.cn$subdocument
 ||ftsxgg2.szrfdq.com$subdocument
+||gg2.wenzhaihui.com$subdocument
+||ggt999.oss-cn-hangzhou.aliyuncs.com$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
+||huangtupian.com$image
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
 ||img11.360buyimg.com/*.jpg$image
 ||img2.idongde.com$subdocument
 ||img3.dzsc.com/img/web/g-g$image
+||imgs.itxueyuan.com/advPicture$image
 ||index.bizdirlib.com$subdocument
+||index.geonamebase.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
 ||jiansuo.cdn-bandao.cn/*$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
@@ -3697,22 +3799,33 @@ zzyyww.cn##.tags
 ||kb69.top$image
 ||m6.66077.cn$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
+||n3597.com$image
 ||p1.meituan.net/csc/*.gif$image
+||p3.toutiaoimg.com$image
 ||pic.picnewsss.com$image
 ||pornlulu.com/*$image
+||pxw.chinapp.com$subdocument
+||renxingganwu.com^$domain=www.jswvip.net
 ||resao.com/kf$image
+||retrieve.64365.com$subdocument
 ||shiold2.zhaosw.com$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
 ||statics.rili.com.cn$subdocument
+||timi21.com^$script
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
+||www.97mm.cc/A1*.gif$image
+||www.diskaa.com^$script,domain=jieav.com
 ||www.dnzp.com/uploads/kk$image
+||www.qycn.com/home/img/helpfile$image
+||www.tuaox.cc/A1*.gif$image
 ||xingfupa.com$image
 ||y.yaohuo.me
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
+||z3.ax1x.com$image
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
