@@ -562,6 +562,7 @@ zztt37.com##*
 *###rightadbox
 *###share
 *###subMenuBox
+*###swiper-ad
 *###ymzy-tuiguang-test-bottom
 *##._left_ad
 *##._right_ad
@@ -621,6 +622,7 @@ zztt37.com##*
 *##.btmAd
 *##.c-nav-advertising
 *##.calc-guanggao
+*##.columns-ad
 *##.com-advertisement
 *##.commentads
 *##.common-top-ad-container
@@ -645,6 +647,7 @@ zztt37.com##*
 *##.gg_wap
 *##.ggshow
 *##.ggxc-box
+*##.growth-ad
 *##.guangaoi
 *##.guanggao
 *##.h5-detail-ad
@@ -1416,7 +1419,6 @@ doc.wendoc.com##.ding01
 doc88.com###app_read
 doc88.com###footer > .mainpart
 doc88.com##.activelist > .clearfix
-doc88.com##.columns-ad
 doc88.com##.columns-us
 doc88.com##.dk-side
 doc88.com##.header-func > .wrapper > ul > li > [href="/app.html"]
@@ -1642,6 +1644,9 @@ freedidi.com##.group.sharrre-header.sharrre-container
 freeroad.org##.top-inside.force-desktop.smt-app-message_bar.smt-app
 freeroad.org##[src="https://freeroad.org/wp-content/uploads/2021/01/Photography-Workshop.png"]
 fsylr.com##.posts-top-cjtz-mini
+fulibiu.com##.lanrenzhijia
+fuwuqizuyong.cc##.widget_image_myimg
+fuwuqizuyong.cc##.wpcom_myimg_wrap
 fx361.com###k_s_ol_chatWin
 fx361.com###ks_dir_ifra
 fx361.com##.downAPP
@@ -1759,7 +1764,6 @@ hao.360.com##.plane-bd [href="https://go.360.cn/"]
 haokan.baidu.com##.about
 haokan.baidu.com##.download-hover.link-item
 haokan.baidu.com##.follow-btn
-haokan.baidu.com##.growth-ad
 haokan.baidu.com##.landrightbanner
 haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.navigation-download
@@ -2284,6 +2288,7 @@ m.iask.sina.com.cn##.baidu_iask
 m.icauto.com.cn##.ssi_2_guessulike
 m.icauto.com.cn##.ssi_2_lastad
 m.icauto.com.cn##.ssi_2_yindao
+m.iciba.com##.active.dic-follow
 m.ijjxs.com###js2
 m.ijjxs.com##.footer
 m.ijjxs.com##div[class="pd6"]
@@ -3887,6 +3892,7 @@ zzyyww.cn##.tags
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
 ||vip.fuqizhishi.com/hguanggao$image
+||www.17ce.com/adwrap$image
 ||www.97mm.cc/A1*.gif$image
 ||www.diskaa.com^$script,domain=jieav.com
 ||www.dnzp.com/uploads/kk$image
