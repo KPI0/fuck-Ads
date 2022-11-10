@@ -120,11 +120,14 @@ avjb.com##*
 avmoo.click##*
 avple.tv##*
 b4x99.com##*
+baidustatic.com##*
 baipiao1.com##*
 baipiao2.com##*
 baofeng.com##*
 bb51.me##*
 bbailo.vip##*
+bdstatic.cn##*
+bdstatic.com##*
 bear20.com##*
 bel345.com##*
 bel789.com##*
@@ -141,6 +144,7 @@ buliangdh46.xyz##*
 buy.rising.com.cn##*
 byym75.com##*
 cableav.tv##*
+cbjs.baidu.com##*
 ccafc.org.cn##*
 ccbflp.com##*
 ccho.cc##*
@@ -154,6 +158,7 @@ club91.net##*
 cmdh.me##*
 cmm.lol##*
 cncrk.com##*
+cpro.baidu.com##*
 cr173.com##*
 crsky.com##*
 daagux.digital##*
@@ -219,6 +224,7 @@ heraa.cc##*
 hi.com##*
 hiporn.cc##*
 hk123.net##*
+hm.baidu.com##*
 honewood.com##*
 hongkongdollvideo.com##*
 hotshortstories.com##*
@@ -286,6 +292,7 @@ kjcenter.com##*
 kkx.net##*
 kmff25.com##*
 kmff28.com##*
+kor234.com##*
 kp26.net##*
 kuai8.com##*
 kuaihou.com##*
@@ -540,10 +547,12 @@ zyjiadian.com##*
 *###footerAds
 *###listBox
 *###listwoBox
+*###maskBox
 *###midBox
 *###Nav_Top_Ad
 *###new_ad
 *###partners
+*###popBox
 *###randomBox
 *###rightadbox
 *###share
@@ -568,6 +577,7 @@ zyjiadian.com##*
 *##.adshoptop
 *##.adv
 *##.adv-bottom
+*##.adv-container
 *##.adv-fullscreen
 *##.adv10
 *##.adv7
@@ -628,13 +638,16 @@ zyjiadian.com##*
 *##.jifeng-ad-wrapper
 *##.js-article-ad
 *##.js-head-advertising
+*##.mbd_ad
 *##.module-ad
 *##.new-bdsharebuttonbox
 *##.page-share
 *##.page_ad
+*##.person-trainAd
 *##.pop_con
 *##.post-bottom
 *##.pro-ad-pageend
+*##.qklw-adv
 *##.question-ads-exp
 *##.share
 *##.share-box
@@ -915,6 +928,7 @@ aibicl.com##.qrcode
 aicediamond.top###long-page > li
 aicediamond.top##body > div.container:nth-of-type(1)
 aicediamond.top##div.container > li
+aiqicha.baidu.com##.active-enter
 aiqicha.baidu.com##.app-enter
 aiqicha.baidu.com##.aqc-home-float-wrapper
 aiqicha.baidu.com##.float-banner
@@ -1007,7 +1021,6 @@ baijiahao.baidu.com##.index-module_recentArticleContainer_13m7C
 baijiahao.baidu.com##.index-module_relateContainer_3RNjY
 baijiahao.baidu.com##.index-module_topList_k56w2
 baijiahao.baidu.com##.undefined
-baijiahao.baidu.com##.undefined._3RmxTKlPzuCkzYl1ZqE2yE.uukjsi6a_zpZccrqYiI3k
 baike.baidu.com##._4txvhmc
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.topA
@@ -1611,6 +1624,7 @@ freedidi.com##.group.sharrre-header.sharrre-container
 freeroad.org##.top-inside.force-desktop.smt-app-message_bar.smt-app
 freeroad.org##.w-ad.widget
 freeroad.org##[src="https://freeroad.org/wp-content/uploads/2021/01/Photography-Workshop.png"]
+fsylr.com##.posts-top-cjtz-mini
 fx361.com###k_s_ol_chatWin
 fx361.com###ks_dir_ifra
 fx361.com##.downAPP
@@ -1977,6 +1991,7 @@ jihaoba.com##div.foot:nth-of-type(18)
 jihaoba.com##div.foot:nth-of-type(22)
 jikipedia.com##.hoverable.action-button.button.share
 jingfen.jd.com##.box-link
+jingjia.net##center
 jingyan.baidu.com##.asp-self-rander
 jingyan.baidu.com##.baobao-image-item
 jingyan.baidu.com##.fresh-share-exp-e
@@ -2131,6 +2146,7 @@ lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 lceda.cn###dlg_bom_show
 lceda.cn###editor_start_right_page
 lceda.cn##.float-window
+lceda.cn##.header-title
 lckdj.com##.online_wechat.online_item
 lcread.com###huodong
 libattery.ofweek.com###gongzhonghao
@@ -2150,6 +2166,7 @@ llxbw.com##.layui-col-space5.layui-row.layui-clear
 lotto.sina.cn##div.cta:nth-of-type(3)
 ltube.life##.cate
 lulian.cn##.met-editor > .social-box
+lxapk.com##.article-content > .size-full.wp-block-image
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
@@ -2541,6 +2558,7 @@ mingyantong.com###jubigshare
 mingyantong.com###jushare
 mingyantong.com###xqriqrc
 minsu.dianping.com##.lg-hide.b-cover
+mip.qlmhome.cn##.wpcom_myimg_wrap
 mkzhan.com##.icon-ic_head_app.iconfont
 mkzhan.com##.j-header-down.user-item > [href] > .item-text
 mkzhan.com##.qr-code.aside__item
@@ -2585,6 +2603,8 @@ mydigit.cn##[href="https://mydigit.cn/thread-119068-1-1.html"]
 mydigit.cn##a[href^="plugin.php"]:nth-of-type(7)
 myqqjd.com##.entry-content > .sharing-box
 myqqjd.com##.fds.like-left-box
+mzh.moegirl.org.cn##.download-app
+mzh.moegirl.org.cn##.open-in-app-button
 n.miaopai.com##.footer
 naxuefen.com##.mip-share-container
 nb.zol.com.cn##.article-side-box
@@ -2857,9 +2877,7 @@ qinav.com##li:nth-of-type(5)
 qiyeshangpu.com##.k-right
 qiyeshangpu.com##div.adbaidu1100
 qklw.com##.pull-right
-qklw.com##.qklw-adv.slide.carousel
 qklw.com##.text-right.col-sm-4
-qklw.com##div.qklw-adv:nth-of-type(4)
 qklw.com##div[class="pull-right"]
 qq.com##.l-qmail.q-icons
 qq.com##.l-qzone.q-icons
@@ -3758,6 +3776,7 @@ zongheng.com##.foot-blank.wchat
 zongheng.com##.game_center
 zongheng.com##.tabA.app-menu
 zongheng.com##[href^="//zongheng.com/feedback"]
+zoyi14.smartapps.cn##.swan-web-suspend-button
 zsjj.zhaosw.com##.hot.recommend
 zuixu.com###layui-layer-shade1
 zuixu.com###layui-layer-shade2
@@ -3831,6 +3850,7 @@ zzyyww.cn##.tags
 ||pic.picnewsss.com$image
 ||pornlulu.com/*$image
 ||pos.baidu.com$subdocument
+||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
 ||renxingganwu.com^$domain=www.jswvip.net
 ||resao.com/kf$image
@@ -3841,6 +3861,7 @@ zzyyww.cn##.tags
 ||srxzz.com/bimg/banner1.jpg$image
 ||statics.rili.com.cn$subdocument
 ||timi21.com^$script
+||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
 ||www.97mm.cc/A1*.gif$image
