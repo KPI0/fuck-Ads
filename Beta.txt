@@ -20,6 +20,7 @@
 1678av.com##*
 17173.la##*
 17173zhubo.com##*
+17185.cc##*
 188soft.com##*
 18cute.monster##*
 18maogk.com##*
@@ -74,8 +75,10 @@
 91bx.org##*
 91hub.cc##*
 91hub.net##*
+91madou.cc##*
 91md.me##*
 91mdcm.com##*
+91mdw.com##*
 91porn.com##*
 91pornd.com##*
 91porny.com##*
@@ -221,6 +224,7 @@ hiporn.cc##*
 hk123.net##*
 honewood.com##*
 hongkongdollvideo.com##*
+hongkongdollvideo.org##*
 hotshortstories.com##*
 hpjav.tv##*
 hsex.men##*
@@ -264,6 +268,8 @@ javsex.guru##*
 javxxx.me##*
 jb51.net##*
 jcss53.com##*
+jdav88.com##*
+jdyy.bar##*
 jessicachina.net##*
 jiaojiao100.com##*
 jieav.com##*
@@ -321,8 +327,11 @@ madou.one##*
 madou.red##*
 madou.sbs##*
 madou.tel##*
+madou.wiki##*
 madou01.buzz##*
 madou101.com##*
+madoub.com##*
+madoucun.com##*
 madoumedia.net##*
 madouqu.cc##*
 madouqu.com##*
@@ -477,6 +486,7 @@ winwin7.com##*
 wkhere.com##*
 wmm221.com##*
 wmm222.com##*
+wse61.cam##*
 wywyx.com##*
 x227n.com##*
 xdowns.com##*
@@ -539,6 +549,7 @@ zztt37.com##*
 ||xvideos*.xxx
 ! 广告弹窗/元素
 *###ad-header
+*###ad_showbox
 *###adfloatbaidu
 *###adhtml
 *###ads
@@ -573,6 +584,7 @@ zztt37.com##*
 *##.ad-banner-wrapper
 *##.ad-bottom-new
 *##.ad-card
+*##.ad-horizontal
 *##.ad-img
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
@@ -899,6 +911,7 @@ zztt37.com##*
 91exam.org##.a2 > div
 91exam.org##.page
 91exam.org##div:nth-of-type(8)
+91mdw.com##.good
 91rb.com##.top
 91rb.xyz##.i5a44cd6d5bf110aa604f696af5720367
 91sot.com##.top.text-right.list-inline.list-unstyled > li:nth-of-type(1)
@@ -1820,6 +1833,7 @@ homenew.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next
 homenew.console.aliyun.com##.widget-aliyun-app
 hongxiu.com##.j-showGuidePopup.red-btn.end-guide-btn
 hostloc.com##.wp > .z
+https://www.wwsww.cn
 huaban.com##.ant-tooltip-arrow-content
 huaban.com##.ant-tooltip-inner
 huacy.cn##div.right-card:nth-of-type(1)
@@ -1968,6 +1982,8 @@ jd.com##.fixed.jTdCode
 jd.com##.jdm-tbar-tab-qrcode.jdm-toolbar-tab.J-trigger
 jd.com##.mobile.fore10.shortcut_btn
 jd.com##.promotional-top
+jdav88.com##.bg1.app
+jdav88.com##[style=" margin-top: 20px;"]
 jdzj.com##[src="//jdzj.com/t_img/mjdzj.png"]
 jelly.jd.com##.dzsc_item.share
 jeyi.net##.cl.tshare
@@ -3556,6 +3572,7 @@ wpok.cn###home-row-pics > .wrapper
 wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
+wse61.cam##.jsv-g1.jsv
 wuxiaworld.com##.space-y-1.mx-2
 wuzhuiso.com##.common-click-block.msocom-bottom-banner
 ww2.mathworks.cn##.col-md-3.col-xs-12
@@ -3564,6 +3581,7 @@ wwei.cn###go-fav
 wwei.cn##.sidebar-client-box.sidebar-block
 wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
+wwsww.cn##.nyzc
 wwwx168.cn##.post-share
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
@@ -3825,6 +3843,7 @@ zzyyww.cn##.tags
 ||520xingyun.com/images/*.gif$image
 ||54jkw.com$subdocument
 ||8499683.com$image
+||9191520.xyz$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||aipaw1.com/upload/site/tbgg$image
 ||aipaw2.xyz/upload/site/tbgg$image
@@ -3872,6 +3891,7 @@ zzyyww.cn##.tags
 ||index.geonamebase.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
 ||jiansuo.cdn-bandao.cn/*$subdocument
+||jjs.zhimeng.com.cn$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
 ||js.imgsina.com/*$subdocument
 ||js2.dadiniu.cn/*$subdocument
@@ -3883,6 +3903,7 @@ zzyyww.cn##.tags
 ||m6.66077.cn$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
 ||n3597.com$image
+||p.qlogo.cn$image
 ||p1.meituan.net/csc/*.gif$image
 ||p3.toutiaoimg.com$image
 ||pic.picnewsss.com$image
@@ -3904,6 +3925,7 @@ zzyyww.cn##.tags
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
 ||vip.fuqizhishi.com/hguanggao$image
+||vk6.me$image
 ||www.17ce.com/adwrap$image
 ||www.97mm.cc/A1*.gif$image
 ||www.diskaa.com^$script,domain=jieav.com
