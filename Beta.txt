@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-10
+! TimeUpdated: 2022-11-11
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -385,6 +385,7 @@ pornhub.com##*
 pornhubpremium.com##*
 pppao1.com##*
 prgunai.store##*
+prt345.com##*
 qinav.com##*
 qingse.one##*
 qq388.cn##*
@@ -572,16 +573,19 @@ zztt37.com##*
 *##.ad-banner-wrapper
 *##.ad-bottom-new
 *##.ad-card
+*##.ad-img
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
 *##.ad-top-header
 *##.ad-wrap
 *##.ad2
 *##.ad360
+*##.ad_bottom
 *##.ad_box
 *##.ad_pic
 *##.ad_single_1
 *##.ad_single_title
+*##.ad_under_title
 *##.adbaidu1100
 *##.adBox
 *##.ads
@@ -612,6 +616,7 @@ zztt37.com##*
 *##.aside_adv
 *##.baidu-gglist
 *##.baidu_ad
+*##.baike-ad
 *##.banner-ad
 *##.bdshare-slide-button-box
 *##.bdshare_t
@@ -1524,7 +1529,9 @@ eastweek.my-magazine.me##.view-footer > .clearfix > .share-btn > .a2a_default_st
 eastweek.my-magazine.me##div.col-xs-12.col-sm-6.col-md-12.col-lg-12
 easyeda.com###editor_start_right_page
 easylearn.baidu.com##.client-wrap
+easylearn.baidu.com##.download-app
 easylearn.baidu.com##.feedback-icon
+easylearn.baidu.com##.fixed-download
 easylearn.baidu.com##.member-guide
 easylearn.baidu.com##.vip-banner-cont
 easylearn.baidu.com##.vip-bar
@@ -1697,6 +1704,7 @@ globalsir.com###id-lev-f
 gmtv1.xyz##.pc_rb_float
 gnews.org##.entry-header.entry-meta > .section-social-share > .g-social-share
 gnews.org##.panel-container > .section-social-share > .g-social-share
+go.cqmmgo.com##.business-main-post-con
 go.cqmmgo.com##.wanneng-menu > .wn-box
 go.cqmmgo.com##.wn-icon
 godbolt.org##.btn-outline-primary.btn.nav-item
@@ -2191,6 +2199,7 @@ lxapk.com##.article-content > .size-full.wp-block-image
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+m.15tqw.com##.cesuankuang
 m.15tqw.com##.csbox
 m.1688.com##.header-wrapper
 m.278wan.com##.guideDownLoad
@@ -3534,6 +3543,7 @@ wk.baidu.com##.middle-box-root
 wk.baidu.com##.not-baidu.college-strong-guide-contain
 wk.baidu.com##.not-baidu.core-btn-guide
 wk.baidu.com##.not-baidu.core-btn-guide-defence
+wk.baidu.com##.reader-pop-manager-view-containter
 wk.baidu.com##.wk-student
 wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
@@ -3803,6 +3813,7 @@ zuoyebang.com##.download_kNXRu
 zuoyebang.com##.footer_1HFD5
 zzyyww.cn##.resource
 zzyyww.cn##.tags
+||*/static/cpt/img/jianli_banner$image
 ||135320.com$subdocument
 ||14110.com$image
 ||2.51sole.cn$subdocument
@@ -3867,6 +3878,7 @@ zzyyww.cn##.tags
 ||js2.mgjianshe.com$subdocument
 ||jz.down10s.com$subdocument
 ||kb69.top$image
+||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
 ||mmjs.tcmap.com.cn/*$subdocument
