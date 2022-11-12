@@ -154,6 +154,7 @@ ccbflp.com##*
 ccho.cc##*
 cdymsm.com##*
 cfgioa.com##*
+cg004.me##*
 chipmong666.xyz##*
 clfb.xyz##*
 clipsex.video##*
@@ -383,6 +384,7 @@ ntr12.cc##*
 nyljd.com##*
 one77.app##*
 one893.app##*
+onegreen.net##*
 onlinedown.net##*
 onlytik.com##*
 oofof.com##*
@@ -548,6 +550,8 @@ yskhd.com##*
 yuewoba.xyz##*
 yunvdao.com##*
 z260.tv##*
+zdk25.se##*
+zdk29.se##*
 zhaoav2.cloud##*
 zhazhijiav.top##*
 zhuangjiba.com##*
@@ -734,6 +738,7 @@ zztt37.com##*
 *##.top_ad
 *##.tx-info-module-down-box
 *##.videoSideAds
+*##.view-ad
 *##.VR-headAD
 *##.w-ad
 *##.web-header-ad-item
@@ -1482,12 +1487,14 @@ docer.com##.footer-info__subscribe.footer-info__column > dt
 docer.com##div.footer-info__qcode:nth-of-type(2)
 docin.com###docin_html_3
 docin.com###fyItems
+docin.com###moreList > dl
 docin.com##.addFavoritesTips
 docin.com##.backToTop
 docin.com##.bold_nav_item
 docin.com##.clear.recommend_fy
 docin.com##.moneyBox
 docin.com##.open_in_app
+docin.com##.openInApp
 docin.com##.recommend_fy_hd
 docin.com##.share_button_box
 docin.com##.share_new_style
@@ -1740,6 +1747,7 @@ gitee.com##.wechat-banner.message.icon.ui
 github-wiki-see.page###footer_info
 github-wiki-see.page###header_button > p
 github-wiki-see.page###header_info
+gllmh.com##.mshare
 globalsir.com###id-lev-f
 gmtv1.xyz##.pc_rb_float
 gnews.org##.entry-header.entry-meta > .section-social-share > .g-social-share
@@ -2326,6 +2334,7 @@ m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.haodf.com###open-app-box
+m.hexun.com##.modal-popup-openapp
 m.hupu.com##.open-hupu
 m.hupu.com##.tabs-component-search-app
 m.huya.com###template
@@ -2580,7 +2589,10 @@ manga.bilibili.com##.app.app-button.back-to-button
 manga.bilibili.com##.download-hinter
 manga.bilibili.com##.download-tip
 manhua.dmzj.com##[href="//dmzj.com/app/index.html"]
+manhuagui.com##.shortcuts
+manhuatai.com##.app-guide-qrcode
 manmanapp.com##.down_app_prompt
+manwaiyin.com##.j-share
 map.baidu.com###activity-banner-panel
 map.baidu.com###card-n
 map.baidu.com###common-bottombanner-widget-fis
@@ -3151,6 +3163,7 @@ srxzz.com##.tanchuang
 srxzz.com##.zhezao
 srxzz.com##header
 sspai.com###btn-call-app
+sspai.com##.iconfont-share
 stcn.com##.top_r
 stcn.com##.yw_ewm
 stockfeel.com.tw##.fixed.single-float-share-web
@@ -3565,6 +3578,7 @@ west.cn###J_webhostingBanner
 west.cn###J_webhostingBannertop
 west.cn##.carousel-inner
 west.cn##.clouthost_out
+wiki.biligame.com##.app-download-bar
 wiki.jikexueyuan.com##.clearfix.detail-share
 wiki.mbalib.com###rqCodeBtn
 wiki.mbalib.com##.download_app
@@ -3866,6 +3880,7 @@ zzyyww.cn##.tags
 ||135320.com$subdocument
 ||14110.com$image
 ||2.51sole.cn$subdocument
+||2.citywy.com$subdocument
 ||2.k1u.com$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
@@ -3966,6 +3981,7 @@ zzyyww.cn##.tags
 ||www.dnzp.com/uploads/kk$image
 ||www.gpbctv.com/ad888$image
 ||www.kegood.com/game$image
+||www.mbpro.top$image
 ||www.qycn.com/home/img/helpfile$image
 ||www.tiaoman5.com/feijibei/$image
 ||www.tuaox.cc/A1*.gif$image
