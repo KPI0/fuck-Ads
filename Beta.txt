@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-11
+! TimeUpdated: 2022-11-12
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -453,6 +453,7 @@ sur789.com##*
 sushiguang.com##*
 suzip.com##*
 svjav.com##*
+swz456.com##*
 sysceo.cn##*
 sysceo.com##*
 taiav.com##*
@@ -598,6 +599,7 @@ zztt37.com##*
 *##.a2hs-ios-dRZ
 *##.ad
 *##.ad-article
+*##.ad-banner
 *##.ad-banner-wrapper
 *##.ad-bottom-new
 *##.ad-card
@@ -654,6 +656,7 @@ zztt37.com##*
 *##.bdsharebuttonbox
 *##.bg-ad-right
 *##.bksharebuttonbox
+*##.bl_ad
 *##.blog-slide-ad-box
 *##.btmAd
 *##.c-nav-advertising
@@ -1339,6 +1342,7 @@ cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
 cn-healthcare.com##.appupdownnavwap
 cn-healthcare.com##.de_vedio_wrap > .goApp
+cn-healthcare.com##.upload_app_wrap
 cn-healthcare.com##.wapnav
 cn-healthcare.com##footer
 cn.chinadaily.com.cn###identifier-pannel2
@@ -3855,12 +3859,14 @@ zuoyebang.com##.footer_1HFD5
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 ||*-advertising$image
+||*/ad/*$subdocument
+||*/AdvertImages/*$image
+||*/advPicture$image
 ||*/static/cpt/img/jianli_banner$image
 ||135320.com$subdocument
 ||14110.com$image
 ||2.51sole.cn$subdocument
 ||2.k1u.com$subdocument
-||360doc.com/ad/*$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
 ||51xl.xyz$image
@@ -3884,7 +3890,6 @@ zzyyww.cn##.tags
 ||bd2.thyou.com$subdocument
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
-||boce.com/uploads/AdvertImages/*$image
 ||bu2.wang1314.com$subdocument
 ||cbjs.baidu.com$image
 ||cc.psd8.com$subdocument
@@ -3909,10 +3914,10 @@ zzyyww.cn##.tags
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
+||img.0755rc.com$subdocument
 ||img11.360buyimg.com/*.jpg$image
 ||img2.idongde.com$subdocument
 ||img3.dzsc.com/img/web/g-g$image
-||imgs.itxueyuan.com/advPicture$image
 ||index.bizdirlib.com$subdocument
 ||index.geonamebase.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
@@ -3942,6 +3947,7 @@ zzyyww.cn##.tags
 ||renxingganwu.com^$domain=www.jswvip.net
 ||resao.com/kf$image
 ||retrieve.64365.com$subdocument
+||s.grescw.com$subdocument
 ||s.yibinfan.com$subdocument
 ||shiold2.zhaosw.com$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
@@ -3973,4 +3979,3 @@ zzyyww.cn##.tags
 ||zle.com$subdocument
 ||zv.china-10.com$subdocument
 ||zy2.gk100.com$subdocument
-||zy2.gk100.com/wldffnsin$subdocument
