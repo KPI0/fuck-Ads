@@ -105,7 +105,6 @@
 *##.com-advertisement
 *##.commentads
 *##.common-top-ad-container
-*##.copy
 *##.csbox
 *##.detail-pure-ad-hx-btn
 *##.detnew_adv
@@ -1969,9 +1968,6 @@ m.yicai.com##.m-float-appopen
 m.yoojia.com##.download-app-bar
 m.yoojia.com##.guide-float-layer
 m.yoojia.com##.youjia-msgbox-confirm.youjia-msgbox-btn
-m.youdao.com##div:nth-of-type(3)
-m.youdao.com##div:nth-of-type(7)
-m.youdao.com##div:nth-of-type(8)
 m.youku.com##.Corner-container
 m.youku.com##.downloadApp.icon
 m.youku.com##.h5-detail-guide.clipboard
