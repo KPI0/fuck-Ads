@@ -583,6 +583,11 @@ zztt37.com##*
 ||xvideos*.xxx
 ! 广告弹窗/元素
 *###ad-header
+*###ad0
+*###ad_a
+*###ad_b
+*###ad_c
+*###ad_d
 *###ad_showbox
 *###adfloatbaidu
 *###adhtml
@@ -876,6 +881,7 @@ zztt37.com##*
 360doc.com##.floatqrcode
 360doc.com##.fxbtn_app
 360doc.com##.fxbtn_service
+360doc.com##.index_app2d
 360doc.com##.ul-similar
 360doc.com##div.str_border:nth-of-type(5)
 360kuai.com##.footer-share.float--left
@@ -917,12 +923,6 @@ zztt37.com##*
 51dongshi.com##.icon-medium-plus.bshare-custom
 51dongshi.com##.weixin_e
 51hei.com##.topbar_dot > [href="#"]
-51job.com##.app > ul > li
-51job.com##.appbox
-51job.com##.c_first.code
-51job.com##.ecode
-51job.com##.tips
-51job.com##div.code:nth-of-type(7)
 51miz.com##.new-fixed-button
 51pptmoban.com##.dlink
 51pptmoban.com##.mad
@@ -1052,8 +1052,7 @@ amma.artron.net##.tool-site
 amma.artron.net##div.tool-Article:nth-of-type(1) > .tool-Article-ul > li:nth-of-type(1)
 anfensi.com##strong
 aofuo.com##.clearfix.myui-foot
-apkpure.com###policy-info
-apkpure.com##.share-web.share-btn > ul
+apkpure.com##.share-btn
 app.4399.cn##.description
 app.4399.cn##.f_nav
 app.4399.cn##.fullscreen.header
@@ -3748,8 +3747,6 @@ y.qq.com##.login-box-download
 y.qq.com##.popup_guide
 y.qq.com##.top_nav__item--subnav.top_nav__item
 y.qq.com##li.top_nav__item:nth-of-type(5) > .top_nav__link
-yangkatie.com##[src="//yangkatie.com/images/OKX_pc.jpg?5"]
-yangkatie.com##[src="//yangkatie.com/images/OKX_pc.jpg?6.21"]
 yangmao.info##.ix22m7-post.ix22m7
 yd.baidu.com##.book-info
 yd.baidu.com##.bottom-fixed-btn
@@ -3870,6 +3867,7 @@ zjnews.china.com.cn##li.fl:nth-of-type(1)
 zjnews.china.com.cn##li.ts.fl:nth-of-type(2)
 zjtjxy.net##.static.pr-md-20.col-md-wide-75.main-left > div:nth-of-type(2)
 zjtjxy.net##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
+zn503.com##.GzList
 znds.com##.a_czt
 znds.com##.a_f.aa
 znds.com##.portal_block_summary
@@ -3990,7 +3988,6 @@ zzyyww.cn##.tags
 ||mmjs.tcmap.com.cn/*$subdocument
 ||n3597.com$image
 ||nbitopmkt.oss-accelerate.aliyuncs.com/bitopmkt$image
-||p.qlogo.cn$image
 ||p.syhh890.com/pic1/ppp$image
 ||p1.meituan.net/csc/*.gif$image
 ||p3.toutiaoimg.com$image
