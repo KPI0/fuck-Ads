@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2022-11-12
+! TimeUpdated: 2022-11-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -22,6 +22,7 @@
 *###listwoBox
 *###maskBox
 *###midBox
+*###n-ad-page
 *###Nav_Top_Ad
 *###new_ad
 *###partners
@@ -41,9 +42,13 @@
 *##.ad-banner
 *##.ad-banner-wrapper
 *##.ad-bottom-new
+*##.ad-box
 *##.ad-card
+*##.ad-content
 *##.ad-horizontal
 *##.ad-img
+*##.ad-m
+*##.ad-mobile
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
 *##.ad-style
@@ -53,6 +58,8 @@
 *##.ad360
 *##.ad_bottom
 *##.ad_box
+*##.ad_foot
+*##.ad_like
 *##.ad_pic
 *##.ad_single_1
 *##.ad_single_title
@@ -90,6 +97,7 @@
 *##.baidu_ad
 *##.baike-ad
 *##.banner-ad
+*##.bdads
 *##.bdshare-slide-button-box
 *##.bdshare_t
 *##.bdsharebuttonbox
@@ -122,6 +130,7 @@
 *##.ff-ads
 *##.float-ads
 *##.footerads
+*##.ft-ad
 *##.gg
 *##.gg-box
 *##.gg_wap
@@ -142,6 +151,8 @@
 *##.js-advertisement
 *##.js-article-ad
 *##.js-head-advertising
+*##.leader_ad_banner
+*##.lowerad
 *##.m-block-ad
 *##.mbd_ad
 *##.mod_ad_spread
@@ -156,6 +167,7 @@
 *##.pro-ad-pageend
 *##.qklw-adv
 *##.question-ads-exp
+*##.random_ad
 *##.recommend-ad
 *##.share
 *##.share-box
@@ -1700,6 +1712,7 @@ m.ac.qq.com##.chapter-fixed-pop
 m.baidu.com###header > div > div > div > div
 m.baidu.com##._1_KgV._8naka.c-container > footer
 m.baidu.com##._1VOQE > .c-blocka
+m.baidu.com##.afd-node
 m.baidu.com##.app_mobile_simple > div > div > div > div > .c-btn-blue-fill.c-btn.btn-su.c-gap-bottom-lh.c-gap-top-lh
 m.baidu.com##.banner-item
 m.baidu.com##.banners
@@ -1709,6 +1722,7 @@ m.baidu.com##.card._1_KgV._8naka.c-container
 m.baidu.com##.img-wrapper
 m.baidu.com##.ivk-bottom-panel-confirm-btn
 m.baidu.com##.news-container
+m.baidu.com##.poster-wrap
 m.baidu.com##.sfc-video-page-index-info-cambrian
 m.baidu.com##.vid-monitor-card__3zFRO
 m.baidu.com##div.result.c-result:nth-of-type(2)
@@ -1767,6 +1781,7 @@ m.fengei.net##.ba
 m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
+m.haochu.com##.bd-1
 m.haodf.com###open-app-box
 m.hexun.com##.modal-popup-openapp
 m.hupu.com##.open-hupu
@@ -2060,6 +2075,7 @@ meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-cont
 meipian.cn##.header-navs-menu > .header-navs-link
 meipian.cn##div.bar-item:nth-of-type(3)
 meipian3.cn##.content > div.item:nth-of-type(2)
+meipian3.cn##.guide-confirm
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
@@ -2660,8 +2676,6 @@ tianya.cn##.download-ways
 tianya.cn##.social
 tianyancha.com###tyc_banner_left
 tianyancha.com##.-show.banner-bottom
-tianyancha.com##.index_activity-banner-wrapper__cDIlb
-tianyancha.com##.index_activity-home-popup__yvYIZ.tyc-modal
 tianyancha.com##.show.banner-bottom
 tianyancha.com##.tyc-bottom-banner-model
 tianyancha.com##.tyc-home > .container
@@ -2706,6 +2720,8 @@ tieba.baidu.com##.ufw-gap.u-f-t
 tieba.baidu.com##.wake
 tieba.baidu.com##div.f-d-item
 tieba.baidu.com##li.tbui_slideshow_slide.img_list_3pic:nth-of-type(1)
+tiehuatu.com##.dk_item
+tiehuatu.com##.zujian
 tiktok.com##.ejkrawn0.tiktok-1vrbodl-DivPromotionContainer
 tiktok.com##div.ejpbrlm1.tiktok-1d39a26-DivFlexCenterRow:nth-of-type(2)
 time.is###follow > div
@@ -3301,10 +3317,12 @@ zuixu.com##.layui-layer-iframe.layui-layer
 zuoyebang.com##.adCard_3H6n7
 zuoyebang.com##.download_kNXRu
 zuoyebang.com##.footer_1HFD5
+zzqzz.com##.site_abc_wrap
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 ||*-advertising$image
 ||*/ad/*$subdocument
+||*/ads$subdocument
 ||*/AdvertImages/*$image
 ||*/advPicture$image
 ||*/static/cpt/img/jianli_banner$image
@@ -3323,6 +3341,7 @@ zzyyww.cn##.tags
 ||8499683.com$image
 ||9191520.xyz$image
 ||91zsri0.sanso.hk/*.gif?$image
+||ab2.shqian8.com$subdocument
 ||aipaw1.com/upload/site/tbgg$image
 ||aipaw2.xyz/upload/site/tbgg$image
 ||asf2.hwcha.com$subdocument
@@ -3334,6 +3353,7 @@ zzyyww.cn##.tags
 ||bd-un2.wanglv.com$subdocument
 ||bd2.520101.com$subdocument
 ||bd2.thyou.com$subdocument
+||bdad.webkf.net$subdocument
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||bu2.wang1314.com$subdocument
@@ -3361,6 +3381,7 @@ zzyyww.cn##.tags
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
 ||img.0755rc.com$subdocument
+||img.familydoctor.com.cn/uploadimg/tj$image
 ||img11.360buyimg.com/*.jpg$image
 ||img2.idongde.com$subdocument
 ||img3.dzsc.com/img/web/g-g$image
@@ -3375,6 +3396,7 @@ zzyyww.cn##.tags
 ||js2.mgjianshe.com$subdocument
 ||jz.down10s.com$subdocument
 ||kb69.top$image
+||kdewa222.familydoctor.com.cn$subdocument
 ||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
@@ -3406,6 +3428,7 @@ zzyyww.cn##.tags
 ||unmc.bj.bcebos.com$image
 ||vip.fuqizhishi.com/hguanggao$image
 ||vk6.me$image
+||wcl.bailuxiangyuan.com$subdocument
 ||www.17ce.com/adwrap$image
 ||www.97mm.cc/A1*.gif$image
 ||www.diskaa.com^$script,domain=jieav.com
