@@ -488,6 +488,7 @@ txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
 uc.cn##*
+uga456.com##*
 ukr456.com##*
 unacg.com##*
 upsjav.com##*
@@ -3249,8 +3250,6 @@ tianya.cn##.download-ways
 tianya.cn##.social
 tianyancha.com###tyc_banner_left
 tianyancha.com##.-show.banner-bottom
-tianyancha.com##.index_activity-banner-wrapper__cDIlb
-tianyancha.com##.index_activity-home-popup__yvYIZ.tyc-modal
 tianyancha.com##.show.banner-bottom
 tianyancha.com##.tyc-bottom-banner-model
 tianyancha.com##.tyc-home > .container
