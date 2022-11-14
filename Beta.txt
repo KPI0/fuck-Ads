@@ -590,6 +590,7 @@ zztt37.com##*
 ||2345*.com
 ! 广告弹窗/元素
 *###ad-header
+*###ad-in-page
 *###ad0
 *###ad_a
 *###ad_b
@@ -611,6 +612,7 @@ zztt37.com##*
 *###gg
 *###gg1
 *###listwoBox
+*###M_box_google_ad1
 *###maskBox
 *###midBox
 *###n-ad-page
@@ -648,6 +650,7 @@ zztt37.com##*
 *##.ad-zone
 *##.ad2
 *##.ad360
+*##.ad_banner
 *##.ad_bottom
 *##.ad_box
 *##.ad_foot
@@ -734,6 +737,7 @@ zztt37.com##*
 *##.gg
 *##.gg-box
 *##.gg_wap
+*##.gggpost-above
 *##.ggshow
 *##.ggxc-box
 *##.gonggao
@@ -759,6 +763,8 @@ zztt37.com##*
 *##.mbd_ad
 *##.mod_ad_spread
 *##.module-ad
+*##.my-ad-loaded
+*##.my-ad3
 *##.n-top__ad
 *##.new-bdsharebuttonbox
 *##.page-share
@@ -784,6 +790,7 @@ zztt37.com##*
 *##.sider_guanggao
 *##.single-bottom-ad
 *##.single-top-ad
+*##.sponsored-token
 *##.tg-box
 *##.tg-site
 *##.toolbar-advert
@@ -1224,6 +1231,7 @@ binance.com##.css-1ql2hru > .css-c510oc
 binance.com##.css-8non6d > .css-1n2fhb3
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 biyungu.com##.wpcom_myimg_wrap
+bk.autotimes.com.cn##.wpcom_myimg_wrap
 blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.51cto.com##.action-box > ul > .share > strong
@@ -1322,6 +1330,7 @@ ceconline.com##.footer_wrap
 ceconline.com##.icon_share_fixed_animate1.icon_share
 ceconline.com##.Sub_icon
 chaicp.com##.w.icp_top > .clearfix
+chaincatcher.com##.app-tips
 chajian5.com##.banner-post.banner
 chajian5.com##.speedbar
 chaoxing.com##.xxtXz
@@ -1478,6 +1487,7 @@ cu518.com##canvas
 cww.net.cn###share_news
 cy.cqbys.com##div.rightdiv:nth-of-type(3)
 cy.ncss.cn##.appTip
+d06v3b.smartapps.cn##.swan-web-suspend-button
 d1ev.com##.action_share
 d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
@@ -1599,6 +1609,7 @@ duitang.com##.top.app-download-guide
 dujin.org##div.widget_custom_html.widget.widget_text:nth-of-type(4)
 dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
 dumall.baidu.com##div.whiteBg.com-focus.jsx-1049465603:nth-of-type(4)
+dunsh.cn##.media-wrapper__bd
 dushu.com##.text-gray.text-center.margin-big-top
 dushu.com##canvas
 duyou8.com##.arcfu_btn
@@ -1673,6 +1684,7 @@ elecfans.com##[src="http://skin.elecfans.com/images/wx_right.jpg"]
 elecfans.com##[src="https://skin.elecfans.com/images/new_ad_01.jpg"]
 elecfans.com##[src="https://skin.elecfans.com/images/open_ad_172.jpg"]
 email.163.com##.fadeIn.animated.theme-item
+emcreative.eastmoney.com###emglobaljs_component_dialog_confirm_execute
 etmall.com.tw##.promo-banner
 ex.chinadaily.com.cn##div.fenx:nth-of-type(3)
 examk.com##.right
@@ -2299,6 +2311,7 @@ m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
 m.699pic.com##.show.top-notice-position
 m.77dushu.com###appss
 m.77dushu.com###strl
+m.91abroad.com##.guangin
 m.ac.qq.com##.app-guiding
 m.ac.qq.com##.app-guiding-swiper
 m.ac.qq.com##.chapter-fixed-pop
@@ -2310,6 +2323,7 @@ m.baidu.com##.afd-node
 m.baidu.com##.app_mobile_simple > div > div > div > div > .c-btn-blue-fill.c-btn.btn-su.c-gap-bottom-lh.c-gap-top-lh
 m.baidu.com##.banner-item
 m.baidu.com##.banners
+m.baidu.com##.bottomOperateTop
 m.baidu.com##.c-blocka.c-invoke-class > .c-img-wrapper > .c-img-radius-br.c-img-radius-bl.c-img-radius-tr.c-img-radius-tl.c-img-s.c-img-item.c-img
 m.baidu.com##.c-line-clamp1.c-title > .c-title-text
 m.baidu.com##.card._1_KgV._8naka.c-container
@@ -2323,7 +2337,6 @@ m.baidu.com##div.result.c-result:nth-of-type(2)
 m.baidu.com##div.result.c-result:nth-of-type(4)
 m.baidu.com##div.result.c-result:nth-of-type(5)
 m.baidu.com##div.result.c-result:nth-of-type(8)
-m.baidu.com##div:nth-of-type(6)
 m.baihuawen.com##.app-bar
 m.baike.so.com##.business-flow
 m.bihu.info##.bihu-slogan button
@@ -2347,6 +2360,7 @@ m.dgjs123.com##.xglist
 m.dgjs123.com##div.line10
 m.dgjs123.com##div.line5
 m.dict.cn###dbann
+m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
@@ -2433,6 +2447,7 @@ m.ixigua.com##.xigua-guide-button
 m.jd.com###imk2FixedBottom
 m.jd.com##.carousel-wrapper
 m.jd.com##.pannel-seat
+m.jiemian.com##.active.success-btn
 m.jiemian.com##.download-app
 m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
 m.jinse.com##.bottom.js-linkApp.js-read-full__open
@@ -2769,6 +2784,8 @@ news.cngold.org##.article-info
 news.cnhubei.com###cjly_nav01
 news.cnstock.com##.side-share
 news.cri.cn##.loadBox
+news.cyol.com##.btn-bottom-wrapper
+news.cyol.com##.card-open
 news.dayoo.com##.dy-article-share
 news.dayoo.com##.pc > .share-fixed
 news.eda365.com##.headerbg
@@ -2780,6 +2797,7 @@ news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
 news.hexun.com##.shareqq
 news.ittime.com.cn##.login
 news.ittime.com.cn##.share_box
+news.jstv.com##.appDownload
 news.mingpao.com##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 news.mydrivers.com###right_tab
 news.mydrivers.com##.footer_about
@@ -3505,6 +3523,8 @@ vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
 vpsche.com##.single-top-html
+vpsgo.com##.asb
+vpsgo.com##body > div.container
 vr.sina.com.cn##.share_wrap
 w3cjava.com##.share-s
 w3h5.com##.widget_lf-bt-box.widget
@@ -3911,9 +3931,11 @@ znjj.tv##.left-welcom
 znjj.tv##.qqcen_lf
 znjj.tv##.sharebg
 zol.com.cn##.client-enter
+zol.com.cn##.on.wap__bottom-app-button
 zol.com.cn##.section-param-openapp
 zol.com.cn##.today-hot-layer
 zol.com.cn##.tools-nav
+zol.com.cn##.zolapp-download
 zol.com.cn##[href="//xiazai.zol.com.cn/"] > strong
 zol.com.cn##div.main-nav-line:nth-of-type(8)
 zol.com.cn##dl:nth-of-type(6)
@@ -3995,11 +4017,11 @@ zzyyww.cn##.tags
 ||ggt999.oss-cn-hangzhou.aliyuncs.com$image
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
-||hm.baidu.com$image
 ||huangtupian.com$image
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
+||images.itbulu.com/banner$image
 ||img.0755rc.com$subdocument
 ||img.familydoctor.com.cn/uploadimg/tj$image
 ||img.wjxcdn.com$subdocument
