@@ -2091,6 +2091,12 @@ jfdaily.com##.xz
 jfdaily.com##div.title:nth-of-type(14)
 jfdaily.com##div.title:nth-of-type(16)
 jia.baidu.com##.service-entry-qrcode.service-entry-item
+jianshu.com##.btn-content > button:nth-of-type(2)
+jianshu.com##.download-btn
+jianshu.com##.header-download
+jianshu.com##.index_call-app-btn
+jianshu.com##.note__flow__download
+jianshu.com##div.guidance-wrap-item:nth-of-type(2)
 jiayongluyou.com###single-widget
 jiema.wwei.cn###go-fav
 jiema.wwei.cn##.sidebar-client-box.sidebar-block
