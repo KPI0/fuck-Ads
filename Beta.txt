@@ -597,6 +597,7 @@ zztt37.com##*
 *###ad0
 *###ad_a
 *###ad_b
+*###ad_before_content
 *###ad_c
 *###ad_d
 *###ad_showbox
@@ -606,11 +607,13 @@ zztt37.com##*
 *###ads_general_1_bottom
 *###adsense
 *###advRollWarp
+*###anchorads
 *###Baidu-bottomAd
 *###Baidu-topAd
 *###baidulianmeng1
 *###baidulianmeng2
 *###bdshare
+*###bottomads
 *###btmBox
 *###couplet
 *###fanyi-advertising-space
@@ -622,6 +625,8 @@ zztt37.com##*
 *###listwoBox
 *###M_box_google_ad1
 *###maskBox
+*###mbads-sider
+*###mbads1
 *###midBox
 *###n-ad-page
 *###Nav_Top_Ad
@@ -631,9 +636,12 @@ zztt37.com##*
 *###popBox
 *###randomBox
 *###rightadbox
+*###rightads
 *###share
 *###subMenuBox
 *###swiper-ad
+*###topads
+*###topads0
 *###ymzy-tuiguang-test-bottom
 *##._left_ad
 *##._right_ad
@@ -834,6 +842,7 @@ zztt37.com##*
 *##.xshare
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
+*##div.content_adsense
 *##single-bottom-ads
 01caijing.com###headerApp
 02516.com###costom
@@ -2734,6 +2743,7 @@ meipian.cn##.header-navs-menu > .header-navs-link
 meipian.cn##div.bar-item:nth-of-type(3)
 meipian3.cn##.content > div.item:nth-of-type(2)
 meipian3.cn##.guide-confirm
+meipian3.cn##.mp-fixed-download-open-btn
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
@@ -2995,6 +3005,7 @@ pdfzj.cn##a[href="javascript:void(0);"]:nth-of-type(2)
 pet82.com##.toolbar-open
 photo.baidu.com##.yk-side__footer
 php.cn##.wwads-vertical.wwads-cn
+pianshen.com##.dotloading
 pincong.rocks##.more-operate.pull-right > a.aw-small-text
 pincong.rocks##a.aw-small-text:nth-of-type(2)
 pinglun.youth.cn###identifier-pannel
@@ -3748,7 +3759,6 @@ wwei.cn##.sidebar-client-box.sidebar-block
 wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
 wwsww.cn##.nyzc
-www.meipian3.cn##.mp-fixed-download-open-btn
 wwwx168.cn##.post-share
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
@@ -4056,6 +4066,7 @@ zzyyww.cn##.tags
 ||dhn.jiankang123.net$subdocument
 ||dimg04.c-ctrip.com$image
 ||dmn.lczk.cn$subdocument
+||doubleclick.net$subdocument
 ||fengei.net$subdocument
 ||file3.dzsc.com/bigcustomerad$image
 ||fpb2.gaojipro.com$subdocument
