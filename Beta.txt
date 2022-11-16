@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-15
+! TimeUpdated: 2022-11-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -500,6 +500,7 @@ unacg.com##*
 upsjav.com##*
 uqkjz.com##*
 ury123.com##*
+ury234.com##*
 uzzf.com##*
 veryhuo.com##*
 video.xunlei.com##*
@@ -770,11 +771,14 @@ zztt37.com##*
 *##.js-advertisement
 *##.js-article-ad
 *##.js-head-advertising
+*##.Kyad_kyad__Z96VR
 *##.leader_ad_banner
 *##.left_top_ad
 *##.lowerad
 *##.m-block-ad
 *##.mbd_ad
+*##.mobilePaddingAds
+*##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
 *##.module-ad
 *##.my-ad-loaded
@@ -811,6 +815,7 @@ zztt37.com##*
 *##.single-top-ad
 *##.singleb-ad
 *##.sponsored-token
+*##.tbgg
 *##.tg-box
 *##.tg-site
 *##.toolbar-advert
@@ -991,6 +996,7 @@ zztt37.com##*
 528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
 52av.one##div.cl.plc > div > center
 52pojie.cn##.followp
+57qs.cn###showcd
 588ku.com##.close-btn
 588ku.com##.editIndexEntry.editIndex-entry > .editIndexClick
 588ku.com##.listlogin-ctn.w1680.clearfix
@@ -1044,6 +1050,7 @@ zztt37.com##*
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
+@@||p.qlogo.cn/bizmail/*$domain=exmail.qq.com
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.main-download-btn
 a.app.qq.com##.yyb-safe-text
@@ -4051,10 +4058,12 @@ zzyyww.cn##.tags
 ||dmn.lczk.cn$subdocument
 ||fengei.net$subdocument
 ||file3.dzsc.com/bigcustomerad$image
+||fpb2.gaojipro.com$subdocument
 ||fpb2.lz03.cn$subdocument
 ||ftsxgg2.szrfdq.com$subdocument
 ||gg2.wenzhaihui.com$subdocument
 ||ggt999.oss-cn-hangzhou.aliyuncs.com$image
+||googleads.g.doubleclick.net$subdocument
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
 ||huangtupian.com$image
@@ -4118,6 +4127,7 @@ zzyyww.cn##.tags
 ||vk6.me$image
 ||wcl.bailuxiangyuan.com$subdocument
 ||www.17ce.com/adwrap$image
+||www.57qs.cn/images/*.gif$image
 ||www.97mm.cc/A1*.gif$image
 ||www.diskaa.com^$script,domain=jieav.com
 ||www.dnzp.com/uploads/kk$image
