@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-16
+! TimeUpdated: 2022-11-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -501,6 +501,7 @@ upsjav.com##*
 uqkjz.com##*
 ury123.com##*
 ury234.com##*
+ury345.com##*
 uzzf.com##*
 veryhuo.com##*
 video.xunlei.com##*
@@ -670,6 +671,7 @@ zztt37.com##*
 *##.ad_banner
 *##.ad_bottom
 *##.ad_box
+*##.ad_cent
 *##.ad_foot
 *##.ad_like
 *##.ad_pic
@@ -694,6 +696,7 @@ zztt37.com##*
 *##.adver-pic
 *##.advert
 *##.advertisement
+*##.advertisement-part
 *##.advertising-mask
 *##.advertising-popup
 *##.advh5
@@ -701,6 +704,7 @@ zztt37.com##*
 *##.advsmall
 *##.advvvvv
 *##.adwidget
+*##.alltypes-detail-advertisement
 *##.app-ad
 *##.app-open
 *##.appdown
@@ -734,6 +738,7 @@ zztt37.com##*
 *##.com-advertisement
 *##.commentads
 *##.common-top-ad-container
+*##.content_adsense
 *##.csbox
 *##.detail-pure-ad-hx-btn
 *##.detnew_adv
@@ -842,7 +847,6 @@ zztt37.com##*
 *##.xshare
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
-*##div.content_adsense
 *##single-bottom-ads
 01caijing.com###headerApp
 02516.com###costom
@@ -2785,6 +2789,8 @@ msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+mtop.aizhan.com###ny_c
+mtop.aizhan.com###yx_content5
 mtop.chinaz.com##.TjLi
 music-pi.vercel.app##.bar-right
 music.163.com##.lst
@@ -3163,6 +3169,7 @@ shezhan88.com##.return > ul > li > .cur
 shezhan88.com##.return [href="javascript:void(0);"]
 shezhan88.com##[href="/news/notice/16.html"]
 shezhan88.com##[href="javascript:alert("]
+shijiezz.com###viewfirst
 shilian.com##.kx_shares
 show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
@@ -3578,6 +3585,9 @@ vip.iqiyi.com##.J-download-title > .header-sideItemCon
 vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
+vkandian.cn###_dsdsd
+vkandian.cn##.pic-list
+vkandian.cn##.show-line
 vpsche.com##.single-top-html
 vpsgo.com##.asb
 vpsgo.com##body > div.container
@@ -4046,9 +4056,11 @@ zzyyww.cn##.tags
 ||ass.izshi.cn$subdocument
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
+||b2.meiwenjuzi.com$subdocument
 ||baidustatic.com$image
 ||bchina-2.xsfaya.com/*$subdocument
 ||bd-un2.wanglv.com$subdocument
+||bd.shiciwenda.com$subdocument
 ||bd2.520101.com$subdocument
 ||bd2.thyou.com$subdocument
 ||bdad.webkf.net$subdocument
@@ -4072,12 +4084,15 @@ zzyyww.cn##.tags
 ||fpb2.gaojipro.com$subdocument
 ||fpb2.lz03.cn$subdocument
 ||ftsxgg2.szrfdq.com$subdocument
+||gg.eefocus.com$image
 ||gg2.wenzhaihui.com$subdocument
 ||ggt999.oss-cn-hangzhou.aliyuncs.com$image
 ||googleads.g.doubleclick.net$subdocument
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
+||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
+||hzz.riji13.com$subdocument
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
@@ -4092,6 +4107,7 @@ zzyyww.cn##.tags
 ||index.bizdirlib.com$subdocument
 ||index.geonamebase.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
+||jf.shuangqiong.net$subdocument
 ||jiansuo.cdn-bandao.cn/*$subdocument
 ||jjs.zhimeng.com.cn$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
@@ -4114,12 +4130,15 @@ zzyyww.cn##.tags
 ||p0.qhimg.com$image
 ||p1.meituan.net/csc/*.gif$image
 ||p3.toutiaoimg.com$image
+||pa.jueju.cn$subdocument
 ||pic.picnewsss.com$image
+||pic002.vkandian.cn$subdocument
 ||pornlulu.com/*$image
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
 ||renxingganwu.com^$domain=www.jswvip.net
+||res.yizhiliuzhenjiu.com$image
 ||resao.com/kf$image
 ||retrieve.64365.com$subdocument
 ||s.grescw.com$subdocument
@@ -4132,12 +4151,15 @@ zzyyww.cn##.tags
 ||static-xiaoguotu.17house.com$image
 ||statics.rili.com.cn$subdocument
 ||timi21.com^$script
+||tls2.duanbian.com$subdocument
+||tt.027dir.com$image
 ||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
 ||vk6.me$image
 ||wcl.bailuxiangyuan.com$subdocument
 ||www.17ce.com/adwrap$image
+||www.55xw.net/gg.html$subdocument
 ||www.57qs.cn/images/*.gif$image
 ||www.97mm.cc/A1*.gif$image
 ||www.diskaa.com^$script,domain=jieav.com
