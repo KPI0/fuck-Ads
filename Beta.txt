@@ -631,6 +631,8 @@ zztt37.com##*
 *###Baidu-topAd
 *###baidulianmeng1
 *###baidulianmeng2
+*###BannerZoneAD_Div20
+*###BannerZoneAD_Div25
 *###bdshare
 *###bottomads
 *###btmBox
@@ -656,6 +658,7 @@ zztt37.com##*
 *###phpad
 *###popBox
 *###randomBox
+*###right_ad1
 *###rightadbox
 *###rightads
 *###share
@@ -737,6 +740,7 @@ zztt37.com##*
 *##.article-ad-ul
 *##.articleDetail-ad-list
 *##.aside_adv
+*##.askCenterAd
 *##.baidu-gglist
 *##.baidu_ad
 *##.baidu_adv
@@ -866,6 +870,8 @@ zztt37.com##*
 *##.tg-site
 *##.toolbar-advert
 *##.top_ad
+*##.topad
+*##.topappad
 *##.tx-info-module-down-box
 *##.videoSideAds
 *##.view-ad
@@ -1786,6 +1792,7 @@ facebook.com##span > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4
 facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 fandom.com##.article-share
 fandom.com##[class="card-share"]
+fane8.com##.extend_2
 fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
 fanyi-app.baidu.com##.top-bn-btn-open
 fanyi.baidu.com###app-read
@@ -2448,6 +2455,8 @@ m.dgjs123.com##.gg_c3
 m.dgjs123.com##.xglist
 m.dgjs123.com##div.line10
 m.dgjs123.com##div.line5
+m.diaoyur.com###app-downlaod
+m.diaoyur.com##.app-download
 m.dict.cn###dbann
 m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
@@ -3995,6 +4004,7 @@ zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
 zhongce.sina.com.cn##.side-btns-jfyb-resize
 zhongruitong.cn##.not-real-name-button
+zhongyaofangji.com##.bshare-custom
 zhuangku.com##.service-fixed
 zhuanlan.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
 zhuanlan.zhihu.com##.css-v91ii.OpenInAppButton
@@ -4093,6 +4103,7 @@ zzyyww.cn##.tags
 ||b1.feimiao.cn/*$subdocument
 ||b2.meiwenjuzi.com$subdocument
 ||baidustatic.com$image
+||bcd.8u58.com$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||bd-un2.wanglv.com$subdocument
 ||bd.shiciwenda.com$subdocument
@@ -4114,6 +4125,7 @@ zzyyww.cn##.tags
 ||dimg04.c-ctrip.com$image
 ||dmn.lczk.cn$subdocument
 ||doubleclick.net$subdocument
+||fbmmjc.39yst.com$subdocument
 ||fengei.net$subdocument
 ||file3.dzsc.com/bigcustomerad$image
 ||fpb2.gaojipro.com$subdocument
@@ -4157,6 +4169,7 @@ zzyyww.cn##.tags
 ||m6.66077.cn$subdocument
 ||meituan.net/dpplatform$image
 ||mmjs.tcmap.com.cn/*$subdocument
+||mw.dachuyi.com$subdocument
 ||n3597.com$image
 ||nbitopmkt.oss-accelerate.aliyuncs.com/bitopmkt$image
 ||p.abcache.com$image
