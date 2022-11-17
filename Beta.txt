@@ -102,6 +102,7 @@
 9xxx.net##*
 a1av.xyz##*
 achickenb01.com##*
+adbluechina.com##*
 aff002.net##*
 aff003.pro##*
 aff006.app##*
@@ -123,10 +124,12 @@ are456.com##*
 ata234.com##*
 attvideo.com##*
 aus234.com##*
+av01.tv##*
 av5.net##*
 avgle.com##*
 avhd101.com##*
 avjb.com##*
+avlanga2.com##*
 avlulu.cc##*
 avmoo.click##*
 avple.tv##*
@@ -155,6 +158,7 @@ buliangvip.com##*
 buy.rising.com.cn##*
 byym75.com##*
 cableav.tv##*
+caolll.com##*
 ccafc.org.cn##*
 ccbflp.com##*
 ccho.cc##*
@@ -167,6 +171,7 @@ clipsbai.com##*
 clipsex.video##*
 clkoo.cn##*
 club91.net##*
+clyqm.com##*
 cmdh.me##*
 cmm.lol##*
 cncrk.com##*
@@ -176,6 +181,7 @@ daagux.digital##*
 daily6.dev##*
 davinfo.com##*
 daykemcantho.com##*
+ddecholuteca.com##*
 ddooo.com##*
 dear2.co##*
 dkmkg.com##*
@@ -188,6 +194,7 @@ download.pchome.net##*
 downxia.com##*
 downyi.com##*
 downza.cn##*
+dp227.com##*
 drivergenius.com##*
 drtuber.com##*
 duba.com##*
@@ -261,6 +268,7 @@ isr789.com##*
 itmop.com##*
 ixxx.com##*
 j1o.net##*
+jable.tv##*
 jav.guru##*
 javbabe.net##*
 javcl.com##*
@@ -279,6 +287,7 @@ javlib.com##*
 javlibrary.cc##*
 javlibrary.com##*
 javlibrary.tv##*
+javmix.tv##*
 javmost.com##*
 javmost.xyz##*
 javsex.guru##*
@@ -328,6 +337,7 @@ lfge6.top##*
 liqucn.com##*
 llzyw48.com##*
 lmt.hebop.cn##*
+localhookup5.com##*
 lotto60.com##*
 lovepapas.com##*
 lsj.im##*
@@ -358,6 +368,7 @@ madouqu2.cc##*
 madouqu3.cc##*
 madoushe.cn##*
 madousvip.com##*
+mahwaqib.com##*
 mangotporn.com##*
 mate2.cyou##*
 mauddhblia.com##*
@@ -434,6 +445,7 @@ rou.video##*
 rouav.com##*
 rsst.xyz##*
 rulaisz.com##*
+rzldn.com##*
 sclddn.com##*
 sdg999.xyz##*
 secretmine.net##*
@@ -441,6 +453,7 @@ sehuatang.net##*
 seju.vip##*
 seju8.com##*
 sem6.cc##*
+servetates.com##*
 sese8342.com##*
 sex.com##*
 shop.yipanhaocai.com##*
@@ -463,6 +476,7 @@ ssd456.com##*
 stripchat.com##*
 stripchat.global##*
 stripchat.red##*
+stronli.com##*
 sur789.com##*
 sushiguang.com##*
 suzip.com##*
@@ -470,6 +484,7 @@ svjav.com##*
 swz456.com##*
 sysceo.cn##*
 sysceo.com##*
+t66y.com##*
 taiav.com##*
 taobeike.com##*
 taose.tv##*
@@ -486,6 +501,7 @@ tikporn.tube##*
 tiktits.com##*
 timi21.com##*
 tkbpyg.life##*
+tktube.com##*
 tom3828.com##*
 tonywardcouture.com##*
 tuaox.cc##*
@@ -508,6 +524,7 @@ video.xunlei.com##*
 violatorrecords.com##*
 vip.aqdtv511.com##*
 vivo7.top##*
+vjav.com##*
 vrzhijia.com##*
 watchjavonline.com##*
 weav.xyz##*
@@ -568,6 +585,7 @@ yp988q0.wang##*
 yskhd.com##*
 yuewoba.xyz##*
 yunvdao.com##*
+yyzhenshun.com##*
 z260.tv##*
 zdk25.se##*
 zdk29.se##*
@@ -618,9 +636,11 @@ zztt37.com##*
 *###btmBox
 *###couplet
 *###fanyi-advertising-space
+*###flow_adv
 *###footerAds
 *###gg
 *###gg1
+*###gg_tslot
 *###header_adv
 *###header_topad
 *###listwoBox
@@ -639,6 +659,8 @@ zztt37.com##*
 *###rightadbox
 *###rightads
 *###share
+*###soft-content-adsy
+*###StoreAd800Container
 *###subMenuBox
 *###swiper-ad
 *###topads
@@ -654,6 +676,7 @@ zztt37.com##*
 *##.ad-bottom-new
 *##.ad-box
 *##.ad-card
+*##.ad-container
 *##.ad-content
 *##.ad-horizontal
 *##.ad-img
@@ -728,11 +751,15 @@ zztt37.com##*
 *##.bksharebuttonbox
 *##.bl_ad
 *##.blog-slide-ad-box
+*##.bna_ad
+*##.bna_ad1
+*##.bna_ad2
 *##.boxad
 *##.btmAd
 *##.c-nav-advertising
 *##.calc-guanggao
 *##.cesuankuang
+*##.cj_bna_ad
 *##.cmsAd
 *##.columns-ad
 *##.com-advertisement
@@ -772,6 +799,7 @@ zztt37.com##*
 *##.growth-ad
 *##.guangaoi
 *##.guanggao
+*##.guanggao_336
 *##.h5-detail-ad
 *##.head-top-ad
 *##.home-ad-link
@@ -800,8 +828,12 @@ zztt37.com##*
 *##.my-ad3
 *##.n-top__ad
 *##.new-bdsharebuttonbox
+*##.news_ad
+*##.news_ad1
+*##.news_ad2
 *##.page-share
 *##.page_ad
+*##.page_bottom_ad_item
 *##.pep-ad-img
 *##.pep-ad-img-wrapper
 *##.person-trainAd
@@ -816,6 +848,7 @@ zztt37.com##*
 *##.related-ad
 *##.right_top_ad
 *##.ripro_gg_wrap
+*##.rom_ad
 *##.share
 *##.share-box
 *##.share-component
@@ -1614,6 +1647,7 @@ docin.com##.slideButton
 docin.com##li:nth-of-type(5)
 docs.qq.com##.full.down
 docsmall.com##.show.modal-connection
+dongbd.com##.top-banner
 douban.com###landing-bar
 douban.com##.lnk-doubanapp
 douguo.com##.share_right
@@ -2973,6 +3007,7 @@ pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 panewslab.com##.phone.item
+pansci.asia##[class="container ad-container all_top"]
 passport.bilibili.com##.right.block
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 patreon.com##.bottomLeft__3ZFPD.root__1VdHR
