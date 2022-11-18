@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-17
+! TimeUpdated: 2022-11-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -91,6 +91,7 @@
 91url.info##*
 91yingshi9.me##*
 91zpc01.xyz##*
+924t.com##*
 95jv.com##*
 966061.xyz##*
 97mm.cc##*
@@ -233,6 +234,8 @@ guf678.com##*
 guochanfeatured.com##*
 guomoshe.com##*
 gzpd15.com##*
+haijiao.com##*
+haijiaoluntan.com##*
 hao123.com##*
 hao774.com##*
 harabox.com##*
@@ -244,6 +247,15 @@ heiliao9.pro##*
 heraa.cc##*
 hi.com##*
 hiporn.cc##*
+hj88b.com##*
+hjbed.com##*
+hjce2d.com##*
+hjce6d.com##*
+hjcea0.com##*
+hjcec4.com##*
+hje3e.com##*
+hje9e.com##*
+hjedd.com##*
 hk123.net##*
 honewood.com##*
 hongkongdollvideo.com##*
@@ -265,10 +277,12 @@ ijinshan.com##*
 imadou.cc##*
 irq234.com##*
 isr789.com##*
+isucks.com##*
 itmop.com##*
 ixxx.com##*
 j1o.net##*
 jable.tv##*
+jamgoo.com##*
 jav.guru##*
 javbabe.net##*
 javcl.com##*
@@ -333,6 +347,8 @@ lalayy8.com##*
 languang.com##*
 lao678.com##*
 laomaotao.net##*
+laow000.com##*
+laow7.com##*
 lfge6.top##*
 liqucn.com##*
 llzyw48.com##*
@@ -382,6 +398,7 @@ mdspw.com##*
 men.com##*
 mg86.net##*
 missav.com##*
+mitao888.com##*
 mnygk8.com##*
 mod.run##*
 modelmediaus.com##*
@@ -423,6 +440,7 @@ phimsexhay669.com##*
 pincong.rocks##*
 playav.tv##*
 playno1.com##*
+plw678.com##*
 porn.com##*
 pornfind.org##*
 pornhub.com##*
@@ -500,6 +518,7 @@ tik.porn##*
 tikporn.tube##*
 tiktits.com##*
 timi21.com##*
+timo7.com##*
 tkbpyg.life##*
 tktube.com##*
 tom3828.com##*
@@ -583,6 +602,7 @@ youjizz.com##*
 youqian.360.cn##*
 yp988q0.wang##*
 yskhd.com##*
+yuesebao.net##*
 yuewoba.xyz##*
 yunvdao.com##*
 yyzhenshun.com##*
@@ -738,6 +758,7 @@ zztt37.com##*
 *##.artadv
 *##.article-ad-list
 *##.article-ad-ul
+*##.article_ad
 *##.articleDetail-ad-list
 *##.aside_adv
 *##.askCenterAd
@@ -2472,6 +2493,7 @@ m.dx.17house.com##.pullUp
 m.ebrun.com##.right-open-app
 m.eda365.com##.appopen
 m.eda365.com##.openapp
+m.eestar.com##.hydrated.logo-btn-con
 m.elecfans.com##.baidu_click_tongji2.open_app_arc
 m.elecfans.com##.btn-createCover.ft_share
 m.elecfans.com##.btn-createCover.share
@@ -2536,6 +2558,7 @@ m.iqiyi.com##div.toolBar-item > div
 m.iqiyi.com##div.toolBar-item:nth-of-type(2)
 m.iqiyi.com##div.video-action-btn
 m.iqiyi.com##section.m-videoPlay-toolBar
+m.ithome.com##.hot-app
 m.ithome.com##.news-share
 m.ithome.com##.open-app
 m.ithome.com##.open-app-banner
@@ -2557,6 +2580,7 @@ m.jinse.com##.js-opration-box
 m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
 m.jinse.com##.openApps
 m.jinse.com##div.js-opration-box__btn:nth-of-type(1)
+m.jishulink.com##.footer
 m.jobui.com##.j-jobBanner-box
 m.jrj.com.cn##.showNew.btntop
 m.kanman.com##.guide-btn
@@ -2686,6 +2710,7 @@ m.xbbshuwu.com##div[style*="top: 0px"]
 m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
 m.xbbshuwu.com##p:nth-of-type(4)
 m.xbbshuwu.com##p:nth-of-type(5)
+m.xianjichina.com###j-art-banner
 m.xiqu9.com###jd_dom
 m.xsyq.cc##a#__dfdsdefsdb.__foiud
 m.xsyq.cc##b
@@ -4206,6 +4231,7 @@ zzyyww.cn##.tags
 ||unmc.bj.bcebos.com$image
 ||vk6.me$image
 ||wcl.bailuxiangyuan.com$subdocument
+||wskp.cc$image
 ||www.17ce.com/adwrap$image
 ||www.55xw.net/gg.html$subdocument
 ||www.57qs.cn/images/*.gif$image
