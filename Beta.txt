@@ -664,8 +664,10 @@ zztt37.com##*
 *###bottomads
 *###btmBox
 *###cen_ad
+*###class_ad
 *###couplet
 *###fanyi-advertising-space
+*###flashad
 *###flow_adv
 *###footerAds
 *###fullAd
@@ -690,6 +692,7 @@ zztt37.com##*
 *###right_ad1
 *###rightadbox
 *###rightads
+*###rightNav_ad
 *###share
 *###soft-content-adsy
 *###StoreAd800Container
@@ -698,6 +701,7 @@ zztt37.com##*
 *###topads
 *###topads0
 *###ymzy-tuiguang-test-bottom
+*###zdmad
 *##._left_ad
 *##._right_ad
 *##.a2hs-ios-dRZ
@@ -757,6 +761,8 @@ zztt37.com##*
 *##.advh5
 *##.advPop
 *##.advsmall
+*##.advTopsImg
+*##.advTopsLink
 *##.advvvvv
 *##.adwidget
 *##.alltypes-detail-advertisement
@@ -1142,6 +1148,7 @@ zztt37.com##*
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.main-download-btn
 a.app.qq.com##.yyb-safe-text
+a.xcar.com.cn##.head_tm_content
 a.xcar.com.cn##.open-app-entry
 a8q.cn##li.list-group-item:nth-of-type(3)
 a8q.cn##marquee
@@ -3127,6 +3134,7 @@ pptstore.net###second_menu > .weixin
 prechin.net##.z > [href="javascript:;"]
 prechin.net##[href="http://prechin.net/"]
 pro.lceda.cn##.weui-banner.box_shadow
+product.m.dangdang.com##.app_download
 product.pconline.com.cn##.artBottomQRcode
 product.pconline.com.cn##.fixLeftQRcode
 product.pconline.com.cn##.pc-share
@@ -4117,6 +4125,7 @@ zzyyww.cn##.tags
 ||*/gg$image
 ||*/hguanggao$image
 ||*/static/cpt/img/jianli_banner$image
+||*/style/img/ad1$image
 ||*/tbgg$image
 ||135320.com$subdocument
 ||14110.com$image
