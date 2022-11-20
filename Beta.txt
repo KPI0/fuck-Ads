@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-19
+! TimeUpdated: 2022-11-20
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -444,6 +444,7 @@ pincong.rocks##*
 playav.tv##*
 playno1.com##*
 plw678.com##*
+plw789.com##*
 porn.com##*
 pornfind.org##*
 pornhub.com##*
@@ -2671,6 +2672,7 @@ m.qidian.com##.module-merge.module
 m.qidian.com##.read-top-download
 m.qidian.com##body > .bound.jsDownloadLink.prevent-shield.auto-report.download-content
 m.qidian.com##div.jsAuthorSay.read-author-say
+m.qtx.com###down_app
 m.readnovel.com##.active.read-rb-b
 m.readnovel.com##.jsAuthorSay.read-author-say
 m.readnovel.com##.qq.footer-app-fixed.prevent-shield
@@ -4139,6 +4141,7 @@ zzyyww.cn##.tags
 ||51xl.xyz$image
 ||520xingyun.com/images/*.gif$image
 ||54jkw.com$subdocument
+||6.5ppt.net$subdocument
 ||68939975272.com$image
 ||8.lishibu.com$subdocument
 ||8499269.com$image
@@ -4151,6 +4154,7 @@ zzyyww.cn##.tags
 ||ass.izshi.cn$subdocument
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
+||b2.meet99.com$subdocument
 ||b2.meiwenjuzi.com$subdocument
 ||baidustatic.com$image
 ||bcd.8u58.com$subdocument
@@ -4164,6 +4168,7 @@ zzyyww.cn##.tags
 ||bdjs.mapbar.com$subdocument
 ||bdsrh.shangyexinzhi.com$subdocument
 ||bu2.wang1314.com$subdocument
+||c2.yephp.net$subdocument
 ||cbjs.baidu.com$image
 ||cc.psd8.com$subdocument
 ||cdn.jiemeng.tw$subdocument
