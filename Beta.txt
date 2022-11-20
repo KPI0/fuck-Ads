@@ -186,6 +186,7 @@ davinfo.com##*
 daykemcantho.com##*
 ddecholuteca.com##*
 ddooo.com##*
+ddtv127.com##*
 dear2.co##*
 dkmkg.com##*
 dotel.cc##*
@@ -2491,6 +2492,9 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-awaken-btn > .container > .btn-text
 m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m-video2-main-img
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
+m.biqusk.org###center_tip
+m.biqusk.org###list_tip
+m.biqusk.org##dd
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.china.com.cn##.fx
@@ -2658,6 +2662,7 @@ m.pcauto.com.cn##.cmt-share-wrap
 m.pcauto.com.cn##.down-app-mode
 m.pcauto.com.cn##.sub-item-xz.sub-header-item
 m.pchouse.com.cn##.shareBox
+m.piccdg.com##video
 m.ppkao.com##.analysis_app
 m.ppkao.com##.install_box
 m.qidian.com###chapterwrapper-640845143 > div.jsAuthorSay.read-author-say
@@ -2672,6 +2677,9 @@ m.qidian.com##.module-merge.module
 m.qidian.com##.read-top-download
 m.qidian.com##body > .bound.jsDownloadLink.prevent-shield.auto-report.download-content
 m.qidian.com##div.jsAuthorSay.read-author-say
+m.qingting.fm###DownloadBtn
+m.qingting.fm##.float-bot-btn
+m.qingting.fm##.float-btn
 m.qtx.com###down_app
 m.readnovel.com##.active.read-rb-b
 m.readnovel.com##.jsAuthorSay.read-author-say
@@ -2983,6 +2991,7 @@ note.youdao.com###ft-follow-us
 note.youdao.com##a.sidebar-footer-links-item:nth-of-type(2)
 nows.fun##.text.lead
 nunuyy10.top##.clearfix.article-actions
+nvgui.cn##.spig
 nytimes.com##.efw9frv0.css-jgcl4n.expanded-dock.expanded.shown.gdpr
 o8tv.com##.btn-share.btn-collect.btn-large
 o8tv.com##.clearfix.myui-foot
@@ -4131,6 +4140,7 @@ zzyyww.cn##.tags
 ||*/tbgg$image
 ||135320.com$subdocument
 ||14110.com$image
+||1ymeng.hk$image
 ||2.51sole.cn$subdocument
 ||2.citywy.com$subdocument
 ||2.jishirili.com$subdocument
@@ -4168,7 +4178,9 @@ zzyyww.cn##.tags
 ||bdjs.mapbar.com$subdocument
 ||bdsrh.shangyexinzhi.com$subdocument
 ||bu2.wang1314.com$subdocument
+||byteimg.com$image
 ||c2.yephp.net$subdocument
+||cbd.qiwenya.com$subdocument
 ||cbjs.baidu.com$image
 ||cc.psd8.com$subdocument
 ||cdn.jiemeng.tw$subdocument
@@ -4186,14 +4198,17 @@ zzyyww.cn##.tags
 ||fpb2.gaojipro.com$subdocument
 ||fpb2.lz03.cn$subdocument
 ||ftsxgg2.szrfdq.com$subdocument
+||gdgmhur.cn$image
 ||gg.eefocus.com$image
 ||gg2.wenzhaihui.com$subdocument
 ||ggt999.oss-cn-hangzhou.aliyuncs.com$image
 ||googleads.g.doubleclick.net$subdocument
+||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
 ||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
+||huayiyuan.hk$image
 ||hzz.riji13.com$subdocument
 ||i.guancha.cn/member/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
@@ -4219,6 +4234,9 @@ zzyyww.cn##.tags
 ||jz.down10s.com$subdocument
 ||kb69.top$image
 ||kdewa222.familydoctor.com.cn$subdocument
+||kjhxw.xyz^
+||lesson99.com$image
+||lxqwed.top$image
 ||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
@@ -4240,6 +4258,7 @@ zzyyww.cn##.tags
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
+||qlogo.cn$image
 ||renxingganwu.com^$domain=www.jswvip.net
 ||res.yizhiliuzhenjiu.com$image
 ||resao.com/kf$image
@@ -4253,12 +4272,15 @@ zzyyww.cn##.tags
 ||srxzz.com/bimg/banner1.jpg$image
 ||static-xiaoguotu.17house.com$image
 ||statics.rili.com.cn$subdocument
+||sysoctw.cn$image
+||thinkmore.top$image
 ||timi21.com^$script
 ||tls2.duanbian.com$subdocument
 ||tt.027dir.com$image
 ||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
+||v2.juanta.com$subdocument
 ||vk6.me$image
 ||wcl.bailuxiangyuan.com$subdocument
 ||wskp.cc$image
