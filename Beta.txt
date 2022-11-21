@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-20
+! TimeUpdated: 2022-11-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -455,6 +455,7 @@ prgunai.store##*
 probeporn.com##*
 prt345.com##*
 pry345.com##*
+pry678.com##*
 qinav.com##*
 qingse.one##*
 qq388.cn##*
@@ -1511,6 +1512,7 @@ chromeliulanqi.com##.g-split.g-tpl-160.g-section
 chuangshi.qq.com##.favorite
 chuangshi.qq.com##.fixedRight.codeWrap
 chuangshi.qq.com##.quickLink
+cihai123.com##.det_share
 cj.sina.cn###m-sentiment3
 cj.sina.cn###norm_qrcode_link_auto
 cj.sina.cn##.js-callup-client.m-callup-client2
@@ -1584,6 +1586,7 @@ coozhi.com##.zuozhe
 coozhi.com##li:nth-of-type(5)
 cq.ganji.com##[href="//ganji.com/download"]
 cqcb.com###share2
+cqcb.com##.syshare
 cqooc.com##[src="/images/qq_qr.png"]
 cqooc.com##[src="/images/wechat_qr.png"]
 cs.zjol.com.cn##.box-jrcsq
@@ -2232,6 +2235,7 @@ jf.10086.cn##.mt8
 jf.10086.cn##.scanCode
 jf.10086.cn##[src="/static/img/hejifen.ece7db2.jpg"]
 jfdaily.com##.f_con
+jfdaily.com##.xiazai-bottom
 jfdaily.com##.xz
 jfdaily.com##div.title:nth-of-type(14)
 jfdaily.com##div.title:nth-of-type(16)
@@ -2494,6 +2498,7 @@ m.bilibili.com##.visible-open-app-btn.m-video-main-launchapp.launch-app-btn > .m
 m.bilibili.com##div.left:nth-of-type(2) > div.launch-app-btn:nth-of-type(3)
 m.biqusk.org###center_tip
 m.biqusk.org###list_tip
+m.biqusk.org###strl
 m.biqusk.org##dd
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
@@ -2641,6 +2646,7 @@ m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
 m.le.com##.j-share.ico_share
+m.leisu.com##.ulinkBut
 m.lelewen.cn##.lmgg-block
 m.linuxidc.com##.download-btn-996chuanqi-desc
 m.mgtv.com##.mg-down-btn
@@ -2662,6 +2668,7 @@ m.pcauto.com.cn##.cmt-share-wrap
 m.pcauto.com.cn##.down-app-mode
 m.pcauto.com.cn##.sub-item-xz.sub-header-item
 m.pchouse.com.cn##.shareBox
+m.piccdg.com###\32 022
 m.piccdg.com##video
 m.ppkao.com##.analysis_app
 m.ppkao.com##.install_box
@@ -3523,6 +3530,7 @@ tiktok.com##.ejkrawn0.tiktok-1vrbodl-DivPromotionContainer
 tiktok.com##div.ejpbrlm1.tiktok-1d39a26-DivFlexCenterRow:nth-of-type(2)
 time.is###follow > div
 tiw.cn###targetDiv
+tiyu.baidu.com##.goto-native
 tmioe.com###custom_html-5
 tmioe.com##.entry-copyright
 tmtpost.com##.app_btn_float.app_btn
@@ -4237,6 +4245,7 @@ zzyyww.cn##.tags
 ||kjhxw.xyz^
 ||lesson99.com$image
 ||lxqwed.top$image
+||m.biqusk.org^$script
 ||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
