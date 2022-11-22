@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-21
+! TimeUpdated: 2022-11-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -125,6 +125,7 @@ appchina.com##*
 aqdmv143.com##*
 are456.com##*
 ata234.com##*
+atg678.com##*
 attvideo.com##*
 aus234.com##*
 av01.tv##*
@@ -657,6 +658,7 @@ zztt37.com##*
 *###adTonglan
 *###advRollWarp
 *###anchorads
+*###appad
 *###Baidu-bottomAd
 *###Baidu-topAd
 *###baidulianmeng1
@@ -669,6 +671,9 @@ zztt37.com##*
 *###cen_ad
 *###class_ad
 *###couplet
+*###divAd1
+*###divAd2
+*###diy_ad_article_right
 *###fanyi-advertising-space
 *###flashad
 *###flow_adv
@@ -681,6 +686,8 @@ zztt37.com##*
 *###header_topad
 *###listwoBox
 *###M_box_google_ad1
+*###m_load_creditcard_text_ad
+*###m_load_creditcard_text_ad02
 *###maskBox
 *###mbads-sider
 *###mbads1
@@ -715,6 +722,7 @@ zztt37.com##*
 *##.ad-bottom-new
 *##.ad-box
 *##.ad-card
+*##.ad-conetnt
 *##.ad-container
 *##.ad-content
 *##.ad-horizontal
@@ -735,6 +743,7 @@ zztt37.com##*
 *##.ad_box
 *##.ad_cent
 *##.ad_foot
+*##.ad_img
 *##.ad_like
 *##.ad_pic
 *##.ad_single_1
@@ -802,6 +811,7 @@ zztt37.com##*
 *##.boxad
 *##.btmAd
 *##.c-nav-advertising
+*##.c1c2_b1b2_adbx
 *##.calc-guanggao
 *##.cesuankuang
 *##.cj_bna_ad
@@ -814,6 +824,7 @@ zztt37.com##*
 *##.csbox
 *##.detail-pure-ad-hx-btn
 *##.detnew_adv
+*##.dkpro_adtg
 *##.down-app
 *##.ec-ad
 *##.ec_wise_ad
@@ -875,9 +886,11 @@ zztt37.com##*
 *##.my-ad3
 *##.n-top__ad
 *##.new-bdsharebuttonbox
+*##.newAd
 *##.news_ad
 *##.news_ad1
 *##.news_ad2
+*##.news_gg_fram
 *##.page-share
 *##.page_ad
 *##.page_bottom_ad_item
@@ -887,6 +900,7 @@ zztt37.com##*
 *##.placeholder-ad
 *##.pop_con
 *##.post-bottom
+*##.potoadv
 *##.pro-ad-pageend
 *##.qklw-adv
 *##.question-ads-exp
@@ -2442,6 +2456,7 @@ m.1688.com##.header-wrapper
 m.1905.com##.open-link
 m.278wan.com##.guideDownLoad
 m.4399.cn##.cn-mt10.cn-app_download
+m.51credit.com##.appdownClick
 m.51job.com##.goApp
 m.699pic.com##.chongzhiact
 m.699pic.com##.fl.footer-share
@@ -2515,6 +2530,9 @@ m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
+m.douguo.com###opentag
+m.douguo.com##.lottie
+m.douguo.com##.openApp
 m.douyu.com##.abtest-downloadDialog
 m.douyu.com##.abtest-downloadDialog-wrap
 m.douyu.com##.btn-open-app
@@ -3159,6 +3177,7 @@ product.pconline.com.cn##.pc-share
 ps173.com##.item-myimg.item
 ps173.com##blockquote
 ps173.com##p:nth-of-type(17) > span > [href="https://zc.oke4.cn/A8866"] > strong
+pxb7.com##.appDownload
 qb.zuoyebang.com##.answerAnalyzeAd_-hW0z
 qb.zuoyebang.com##.aside_2NzA4 > .card_3l6Tq.Card_3tgEd
 qb.zuoyebang.com##.asideBanner_X4YnT
@@ -3927,6 +3946,7 @@ xinhuanet.com##.part-right
 xinhuanet.com##.roedeer-container.nav-op > .nav-khd
 xinyueseo.com##.sr-bdimgshare-black.sr-bdimgshare-16.sr-bdimgshare-list.sr-bdimgshare
 xinzuzc.com##div.mod_block_big
+xitongcheng.com##.nnwrap
 xkzzz.com###aPshow1
 xkzzz.com##.ml-plist
 xkzzz.com##.ml-tlist
@@ -4170,10 +4190,12 @@ zzyyww.cn##.tags
 ||article.qcyz.cn$subdocument
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
+||b.huicaiba.net$subdocument
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||b2.meet99.com$subdocument
 ||b2.meiwenjuzi.com$subdocument
+||baidu2.cardbaobao.com$subdocument
 ||baidustatic.com$image
 ||bcd.8u58.com$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
