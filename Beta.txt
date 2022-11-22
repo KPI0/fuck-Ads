@@ -181,6 +181,7 @@ cmm.lol##*
 cncrk.com##*
 cr173.com##*
 crsky.com##*
+d9620.com##*
 daagux.digital##*
 daily6.dev##*
 davinfo.com##*
@@ -313,6 +314,9 @@ javxxx.me##*
 jb51.net##*
 jcss53.com##*
 jdav88.com##*
+jdht666.com##*
+jdht777.com##*
+jdht999.com##*
 jdyy.bar##*
 jessicachina.net##*
 jiaojiao100.com##*
@@ -537,6 +541,7 @@ txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
 uc.cn##*
+uekpa.com##*
 uga345.com##*
 uga456.com##*
 ukr456.com##*
@@ -638,6 +643,7 @@ zztt37.com##*
 ||164.155.162.66
 ||178.128.25.172
 ||2345*.com
+||jdht*.com
 ! 广告弹窗/元素
 *###__ad7
 *###ad-arc-top
@@ -932,6 +938,7 @@ zztt37.com##*
 *##.tbgg
 *##.tg-box
 *##.tg-site
+*##.tm-adv-space
 *##.toolbar-advert
 *##.top_ad
 *##.topad
@@ -2099,6 +2106,10 @@ homenew.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next
 homenew.console.aliyun.com##.widget-aliyun-app
 hongxiu.com##.j-showGuidePopup.red-btn.end-guide-btn
 hostloc.com##.wp > .z
+hpeak.cn##.article-content > [href="https://www.hpeak.cn/ad"]
+hpeak.cn##.widget_custom_html.zib-widget.widget_text
+hpeak.cn##.widget_media_image.zib-widget
+hpeak.cn##[href="https://curl.qcloud.com/Fkeu6DhA"]
 huaban.com##.ant-tooltip-arrow-content
 huaban.com##.ant-tooltip-inner
 huacy.cn##div.right-card:nth-of-type(1)
@@ -2124,6 +2135,7 @@ huya.com##.NavDownload--14eln2LYTFMgF_MZOue4Gu.NavItem--1jr9x80QTPbnrDwqn834hF >
 huya.com##.share-entrance
 huya.com##.tip-bg-common-new.diy-activity-icon-bubble-tips
 huya.com##a.nav-item--XUUXqbSUAscPL7VU5EnMq:nth-of-type(1)
+hwjyingshi.xyz##.ads_w
 hxcpp73.com##.active.text
 hxcpp73.com##.icon > [src^="data:image/png;base64,"]
 hxm5.com###qrcode
@@ -2955,6 +2967,7 @@ mzh.moegirl.org.cn##.download-app
 mzh.moegirl.org.cn##.open-in-app-button
 n.miaopai.com##.footer
 naxuefen.com##.mip-share-container
+nb.sportscn.com##.topbanner
 nb.zol.com.cn##.article-side-box
 netded.com##.jd-hongbao
 new-tudou.com##.dropdown__panel__con
@@ -4058,6 +4071,7 @@ ypk.39.net##div.wrap
 ypppt.com##.aad4
 yszzq.com##.date
 yuanheng0371.com##.wpcom_myimg_wrap
+yule.voc.com.cn###xbyxgg
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
 yun.139.com##.fr
