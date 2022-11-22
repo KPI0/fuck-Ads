@@ -959,7 +959,12 @@ zztt37.com##*
 0813fs.com##.b_login
 10086.cn###sjyyt
 10086.cn###tempBar1
+10086.cn##.ad
+10086.cn##.btmAd
 10086.cn##.btmAddr
+10086.cn##.newAd
+10086.cn##.potoadv
+10086.cn##.top_ad
 1010jiajiao.com##.right_box
 1010jiajiao.com##div.box_body:nth-of-type(5)
 1010jiajiao.com##div.box_head > div
