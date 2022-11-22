@@ -649,6 +649,7 @@ zztt37.com##*
 *###ad_before_content
 *###ad_c
 *###ad_d
+*###ad_market_1
 *###ad_showbox
 *###adfloatbaidu
 *###adhtml
@@ -666,6 +667,7 @@ zztt37.com##*
 *###BannerZoneAD_Div20
 *###BannerZoneAD_Div25
 *###bdshare
+*###bottom-adv
 *###bottomads
 *###btmBox
 *###cen_ad
@@ -705,9 +707,11 @@ zztt37.com##*
 *###rightNav_ad
 *###share
 *###soft-content-adsy
+*###sp-ad
 *###StoreAd800Container
 *###subMenuBox
 *###swiper-ad
+*###top-adv
 *###topads
 *###topads0
 *###ymzy-tuiguang-test-bottom
@@ -742,6 +746,7 @@ zztt37.com##*
 *##.ad_bottom
 *##.ad_box
 *##.ad_cent
+*##.ad_fixed
 *##.ad_foot
 *##.ad_img
 *##.ad_like
@@ -1349,6 +1354,7 @@ bianews.com##.fr.we_img_box
 bianews.com##.nav-tr-lang
 bianji.wwei.cn##.sidebar-client-box.sidebar-block
 biketo.com##.sidebar-QRcode
+bilibili.com##.adblock-tips
 bilibili.com##.app-download-link
 bilibili.com##.battle-area
 bilibili.com##.bili-footer
@@ -2441,6 +2447,7 @@ libattery.ofweek.com###gongzhonghao
 libattery.ofweek.com###goto_phone
 libattery.ofweek.com###two-bar-codes
 libattery.ofweek.com##div:nth-of-type(8)
+liebanwang.b2b.huangye88.com##.adiv
 life.ynet.com##.down_app
 link.bilibili.com##.link-footer
 liuxue86.com##.modal-pay.modal
@@ -2902,6 +2909,7 @@ mkzhan.com##.j-header-down.user-item > [href] > .item-text
 mkzhan.com##.qr-code.aside__item
 mobile.baidu.com##.banner-ck.detail-banner
 mobile.twitter.com##.r-zchlnj.r-1xcajam.r-12vffkv.r-1d2f490.r-1p0dtai.r-aqfbo4.css-1dbjc4n > .r-12vffkv.css-1dbjc4n > .r-12vffkv.css-1dbjc4n
+mobile.yangkeduo.com##.pdd-go-to-app
 money.163.com##.keyword_share
 mop.com##.goto-3g
 mop.com##div.dzh-heat:nth-of-type(2)
@@ -3751,10 +3759,10 @@ wap.cnki.net##.cum-browser
 wap.cnki.net##.fix-bottom-content-inner
 wap.cnki.net##.fix-top
 wap.eastmoney.com###liShare
+wap.faloo.com##.bl_ad
 wap.faloo.com##.clearfix.appLayout
 wap.faloo.com##.middleLayout
 wap.faloo.com##.nologin
-wap.faloo.com##.openApp.bl_ad
 wap.faloo.com##.page_title
 wap.faloo.com##.show.zheZhao2.zheZhao
 wap.faloo.com##.textHide.openApp2.display_flex_center.f_m_btn1.f_m_btn
@@ -3780,6 +3788,7 @@ web.4399.com##.wall_box
 web.phb123.com##.blockchain-box
 web.shobserver.com##.xiazai-bottom
 web.shobserver.com##.xiazai-top > .open-app
+web.telegram.org##.tg_try_desktop
 web02.cnki.net##[href="https://inks.cnki.net"]
 webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
 webhek.com###overlay99
@@ -4252,7 +4261,6 @@ zzyyww.cn##.tags
 ||img.0755rc.com$subdocument
 ||img.familydoctor.com.cn/uploadimg/tj$image
 ||img.wjxcdn.com$subdocument
-||img11.360buyimg.com/*.jpg$image
 ||img2.idongde.com$subdocument
 ||img3.dzsc.com/img/web/g-g$image
 ||imgwap.xilu.com$image
