@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-22
+! TimeUpdated: 2022-11-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -111,6 +111,7 @@ aff003.pro##*
 aff006.app##*
 aff006.org##*
 aff007.biz##*
+afg345.com##*
 aicediamond.top##*
 aidou.la##*
 aipaw1.com##*
@@ -124,6 +125,7 @@ appav.live##*
 appchina.com##*
 aqdmv143.com##*
 are456.com##*
+arm456.com##*
 ata234.com##*
 atg678.com##*
 attvideo.com##*
@@ -951,6 +953,7 @@ zztt37.com##*
 *##.web-header-ad-item
 *##.wechat
 *##.weibo
+*##.wgt-ad-guess
 *##.works-slider-ad
 *##.wpcom_ad_wrap
 *##.wwads-cn
