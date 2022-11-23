@@ -672,6 +672,8 @@ zztt37.com##*
 *###Baidu-topAd
 *###baidulianmeng1
 *###baidulianmeng2
+*###BannerZoneAD_Div1
+*###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
 *###BannerZoneAD_Div25
 *###bdshare
@@ -3383,6 +3385,7 @@ so.iqiyi.com##.qy-svgicon-game.qy-svgicon
 so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
+so.szlcsc.com##.overseas-fixed.overseas-dialog
 socialbeta.com##div.h-p:nth-of-type(2)
 socialbeta.com##div.mt40:nth-of-type(5)
 socialmarketings.com##.copyLink > div > .el-dropdown
