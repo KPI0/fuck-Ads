@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-23
+! TimeUpdated: 2022-11-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -538,6 +538,7 @@ tkbpyg.life##*
 tktube.com##*
 tom3828.com##*
 tonywardcouture.com##*
+tto345.com##*
 tuaox.cc##*
 txpozg6.com##*
 txps8mk.com##*
@@ -752,6 +753,10 @@ zztt37.com##*
 *##.ad-zone
 *##.ad2
 *##.ad360
+*##.ad_1220x90
+*##.ad_350x150
+*##.ad_350x300
+*##.ad_840x90
 *##.ad_banner
 *##.ad_bottom
 *##.ad_box
@@ -880,6 +885,7 @@ zztt37.com##*
 *##.iguangao
 *##.img-ad
 *##.index-ad
+*##.index-left_adv
 *##.item-ad
 *##.jifeng-ad-wrapper
 *##.js-advertisement
@@ -992,6 +998,7 @@ zztt37.com##*
 113123.xyz##.article-fx
 11467.com###erweimadiv
 11467.com##div > .navright
+122cha.com##.sjshow
 123.sogou.com###addBook
 123.sogou.com###infoFlow
 123.sogou.com###setHome
@@ -2637,6 +2644,7 @@ m.iqiyi.com##div.toolBar-item > div
 m.iqiyi.com##div.toolBar-item:nth-of-type(2)
 m.iqiyi.com##div.video-action-btn
 m.iqiyi.com##section.m-videoPlay-toolBar
+m.it168.com##.m-qrcode
 m.ithome.com##.hot-app
 m.ithome.com##.news-share
 m.ithome.com##.open-app
@@ -4200,6 +4208,7 @@ zzyyww.cn##.tags
 ||*/static/cpt/img/jianli_banner$image
 ||*/style/img/ad1$image
 ||*/tbgg$image
+||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
 ||1ymeng.hk$image
