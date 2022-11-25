@@ -752,6 +752,7 @@ zztt37.com##*
 *##.ad-top-header
 *##.ad-wrap
 *##.ad-zone
+*##.ad1
 *##.ad2
 *##.ad360
 *##.ad_1220x90
@@ -843,6 +844,7 @@ zztt37.com##*
 *##.com-advertisement
 *##.commentads
 *##.common-top-ad-container
+*##.content_Ad
 *##.content_adsense
 *##.csbox
 *##.detail-pure-ad-hx-btn
@@ -943,6 +945,8 @@ zztt37.com##*
 *##.share-wrap
 *##.sharebox
 *##.shares
+*##.showAdRight
+*##.showAdThree
 *##.side-ad
 *##.sider_guanggao
 *##.single-ad
@@ -2495,6 +2499,10 @@ llxbw.com##.layui-col-space5.layui-row.layui-clear
 lotto.sina.cn##div.cta:nth-of-type(3)
 ltube.life##.cate
 lulian.cn##.met-editor > .social-box
+lunwen11.cn###absArticleTop
+lunwen11.cn##.abs
+lunwenfw.com###absArticleTop
+lunwenfw.com###absSidebarTop
 lxapk.com##.article-content > .size-full.wp-block-image
 m-lou.com###container
 m-lou.com###header-bg
@@ -2825,6 +2833,7 @@ m.xzbu.com###doyoo_monitor
 m.xzbu.com##.down-box
 m.ydxgnd.com##.icon-defaultColor.newsShare.g_round.g_iconMiddle.icon-share
 m.yebaike.com##.weui-panel__bd > div
+m.yebaike.com##hr
 m.yicai.com##.m-float-appopen
 m.yoojia.com##.download-app-bar
 m.yoojia.com##.guide-float-layer
