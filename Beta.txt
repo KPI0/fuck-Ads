@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-24
+! TimeUpdated: 2022-11-25
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -172,6 +172,7 @@ cdymsm.com##*
 cfgioa.com##*
 cg004.me##*
 chipmong666.xyz##*
+civ567.com##*
 clfb.xyz##*
 clipsbai.com##*
 clipsex.video##*
@@ -767,6 +768,7 @@ zztt37.com##*
 *##.ad_like
 *##.ad_pic
 *##.ad_single_1
+*##.ad_single_2
 *##.ad_single_title
 *##.ad_under_title
 *##.adbaidu1100
@@ -806,6 +808,7 @@ zztt37.com##*
 *##.artadv
 *##.article-ad-list
 *##.article-ad-ul
+*##.article-banner-ad
 *##.article_ad
 *##.articleDetail-ad-list
 *##.articles-ad
@@ -894,6 +897,7 @@ zztt37.com##*
 *##.Kyad_kyad__Z96VR
 *##.leader_ad_banner
 *##.left_top_ad
+*##.logout_ad
 *##.lowerad
 *##.m-block-ad
 *##.mbd_ad
@@ -901,6 +905,7 @@ zztt37.com##*
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
 *##.module-ad
+*##.mtg-newslist-ads
 *##.my-ad-loaded
 *##.my-ad1
 *##.my-ad2
@@ -929,6 +934,7 @@ zztt37.com##*
 *##.recommend-ad
 *##.related-ad
 *##.right_top_ad
+*##.rightgg
 *##.ripro_gg_wrap
 *##.rom_ad
 *##.share
@@ -1518,9 +1524,11 @@ chinadaily.com.cn##.newtipbox > .floatrgt
 chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 chinanews.com.cn###newewm
 chinanews.com.cn##.download_wrapper
+chinanews.com.cn##.gghzh
 chinanews.com.cn##.index_layerul > li
 chinanews.com.cn##.index_layerul [href="/app/chinanews/index.shtml"]
 chinanews.com.cn##.right.con_left_nav_share
+chinanews.com.cn##embed
 chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-select
 chinanews.com.cn##li.division:nth-of-type(1)
 chinatimes.com##.col-md-auto > .social-share
@@ -1689,6 +1697,8 @@ developer.aliyun.com##.app-fixed-btn
 dianying.taobao.com##.banner-container.J_smartBanner
 dict.cn###dshared
 dict.cn##[href^="http://cidian.haidii.com/home.html"]
+dictall.com##.indexTable_son_bd
+dictall.com##.indexTable_son_gg
 digitalattackmap.com##.footernav
 digitalattackmap.com##.share-icons
 digitaling.com##.bsns_box.f_l
@@ -2067,6 +2077,7 @@ hanyu.baidu.com##li.userbar-item.pipe:nth-of-type(4)
 hanyu.baidu.com##li.userbar-item:nth-of-type(3)
 hao.360.com##.plane-bd > li
 hao.360.com##.plane-bd [href="https://go.360.cn/"]
+haodf.com###open-app-box
 haokan.baidu.com##.about
 haokan.baidu.com##.download-hover.link-item
 haokan.baidu.com##.follow-btn
@@ -2551,6 +2562,7 @@ m.biqusk.org###center_tip
 m.biqusk.org###list_tip
 m.biqusk.org###strl
 m.biqusk.org##dd
+m.bohe.cn##.posr.d-flex
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.china.com.cn##.fx
@@ -2597,6 +2609,7 @@ m.fengei.net##.ba
 m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
+m.guancha.cn##.g_swiper_container
 m.haiwainet.cn##.footer-box
 m.haochu.com##.bd-1
 m.haodf.com###open-app-box
@@ -2833,6 +2846,7 @@ m.zongheng.com##.but_client
 m.zongheng.com##.download_app
 m.zongheng.com##[href^="/h5/getDiversionBook"]
 m.zongheng.com##div[id]
+m.zw.offcn.com##.new_aadgk
 madisonboom.com##.cf.fxBox
 madisonboom.com##[class="fx"]
 madou.sbs##.logo-banner
@@ -3393,7 +3407,7 @@ so.iqiyi.com##.qy-svgicon-game.qy-svgicon
 so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
-so.szlcsc.com##.overseas-fixed.overseas-dialog
+so.szlcsc.com##.overseas-dialog
 socialbeta.com##div.h-p:nth-of-type(2)
 socialbeta.com##div.mt40:nth-of-type(5)
 socialmarketings.com##.copyLink > div > .el-dropdown
@@ -3480,6 +3494,7 @@ store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
 store.steampowered.com##.header_installsteam_btn_green.header_installsteam_btn
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
+sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
 sydw.huatu.com##.bottomBar
 t.bilibili.com##.download-client-trigger.download-entry
@@ -4257,6 +4272,7 @@ zzyyww.cn##.tags
 ||cbjs.baidu.com$image
 ||cc.psd8.com$subdocument
 ||cdn.jiemeng.tw$subdocument
+||chinanews.com/gg$object
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||cpro.baidu.com$image
@@ -4331,6 +4347,7 @@ zzyyww.cn##.tags
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
+||q2.nitupic.com$subdocument
 ||qlogo.cn$image
 ||renxingganwu.com^$domain=www.jswvip.net
 ||res.yizhiliuzhenjiu.com$image
