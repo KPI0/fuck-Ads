@@ -417,6 +417,7 @@ modeltv.com##*
 ms538.com##*
 mse.sogou.com##*
 mt02.site##*
+mus567.com##*
 my123.com##*
 mydown.com##*
 mydown.yesky.com##*
@@ -746,8 +747,10 @@ zztt37.com##*
 *##.ad-list
 *##.ad-m
 *##.ad-mobile
+*##.ad-pc
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
+*##.ad-site
 *##.ad-style
 *##.ad-top-header
 *##.ad-wrap
@@ -955,9 +958,11 @@ zztt37.com##*
 *##.singleb-ad
 *##.slider_ad_item
 *##.sponsored-token
+*##.t-ad
 *##.tbgg
 *##.tg-box
 *##.tg-site
+*##.tgdata
 *##.tm-adv-space
 *##.toolbar-advert
 *##.top_ad
@@ -3002,6 +3007,7 @@ myqqjd.com##.fds.like-left-box
 mzh.moegirl.org.cn##.download-app
 mzh.moegirl.org.cn##.open-in-app-button
 n.miaopai.com##.footer
+nap6.com###asswecan
 naxuefen.com##.mip-share-container
 nb.sportscn.com##.topbanner
 nb.zol.com.cn##.article-side-box
