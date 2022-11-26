@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-25
+! TimeUpdated: 2022-11-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -360,6 +360,7 @@ lao678.com##*
 laomaotao.net##*
 laow000.com##*
 laow7.com##*
+lca123.com##*
 lfge6.top##*
 liqucn.com##*
 llzyw48.com##*
@@ -742,6 +743,7 @@ zztt37.com##*
 *##.ad-conetnt
 *##.ad-container
 *##.ad-content
+*##.ad-detail
 *##.ad-horizontal
 *##.ad-img
 *##.ad-list
@@ -845,8 +847,10 @@ zztt37.com##*
 *##.cmsAd
 *##.columns-ad
 *##.com-advertisement
+*##.comiis_listad
 *##.commentads
 *##.common-top-ad-container
+*##.content_ad
 *##.content_Ad
 *##.content_adsense
 *##.csbox
@@ -866,6 +870,7 @@ zztt37.com##*
 *##.fenxiang
 *##.ff-ads
 *##.float-ads
+*##.float-left-ad
 *##.footerads
 *##.ft-ad
 *##.FuckYou
@@ -902,6 +907,7 @@ zztt37.com##*
 *##.Kyad_kyad__Z96VR
 *##.leader_ad_banner
 *##.left_top_ad
+*##.localAd
 *##.logout_ad
 *##.lowerad
 *##.m-block-ad
@@ -993,6 +999,7 @@ zztt37.com##*
 02516.com##.mcol
 02516.com##.qingtiancms_famous_tip
 029ztxx.com###v_footer
+0430.com##.bgad
 0574bbs.com###thread-share
 0813fs.com##.b_login
 10086.cn###sjyyt
@@ -3488,6 +3495,7 @@ splashtennis.com##.visible-xs.head
 splashtennis.com##.visible-xs.myui-header__top
 splashtennis.com##.visible-xs.tabbar1
 sports.2008.sina.com.cn##.tiyu__icon
+sports.39.net##.channel_show
 sports.iqiyi.com##.style_banner_1hPUc
 sports.iqiyi.com##.style_bottomBanner_2eyDT
 sports.sina.cn##a.ft_cm_nav_a:nth-of-type(3)
@@ -4231,6 +4239,7 @@ zzyyww.cn##.tags
 ||*/ad$image
 ||*/ad/*$subdocument
 ||*/ads$subdocument
+||*/Advert/$image
 ||*/AdvertImages/*$image
 ||*/advPicture$image
 ||*/gg$image
@@ -4280,18 +4289,25 @@ zzyyww.cn##.tags
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||bdsrh.shangyexinzhi.com$subdocument
+||bdxiguaimg.com$image
+||bitautotech.com$image
 ||bu2.wang1314.com$subdocument
+||bujvtes.cn$image
 ||byteimg.com$image
+||c.j0rd.vip$image
 ||c2.yephp.net$subdocument
 ||cbd.qiwenya.com$subdocument
 ||cbjs.baidu.com$image
 ||cc.psd8.com$subdocument
+||cdn.bspapp.com$image
 ||cdn.jiemeng.tw$subdocument
 ||chinanews.com/gg$object
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||cpro.baidu.com$image
+||d.shouying.tv$subdocument
 ||def.sibuzyn.com$subdocument
+||desk.sstar.xyz$image
 ||dhn.jiankang123.net$subdocument
 ||dimg04.c-ctrip.com$image
 ||dmn.lczk.cn$subdocument
@@ -4315,8 +4331,10 @@ zzyyww.cn##.tags
 ||huayiyuan.hk$image
 ||hzz.riji13.com$subdocument
 ||i.guancha.cn/member/*.png$image
+||ibook.pc899.cn$subdocument
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
+||image.bitautoimg.com$image
 ||images.itbulu.com/banner$image
 ||img.0755rc.com$subdocument
 ||img.familydoctor.com.cn/uploadimg/tj$image
@@ -4339,6 +4357,7 @@ zzyyww.cn##.tags
 ||kdewa222.familydoctor.com.cn$subdocument
 ||kjhxw.xyz^
 ||lesson99.com$image
+||lfwxe.xyz^$script
 ||lxqwed.top$image
 ||m.biqusk.org^$script
 ||m.haolietou.com/images/article$image
@@ -4356,15 +4375,20 @@ zzyyww.cn##.tags
 ||p1.meituan.net/csc/*.gif$image
 ||p3.toutiaoimg.com$image
 ||pa.jueju.cn$subdocument
+||pic.link.topshu.xyz$image
 ||pic.picnewsss.com$image
+||pic.rmb.bdstatic.com$image
 ||pic002.vkandian.cn$subdocument
 ||pornlulu.com/*$image
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
 ||q2.nitupic.com$subdocument
+||q8t6k.icu^$script
 ||qlogo.cn$image
+||qqpublic.qpic.cn$image
 ||renxingganwu.com^$domain=www.jswvip.net
+||renzhongjiaoyu.xyz$image
 ||res.yizhiliuzhenjiu.com$image
 ||resao.com/kf$image
 ||retrieve.64365.com$subdocument
@@ -4405,6 +4429,7 @@ zzyyww.cn##.tags
 ||www.wgdacc.com/*.php$image
 ||xingfupa.com$image
 ||y.yaohuo.me
+||yichan.net.cn$image
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||z2.fakutownee.cn$subdocument
