@@ -994,6 +994,7 @@ zztt37.com##*
 *##.wpcom_ad_wrap
 *##.wwads-cn
 *##.xshare
+*##.z-ad-l
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
 *##single-bottom-ads
@@ -1084,8 +1085,11 @@ zztt37.com##*
 3345av.com##ins
 3345av.com##table
 360.cn##.need_to_fixed.weibo
+360.cn##.savedesk
+360.cn##.savehome
 360.cn##.topbnr
 360.cn##dl.list:nth-of-type(2) > dd.product:nth-of-type(4)
+360.cn##em.top_line
 360doc.cn###adimgsrc1
 360doc.cn##.abtn_openapp
 360doc.cn##[href^="intent://360doc/openApp"]
@@ -1370,6 +1374,7 @@ bbc.com###post_60812699 > .lx-stream-post__footer > .lx-stream-post__footer-shar
 bbc.com##.e1nbsi9l0.bbc-n7zdg2
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com##.recommend
+bbs.9game.cn##.guide-app-fix
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
 bbs.elecfans.com###a_top_url
@@ -1475,6 +1480,7 @@ book.zongheng.com##.bImg > em
 book.zongheng.com##.clearfix.app-in
 book.zongheng.com##[href^="//zongheng.com/feedback"]
 book.zongheng.com##[href^="http://game.zongheng.com/static/gamestart.html"] > span
+bowenquan.com##.deanad4s
 boxnovel.baidu.com##.book-info
 boxnovel.baidu.com##.bottom-fixed-btn
 boxnovel.baidu.com##.container > .btn
@@ -1994,6 +2000,7 @@ fy.tingclass.net###scanning_tbox
 fy.tingclass.net##.tips-xcx-div
 g.pconline.com.cn###JshareBtn
 g.pconline.com.cn##.enter-zt
+game.xiaomi.com##.banner-desktop.banner
 gank.fanpiece.com##.right.options
 gaojiufeng.cn##.main-footer
 gbs.cn##.toolbar
@@ -3986,6 +3993,7 @@ wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
 wse61.cam##.jsv-g1.jsv
+wstx.com##.gg_3
 wuxiaworld.com##.space-y-1.mx-2
 wuzhuiso.com##.common-click-block.msocom-bottom-banner
 ww2.mathworks.cn##.col-md-3.col-xs-12
@@ -4290,6 +4298,7 @@ zzyyww.cn##.tags
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
 ||b.huicaiba.net$subdocument
+||b.meijiu.com$subdocument
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
 ||b2.meet99.com$subdocument
