@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-26
+! TimeUpdated: 2022-11-27
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -508,6 +508,7 @@ somode.com##*
 soutongshipin.com##*
 spankbang.com##*
 spankbang.party##*
+spm234.com##*
 ssd456.com##*
 stripchat.com##*
 stripchat.global##*
@@ -686,6 +687,7 @@ zztt37.com##*
 *###bdshare
 *###bottom-adv
 *###bottomads
+*###bottomfixedAd
 *###btmBox
 *###cen_ad
 *###class_ad
@@ -724,6 +726,7 @@ zztt37.com##*
 *###rightadbox
 *###rightads
 *###rightNav_ad
+*###rongkeji_tuwenad
 *###share
 *###soft-content-adsy
 *###sp-ad
@@ -773,6 +776,7 @@ zztt37.com##*
 *##.ad_bottom
 *##.ad_box
 *##.ad_cent
+*##.ad_content
 *##.ad_fixed
 *##.ad_foot
 *##.ad_img
@@ -919,6 +923,7 @@ zztt37.com##*
 *##.lowerad
 *##.m-block-ad
 *##.mbd_ad
+*##.mobile-ad-in-list
 *##.mobilePaddingAds
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
@@ -955,6 +960,7 @@ zztt37.com##*
 *##.rightgg
 *##.ripro_gg_wrap
 *##.rom_ad
+*##.section-adbox
 *##.share
 *##.share-box
 *##.share-component
@@ -986,6 +992,7 @@ zztt37.com##*
 *##.view-ad
 *##.VR-headAD
 *##.w-ad
+*##.wapad
 *##.web-header-ad-item
 *##.wechat
 *##.weibo
@@ -2624,6 +2631,7 @@ m.douyu.com##.DownloadBtn
 m.douyu.com##.HomeHeader-openAppB
 m.dw.com##.article__sharing
 m.dx.17house.com##.pullUp
+m.dzsc.com##.relative
 m.ebrun.com##.right-open-app
 m.eda365.com##.appopen
 m.eda365.com##.openapp
@@ -2645,6 +2653,7 @@ m.fengei.net##.ba
 m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
+m.gaoshouyou.com##.gsy-gd
 m.guancha.cn##.g_swiper_container
 m.haiwainet.cn##.footer-box
 m.haochu.com##.bd-1
@@ -3537,6 +3546,7 @@ stockstar.com##.news
 stockstar.com##.tags
 store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
 store.steampowered.com##.header_installsteam_btn_green.header_installsteam_btn
+super.sina.cn##.call_up_banner
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
 sydneytoday.com##.mtg-bottom-app
@@ -4271,6 +4281,7 @@ zzyyww.cn##.tags
 ||*/static/cpt/img/jianli_banner$image
 ||*/style/img/ad1$image
 ||*/tbgg$image
+||*douyin_ad_img$image
 ||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
@@ -4353,6 +4364,7 @@ zzyyww.cn##.tags
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
+||hg2kkjhkll.huguan123.com$subdocument
 ||hmjs.cnmo-img.com.cn$subdocument
 ||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
