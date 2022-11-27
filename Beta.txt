@@ -2109,6 +2109,8 @@ h5.onemeta.com.cn##.round.shadow-blur.bg-blue.cu-btn
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
 ha.huatu.com##body > div > div
+hanyu.baidu.com###fengchao
+hanyu.baidu.com##.app-download
 hanyu.baidu.com##.app-qrcode
 hanyu.baidu.com##.module.nav-list.left
 hanyu.baidu.com##li.userbar-item.pipe:nth-of-type(4)
@@ -2608,6 +2610,7 @@ m.biqusk.org##dd
 m.bohe.cn##.posr.d-flex
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
+m.caijing.com.cn##.downdiv
 m.china.com.cn##.fx
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
@@ -4338,6 +4341,7 @@ zzyyww.cn##.tags
 ||cc.psd8.com$subdocument
 ||cdn.bspapp.com$image
 ||cdn.jiemeng.tw$subdocument
+||cgadres.sgp1.digitaloceanspaces.com$image
 ||chinanews.com/gg$object
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
@@ -4391,6 +4395,7 @@ zzyyww.cn##.tags
 ||jjs.zhimeng.com.cn$subdocument
 ||jn.ivqtrjt.cn^$script,domain=m.4pcc.com
 ||js.imgsina.com/*$subdocument
+||js.xvv.cc^$script
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
 ||js2.whsp.cn$subdocument
@@ -4405,6 +4410,7 @@ zzyyww.cn##.tags
 ||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
+||manlungkey.com^$script
 ||meituan.net/dpplatform$image
 ||mmjs.tcmap.com.cn/*$subdocument
 ||mw.dachuyi.com$subdocument
@@ -4437,6 +4443,7 @@ zzyyww.cn##.tags
 ||s.grescw.com$subdocument
 ||s.yibinfan.com$subdocument
 ||scez.cn$media
+||sdk.51.la^$script
 ||shiold2.zhaosw.com$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
