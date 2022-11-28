@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-27
+! TimeUpdated: 2022-11-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -173,6 +173,7 @@ cfgioa.com##*
 cg004.me##*
 chipmong666.xyz##*
 civ567.com##*
+civ678.com##*
 clfb.xyz##*
 clipsbai.com##*
 clipsex.video##*
@@ -408,6 +409,7 @@ mdoudh.com##*
 mdpda.com##*
 mdspw.com##*
 men.com##*
+mex345.com##*
 mg86.net##*
 missav.com##*
 mitao888.com##*
@@ -805,6 +807,8 @@ zztt37.com##*
 *##.advert
 *##.advertisement
 *##.advertisement-part
+*##.advertisement_link
+*##.advertisement_Popup
 *##.advertising-mask
 *##.advertising-popup
 *##.advh5
@@ -864,6 +868,7 @@ zztt37.com##*
 *##.content_adsense
 *##.csbox
 *##.detail-pure-ad-hx-btn
+*##.detail_ad_banner
 *##.detnew_adv
 *##.dkpro_adtg
 *##.down-app
@@ -961,6 +966,7 @@ zztt37.com##*
 *##.ripro_gg_wrap
 *##.rom_ad
 *##.section-adbox
+*##.shangbiao-top-ads
 *##.share
 *##.share-box
 *##.share-component
@@ -1468,6 +1474,7 @@ blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
 blog.csdn.net##li > [href^="//csdn.net/apps/download"]
 blog.fcc.qinggl.com###qinglm_solid
+blog.if98.com##.wpcom_myimg_wrap
 blog.lygmedia.com##.cf.divShareAll
 blog.sina.com.cn##.clearfix.share-pannel
 blog.sina.com.cn##.share-title
@@ -1558,6 +1565,7 @@ china.chinadaily.com.cn##.xinf-ri2 > [href^="http://v.t.sina.com.cn/share/share.
 china.chinadaily.com.cn##div.fenx:nth-of-type(7)
 chinadaily.com.cn##.newtipbox > .floatrgt
 chinadaily.com.cn##div.arcinfo:nth-of-type(4)
+chinanews.com##.gghzh
 chinanews.com.cn###newewm
 chinanews.com.cn##.download_wrapper
 chinanews.com.cn##.gghzh
@@ -2347,6 +2355,7 @@ jianshu.com##.index_call-app-btn
 jianshu.com##.note__flow__download
 jianshu.com##div.guidance-wrap-item:nth-of-type(2)
 jiayongluyou.com###single-widget
+jiayuan.com##.fb_download_wrap
 jiema.wwei.cn###go-fav
 jiema.wwei.cn##.sidebar-client-box.sidebar-block
 jiema.wwei.cn##.sidebar_jump
@@ -3077,6 +3086,7 @@ news.cctv.com##.xinwen18886_iphonesee01
 news.cngold.org##.article-info
 news.cnhubei.com###cjly_nav01
 news.cnstock.com##.side-share
+news.cqnews.net##.carousel-news
 news.cri.cn##.loadBox
 news.cyol.com##.btn-bottom-wrapper
 news.cyol.com##.card-open
@@ -4052,6 +4062,7 @@ ximalaya.com##.xm-flexbox-item
 ximalaya.com##.xz_.dl-pc
 ximalaya.com##button.F_n.old-btn.xui-btn
 ximalaya.com##div.mgb-20:nth-of-type(1)
+xinchengyy.net##[style="height: 480px;"]
 xinhuanet.com##.domMobile111
 xinhuanet.com##.domPC.fix-ewm
 xinhuanet.com##.domPC.xwApp
@@ -4389,6 +4400,7 @@ zzyyww.cn##.tags
 ||index.bizdirlib.com$subdocument
 ||index.geonamebase.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
+||jeep.renzhongjiaoyu.xyz$image
 ||jf.shuangqiong.net$subdocument
 ||jiankang123.net^$script
 ||jiansuo.cdn-bandao.cn/*$subdocument
@@ -4411,7 +4423,6 @@ zzyyww.cn##.tags
 ||m.oh100.com/static$image
 ||m6.66077.cn$subdocument
 ||manlungkey.com^$script
-||meituan.net/dpplatform$image
 ||mmjs.tcmap.com.cn/*$subdocument
 ||mw.dachuyi.com$subdocument
 ||n3597.com$image
@@ -4421,12 +4432,14 @@ zzyyww.cn##.tags
 ||p.syhh890.com/pic1/ppp$image
 ||p0.qhimg.com$image
 ||p1.meituan.net/csc/*.gif$image
+||p1.meituan.net^$image,domain=xinchengyy.net
 ||p3.toutiaoimg.com$image
 ||pa.jueju.cn$subdocument
 ||pic.link.topshu.xyz$image
 ||pic.picnewsss.com$image
 ||pic.rmb.bdstatic.com$image
 ||pic002.vkandian.cn$subdocument
+||pic8.58cdn.com.cn$image
 ||pornlulu.com/*$image
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
@@ -4454,6 +4467,7 @@ zzyyww.cn##.tags
 ||thinkmore.top$image
 ||timi21.com^$script
 ||tls2.duanbian.com$subdocument
+||toutiaoimg.com^$image,domain=xinchengyy.net
 ||tt.027dir.com$image
 ||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
@@ -4477,6 +4491,7 @@ zzyyww.cn##.tags
 ||www.wgdacc.com$image
 ||www.wgdacc.com/*.php$image
 ||xingfupa.com$image
+||xyt.lesson99.com$image
 ||y.yaohuo.me
 ||yichan.net.cn$image
 ||yy2022.dtime.com/*$subdocument
