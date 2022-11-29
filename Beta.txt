@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-28
+! TimeUpdated: 2022-11-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -340,6 +340,7 @@ jz807.com##*
 kaenv.com##*
 kb69.top##*
 keledh.ga##*
+ken234.com##*
 kids0cn.com##*
 kjcenter.com##*
 kkx.net##*
@@ -456,6 +457,7 @@ phimsexhay669.com##*
 pincong.rocks##*
 playav.tv##*
 playno1.com##*
+plw234.com##*
 plw678.com##*
 plw789.com##*
 porn.com##*
@@ -663,8 +665,11 @@ zztt37.com##*
 *###ad_b
 *###ad_before_content
 *###ad_c
+*###ad_center_1
 *###ad_d
+*###ad_left
 *###ad_market_1
+*###ad_right
 *###ad_showbox
 *###adfloatbaidu
 *###adhtml
@@ -682,6 +687,7 @@ zztt37.com##*
 *###BaiduAd_ad02
 *###baidulianmeng1
 *###baidulianmeng2
+*###baidulianmeng3
 *###BannerZoneAD_Div1
 *###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
@@ -743,6 +749,7 @@ zztt37.com##*
 *##._left_ad
 *##._right_ad
 *##.a2hs-ios-dRZ
+*##.active-ad
 *##.ad
 *##.ad-article
 *##.ad-banner
@@ -811,6 +818,10 @@ zztt37.com##*
 *##.advertisement_Popup
 *##.advertising-mask
 *##.advertising-popup
+*##.advertising1
+*##.advertising2
+*##.advertising3
+*##.advertising_container
 *##.advh5
 *##.advPop
 *##.advsmall
@@ -866,6 +877,7 @@ zztt37.com##*
 *##.content_ad
 *##.content_Ad
 *##.content_adsense
+*##.couplet_ad
 *##.csbox
 *##.detail-pure-ad-hx-btn
 *##.detail_ad_banner
@@ -1087,6 +1099,7 @@ zztt37.com##*
 230890.com##.clear.entry-footer
 230890.com##.entry-meta-right
 23bei.com###layui-layer-shade1
+23bei.com##.hidden-p
 23bei.com##.layui-layer-iframe.layui-layer
 23bei.com##div.hidden-m:nth-of-type(n)
 23xstxt.net##b
@@ -1169,6 +1182,7 @@ zztt37.com##*
 51dongshi.com##.icon-medium-plus.bshare-custom
 51dongshi.com##.weixin_e
 51hei.com##.topbar_dot > [href="#"]
+51ldb.com##.xiazai-bottom
 51miz.com##.new-fixed-button
 51pptmoban.com##.dlink
 51pptmoban.com##.mad
@@ -2785,6 +2799,7 @@ m.mudvod.tv##.header_app.iqiyi-h5-empty
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
 m.nivod.tv###bottom_btn
 m.nivod.tv##.android_banner.m-box
+m.nowcoder.com##.mb-5.flex-row-start
 m.pcauto.com.cn###daogou
 m.pcauto.com.cn###home-bottom-half-dialog
 m.pcauto.com.cn##.app-btn
@@ -3235,6 +3250,7 @@ pc.qq.com##.container_12.link
 pc.qq.com##.content-wrap
 pc.qq.com##.footer
 pc521.net##[data-hover="分享"]
+pcbbar.com##.cl.ren_sssd_yixx
 pcbeta.com##.pt_rtpl
 pconline.com.cn##.art-banner
 pconline.com.cn##.btnForAppOpenA
@@ -4216,6 +4232,7 @@ zhimeng.com.cn##.mr20.dropdown-toggle.fl
 zhipin.com##.footer-icon
 zhipin.com##.home-main
 zhipin.com##li > [href="https://app.zhipin.com/"]
+zhitongshan.com##.topmenu
 zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
 zhongce.sina.com.cn##.side-btns-jfyb-resize
@@ -4323,6 +4340,7 @@ zzyyww.cn##.tags
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
 ||b.huicaiba.net$subdocument
+||b.jiqrxx.com$subdocument
 ||b.meijiu.com$subdocument
 ||b.pdftoword.cn$subdocument
 ||b1.feimiao.cn/*$subdocument
@@ -4352,6 +4370,7 @@ zzyyww.cn##.tags
 ||cc.psd8.com$subdocument
 ||cdn.bspapp.com$image
 ||cdn.jiemeng.tw$subdocument
+||cdnkbc1pnat.23bei.com$subdocument
 ||cgadres.sgp1.digitaloceanspaces.com$image
 ||chinanews.com/gg$object
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
