@@ -14,6 +14,7 @@
 11439.net##*
 115.fun##*
 125de.cam##*
+1269022.com##*
 13833937800.com##*
 15mstr.sh##*
 160.com##*
@@ -222,6 +223,7 @@ fangsung.com##*
 fanqianglu.com##*
 fbjav.com##*
 fhpaaa.com##*
+fifigv.com##*
 flash.cn##*
 flashget.com##*
 fuccunt.com##*
@@ -230,6 +232,8 @@ fuckisex.com##*
 fuli16.se##*
 fytt.com##*
 fytt3.com##*
+gay.bingo##*
+gay2009.com##*
 gcfuck.vip##*
 gcjx3.xyz##*
 ggdyx.com##*
@@ -265,6 +269,7 @@ hjcec4.com##*
 hje3e.com##*
 hje9e.com##*
 hjedd.com##*
+hjhs112.com##*
 hk123.net##*
 honewood.com##*
 hongkongdollvideo.com##*
@@ -495,6 +500,7 @@ sem6.cc##*
 servetates.com##*
 sese8342.com##*
 sex.com##*
+sexyhub.com##*
 shop.yipanhaocai.com##*
 shoujiweishi.baidu.com##*
 shuajizhijia.net##*
@@ -545,6 +551,8 @@ timo7.com##*
 tkbpyg.life##*
 tktube.com##*
 tom3828.com##*
+tongying.cc##*
+tongying.info##*
 tonywardcouture.com##*
 tto345.com##*
 tuaox.cc##*
@@ -590,6 +598,7 @@ xdowns.com##*
 xfdown.com##*
 xfsr.xyz##*
 xhamster.com##*
+xhvid3.com##*
 xiazai.zol.com.cn##*
 xiazaiba.com##*
 xiazaizhijia.com##*
@@ -670,6 +679,7 @@ zztt37.com##*
 *###ad_left
 *###ad_market_1
 *###ad_right
+*###ad_right_fc4
 *###ad_showbox
 *###adfloatbaidu
 *###adhtml
@@ -700,6 +710,9 @@ zztt37.com##*
 *###cen_ad
 *###class_ad
 *###couplet
+*###det-rigad1
+*###det-rigad2
+*###det-rigad3
 *###divAd1
 *###divAd2
 *###diy_ad_article_right
@@ -715,6 +728,7 @@ zztt37.com##*
 *###header_topad
 *###jrtt-ad-right
 *###jrtt-ad-right1
+*###left-bottom-ads
 *###listwoBox
 *###M_box_google_ad1
 *###m_load_creditcard_text_ad
@@ -730,11 +744,13 @@ zztt37.com##*
 *###phpad
 *###popBox
 *###randomBox
+*###right-bottom-ads
 *###right_ad1
 *###rightadbox
 *###rightads
 *###rightNav_ad
 *###rongkeji_tuwenad
+*###setupad_anchor_970_90
 *###share
 *###soft-content-adsy
 *###sp-ad
@@ -862,12 +878,15 @@ zztt37.com##*
 *##.bna_ad1
 *##.bna_ad2
 *##.boxad
+*##.BoxAdContent
+*##.BoxAdTop
 *##.btmAd
 *##.c-nav-advertising
 *##.c1c2_b1b2_adbx
 *##.calc-guanggao
 *##.cesuankuang
 *##.cj_bna_ad
+*##.cl.tshare
 *##.cmsAd
 *##.columns-ad
 *##.com-advertisement
@@ -944,6 +963,7 @@ zztt37.com##*
 *##.mobilePaddingAds
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
+*##.model-header-ad
 *##.module-ad
 *##.mtg-newslist-ads
 *##.my-ad-loaded
@@ -990,6 +1010,7 @@ zztt37.com##*
 *##.side-ad
 *##.sider_guanggao
 *##.single-ad
+*##.single-adv
 *##.single-bottom-ad
 *##.single-top-ad
 *##.singleb-ad
@@ -1008,6 +1029,7 @@ zztt37.com##*
 *##.tx-info-module-down-box
 *##.videoSideAds
 *##.view-ad
+*##.vipad
 *##.VR-headAD
 *##.w-ad
 *##.wapad
@@ -1161,7 +1183,6 @@ zztt37.com##*
 3721dh.com###new_sc
 39.net##.con_right
 39.net##ul.tabb.artRimgli.artRbox:nth-of-type(1)
-3dmgame.com##.cl.tshare
 3dmgame.com##.Cs_share
 3g.163.com##.comment-link > .js-open-app
 3g.163.com##.js-open-app
@@ -1427,6 +1448,7 @@ bddhw.cn##.j-share.action-item
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
+betax.cn##.abc-site.abc-pc
 bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 bg.qianzhan.com##.qqonline
 bg.qianzhan.com##.rpt-des-new.rpt-des-r > p:nth-of-type(3)
@@ -2176,6 +2198,7 @@ hiporn.cc##[style="max-width:1050px; width:100%;"]
 hiporn.cc##[style="max-width:1400px; width:100%;"]
 hiporn.cc##[style="max-width:450px; width:100%;"]
 hiyd.com##.item-dl.item
+hjhs112.com##.wrap-head-spots
 hk.finance.yahoo.com##.caas-share-section
 hk.news.yahoo.com##.Mih\(82px\).Z\(3\).End\(0\).Start\(0\).B\(56px\).Pos\(f\).D\(f\).Bgc\(\$c-fuji-charcoal\)
 hk.news.yahoo.com##.Mt\(24px\).Mb\(24px\).Mx\(20px\)
@@ -2351,7 +2374,6 @@ jdav88.com##.bg1.app
 jdav88.com##[style=" margin-top: 20px;"]
 jdzj.com##[src="//jdzj.com/t_img/mjdzj.png"]
 jelly.jd.com##.dzsc_item.share
-jeyi.net##.cl.tshare
 jeyi.net##.wp > .z
 jf.10086.cn##.mt8
 jf.10086.cn##.scanCode
@@ -3385,7 +3407,6 @@ rfa.org###storytoptools
 rfi.fr##.m-share-bar
 rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
-right.com.cn##.cl.tshare
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
 rsdznjj.com##.layout-entry-share
@@ -4198,7 +4219,6 @@ yywwg.com##.wpcom_myimg_wrap
 zaixian-fanyi.com##div:nth-of-type(10)
 zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
 zaoju.xuexiaodaquan.com##div.fhg_div
-zf.bbskali.cn##.cl.tshare
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
 zhazhijiav.top##div.container:nth-of-type(2)
@@ -4405,6 +4425,7 @@ zzyyww.cn##.tags
 ||huayiyuan.hk$image
 ||hzz.riji13.com$subdocument
 ||i.guancha.cn/member/*.png$image
+||i.ibb.co$image
 ||ibook.pc899.cn$subdocument
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
