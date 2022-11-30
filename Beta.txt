@@ -192,7 +192,6 @@ daily6.dev##*
 davinfo.com##*
 daykemcantho.com##*
 ddecholuteca.com##*
-ddooo.com##*
 ddtv127.com##*
 dear2.co##*
 dkmkg.com##*
@@ -430,6 +429,7 @@ mus567.com##*
 my123.com##*
 mydown.com##*
 mydown.yesky.com##*
+mys789.com##*
 nakedteengirls.org##*
 netflav1.com##*
 nga345.com##*
@@ -446,7 +446,6 @@ nyljd.com##*
 one77.app##*
 one893.app##*
 onegreen.net##*
-onlinedown.net##*
 onlytik.com##*
 oofof.com##*
 ourshdtv.com##*
@@ -560,7 +559,6 @@ tuaox.cc##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
-uc.cn##*
 uekpa.com##*
 uga345.com##*
 uga456.com##*
@@ -607,7 +605,6 @@ xiguayul.com##*
 xingfupa.com##*
 xinnet.com##*
 xitonghe.com##*
-xitongzhijia.net##*
 xixiwg.com##*
 xmmv9.com##*
 xng15.xyz##*
@@ -3020,6 +3017,7 @@ mayiwenku.com###boxleft > table
 mbachina.com##.jesong_pan_icon
 mbachina.com##.suspend-right > ul
 mbb.eet-china.com##.site-follow
+mbd.baidu.com##.drag-bottom
 mbd.baidu.com##.headDeflectorContainer
 mbd.baidu.com##.undefined
 mdspw.com##.clearfix.stui-app__bd
