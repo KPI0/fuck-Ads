@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-11-29
+! TimeUpdated: 2022-11-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -501,6 +501,7 @@ servetates.com##*
 sese8342.com##*
 sex.com##*
 sexyhub.com##*
+shn567.com##*
 shop.yipanhaocai.com##*
 shoujiweishi.baidu.com##*
 shuajizhijia.net##*
@@ -736,6 +737,7 @@ zztt37.com##*
 *###maskBox
 *###mbads-sider
 *###mbads1
+*###mh_slider_ad_hp-6
 *###midBox
 *###n-ad-page
 *###Nav_Top_Ad
@@ -959,6 +961,8 @@ zztt37.com##*
 *##.lowerad
 *##.m-block-ad
 *##.mbd_ad
+*##.mh-ad-spot
+*##.mh_slider_ad_hp
 *##.mobile-ad-in-list
 *##.mobilePaddingAds
 *##.mobilePaddingAdsAboveArticle
@@ -985,6 +989,11 @@ zztt37.com##*
 *##.person-trainAd
 *##.placeholder-ad
 *##.pop_con
+*##.post-ad-dac
+*##.post-ad-dac-zero
+*##.post-ad-rpi-zero-cam
+*##.post-ad-rpi4b
+*##.post-ad-rpicm4
 *##.post-bottom
 *##.potoadv
 *##.pro-ad-pageend
@@ -998,6 +1007,7 @@ zztt37.com##*
 *##.ripro_gg_wrap
 *##.rom_ad
 *##.section-adbox
+*##.section-ads
 *##.shangbiao-top-ads
 *##.share
 *##.share-box
@@ -2065,6 +2075,9 @@ geekpark.net##.tools-erweima.tools-item
 gerenjianli.com###float
 gerenjianli.com##div.leftbox > div
 getitfree.cn##.call-action-style_1.call-action-dark.call-action-unlogged
+ggg868.com##.ggtr
+ggg868.com##.jrggtm
+ggg868.com##.jrggts
 ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 ghxi.com###modules-12
 ghxi.com##.clearfix.entry-bar-inner
@@ -2657,6 +2670,7 @@ m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.caijing.com.cn##.downdiv
 m.china.com.cn##.fx
+m.cnhubei.com##.bg
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
 m.dgjs123.com##.xglist
@@ -3618,6 +3632,7 @@ taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
 taodocs.com##.link > span:nth-of-type(2)
 taodocs.com##li.ewm.mv_lis:nth-of-type(5)
 taose.tv###table1
+taptap.cn##.open-app
 taptap.com##.pull-right
 taptap.com##.tap-footer__download
 tasexy.com###sexy_a1
@@ -4323,6 +4338,9 @@ zzyyww.cn##.tags
 ||*-advertising$image
 ||*/ad$image
 ||*/ad/*$subdocument
+||*/ad01$image
+||*/ad02$image
+||*/ad03$image
 ||*/ads$subdocument
 ||*/Advert/$image
 ||*/AdvertImages/*$image
