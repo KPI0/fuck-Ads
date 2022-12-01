@@ -430,6 +430,7 @@ mus567.com##*
 my123.com##*
 mydown.com##*
 mydown.yesky.com##*
+mys456.com##*
 mys789.com##*
 nakedteengirls.org##*
 netflav1.com##*
@@ -732,8 +733,14 @@ zztt37.com##*
 *###jrtt-ad-right
 *###jrtt-ad-right1
 *###left-bottom-ads
+*###left-mid1-ads
+*###left_tmt_ads1
+*###left_tmt_ads2
+*###left_tmt_ads3
 *###listwoBox
 *###M_box_google_ad1
+*###M_box_google_ad2
+*###M_box_google_ad3
 *###m_load_creditcard_text_ad
 *###m_load_creditcard_text_ad02
 *###maskBox
@@ -750,11 +757,17 @@ zztt37.com##*
 *###randomBox
 *###right-bottom-ads
 *###right_ad1
+*###right_tmt_ads1
+*###right_tmt_ads2
+*###right_tmt_ads3
 *###rightadbox
 *###rightads
 *###rightNav_ad
 *###rongkeji_tuwenad
+*###setupad
+*###setupad_728_90_ads
 *###setupad_anchor_970_90
+*###setupads
 *###share
 *###soft-content-adsy
 *###sp-ad
@@ -829,6 +842,8 @@ zztt37.com##*
 *##.adv-bottom
 *##.adv-container
 *##.adv-fullscreen
+*##.adv-left
+*##.adv-right
 *##.adv10
 *##.adv7
 *##.adv_block
@@ -848,6 +863,7 @@ zztt37.com##*
 *##.advertising2
 *##.advertising3
 *##.advertising_container
+*##.advertList
 *##.advh5
 *##.advPop
 *##.advsmall
@@ -970,6 +986,7 @@ zztt37.com##*
 *##.lowerad
 *##.m-block-ad
 *##.mbd_ad
+*##.mdb-ad
 *##.mh-ad-spot
 *##.mh_slider_ad_hp
 *##.mobile-ad-in-list
@@ -979,6 +996,7 @@ zztt37.com##*
 *##.model-header-ad
 *##.module-ad
 *##.mtg-newslist-ads
+*##.mulu-ad-top
 *##.my-ad-loaded
 *##.my-ad1
 *##.my-ad2
@@ -1287,6 +1305,7 @@ zztt37.com##*
 99hufu.com##[class="share-icon qzone"]
 99hufu.com##[class="share-icon wechat"]
 99hufu.com##[class="share-wx-wrap"]
+9game.cn##.share-con
 9sex.tv###carouselExampleControls
 9sex.tv##.higher.ivu-carousel-track
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
@@ -1572,6 +1591,7 @@ bscscan.com##.col-lg-5.col-12
 btt400.com##.bottom_banner
 btt400.com##.psd
 btt400.com##.top_gz
+bufeishi.cn##.article-shares
 bukaivip1.com##.copylink.btn-default.btn
 bukaivip1.com##.layui-layer-dialog.layui-layer
 bukaivip1.com##.more-btn > li:nth-of-type(3)
@@ -1636,11 +1656,17 @@ chinatimes.com##.col-md-auto > .social-share
 chinatimes.com##.social-share-wrapper
 chinaz.com###RYBCWjTZaX
 chinaz.com##.article-right-sidebar > .cloumn-bd__minp.media-banner_auto.cloumn-bd
+chinaz.com##.cloumn-bd__minp
 chinaz.com##.easing.nav-notice
 chinaz.com##.footer-bottom > .block-container > .block-inner__between > .cloumn-right
+chinaz.com##.header-media
 chinaz.com##.media-banner__box > .cloumn-bd__minp.media-banner_auto.cloumn-bd
+chinaz.com##.media-wrapper
+chinaz.com##.mediaBox
 chinaz.com##.medialink-wrapper.section.cloumn-bd
+chinaz.com##.nfeatured-wrapper__media
 chinaz.com##.single-mode__media.single-mode
+chinaz.com##.smediabox
 chinaz.com##li.single-mode:nth-of-type(1)
 chongdiantou.com##.btn-share-toggler.btn-rounded.btn-icon.btn-light.btn
 chongdiantou.com##.mb-2.share-popup.btn-rounded.btn-lg.btn-icon.btn-light.btn.btn-scroll-share
@@ -1740,6 +1766,8 @@ coozhi.com##li:nth-of-type(5)
 cq.ganji.com##[href="//ganji.com/download"]
 cqcb.com###share2
 cqcb.com##.syshare
+cqnews.net##.bsharebox
+cqnews.net##.bsharebox1
 cqooc.com##[src="/images/qq_qr.png"]
 cqooc.com##[src="/images/wechat_qr.png"]
 cs.zjol.com.cn##.box-jrcsq
@@ -3198,6 +3226,7 @@ nlc.cn##[src="../../images/wxindex_20140424yyc_01.jpg"]
 nlc.cn##[src="./images/wxindex_20140424yyc_01.jpg"]
 nlc.cn##body > table > tbody > tr > td > table > tbody > tr > td > table > tbody > tr > td > div > table > tbody > tr > td > table > tbody > tr > td > table
 nlc.cn##embed
+nndssk.com##.yjads1
 nordvpn.com##.cc-color-override--1748216957.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 note.baidu.com##.download-btn
 note.youdao.com###ft-follow-us
@@ -3424,6 +3453,7 @@ qstheory.cn##.footer
 qstheory.cn##.hidden-xs.col-md-12 > span
 qstheory.cn##.hidden-xs.xl_ewm
 quanmin.baidu.com##.sharer-download
+qudonghao.cn##.fx_bot
 qunzou.com##.mask.copy_mask
 quotes.sina.cn###__callup_bottom
 rakuten.com.tw##.radtop-pop-box
@@ -3689,6 +3719,9 @@ thepaper.cn##.clearfix.main.bdwd > .video_newsct_share
 thepaper.cn##.header_header_download__VUqb3
 thepaper.cn##.index_footer_banner__Mcr_R
 thepaper.cn##.main_rt > .rtapp_down
+thetigerhood.com##.post-share
+thetigerhood.com##.share-btn
+thetigerhood.com##.share-title
 theverge.com##.c-global-header__social
 tianya.cn##.download-ways
 tianya.cn##.social
@@ -4250,6 +4283,7 @@ yun.139.com##.fr
 yun.139.com##[href="#/client"]
 yun.139.com##div.document_top_menu:nth-of-type(7)
 yuque.com##.index-module_qrCodeWrapper_6UwnH
+yy200.cn##.xzdz_huodong
 yywwg.com##.wpcom_myimg_wrap
 zaixian-fanyi.com##div:nth-of-type(10)
 zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
@@ -4361,15 +4395,20 @@ zzyyww.cn##.tags
 ||*/ad01$image
 ||*/ad02$image
 ||*/ad03$image
+||*/ad1$image
+||*/ad2$image
+||*/ad3$image
 ||*/ads$subdocument
 ||*/Advert/$image
 ||*/AdvertImages/*$image
 ||*/advPicture$image
+||*/cihui-right-ad2$image
 ||*/gg$image
 ||*/gg01$image
+||*/gg02$image
+||*/gg03$image
 ||*/hguanggao$image
 ||*/static/cpt/img/jianli_banner$image
-||*/style/img/ad1$image
 ||*/tbgg$image
 ||*douyin_ad_img$image
 ||122cha.com$subdocument
