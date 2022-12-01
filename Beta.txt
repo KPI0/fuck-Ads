@@ -666,6 +666,7 @@ zztt37.com##*
 ||jdht*.com
 ! 广告弹窗/元素
 *###__ad7
+*###ad
 *###ad-arc-top
 *###ad-header
 *###ad-in-page
@@ -679,6 +680,7 @@ zztt37.com##*
 *###ad_center_2
 *###ad_center_3
 *###ad_d
+*###ad_flash
 *###ad_left
 *###ad_market_1
 *###ad_right
@@ -774,6 +776,7 @@ zztt37.com##*
 *###StoreAd800Container
 *###subMenuBox
 *###swiper-ad
+*###The_three_ads
 *###top-adv
 *###topads
 *###topads0
@@ -981,6 +984,7 @@ zztt37.com##*
 *##.Kyad_kyad__Z96VR
 *##.leader_ad_banner
 *##.left_top_ad
+*##.linkad-container
 *##.localAd
 *##.logout_ad
 *##.lowerad
@@ -1053,6 +1057,7 @@ zztt37.com##*
 *##.single-bottom-ad
 *##.single-top-ad
 *##.singleb-ad
+*##.sit-ad
 *##.slider_ad_item
 *##.sponsored-token
 *##.t-ad
@@ -2759,6 +2764,7 @@ m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.gaoshouyou.com##.gsy-gd
+m.gome.com.cn###topMDownapp
 m.guancha.cn##.g_swiper_container
 m.haiwainet.cn##.footer-box
 m.haochu.com##.bd-1
@@ -3068,6 +3074,8 @@ mbb.eet-china.com##.site-follow
 mbd.baidu.com##.drag-bottom
 mbd.baidu.com##.headDeflectorContainer
 mbd.baidu.com##.undefined
+mbx0.com##.share-bar
+mbx0.com##.tg-inner
 mdspw.com##.clearfix.stui-app__bd
 mdspw.com##.s-slider
 meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
@@ -3496,6 +3504,7 @@ sensorexpert.com.cn##.active.postbird-box-container
 sensorexpert.com.cn##.detail-do > .clearfix
 sensorexpert.com.cn##.postbird-box-dialog > .postbird-box-content
 sensorexpert.com.cn##.wexinSao.postbird-box-container
+seoxiehui.cn##.share-hr
 sese8342.com##[href="https://cf465j.com"]
 sese8342.com##[href="https://sujrq8.com"]
 sflix.to###gift-top
@@ -4180,6 +4189,7 @@ xinyueseo.com##.sr-bdimgshare-black.sr-bdimgshare-16.sr-bdimgshare-list.sr-bdimg
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
 xkzzz.com###aPshow1
+xkzzz.com##.apshow
 xkzzz.com##.ml-plist
 xkzzz.com##.ml-tlist
 xkzzz.com##.s-plist
@@ -4407,10 +4417,10 @@ zzyyww.cn##.tags
 ||*/gg01$image
 ||*/gg02$image
 ||*/gg03$image
-||*/hguanggao$image
 ||*/static/cpt/img/jianli_banner$image
 ||*/tbgg$image
 ||*douyin_ad_img$image
+||*guanggao$image
 ||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
