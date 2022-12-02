@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-01
+! TimeUpdated: 2022-12-02
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -186,6 +186,7 @@ cmm.lol##*
 cncrk.com##*
 cr173.com##*
 crsky.com##*
+cym234.com##*
 d9620.com##*
 daagux.digital##*
 daily6.dev##*
@@ -730,6 +731,7 @@ zztt37.com##*
 *###gg
 *###gg1
 *###gg_tslot
+*###googad
 *###header_adv
 *###header_topad
 *###jrtt-ad-right
@@ -812,6 +814,7 @@ zztt37.com##*
 *##.ad-wrap
 *##.ad-zone
 *##.ad1
+*##.ad1064
 *##.ad2
 *##.ad3
 *##.ad360
@@ -894,6 +897,10 @@ zztt37.com##*
 *##.baidu_adv
 *##.baike-ad
 *##.banner-ad
+*##.bdad
+*##.bdad640
+*##.bdad960
+*##.bdadno
 *##.bdads
 *##.bdshare-slide-button-box
 *##.bdshare_t
@@ -946,6 +953,7 @@ zztt37.com##*
 *##.ff-ads
 *##.float-ads
 *##.float-left-ad
+*##.floatad-wrapper
 *##.footerads
 *##.ft-ad
 *##.FuckYou
@@ -966,6 +974,7 @@ zztt37.com##*
 *##.guanggao_336
 *##.h5-detail-ad
 *##.head-top-ad
+*##.header-ads
 *##.header_ad
 *##.home-ad
 *##.home-ad-link
@@ -975,6 +984,7 @@ zztt37.com##*
 *##.index-ad
 *##.index-left_adv
 *##.item-ad
+*##.jiaoyu_gg
 *##.jifeng-ad-wrapper
 *##.jrtt-ad
 *##.jrtt-ad1
@@ -989,6 +999,7 @@ zztt37.com##*
 *##.logout_ad
 *##.lowerad
 *##.m-block-ad
+*##.m-bottom-ad
 *##.mbd_ad
 *##.mdb-ad
 *##.mh-ad-spot
@@ -2305,6 +2316,7 @@ hxcpp73.com##.active.text
 hxcpp73.com##.icon > [src^="data:image/png;base64,"]
 hxm5.com###qrcode
 hxm5.com##.cate-title
+hy.httpcn.com##.bsgg
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
 i.ifeng.com##.bookrack-2087uMYt
@@ -2563,7 +2575,9 @@ ke.youdao.com##._2E3aw
 ke.youdao.com##._2JLL4wVedZBJXx9O701i8R._3Nu0ehzy2yuIsz2HsS3d6D
 ke.youdao.com##[href^="/download"]
 ke.youdao.com##a._2JLL4wVedZBJXx9O701i8R
+kegood.com###dbabx
 kegood.com###yx_content33
+kegood.com##.dropL
 kejiwanjia.com###b2-widget-html-10
 kejiwanjia.com###b2-widget-html-20
 kejiwanjia.com###b2-widget-html-28
@@ -2660,6 +2674,8 @@ m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
 m.699pic.com##.show.top-notice-position
 m.77dushu.com###appss
 m.77dushu.com###strl
+m.8684.cn##.app-tip
+m.8684.cn##.js-appdownload
 m.91abroad.com##.guangin
 m.ac.qq.com##.app-guiding
 m.ac.qq.com##.app-guiding-swiper
@@ -2669,6 +2685,7 @@ m.acfun.cn##.down-app-button
 m.acfun.cn##.header-ico
 m.acfun.cn##.open-app-btn
 m.acfun.cn##.right-btn.confirm-btn
+m.amap.com##.o-downloadtips-map
 m.apkpure.com##.share-wrap
 m.ask.buzhi.com##.download
 m.ask.buzhi.com##.fixed-footer
@@ -2764,11 +2781,13 @@ m.fengei.net##article.xle2
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.gaoshouyou.com##.gsy-gd
+m.gmw.cn##.m-shareCon
 m.gome.com.cn###topMDownapp
 m.guancha.cn##.g_swiper_container
 m.haiwainet.cn##.footer-box
 m.haochu.com##.bd-1
 m.haodf.com###open-app-box
+m.health.china.com##.header-banner
 m.hexun.com##.modal-popup-openapp
 m.hupu.com##.open-hupu
 m.hupu.com##.tabs-component-search-app
@@ -2927,6 +2946,8 @@ m.sohu.com###weChatShare
 m.sohu.com##.index.new.fixed.fixed-setto-desktop
 m.sohu.com##.reply-opare__share.reply-opare__a
 m.sohu.com##.visible.promotion-box
+m.souid.com###div_dx_top
+m.souid.com##.overlay
 m.speedtest.cn##.download-wrap
 m.speedtest.cn##.tools-banner
 m.tadu.com###awakenapp
@@ -3815,6 +3836,8 @@ tools.bugscaner.com##.v-modal
 topys.cn##.align-center.flex-end.flex-row
 topys.cn##.article-tools > .v-popover
 topys.cn##div.icon-box:nth-of-type(3)
+tousu.sina.cn##.app_tsview_div
+tousu.sina.cn##.indexApp
 toutiao.com##.add-to-desktop-wrapper
 toutiao.com##.detail-side-interaction > div:nth-of-type(5)
 toutiao.com##.feedback.tool-item
@@ -3965,6 +3988,7 @@ w3h5.com##.widget_lf-bt-box.widget
 w3h5.com##.widget_lf-bt-box_inner.widget_inner
 w3school.com.cn###sidebar_zzs
 wangan.com##.sticky.ui.article-actions-rail
+wap.21food.cn##.bann_ndf
 wap.bixiabook.com###baseHeight
 wap.bixiabook.com###duoyxferci
 wap.bixiabook.com##.an.callApp_fl_btn
@@ -4163,6 +4187,7 @@ xiaohongshu.com##.sub-total-link
 xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
 xiaomiyoupin.com##.fixed-nav
 xiaomiyoupin.com##.h-icon-con.m-safe-anchor
+xiaozidian.com.cn##.fixedbox
 xiegw.cn##.fr.gb_resLay
 xiegw.cn##.icon-icon.iconfont
 xiexiebang.com##.marks
@@ -4258,6 +4283,7 @@ yi2.net##.details-bot-bar
 yiqixuexi8.com##.share-group
 yjbys.com##.banner
 yjbys.com##.conttop_code
+yjcf360.com##.share_xiaomi
 yoojia.com##.page-root > div
 you85.net###toptb > .cl.wp > .z [href="https://www.you85.net/"]
 youdao.com##.fr
@@ -4463,6 +4489,7 @@ zzyyww.cn##.tags
 ||bd.xiaoyuanjiu.com$subdocument
 ||bd2.520101.com$subdocument
 ||bd2.thyou.com$subdocument
+||bda2.sdmtkj.com$subdocument
 ||bdad.webkf.net$subdocument
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
@@ -4486,6 +4513,7 @@ zzyyww.cn##.tags
 ||cooboys.com^$script
 ||cpro.baidu.com$image
 ||d.shouying.tv$subdocument
+||data.shuomingshu.cn$subdocument
 ||def.sibuzyn.com$subdocument
 ||desk.sstar.xyz$image
 ||dhn.jiankang123.net$subdocument
@@ -4550,6 +4578,7 @@ zzyyww.cn##.tags
 ||m.biqusk.org^$script
 ||m.haolietou.com/images/article$image
 ||m.oh100.com/static$image
+||m2.haitaozu.org$subdocument
 ||m6.66077.cn$subdocument
 ||manlungkey.com^$script
 ||mmjs.tcmap.com.cn/*$subdocument
@@ -4602,6 +4631,7 @@ zzyyww.cn##.tags
 ||ubb.autotimes.com.cn$subdocument
 ||unmc.bj.bcebos.com$image
 ||v2.juanta.com$subdocument
+||view.98zw.com$subdocument
 ||vk6.me$image
 ||wcl.bailuxiangyuan.com$subdocument
 ||wskp.cc$image
