@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-02
+! TimeUpdated: 2022-12-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -434,6 +434,7 @@ mydown.yesky.com##*
 mys456.com##*
 mys789.com##*
 nakedteengirls.org##*
+nam678.com##*
 netflav1.com##*
 nga345.com##*
 nga567.com##*
@@ -689,7 +690,9 @@ zztt37.com##*
 *###ad_showbox
 *###adfloatbaidu
 *###adhtml
+*###adlinkT
 *###ads
+*###ads-in-topic-top
 *###ads_general_1_bottom
 *###adsense
 *###adTonglan
@@ -732,6 +735,8 @@ zztt37.com##*
 *###gg1
 *###gg_tslot
 *###googad
+*###guang
+*###guang1
 *###header_adv
 *###header_topad
 *###jrtt-ad-right
@@ -877,6 +882,7 @@ zztt37.com##*
 *##.advTopsLink
 *##.advvvvv
 *##.adwidget
+*##.aliad2
 *##.alltypes-detail-advertisement
 *##.app-ad
 *##.app-open
@@ -921,6 +927,8 @@ zztt37.com##*
 *##.c-nav-advertising
 *##.c1c2_b1b2_adbx
 *##.calc-guanggao
+*##.ceo-ad
+*##.ceo-ads
 *##.cesuankuang
 *##.cj_bna_ad
 *##.cl.tshare
@@ -1547,6 +1555,7 @@ bk.autotimes.com.cn##.wpcom_myimg_wrap
 blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.51cto.com##.action-box > ul > .share > strong
+blog.51cto.com##.first
 blog.51cto.com##.inner > ul > .share > strong
 blog.51cto.com##.shareBtn.common-operationbtn
 blog.csdn.net###asideNewNps
@@ -1999,6 +2008,7 @@ eduei.com##.jesong-container-mini-inner
 eduei.com##.jesong-container-mini.jesong_chat_layout_pc_sc.jesong_chat_layout_pc
 eduei.com##.kefu-cont
 eduei.com##.sec-sub
+ee.ofweek.com##.dl-right1
 eefocus.com##.icon-container
 eefocus.com##.listpage-rolling-ad.panel-default.panel
 eet-china.com##.channel-list-seat
@@ -2013,6 +2023,7 @@ elecfans.com##.detail-share
 elecfans.com##.mian_jifen
 elecfans.com##.perfect_infomation_tip
 elecfans.com##.site_qrcode
+elecfans.com##.ysErCode
 elecfans.com##[href="https://dfm.elecfans.com/uploads/software/promoter/hqdfm_download.zip"]
 elecfans.com##[src="http://skin.elecfans.com/images/wx_right.jpg"]
 elecfans.com##[src="https://skin.elecfans.com/images/new_ad_01.jpg"]
@@ -2734,6 +2745,7 @@ m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.caijing.com.cn##.downdiv
 m.china.com.cn##.fx
+m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
 m.cnhubei.com##.bg
 m.dgjs123.com##.gg_c
@@ -2941,6 +2953,7 @@ m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot
 m.smzdm.com##.footer-banner
+m.smzdm.com##.logo-download
 m.smzdm.com##[href^="https://app.smzdm.com/xiazai/"]
 m.sohu.com###weChatShare
 m.sohu.com##.index.new.fixed.fixed-setto-desktop
@@ -2958,6 +2971,7 @@ m.tmtpost.com##.open_app
 m.tmtpost.com##body > .app_html_btn
 m.toutiao.com###top-banner-container-1648038047365
 m.toutiao.com##.download-bar__container
+m.toutiao.com##.open
 m.ttpai.cn##.hide-in-app
 m.tuniu.com###J_appDownloadRenderBox
 m.tuniu.com##.mini-voucher
@@ -3690,6 +3704,7 @@ stockstar.com##.news
 stockstar.com##.tags
 store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
 store.steampowered.com##.header_installsteam_btn_green.header_installsteam_btn
+study.163.com##.open-app-btn
 super.sina.cn##.call_up_banner
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
@@ -3845,6 +3860,7 @@ toutiao.com##.left-container
 toutiao.com##.share-btn
 toutiao.com##.ttp-portal-wrapper
 toutiao.com##[href="//app.toutiao.com/news_article/"]
+tpstps.com##.topaa
 tretars.com###sidebar-left-xf > .widget_vfilmtime_ad.sidebox
 tretars.com###sidebar-right > .widget_vfilmtime_ad.sidebox
 tretars.com##.suxing_social.sidebox
@@ -4611,6 +4627,7 @@ zzyyww.cn##.tags
 ||res.yizhiliuzhenjiu.com$image
 ||resao.com/kf$image
 ||retrieve.64365.com$subdocument
+||rypihg99.wenhuamao.com$subdocument
 ||s.grescw.com$subdocument
 ||s.yibinfan.com$subdocument
 ||scez.cn$media
