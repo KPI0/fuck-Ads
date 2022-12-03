@@ -72,7 +72,7 @@ https://raw.fastgit.org/KPI0/fuck-Ads/main/ubo_rules.txt
 ![image](https://s2.loli.net/2022/09/13/zkUPAvlYgNQLX28.png)
 
 
-## 推荐几个 <img align="" src="https://pic.imgdb.cn/item/6320333e16f2c2beb1638ce3.png" width="100px" />的规则。
+## 推荐几个 <img align="" src="https://github.com/KPI0/fuck-Ads/blob/main/images/np.png" width="100px" />的规则。
 
 <details>
   <summary>注意事项</summary>
