@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2022-12-03
+! TimeUpdated: 2022-12-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -11,6 +11,7 @@
 *###ad-header
 *###ad-in-page
 *###ad0
+*###AD15
 *###ad_a
 *###ad_b
 *###ad_before_content
@@ -51,6 +52,7 @@
 *###BannerZoneAD_Div25
 *###bdshare
 *###bottom-adv
+*###bottomADBanner
 *###bottomads
 *###bottomfixedAd
 *###btmBox
@@ -132,6 +134,9 @@
 *##.a2hs-ios-dRZ
 *##.active-ad
 *##.ad
+*##.ad-01
+*##.ad-02
+*##.ad-03
 *##.ad-article
 *##.ad-banner
 *##.ad-banner-wrapper
@@ -276,6 +281,7 @@
 *##.comiis_listad
 *##.commentads
 *##.common-top-ad-container
+*##.container-ad
 *##.content_ad
 *##.content_Ad
 *##.content_adsense
@@ -2082,6 +2088,7 @@ m.bohe.cn##.posr.d-flex
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.caijing.com.cn##.downdiv
+m.ccutu.com##.d
 m.china.com.cn##.fx
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
@@ -2091,6 +2098,7 @@ m.dgjs123.com##.gg_c3
 m.dgjs123.com##.xglist
 m.dgjs123.com##div.line10
 m.dgjs123.com##div.line5
+m.dianping.com##.downloadLayer
 m.diaoyur.com###app-downlaod
 m.diaoyur.com##.app-download
 m.dict.cn###dbann
@@ -2116,6 +2124,7 @@ m.eestar.com##.hydrated.logo-btn-con
 m.elecfans.com##.baidu_click_tongji2.open_app_arc
 m.elecfans.com##.btn-createCover.ft_share
 m.elecfans.com##.btn-createCover.share
+m.elecfans.com##.login-reg-fixed
 m.elecfans.com##.open_app_fixed.flex.open_app
 m.elecfans.com##.perfect_infomation_tip
 m.elecfans.com##div.flex-center:nth-of-type(1)
@@ -3850,6 +3859,7 @@ zzyyww.cn##.tags
 ||bdsrh.shangyexinzhi.com$subdocument
 ||bdxiguaimg.com$image
 ||bitautotech.com$image
+||boardy.huanqiu.com$subdocument
 ||bu2.wang1314.com$subdocument
 ||bujvtes.cn$image
 ||byteimg.com$image
