@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-09
+! TimeUpdated: 2022-12-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -458,6 +458,7 @@ onlytik.com##*
 oofof.com##*
 ourshdtv.com##*
 ouyaoxiazai.com##*
+pak234.com##*
 papersnowdge.cc##*
 pbkjz1.com##*
 pc.rising.com.cn##*
@@ -795,6 +796,7 @@ zztt37.com##*
 *###topads0
 *###ymzy-tuiguang-test-bottom
 *###zdmad
+*###zhankai_ad
 *##._left_ad
 *##._right_ad
 *##.a2hs-ios-dRZ
@@ -2770,6 +2772,7 @@ m.diaoyur.com##.app-download
 m.dict.cn###dbann
 m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
+m.douban.com##.center
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
 m.douguo.com###opentag
@@ -4669,6 +4672,7 @@ zzyyww.cn##.tags
 ||vk6.me$image
 ||vmax-ktv.com^$script
 ||wcl.bailuxiangyuan.com$subdocument
+||wenku.kuaisou.com/vendor$image
 ||wskp.cc$image
 ||www.17ce.com/adwrap$image
 ||www.55xw.net/gg.html$subdocument
