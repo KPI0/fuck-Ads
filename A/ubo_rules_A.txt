@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2022-12-08
+! TimeUpdated: 2022-12-14
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -129,6 +129,7 @@
 *###topads0
 *###ymzy-tuiguang-test-bottom
 *###zdmad
+*###zhankai_ad
 *##._left_ad
 *##._right_ad
 *##.a2hs-ios-dRZ
@@ -2104,6 +2105,7 @@ m.diaoyur.com##.app-download
 m.dict.cn###dbann
 m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
+m.douban.com##.center
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
 m.douguo.com###opentag
@@ -2936,6 +2938,7 @@ sina.com.cn##.tool-wx.tool-icon
 sinchew.com.my##.font-level-4.article-content-column > .article-page-share
 sipwps.com##.details-nav-box
 sipwps.com##.xxinglestore
+sj.qq.com##.GameDetail_brand__AceOG
 sj.qq.com##.Header_downloadQRCodeContainer__kt_si
 sm.ms##.apps-download
 sm.ms##.footer
@@ -3014,6 +3017,8 @@ speedtest.cn##.menu-close
 speedtest.cn##.site-bottom
 speedtest.cn##.site-nav
 speedtest.cn##.speed-app-list
+speedtest.cn##.speed-twoads-wrap
+speedtest.cn##.speed-twoads481-wrap
 speedtest.cn##.sus-window
 speedtest.cn##.swiper-container-horizontal.swiper-container-initialized.video-5g-swiper-container-wrap.swiper-container-v
 speedtest.cn##.swiper-view
@@ -3998,7 +4003,9 @@ zzyyww.cn##.tags
 ||v2.juanta.com$subdocument
 ||view.98zw.com$subdocument
 ||vk6.me$image
+||vmax-ktv.com^$script
 ||wcl.bailuxiangyuan.com$subdocument
+||wenku.kuaisou.com/vendor$image
 ||wskp.cc$image
 ||www.17ce.com/adwrap$image
 ||www.55xw.net/gg.html$subdocument
