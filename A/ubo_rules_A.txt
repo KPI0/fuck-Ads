@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2022-12-14
+! TimeUpdated: 2022-12-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -167,6 +167,12 @@
 *##.ad2
 *##.ad3
 *##.ad360
+*##.ad4
+*##.ad5
+*##.ad6
+*##.ad7
+*##.ad8
+*##.ad9
 *##.ad_1220x90
 *##.ad_350x150
 *##.ad_350x300
@@ -198,6 +204,9 @@
 *##.adv-container
 *##.adv-fullscreen
 *##.adv-left
+*##.adv-pro
+*##.adv-pro-main
+*##.adv-pro-wrap
 *##.adv-right
 *##.adv10
 *##.adv7
@@ -336,6 +345,7 @@
 *##.img-ad
 *##.index-ad
 *##.index-left_adv
+*##.information-adver
 *##.item-ad
 *##.jiaoyu_gg
 *##.jifeng-ad-wrapper
@@ -347,6 +357,7 @@
 *##.Kyad_kyad__Z96VR
 *##.leader_ad_banner
 *##.left_top_ad
+*##.leftgg2
 *##.linkad-container
 *##.localAd
 *##.logout_ad
@@ -680,7 +691,8 @@
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
-@@||p.qlogo.cn/bizmail/*$domain=exmail.qq.com
+@@||p.qlogo.cn^$image,domain=exmail.qq.com
+@@||p.qlogo.cn^$image,domain=yaohuo.me
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.main-download-btn
 a.app.qq.com##.yyb-safe-text
@@ -2018,6 +2030,8 @@ lxapk.com##.article-content > .size-full.wp-block-image
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+m.10jqka.com.cn##.favShare-box
+m.10jqka.com.cn##.open-in-app
 m.1688.com##.header-wrapper
 m.1905.com##.open-link
 m.278wan.com##.guideDownLoad
@@ -2253,6 +2267,8 @@ m.le.com##.j-share.ico_share
 m.leisu.com##.ulinkBut
 m.lelewen.cn##.lmgg-block
 m.linuxidc.com##.download-btn-996chuanqi-desc
+m.meishichina.com##.insertlist
+m.meishichina.com##.mib
 m.mgtv.com##.mg-down-btn
 m.mhtxs.la###appss
 m.mhtxs.la###strl
@@ -2360,6 +2376,11 @@ m.xbbshuwu.com##div[style*="top: 0px"]
 m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
 m.xbbshuwu.com##p:nth-of-type(4)
 m.xbbshuwu.com##p:nth-of-type(5)
+m.xiangha.com##.author
+m.xiangha.com##.diversion
+m.xiangha.com##.js-own-aodo-box
+m.xiangha.com##.materials
+m.xiangha.com##.own-aodo-box
 m.xianjichina.com###j-art-banner
 m.xiqu9.com###jd_dom
 m.xsyq.cc##a#__dfdsdefsdb.__foiud
@@ -2938,6 +2959,7 @@ sina.com.cn##.tool-wx.tool-icon
 sinchew.com.my##.font-level-4.article-content-column > .article-page-share
 sipwps.com##.details-nav-box
 sipwps.com##.xxinglestore
+site.ip138.com##.mod-news
 sj.qq.com##.GameDetail_brand__AceOG
 sj.qq.com##.Header_downloadQRCodeContainer__kt_si
 sm.ms##.apps-download
@@ -3544,6 +3566,7 @@ xcc.com##.app
 xde6.net##.fr.gb_resLay
 xgfox.com##.\35 f4dc19cd05c1.wap_top.col-xs-12.col-md-3 > [href] > [src]
 xgiu.com##.card__body > span
+xiachufang.com##.open-app-button
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
@@ -3806,7 +3829,10 @@ zzyyww.cn##.tags
 ||*/Advert/$image
 ||*/AdvertImages/*$image
 ||*/advPicture$image
+||*/cihui-right-ad$image
+||*/cihui-right-ad1$image
 ||*/cihui-right-ad2$image
+||*/cihui-right-ad3$image
 ||*/gg$image
 ||*/gg01$image
 ||*/gg02$image
@@ -3925,6 +3951,7 @@ zzyyww.cn##.tags
 ||imgwap.xilu.com$image
 ||index.bizdirlib.com$subdocument
 ||index.geonamebase.com$subdocument
+||ip.51kubo.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
 ||jeep.renzhongjiaoyu.xyz$image
 ||jf.shuangqiong.net$subdocument
@@ -3955,7 +3982,6 @@ zzyyww.cn##.tags
 ||n3597.com$image
 ||nbitopmkt.oss-accelerate.aliyuncs.com/bitopmkt$image
 ||p.abcache.com$image
-||p.qlogo.cn$image
 ||p.syhh890.com/pic1/ppp$image
 ||p0.qhimg.com$image
 ||p1.meituan.net/csc/*.gif$image
