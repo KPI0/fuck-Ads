@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-21
+! TimeUpdated: 2022-12-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1755,6 +1755,7 @@ cloud.189.cn##.enterprise-guide-box
 cloud.189.cn##.nav-block.client-download
 cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
 cloud.189.cn##a.J_cloudNav:nth-of-type(3)
+cloud.ofweek.com###article_adson_01
 cloud.tencent.com##.c-btn-weak.c-btn
 cloud.tencent.com##.com-event-panel-img
 cloud.tencent.com##.com-module-content
@@ -1784,6 +1785,7 @@ cn.nytimes.com##.mobile-article.share-tools
 cn.nytimes.com##.ribbon-show.article-ribbon
 cn.pornhub.com##.shareButton
 cnbeta.com###McYZCXfQZn
+cnbeta.com.tw##.article-share-code
 cnblogs.com###green_channel_wechat
 cnblogs.com###green_channel_weibo
 cnblogs.com##.formobile.bannerbar-mobile
@@ -3179,6 +3181,7 @@ mingyantong.com###jushare
 mingyantong.com###xqriqrc
 minsu.dianping.com##.lg-hide.b-cover
 mip.qlmhome.cn##.wpcom_myimg_wrap
+mitem.lenovo.com.cn##.bottomOpenAppBtn
 mkzhan.com##.icon-ic_head_app.iconfont
 mkzhan.com##.j-header-down.user-item > [href] > .item-text
 mkzhan.com##.qr-code.aside__item
