@@ -822,6 +822,8 @@ zztt37.com##*
 *##.ad-img
 *##.ad-index-bottom-left
 *##.ad-index-bottom-right
+*##.ad-index-left
+*##.ad-index-right
 *##.ad-list
 *##.ad-m
 *##.ad-mobile
@@ -997,6 +999,7 @@ zztt37.com##*
 *##.feed-ecom-ads
 *##.fenxiang
 *##.ff-ads
+*##.fixedAd
 *##.float-ads
 *##.float-left-ad
 *##.floatad-wrapper
@@ -1012,6 +1015,7 @@ zztt37.com##*
 *##.gggpost-above
 *##.ggshow
 *##.ggxc-box
+*##.ghxi_wpcom_ad_wrap
 *##.gonggao
 *##.GoodsRecommendCard
 *##.growth-ad
@@ -1028,6 +1032,7 @@ zztt37.com##*
 *##.iguangao
 *##.img-ad
 *##.index-ad
+*##.index-advertising
 *##.index-left_adv
 *##.information-adver
 *##.item-ad
@@ -1068,6 +1073,7 @@ zztt37.com##*
 *##.n-top__ad
 *##.new-bdsharebuttonbox
 *##.newAd
+*##.news-advertising
 *##.news_ad
 *##.news_ad1
 *##.news_ad2
@@ -1089,6 +1095,7 @@ zztt37.com##*
 *##.post-bottom
 *##.potoadv
 *##.pro-ad-pageend
+*##.pub-ad
 *##.pure-u-custom-ad-skyscraper
 *##.qklw-adv
 *##.question-ads-exp
@@ -2063,6 +2070,7 @@ eet-china.com##.share-btn-xs.myicon-icon
 eet-china.com##section:nth-of-type(26)
 eet-china.com##section:nth-of-type(27)
 elecfans.com###a_top_img
+elecfans.com###new-company-berry
 elecfans.com##.aside_app
 elecfans.com##.aside_bdsharebuttonbox
 elecfans.com##.detail-share
@@ -2194,7 +2202,6 @@ ghxi.com###custom_html-10 > .custom-html-widget.textwidget
 ghxi.com###modules-12
 ghxi.com##.clearfix.entry-bar-inner
 ghxi.com##.entry-bar
-ghxi.com##.ghxi_wpcom_ad_wrap
 ghxi.com##.j-share.action-item
 ghxi.com##.text-center.info
 gif8.com###stuff
@@ -3350,6 +3357,7 @@ o8tv.com##.playfav > [href="javascript:;"]
 o8tv.com##.popup
 o8tv.com##div.pcad.clearfix.myui-panel-bg.myui-panel
 o8tv.com##li.hidden-xs.hidden-sm.hidden-md > [href="https://dayaodianqi.com/"]
+ofec.com.cn##.bshare-custom
 offcn.com##.clearfix.dfgwy_botnew
 offcn.com##.conpag.addMarTop.zg-newMesRight
 offcn.com##.fr.zg_top_right
@@ -3420,6 +3428,7 @@ pan.baidu.com##[href^="https://photo.baidu.com/photo/web/home"]
 pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
+pan.quark.cn##.share-content-right
 panewslab.com##.phone.item
 pansci.asia##[class="container ad-container all_top"]
 passport.bilibili.com##.right.block
@@ -3729,6 +3738,7 @@ speedtest.cn###speedUpNotice
 speedtest.cn###Video
 speedtest.cn##.app
 speedtest.cn##.app-download-wrap
+speedtest.cn##.articleShare
 speedtest.cn##.download
 speedtest.cn##.footer-container
 speedtest.cn##.menu-close
@@ -3748,6 +3758,7 @@ speedtest.cn##.topDownload
 speedtest.cn##.wrap > .title
 speedtest.cn##li.nav-enterprise-service.nav-item:nth-of-type(3) > .nav-item-link
 speedtest.net##.mobile-pretest
+speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 splashtennis.com###dbsxfBox
 splashtennis.com###spzjBox
 splashtennis.com###topBox
@@ -4128,6 +4139,7 @@ web.telegram.org##.tg_try_desktop
 web02.cnki.net##[href="https://inks.cnki.net"]
 webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
 webhek.com###overlay99
+webkaka.com###commend2
 weidian.com##.keep-track-of-show-animation.keep-track-of-show.keep-track-of
 weixinbqb.com##.d_tags > p
 weixinbqb.com##[src="/style/images/jsq.gif"]
@@ -4755,6 +4767,7 @@ zzyyww.cn##.tags
 ||xyt.lesson99.com$image
 ||y.yaohuo.me
 ||yichan.net.cn$image
+||ysjs.ys137.com.cn$subdocument
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||z2.fakutownee.cn$subdocument
