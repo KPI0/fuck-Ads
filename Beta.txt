@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-22
+! TimeUpdated: 2022-12-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -3574,6 +3574,7 @@ rfa.org###storytoptools
 rfi.fr##.m-share-bar
 rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
+right.com.cn##.z
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
 rsdznjj.com##.layout-entry-share
@@ -4612,6 +4613,8 @@ zzyyww.cn##.tags
 ||dimg04.c-ctrip.com$image
 ||dmn.lczk.cn$subdocument
 ||doubleclick.net$subdocument
+||eajgm.com^$domain=juhaihg.com
+||enl2.96845.com$subdocument
 ||fbmmjc.39yst.com$subdocument
 ||fengei.net$subdocument
 ||file3.dzsc.com/bigcustomerad$image
@@ -4638,6 +4641,7 @@ zzyyww.cn##.tags
 ||ibook.pc899.cn$subdocument
 ||icon.zol-img.com.cn/m/pages/assets/components/open-app-top/*.png$image
 ||icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/*.png$image
+||ifengsong888.com^$domain=juhaihg.com
 ||image.bitautoimg.com$image
 ||images.itbulu.com/banner$image
 ||img.0755rc.com$subdocument
@@ -4699,7 +4703,7 @@ zzyyww.cn##.tags
 ||q8t6k.icu^$script
 ||qlogo.cn$image
 ||qqpublic.qpic.cn$image
-||renxingganwu.com^$domain=www.jswvip.net
+||renxingganwu.com^$domain=jswvip.net
 ||renzhongjiaoyu.xyz$image
 ||res.yizhiliuzhenjiu.com$image
 ||resao.com/kf$image
@@ -4746,6 +4750,7 @@ zzyyww.cn##.tags
 ||www.tuaox.cc/A1*.gif$image
 ||www.wgdacc.com$image
 ||www.wgdacc.com/*.php$image
+||xiao89.com$subdocument
 ||xingfupa.com$image
 ||xyt.lesson99.com$image
 ||y.yaohuo.me
