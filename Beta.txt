@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-23
+! TimeUpdated: 2022-12-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -463,6 +463,7 @@ papersnowdge.cc##*
 pbkjz1.com##*
 pc.rising.com.cn##*
 pc6.com##*
+pcn234.com##*
 pcsoft.com.cn##*
 peach-av.com##*
 peise.net##*
@@ -765,6 +766,10 @@ zztt37.com##*
 *###mh_slider_ad_hp-6
 *###midBox
 *###n-ad-page
+*###native_ad
+*###native_ad_1
+*###native_ad_2
+*###native_ad_3
 *###Nav_Top_Ad
 *###new_ad
 *###partners
@@ -883,6 +888,8 @@ zztt37.com##*
 *##.adBox
 *##.ads
 *##.ads-item
+*##.ads_details_900_bottom
+*##.ads_details_900_recommend
 *##.adsbygoogle
 *##.adshoptop
 *##.adv
@@ -1150,6 +1157,7 @@ zztt37.com##*
 *##.wechat
 *##.weibo
 *##.wgt-ad-guess
+*##.widget_image_ad
 *##.works-slider-ad
 *##.wpcom_ad_wrap
 *##.wwads-cn
@@ -1439,6 +1447,8 @@ aisoutu.com###baidulianmeng3
 aizhan.com##.ico-nav-mobile
 aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
 aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
+ala.baidu.com##.more-btn-desc
+ala.baidu.com##.nav-bar-bottom
 aliyun.com##.app-btn
 aliyundrive.com##.container--CIvrv
 aliyundrive.com##.desktop-reminder--1IK76
@@ -1546,6 +1556,7 @@ bbs.elecfans.com##.bdshare-slide-button
 bbs.elecfans.com##.qrcode
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
+bbs.hupu.com##.download-app
 bbs.hupu.com##.game-center-sidebar
 bbs.hupu.com##.gamecenter
 bbs.hupu.com##.qrcodeLink_3wVdw.link_2iELG
@@ -2069,6 +2080,9 @@ eet-china.com##.hidden-xs.sidebar-code
 eet-china.com##.share-btn-xs.myicon-icon
 eet-china.com##section:nth-of-type(26)
 eet-china.com##section:nth-of-type(27)
+eeuu88.net###xfb_lbox
+eeuu88.net##.xfb_zoom_invert
+eeuu88.net##.zoomout
 elecfans.com###a_top_img
 elecfans.com###new-company-berry
 elecfans.com##.aside_app
@@ -2082,6 +2096,7 @@ elecfans.com##[href="https://dfm.elecfans.com/uploads/software/promoter/hqdfm_do
 elecfans.com##[src="http://skin.elecfans.com/images/wx_right.jpg"]
 elecfans.com##[src="https://skin.elecfans.com/images/new_ad_01.jpg"]
 elecfans.com##[src="https://skin.elecfans.com/images/open_ad_172.jpg"]
+eleoke.com##.dapp
 email.163.com##.fadeIn.animated.theme-item
 emcreative.eastmoney.com###emglobaljs_component_dialog_confirm_execute
 etmall.com.tw##.promo-banner
@@ -2537,6 +2552,7 @@ jieqinwang.com##.promoshow
 jihaoba.com##.footer.main
 jihaoba.com##div.foot:nth-of-type(18)
 jihaoba.com##div.foot:nth-of-type(22)
+jikipedia.com##.download-bottom
 jikipedia.com##.hoverable.action-button.button.share
 jingfen.jd.com##.box-link
 jingjia.net##center
@@ -2734,6 +2750,7 @@ m.278wan.com##.guideDownLoad
 m.4399.cn##.cn-mt10.cn-app_download
 m.51credit.com##.appdownClick
 m.51job.com##.goApp
+m.528btc.com##.weui-c-tools
 m.699pic.com##.chongzhiact
 m.699pic.com##.fl.footer-share
 m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
@@ -2965,6 +2982,9 @@ m.le.com##.j-share.ico_share
 m.leisu.com##.ulinkBut
 m.lelewen.cn##.lmgg-block
 m.linuxidc.com##.download-btn-996chuanqi-desc
+m.med66.com##.courseBox
+m.med66.com##.downloadApp-btn
+m.med66.com##.nbanner
 m.meishichina.com##.insertlist
 m.meishichina.com##.mib
 m.mgtv.com##.mg-down-btn
@@ -3394,6 +3414,7 @@ ooopic.com##.show.loginTip-box
 ooopic.com##.wt-aside-footer > div.wt-asideItem
 ooopic.com##ul.fl:nth-of-type(5)
 opinion.people.com.cn###ops_share
+opposhop.cn##.welcome-wrapper
 opssh.cn##.list-banner
 oracle.com##.active.ochat_slidew2
 oracle.com##.scl-icons
@@ -3468,6 +3489,7 @@ pdfzj.cn##.mumu
 pdfzj.cn##.spig
 pdfzj.cn##a[href="javascript:void(0);"]:nth-of-type(2)
 pet82.com##.toolbar-open
+phb123.com##.suspension-code
 photo.baidu.com##.yk-side__footer
 php.cn##.wwads-vertical.wwads-cn
 pianshen.com##.dotloading
@@ -3778,6 +3800,7 @@ sqjob.cn##td > table > tbody > tr > td > table > tbody > tr > td
 srxzz.com##.tanchuang
 srxzz.com##.zhezao
 srxzz.com##header
+ssoouu.com###article_code
 sspai.com###btn-call-app
 sspai.com##.iconfont-share
 stcn.com##.top_r
@@ -4414,6 +4437,7 @@ ypppt.com##.aad4
 yszzq.com##.date
 yuanheng0371.com##.wpcom_myimg_wrap
 yule.voc.com.cn###xbyxgg
+yulefm.com##.box305
 yun.139.com##.default_adv_color > div
 yun.139.com##.down_explain_div_span
 yun.139.com##.fr
@@ -4573,7 +4597,9 @@ zzyyww.cn##.tags
 ||9191520.xyz$image
 ||91zsri0.sanso.hk/*.gif?$image
 ||ab2.shqian8.com$subdocument
+||abc.qianbaikefu.com$subdocument
 ||abl.lczk.cn$subdocument
+||aiai81.xyz$subdocument
 ||article.qcyz.cn$subdocument
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
