@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-25
+! TimeUpdated: 2022-12-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -763,6 +763,7 @@ zztt37.com##*
 *###jrtt-ad-right1
 *###left-bottom-ads
 *###left-mid1-ads
+*###left_gg
 *###left_tmt_ads1
 *###left_tmt_ads2
 *###left_tmt_ads3
@@ -786,10 +787,12 @@ zztt37.com##*
 *###new_ad
 *###partners
 *###phpad
+*###plugin_toc_bot_ad_game
 *###popBox
 *###randomBox
 *###right-bottom-ads
 *###right_ad1
+*###right_gg
 *###right_tmt_ads1
 *###right_tmt_ads2
 *###right_tmt_ads3
@@ -811,6 +814,7 @@ zztt37.com##*
 *###subMenuBox
 *###swiper-ad
 *###tcAdvertising
+*###text_ad
 *###The_three_ads
 *###top-adv
 *###topads
@@ -1063,6 +1067,7 @@ zztt37.com##*
 *##.gg_wap
 *##.gggpost-above
 *##.ggshow
+*##.ggwzz
 *##.ggxc-box
 *##.ghxi_wpcom_ad_wrap
 *##.gonggao
@@ -1098,6 +1103,7 @@ zztt37.com##*
 *##.Kyad_kyad__Z96VR
 *##.lb_ad
 *##.leader_ad_banner
+*##.left_gg
 *##.left_top_ad
 *##.leftAd
 *##.leftad
@@ -1162,6 +1168,7 @@ zztt37.com##*
 *##.random_ad
 *##.recommend-ad
 *##.related-ad
+*##.right_gg
 *##.right_top_ad
 *##.rightad
 *##.rightAd
@@ -1201,6 +1208,7 @@ zztt37.com##*
 *##.sponsored-token
 *##.t-ad
 *##.tbgg
+*##.text_ad
 *##.tg-box
 *##.tg-site
 *##.tgdata
@@ -1374,6 +1382,7 @@ zztt37.com##*
 39.net##.con_right
 39.net##ul.tabb.artRimgli.artRbox:nth-of-type(1)
 3dmgame.com##.Cs_share
+3g.163.com##.bottom.widget-slider-article.widget-slider
 3g.163.com##.comment-link > .js-open-app
 3g.163.com##.js-open-app
 3g.163.com##.qrcode-content
@@ -1387,6 +1396,7 @@ zztt37.com##*
 4399.com##.link_w
 4399.com##[href="//4399.com/desk/"]
 4pcc.com##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
+4t7k54.smartapps.cn##.swan-web-suspend-button
 5151sc.com##div.begin:nth-of-type(3)
 51cto.com##.article-left > .share
 51cto.com##.erweima-box
@@ -1932,6 +1942,7 @@ coozhi.com##li:nth-of-type(5)
 cq.ganji.com##[href="//ganji.com/download"]
 cqcb.com###share2
 cqcb.com##.syshare
+cqcb.com##.top_b_righto
 cqnews.net##.bsharebox
 cqnews.net##.bsharebox1
 cqooc.com##[src="/images/qq_qr.png"]
@@ -2162,6 +2173,7 @@ eet-china.com##section:nth-of-type(27)
 eeuu88.net###xfb_lbox
 eeuu88.net##.xfb_zoom_invert
 eeuu88.net##.zoomout
+egou5.com##div.c-share-btn
 elecfans.com###a_top_img
 elecfans.com###new-company-berry
 elecfans.com##.aside_app
@@ -2912,6 +2924,9 @@ m.bohe.cn##.posr.d-flex
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.caijing.com.cn##.downdiv
+m.caixin.com##.appLink
+m.caixin.com##.openInApp
+m.caixin.com##.tb-bar-r
 m.ccutu.com##.d
 m.china.com.cn##.fx
 m.chinairn.com##.dtbg
@@ -3148,8 +3163,11 @@ m.tmtpost.com##.get_apps_btn
 m.tmtpost.com##.open_app
 m.tmtpost.com##body > .app_html_btn
 m.toutiao.com###top-banner-container-1648038047365
+m.toutiao.com##.bottom-banner-btn
 m.toutiao.com##.download-bar__container
 m.toutiao.com##.open
+m.toutiao.com##.video-actions-item-share
+m.toutiao.com##.video-banner
 m.ttpai.cn##.hide-in-app
 m.tuniu.com###J_appDownloadRenderBox
 m.tuniu.com##.mini-voucher
@@ -3326,6 +3344,7 @@ mingyantong.com###xqriqrc
 minsu.dianping.com##.lg-hide.b-cover
 mip.qlmhome.cn##.wpcom_myimg_wrap
 mitem.lenovo.com.cn##.bottomOpenAppBtn
+miui.com##.app_download
 mkzhan.com##.icon-ic_head_app.iconfont
 mkzhan.com##.j-header-down.user-item > [href] > .item-text
 mkzhan.com##.qr-code.aside__item
@@ -3344,6 +3363,8 @@ movie.youku.com##.g-footer_2MHYp
 movie.youku.com##.u-app_Ubbmj
 movie.youku.com##.u-phone_2eD26
 movie.youku.com##.u-vip_3-BwE
+mp.cnfol.com###appPopupsConfirm
+mp.cnfol.com###as_100
 mp.v.qq.com##.container___3IFD3
 msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
@@ -3628,6 +3649,9 @@ product.pconline.com.cn##.pc-share
 product.yesky.com##.gbshare
 proewildfire.cn###wechat_float_qrcode
 proewildfire.cn##.wp > .z
+prow.com.cn###div_fixed
+prow.com.cn##.v4_left_down
+prow.com.cn##.v4_right
 ps173.com##.item-myimg.item
 ps173.com##blockquote
 ps173.com##p:nth-of-type(17) > span > [href="https://zc.oke4.cn/A8866"] > strong
@@ -3676,6 +3700,7 @@ qinav.com###qinav_a1
 qinav.com###qinav_a2
 qinav.com##.b300
 qinav.com##li:nth-of-type(5)
+qiuquan.cc##.asb-post-footer
 qiyeshangpu.com##.k-right
 qiyisq.com##.wp > .z
 qklw.com##.pull-right
@@ -4410,6 +4435,7 @@ xde6.net##.fr.gb_resLay
 xgfox.com##.\35 f4dc19cd05c1.wap_top.col-xs-12.col-md-3 > [href] > [src]
 xgiu.com##.card__body > span
 xiachufang.com##.open-app-button
+xiaodutv.com###openAppSure
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
@@ -4444,6 +4470,7 @@ xinhuanet.com##.left.p-left
 xinhuanet.com##.no-ad.fixed.part-right
 xinhuanet.com##.part-right
 xinhuanet.com##.roedeer-container.nav-op > .nav-khd
+xinqtech.com##.downbtn
 xinyueseo.com##.sr-bdimgshare-black.sr-bdimgshare-16.sr-bdimgshare-list.sr-bdimgshare
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
@@ -4698,6 +4725,7 @@ zzzyk.com##div.zykmore
 ||2.jishirili.com$subdocument
 ||2.k1u.com$subdocument
 ||2.luerong.com$subdocument
+||2.zhifujing.org$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
 ||51xl.xyz$image
