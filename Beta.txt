@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-27
+! TimeUpdated: 2022-12-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -682,6 +682,9 @@ zztt37.com##*
 *###__ad7
 *###__ad8
 *###__ad9
+*###__ad_diycolumn
+*###__ad_focuscolumn
+*###__ad_nbpcolumn
 *###__ad_softcolumn
 *###__ad_textcolumn
 *###_ad
@@ -1020,7 +1023,6 @@ zztt37.com##*
 *##.aliad2
 *##.alltypes-detail-advertisement
 *##.app-ad
-*##.app-open
 *##.apps-ad
 *##.aqc-advertisement-wrapper
 *##.artadv
@@ -1082,7 +1084,6 @@ zztt37.com##*
 *##.detail_ad_banner
 *##.detnew_adv
 *##.dkpro_adtg
-*##.down-app
 *##.ec-ad
 *##.ec_wise_ad
 *##.eef-ad-type-billboard
@@ -1102,6 +1103,7 @@ zztt37.com##*
 *##.footerads
 *##.ft-ad
 *##.FuckYou
+*##.fuckyou
 *##.gg
 *##.GG
 *##.gg-box
@@ -1119,7 +1121,6 @@ zztt37.com##*
 *##.ggxc-box
 *##.ghxi_wpcom_ad_wrap
 *##.gonggao
-*##.GoodsRecommendCard
 *##.growth-ad
 *##.guangaoi
 *##.guanggao
@@ -1130,7 +1131,6 @@ zztt37.com##*
 *##.header_ad
 *##.home-ad
 *##.home-ad-link
-*##.icon_download
 *##.iguangao
 *##.img-ad
 *##.index-ad
@@ -1264,7 +1264,6 @@ zztt37.com##*
 *##.top_ad
 *##.topad
 *##.topappad
-*##.tx-info-module-down-box
 *##.videoSideAds
 *##.view-ad
 *##.vipad
@@ -2921,6 +2920,7 @@ lunwen11.cn##.abs
 lunwenfw.com###absArticleTop
 lunwenfw.com###absSidebarTop
 lxapk.com##.article-content > .size-full.wp-block-image
+lzbs.com.cn##.bdsharebuttonbox
 lzw98.com###likepc
 m-lou.com###container
 m-lou.com###header-bg
@@ -3830,6 +3830,7 @@ rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
 s.kaoyaya.com##.custom-window
+samsung.com##.static-content
 samsungeshop.com.cn##li:nth-of-type(3)
 scez.cn##video
 science.caixin.com##.fenghui_code
@@ -4228,9 +4229,14 @@ tw.news.yahoo.com##.caas-share-section
 tw.yahoo.com###mega-banner-wrapper
 tw.yahoo.com##.D\(n\)--sm1366.Mend\(16px\).End\(100\%\).T\(0\).Pos\(a\).Td\(n\)
 ubook.reader.qq.com##.bottom-guide-r
+ubook.reader.qq.com##.download
+ubook.reader.qq.com##.guide
 ubook.reader.qq.com##.guide-r
+ubook.reader.qq.com##.listening
+ubook.reader.qq.com##.new-user.btn-red.read-btn
 ubook.reader.qq.com##.read-popup.guide-card
 ubook.reader.qq.com##.red-big
+ubook.reader.qq.com##.title-line
 ubook.reader.qq.com##.top-guide
 ubook.reader.qq.com##div.red:nth-of-type(1)
 ubook.reader.qq.com##div[class=writer-say]
