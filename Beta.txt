@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-29
+! TimeUpdated: 2022-12-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -197,6 +197,16 @@ cmm.lol##*
 cncrk.com##*
 cr173.com##*
 crsky.com##*
+cs900a21.com##*
+cs900a22.com##*
+cs900a23.com##*
+cs900a24.com##*
+cs900a25.com##*
+cs900a26.com##*
+cs900a27.com##*
+cs900a28.com##*
+cs900a29.com##*
+cs900a30.com##*
 cym234.com##*
 d9620.com##*
 daagux.digital##*
@@ -507,6 +517,7 @@ rou.video##*
 rouav.com##*
 rsst.xyz##*
 rulaisz.com##*
+rwa567.com##*
 rzldn.com##*
 sclddn.com##*
 sdg999.xyz##*
@@ -1853,6 +1864,7 @@ bukaivip1.com##.more-btn > li:nth-of-type(3)
 bukaivip1.com##.open-share
 bukaivip1.com##.open-share > .icon-share.iconfont.icon
 businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
+bx9y.com##.ok
 bytenew.com##.bdsharebuttonbox
 c.biancheng.net###top-banner > .wap-yes
 c.biancheng.net##.pic
@@ -2050,6 +2062,7 @@ csdn.net##.so-questionnaire
 csdn.net##li > [href^="//csdn.net/apps/download"]
 cslab.gxu.edu.cn##body > table:nth-of-type(1) > tbody > tr > td
 cslab.gxu.edu.cn##embed
+ctexcel.com##.invite-share
 ctfile.com###content
 ctfile.com##.border-bottom > .space-2.container
 ctfile.com##.gradient-half-primary-v2
@@ -3527,6 +3540,7 @@ my.oschina.net##div.action-item:nth-of-type(5)
 my607.com##.one
 my607.com##.two
 my607.com##td
+mydigit.cn##.comiis_share_key
 mydigit.cn##.z > [href="https://mydigit.cn/"]
 mydigit.cn##.z > [href="javascript:;"]
 mydigit.cn##[href="https://mydigit.cn/thread-119068-1-1.html"]
@@ -3927,6 +3941,7 @@ shezhan88.com##[href="javascript:alert("]
 shijiezz.com###viewfirst
 shilian.com##.kx_shares
 shop.dixintong.com##.fixed-chou
+shoudian.org##.attach_tips
 show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
 shuaji.net##.footer-box-left
