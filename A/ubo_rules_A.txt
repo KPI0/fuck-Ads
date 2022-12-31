@@ -2524,6 +2524,7 @@ m.iqiyi.com##.cover
 m.iqiyi.com##.hotWords-wrap
 m.iqiyi.com##.iqyGuide-content
 m.iqiyi.com##.m-footer
+m.iqiyi.com##.m-iqylink-diversion
 m.iqiyi.com##.m-iqylink-guide
 m.iqiyi.com##.m-loginGoApp
 m.iqiyi.com##.m-videoUser-spacing
@@ -2532,12 +2533,6 @@ m.iqiyi.com##.m-videoUserSpace-twoSliding.m-videoUser-spacing
 m.iqiyi.com##.player-loading-info > .c-link
 m.iqiyi.com##.qibabu-banner.m-banner-pop
 m.iqiyi.com##.vip-marketing.m-iqylink-guide
-m.iqiyi.com##a.m-user-base:nth-of-type(2)
-m.iqiyi.com##div.m-box-borderT.m-box:nth-of-type(4) > .m-box-items-full.m-box-items > a.m-user-base:nth-of-type(1)
-m.iqiyi.com##div.m-box:nth-of-type(10)
-m.iqiyi.com##div.m-videoUser-spacingItem:nth-of-type(1)
-m.iqiyi.com##div.toolBar-item > div
-m.iqiyi.com##div.toolBar-item:nth-of-type(2)
 m.iqiyi.com##div.video-action-btn
 m.iqiyi.com##section.m-videoPlay-toolBar
 m.it168.com##.m-qrcode
@@ -2703,7 +2698,7 @@ m.tv.sohu.com##.js-oper-pos
 m.twitch.tv##.bNFLxe.Layout-sc-nxg1ff-0
 m.twitch.tv##.cBurZN.Layout-sc-1yrwsla-0
 m.twitch.tv##.tw-modal.jPDuIT.jCsrjE.ScModalWrapper-sc-a9gyxp-0.Layout-sc-nxg1ff-0
-m.v.qq.com##.at-app-banner--button.at-app-banner__main-btn
+m.v.qq.com##.at-app-banner--button
 m.v.qq.com##.at-app-banner__content
 m.v.qq.com##.at-app-banner__layer
 m.v.qq.com##.btn_download
@@ -2712,9 +2707,8 @@ m.v.qq.com##.game
 m.v.qq.com##.js_open_app.btn_user_hd
 m.v.qq.com##.mod_game_rec.mod_box
 m.v.qq.com##.mod_multi_figures_h.mod_sideslip_h.mod_box
-m.v.qq.com##.mod_privilege
 m.v.qq.com##.mod_source
-m.v.qq.com##.mod_source_box_fixed.mod_source_box
+m.v.qq.com##.mod_source_box_fixed_bottom
 m.v.qq.com##.open-app
 m.v.qq.com##.player-mask__small-tips
 m.v.qq.com##.site-top__open-app
@@ -3260,6 +3254,7 @@ rakuten.com.tw##.superbanner
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
 remark.sohu.com##span.item:nth-of-type(1)
+remove.bg##.sharing-buttons
 renminshangjin.com###bay
 report.iresearch.cn##.g-article-share
 report.iresearch.cn##.m-share
@@ -3480,8 +3475,6 @@ stcn.com##.yw_ewm
 stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
-store.steampowered.com##.header_installsteam_btn_gray.header_installsteam_btn
-store.steampowered.com##.header_installsteam_btn_green.header_installsteam_btn
 study.163.com##.open-app-btn
 super.sina.cn##.call_up_banner
 sws100.com##.wpcom_myimg_wrap
