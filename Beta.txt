@@ -3209,9 +3209,7 @@ m.ijjxs.com##.footer
 m.ijjxs.com##div[class="pd6"]
 m.imdb.com##.frtlkg.sc-f20690b4-0
 m.intl.taobao.com##button
-m.iqiyi.com###app > div > div > div > div > .m-box
 m.iqiyi.com##.c-guide-img
-m.iqiyi.com##.ChannelHomeBanner_mbox_2Q4aQ
 m.iqiyi.com##.cover
 m.iqiyi.com##.hotWords-wrap
 m.iqiyi.com##.iqyGuide-content
@@ -3221,15 +3219,8 @@ m.iqiyi.com##.m-loginGoApp
 m.iqiyi.com##.m-videoUser-spacing
 m.iqiyi.com##.m-videoUserSpace-two.m-videoUser-spacing
 m.iqiyi.com##.m-videoUserSpace-twoSliding.m-videoUser-spacing
-m.iqiyi.com##.player-loading-info > .c-link
 m.iqiyi.com##.qibabu-banner.m-banner-pop
 m.iqiyi.com##.vip-marketing.m-iqylink-guide
-m.iqiyi.com##a.m-user-base:nth-of-type(2)
-m.iqiyi.com##div.m-box-borderT.m-box:nth-of-type(4) > .m-box-items-full.m-box-items > a.m-user-base:nth-of-type(1)
-m.iqiyi.com##div.m-box:nth-of-type(10)
-m.iqiyi.com##div.m-videoUser-spacingItem:nth-of-type(1)
-m.iqiyi.com##div.toolBar-item > div
-m.iqiyi.com##div.toolBar-item:nth-of-type(2)
 m.iqiyi.com##div.video-action-btn
 m.iqiyi.com##section.m-videoPlay-toolBar
 m.it168.com##.m-qrcode
