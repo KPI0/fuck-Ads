@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2022-12-31
+! TimeUpdated: 2023-01-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -81,6 +81,7 @@
 78x.xyz##*
 7xdown.com##*
 7xg.cc##*
+81219.email##*
 855.fun##*
 88888888av.com##*
 8pn8sc.com##*
@@ -518,6 +519,7 @@ rouav.com##*
 rsst.xyz##*
 rulaisz.com##*
 rus234.com##*
+rwa456.com##*
 rwa567.com##*
 rzldn.com##*
 sclddn.com##*
@@ -1036,6 +1038,7 @@ zztt37.com##*
 *##.ads_details_900_recommend
 *##.adsbygoogle
 *##.adsContainer
+*##.AdSense
 *##.adshoptop
 *##.adv
 *##.adv-bottom
@@ -1249,6 +1252,7 @@ zztt37.com##*
 *##.mh-ad-spot
 *##.mh_slider_ad_hp
 *##.mobile-ad-in-list
+*##.mobileads
 *##.mobilePaddingAds
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
@@ -1769,6 +1773,7 @@ baiyunju.cc##.widget_ssr_inner
 bangxuetang.com##.admod
 baobao.baidu.com##.ecomad-container
 bar.cnki.net##.qrcode
+bbmmx.com##.xshare
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com##.recommend
 bbs.9game.cn##.guide-app-fix
@@ -2134,6 +2139,7 @@ cww.net.cn###share_news
 cy.cqbys.com##div.rightdiv:nth-of-type(3)
 cy.ncss.cn##.appTip
 d06v3b.smartapps.cn##.swan-web-suspend-button
+d0z.net##.sharedaddy
 d1ev.com##.action_share
 d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
@@ -2458,6 +2464,7 @@ games.sina.com.cn##.share_wrap
 gank.fanpiece.com##.right.options
 ganzitv.com##.abs-left
 gaojiufeng.cn##.main-footer
+garygeng.net###single-widget
 gbs.cn##.toolbar
 gcjx3.xyz##[href="http://23.224.188.8:2939/vip200.html"] > .lazyloaded
 gcores.com##.appDownloadTip
@@ -2535,6 +2542,7 @@ guancha.cn##.Share_button_tsina
 guancha.cn##.Share_button_weixin
 guancha.cn##.shared-comment
 guancha.cn##div.share > span
+guicaige.com##.sharebox
 guyuehome.com##.js_share.item
 guyuehome.com##.sticky-bar .icon-wechat
 guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
@@ -2764,6 +2772,7 @@ ithome.com##.shareto
 ithome.com##.sideweixin.sfa
 ithome.com##.so.mt > .s
 ithome.com##div.mt:nth-of-type(2) > .l
+itlanyan.com##.wb-btn-share
 itmind.net##.widget-adss
 itmind.net##.xshare
 ittime.com.cn##.toolbar
@@ -2822,6 +2831,7 @@ jianshu.com##.header-download
 jianshu.com##.index_call-app-btn
 jianshu.com##.note__flow__download
 jianshu.com##div.guidance-wrap-item:nth-of-type(2)
+jiashancloud.com##.post-share-btn
 jiayongluyou.com###single-widget
 jiayuan.com##.fb_download_wrap
 jiema.wwei.cn###go-fav
@@ -3527,6 +3537,7 @@ mbx0.com##.share-bar
 mbx0.com##.tg-inner
 mdspw.com##.clearfix.stui-app__bd
 mdspw.com##.s-slider
+mdzgjx.com##.share
 meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
 meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
 meijumi.top###sgpb-popup-dialog-main-div > div > .sg-popup-builder-content
@@ -3638,6 +3649,7 @@ new.qq.com##.txp_shadow
 new.qq.com##a.item > .txt
 new.qq.com##a.item:nth-of-type(4)
 newiot.com###ggxc
+newqc.cn##.pbvideo-share
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
 news.caijingmobile.com##.bottom-flash
@@ -3961,6 +3973,7 @@ right.com.cn##.z
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
 rsdznjj.com##.layout-entry-share
+ruancan.com##.j-share
 rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
@@ -4471,6 +4484,7 @@ vip.jokerps.com##.b2tooltipbox.poster-span
 vkandian.cn###_dsdsd
 vkandian.cn##.pic-list
 vkandian.cn##.show-line
+vps.yangmao.info##.bm22m12
 vpsche.com##.single-top-html
 vpsgo.com##.asb
 vpsgo.com##body > div.container
@@ -4686,6 +4700,7 @@ xiaoji.la##.fly-zanzhu
 xiaomiyoupin.com##.fixed-nav
 xiaomiyoupin.com##.h-icon-con.m-safe-anchor
 xiaozidian.com.cn##.fixedbox
+xidcn.com##.shares
 xiegw.cn##.fr.gb_resLay
 xiegw.cn##.icon-icon.iconfont
 xiexiebang.com##.marks
@@ -4931,6 +4946,8 @@ zuoyebang.com##.adCard_3H6n7
 zuoyebang.com##.download_kNXRu
 zuoyebang.com##.footer_1HFD5
 zzqzz.com##.site_abc_wrap
+zztongyun.com###bdshare
+zztongyun.com##.z
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 zzzyk.com##div.zykmore
