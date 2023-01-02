@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-01
+! TimeUpdated: 2023-01-02
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1089,6 +1089,7 @@ zztt37.com##*
 *##.advvvvv
 *##.adwidget
 *##.ajax_gg
+*##.alertAd
 *##.aliad2
 *##.alltypes-detail-advertisement
 *##.app-ad
@@ -1689,6 +1690,7 @@ amap.com##.usel.amap-app-download
 amma.artron.net##.tool-site
 amma.artron.net##div.tool-Article:nth-of-type(1) > .tool-Article-ul > li:nth-of-type(1)
 anfensi.com##strong
+anhukeji.com##.bdsharebuttonbox
 aofuo.com##.clearfix.myui-foot
 apkpure.com##.share-btn
 app.4399.cn##.description
@@ -2087,6 +2089,7 @@ cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
 consumer.huawei.com##.huawei-bootom-cookie
+context.reverso.net###home-mobile-badges-apps
 coolapk.com##.under
 coolinet.net##center:nth-of-type(4)
 coolinet.net##div > table > tbody > tr > td
@@ -2261,6 +2264,7 @@ download.csdn.net##.passport-login-container
 download.csdn.net##.passport-login-mark
 download.csdn.net##.top-bar
 download.csdn.net##li > [href^="//csdn.net/apps/download"]
+dramx.com##.newstitle-bottom-button
 dtime.com###divPrevious
 dtime.com##div.sjwu.fr.right:nth-of-type(2)
 duanmeiwen.com##.mySwiperBox
@@ -2369,6 +2373,7 @@ examw.com##.floatNavBox
 examw.com##.freeTable > table > tbody
 examw.com##.title > .title
 exmail.qq.com##[style="_overflow-y:hidden;"]
+exmetas.com##.post-share
 extfans.com##.share-content.d-lg-block.d-none
 eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##.g-clearfix.app-list
@@ -2688,6 +2693,7 @@ iask.sina.com.cn##.new-user-bar.cf.iask-user-bar > .detail-operation-con > .op-s
 iask.sina.com.cn##li.other_item > .cf.iask-user-bar > .detail-operation-con > .op-share-con
 ibaotu.com##.ibanner-tips-close
 ibox.art##.navs > li > [href="/zh-cn/download/"]
+ichacha.net###downloadAndroid
 icourse163.org###j-activityBanner
 icourse163.org##.e-hover-source.m-head-right-more.u-navLogin-kaoyan.j-kaoyan-link > [href] > .nav
 icswb.com##.div_share_agree
@@ -2907,8 +2913,10 @@ juejin.cn##.app-link
 juejin.cn##.app-open-button.open-button
 juejin.cn##.download-icon.link-item.nav-item
 juejin.cn##.extension
+juejin.cn##.extension-banner
 juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
+juejin.cn##.poster-resouce-wrap
 juejin.cn##[class="sidebar-block banner-block"]
 juming.com##.share_login
 jwview.com##.bshare
@@ -3152,9 +3160,11 @@ m.diaoyur.com##.app-download
 m.dict.cn###dbann
 m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
+m.douban.com##.card > div
 m.douban.com##.center
 m.douban.com##.green.btn
 m.douban.com##.splash-btn
+m.douban.com##section:nth-of-type(5)
 m.douguo.com###opentag
 m.douguo.com##.lottie
 m.douguo.com##.openApp
@@ -3199,6 +3209,7 @@ m.health.china.com##.header-banner
 m.hexun.com##.layer-top
 m.hexun.com##.modal-popup-openapp
 m.hupu.com##.open-hupu
+m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
 m.huya.com###template
 m.huya.com##.header-app-btn
@@ -3255,7 +3266,9 @@ m.jiemian.com##.download-app
 m.jiemian.com##.swiper-slide-active.swiper-slide > .open-app
 m.jinse.com##.bottom.js-linkApp.js-read-full__open
 m.jinse.com##.js-article-share
+m.jinse.com##.js-footer-extensive
 m.jinse.com##.js-footer__tools
+m.jinse.com##.js-head-extensive
 m.jinse.com##.js-linkApp.jinse_app
 m.jinse.com##.js-opration-box
 m.jinse.com##.js-read-full > .js-linkApp.js-read-full__open
@@ -3372,6 +3385,7 @@ m.sohu.com##.visible.promotion-box
 m.souid.com###div_dx_top
 m.souid.com##.overlay
 m.speedtest.cn##.download-wrap
+m.speedtest.cn##.share
 m.speedtest.cn##.tools-banner
 m.sylllc.com##.list
 m.tadu.com###awakenapp
@@ -3492,6 +3506,7 @@ mail.qq.com##body > .clr
 mail.sina.cn###callAndrBtn2
 mail.sina.cn###mailFnCoverAndroid
 maimai.cn##.p-y-10.downloadFixed
+maimai.cn##div.md\:hidden:nth-of-type(3)
 main.m.taobao.com###SLK_evokeUI_v2
 main.m.taobao.com##button
 maker.lceda.cn##.float-ul
@@ -3910,6 +3925,7 @@ qcc.com##.header-qrcode.dropdown.nav-item
 qcc.com##.open-app
 qcc.com##a.should-popover.item
 qfapi.ybvv.com##.down-top
+qian921.com##.comiis_share_key
 qianjia.com##.article-share
 qianjia.com##.f-mt30.app
 qianjia.com##.fixed-nav
@@ -4203,6 +4219,7 @@ taodocs.com###show_wx
 taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
 taodocs.com##.link > span:nth-of-type(2)
 taodocs.com##li.ewm.mv_lis:nth-of-type(5)
+taokeshow.com##.wpcom_myimg_wrap
 taose.tv###table1
 taptap.cn##.open-app
 taptap.com##.pull-right
@@ -4699,6 +4716,7 @@ xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
 xiaoji.la##.fly-zanzhu
 xiaomiyoupin.com##.fixed-nav
 xiaomiyoupin.com##.h-icon-con.m-safe-anchor
+xiaoyeyun6.com##.post_share
 xiaozidian.com.cn##.fixedbox
 xidcn.com##.shares
 xiegw.cn##.fr.gb_resLay
@@ -4881,6 +4899,7 @@ zhipin.com##li > [href="https://app.zhipin.com/"]
 zhitongshan.com##.topmenu
 zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
+zhongce.sina.com.cn###task_share
 zhongce.sina.com.cn##.side-btns-jfyb-resize
 zhongruitong.cn##.not-real-name-button
 zhongyaofangji.com##.bshare-custom
