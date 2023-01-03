@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-02
+! TimeUpdated: 2023-01-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -63,7 +63,6 @@
 53sb.com##*
 56maoee.com##*
 57maoee.com##*
-58.com##*
 591.se##*
 59867pq.com##*
 5you.com##*
@@ -260,6 +259,7 @@ gcfuck.vip##*
 gcjx3.xyz##*
 ggdyx.com##*
 gha678.com##*
+gmb456.com##*
 gokahoikuen.com##*
 greenxf.com##*
 greenxiazai.com##*
@@ -442,6 +442,7 @@ mex678.com##*
 mg86.net##*
 missav.com##*
 mitao888.com##*
+mnp345.com##*
 mnygk8.com##*
 mod.run##*
 modelmediaus.com##*
@@ -1025,6 +1026,7 @@ zztt37.com##*
 *##.ad_under_title
 *##.adbaidu1100
 *##.adBox
+*##.adbox_above
 *##.adcolumn
 *##.adgg
 *##.adimg
@@ -1802,6 +1804,9 @@ bbs.kafan.cn##.z > [href="https://bbs.kafan.cn/"]
 bbs.ludeqi.com##.swal2-content
 bbs.ludeqi.com##.swal2-shown.swal2-fade.swal2-center.swal2-container
 bbs.ludeqi.com##.theiaStickySidebar > .widget-area > .widget_custom_html.widget.widget_text
+bbs.oneplus.com##.share-components
+bbs.oneplus.com##div.menu-icon:nth-of-type(4)
+bbs.pcbeta.com##.pc_share
 bbs.tianya.cn###barcode_float > [href="http://tianya.cn/mobile/"]
 bbs.tianya.cn##.scroll-btn
 bbs.vpser.net##.wp > .z
@@ -3399,6 +3404,7 @@ m.tmtpost.com##body > .app_html_btn
 m.to8to.com##.share-wrapper
 m.toutiao.com###top-banner-container-1648038047365
 m.toutiao.com##.bottom-banner-btn
+m.toutiao.com##.commentbar-wrap-share
 m.toutiao.com##.download-bar__container
 m.toutiao.com##.open
 m.toutiao.com##.video-actions-item-share
@@ -3610,6 +3616,9 @@ movie.youku.com##.u-vip_3-BwE
 mp.cnfol.com###appPopupsConfirm
 mp.cnfol.com###as_100
 mp.v.qq.com##.container___3IFD3
+mparticle.uc.cn##.Footer
+mparticle.uc.cn##.OpenApp
+mparticle.uc.cn##.share-import-title
 msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
