@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-01-03
+! TimeUpdated: 2023-01-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -633,6 +633,7 @@
 *##.single-adv
 *##.single-bottom-ad
 *##.single-top-ad
+*##.single-up-ads-wrapper
 *##.singleb-ad
 *##.sit-ad
 *##.slide-advertisement
@@ -655,6 +656,8 @@
 *##.tm-adv-space
 *##.toolbar-advert
 *##.top_ad
+*##.top_app_ad
+*##.top_appAd_fixed
 *##.topad
 *##.topappad
 *##.videoSideAds
@@ -682,6 +685,31 @@
 *##div#__ad_247x30
 *##div#gg_link
 *##single-bottom-ads
+/-advertising$image
+/ad$image
+/ad/*$subdocument
+/ad01$image
+/ad02$image
+/ad03$image
+/ad1$image
+/ad2$image
+/ad3$image
+/ads$subdocument
+/Advert$image
+/AdvertImages/*$image
+/advPicture$image
+/cihui-right-ad$image
+/cihui-right-ad1$image
+/cihui-right-ad2$image
+/cihui-right-ad3$image
+/douyin_ad_img$image
+/gg$image
+/gg01$image
+/gg02$image
+/gg03$image
+/guanggao$image
+/tbgg$image
+/wjad.JPG$image
 007.tg##.apd
 007.tg##.apd-bg
 007.tg##.post-apd
@@ -935,6 +963,7 @@ a.xcar.com.cn##.open-app-entry
 a8q.cn##li.list-group-item:nth-of-type(3)
 a8q.cn##marquee
 a8wl.xyz##.widget
+abbreviationfinder.org##.single_bottom_shart
 abi.com.cn##.cl.cr_share
 ac.qq.com###sideComCodeWrap > [href="javascript:void(0)"]
 ac.qq.com##.mod-slider.bx-wrapper > .bx-viewport
@@ -1092,6 +1121,7 @@ bbs.elecfans.com###a_top_url
 bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
 bbs.elecfans.com##.bdshare-slide-button
 bbs.elecfans.com##.qrcode
+bbs.elecfans.com##.share
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
 bbs.hupu.com##.download-app
@@ -1120,6 +1150,7 @@ bddhw.cn##.j-share
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
+beta.dooland.com##.share
 betax.cn##.abc-site.abc-pc
 bg.qianzhan.com##.pb10.bb1e.mt30.lh24 > .r
 bg.qianzhan.com##.qqonline
@@ -1411,6 +1442,7 @@ coozhi.com##.rdzz
 coozhi.com##.right_ph
 coozhi.com##.zuozhe
 coozhi.com##li:nth-of-type(5)
+copcsc.org##.social-share
 cq.ganji.com##[href="//ganji.com/download"]
 cqcb.com###share2
 cqcb.com##.syshare
@@ -1456,6 +1488,7 @@ d0z.net##.sharedaddy
 d1ev.com##.action_share
 d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
+daily.zhihu.com##.Daily
 dandanzan.com##.lgyPl_v2_inner
 dandanzan.com##.lgyPl_v2_load_more_record
 dandanzan.com##.lgyPl_v2_record_item_saytext
@@ -1592,6 +1625,7 @@ dw.com###sharing-bar
 dyhzdl.cn##.clearfix.fr.arti-hi-phone
 dyhzdl.cn##.flr.casedetail-share
 e.huawei.com##.global-share
+eastit.cn##.post-share
 eastmoney.com###addfavlink
 eastmoney.com###guanzhu
 eastmoney.com###sharebottom > .emshare2020.pull-right.share > .emshare2020_buttonbox
@@ -3844,7 +3878,9 @@ wap.cnki.net##.Appopen
 wap.cnki.net##.cum-browser
 wap.cnki.net##.fix-bottom-content-inner
 wap.cnki.net##.fix-top
+wap.eastmoney.com###divShareButton
 wap.eastmoney.com###liShare
+wap.eastmoney.com##.share-wrap
 wap.faloo.com##.bl_ad
 wap.faloo.com##.clearfix.appLayout
 wap.faloo.com##.middleLayout
@@ -3854,6 +3890,7 @@ wap.faloo.com##.show.zheZhao2.zheZhao
 wap.faloo.com##.textHide.openApp2.display_flex_center.f_m_btn1.f_m_btn
 wap.fuling.com##.deepshare
 wap.fuling.com##.white.down-top
+wap.lookvin.com##.pl_fx
 wap.mail.qq.com##.btn
 wap.pai-hang-bang.com##.foot
 wap.peopleapp.com##.article-container > div > div > .top-header > .m-open-btn
@@ -3951,6 +3988,7 @@ wenmi.com##.footerr
 wenmi.com##.mask.copy_mask
 wenshubang.com##.conttop_code
 wenshubang.com##.mySwiperBox
+wenwen.sogou.com##.share_btn
 wenxm.cn##.af_xz.af_btn
 wenxm.cn##.gf_xiazai
 west.cn###J_webhostingBanner
@@ -4284,31 +4322,6 @@ zztongyun.com##.z
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 zzzyk.com##div.zykmore
-||*-advertising$image
-||*/ad$image
-||*/ad/*$subdocument
-||*/ad01$image
-||*/ad02$image
-||*/ad03$image
-||*/ad1$image
-||*/ad2$image
-||*/ad3$image
-||*/ads$subdocument
-||*/Advert/$image
-||*/AdvertImages/*$image
-||*/advPicture$image
-||*/cihui-right-ad$image
-||*/cihui-right-ad1$image
-||*/cihui-right-ad2$image
-||*/cihui-right-ad3$image
-||*/gg$image
-||*/gg01$image
-||*/gg02$image
-||*/gg03$image
-||*/static/cpt/img/jianli_banner$image
-||*/tbgg$image
-||*douyin_ad_img$image
-||*guanggao$image
 ||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
