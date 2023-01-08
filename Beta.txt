@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-07
+! TimeUpdated: 2023-01-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -597,6 +597,7 @@ tongying.info##*
 tonywardcouture.com##*
 tto345.com##*
 tuaox.cc##*
+tuv123.com##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
@@ -1071,6 +1072,7 @@ zztt37.com##*
 *##.advert
 *##.advertisement
 *##.advertisement-part
+*##.advertisement01
 *##.advertisement_link
 *##.advertisement_Popup
 *##.advertisements
@@ -1335,6 +1337,7 @@ zztt37.com##*
 *##.section-adbox
 *##.section-ads
 *##.seo-ad
+*##.seogg_img
 *##.shangbiao-top-ads
 *##.showAdRight
 *##.showAdThree
@@ -1611,6 +1614,7 @@ zztt37.com##*
 52av.one##div.cl.plc > div > center
 52hrtt.com##.detail_left
 52pojie.cn##.followp
+55.taopindi.com##div.wppc
 57qs.cn###showcd
 588ku.com##.close-btn
 588ku.com##.editIndexEntry.editIndex-entry > .editIndexClick
@@ -1987,6 +1991,8 @@ caibian.net##.j-share.action-item
 cangchou.com##.j-share.action-item
 canva.cn##.jv5LaQ
 caotama.com###block-4
+capwhale.com##.icon-share.icon
+capwhale.com##.rightBtn
 car.yiche.com##[href="//app.yiche.com/yiche/"]
 cas.cn##[src="//cas.cn/images/z19_scroll_wb.png"]
 cas.cn##[src="//cas.cn/images/z19_scroll_wx.png"]
@@ -3231,6 +3237,7 @@ m.china.com.cn##.fx
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
 m.cnhubei.com##.bg
+m.creprice.cn##.app_download
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
 m.dgjs123.com##.xglist
@@ -3276,6 +3283,8 @@ m.facebook.com##.accelerate._1s0f._3jcw._5bob._7a_1._544l
 m.fakutownee.cn##.go-share
 m.fang.com##.app-down-list.app-down.topDownload-n
 m.fang.com##.app-down-list.downfloat.app-open
+m.fang.com##.share.icon-share
+m.fang.com##[href="javascript:void(0);"] > dl
 m.fang.com##li.app-down3
 m.feijisu06.com##.footer
 m.feijisu06.com##.wrapper > .footer
@@ -4446,6 +4455,7 @@ to8to.com##.bottom_slide_wh_img
 to8to.com##.open-wx-plugin
 to8to.com##.slide_box_shade
 today.line.me##.interactiveShare
+tool.520101.com##.bdshare-slide-button
 tool.chinaz.com##.toolvip
 tool.chinaz.com##div.toItem:nth-of-type(1)
 tool.cncn.com##.ewm
@@ -5101,6 +5111,7 @@ zzzyk.com##div.zykmore
 ||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
+||186.0941.org$subdocument
 ||1ymeng.hk$image
 ||2.51sole.cn$subdocument
 ||2.citywy.com$subdocument
@@ -5173,6 +5184,7 @@ zzzyk.com##div.zykmore
 ||cooboys.com^$script
 ||cpro.baidu.com$image
 ||d.shouying.tv$subdocument
+||d2.92831.net$subdocument
 ||data.shuomingshu.cn$subdocument
 ||def.sibuzyn.com$subdocument
 ||desk.sstar.xyz$image
