@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-08
+! TimeUpdated: 2023-01-09
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -598,6 +598,7 @@ tonywardcouture.com##*
 tto345.com##*
 tuaox.cc##*
 tuv123.com##*
+tuv345.com##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
@@ -745,6 +746,7 @@ zztt37.com##*
 *###Ad-list
 *###ad-right
 *###ad0
+*###ad01
 *###ad1
 *###AD15
 *###ad2
@@ -1067,12 +1069,15 @@ zztt37.com##*
 *##.AdvBanner
 *##.advbanner
 *##.advbox
+*##.advclick
 *##.adver-pic
 *##.adversiment
 *##.advert
 *##.advertisement
 *##.advertisement-part
 *##.advertisement01
+*##.advertisement02
+*##.advertisement03
 *##.advertisement_link
 *##.advertisement_Popup
 *##.advertisements
@@ -1085,6 +1090,7 @@ zztt37.com##*
 *##.advertising_container
 *##.advertList
 *##.advh5
+*##.advimg
 *##.advPop
 *##.advsmall
 *##.advTopsImg
@@ -1293,6 +1299,7 @@ zztt37.com##*
 *##.news_ad2
 *##.news_ad3
 *##.news_gg_fram
+*##.oneimg_adv
 *##.openx_ad_zone
 *##.page_ad
 *##.page_bottom_ad_item
@@ -1731,6 +1738,7 @@ aizhan.com##.azone
 aizhan.com##.ico-nav-mobile
 aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
 aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
+aizhanghao.com##.fenBtn.icon-button
 ala.baidu.com##.more-btn-desc
 ala.baidu.com##.nav-bar-bottom
 aliyun.com##.app-btn
@@ -1826,6 +1834,7 @@ baikecun.com##.icon-weixin
 baipiao2.com##.post-apd
 baiyintd.cn##.share
 baiyunju.cc##.widget_ssr_inner
+bangongniu.com##.share-widget
 bangxuetang.com##.admod
 baobao.baidu.com##.ecomad-container
 bar.cnki.net##.qrcode
@@ -2485,6 +2494,8 @@ feelcn.com##.bdsharebuttonbox
 feimiao.cn##.float
 feimiao.cn##.fr
 feimiao.cn##.user_box
+fenxiangzhan.com###zanad
+fenxiangzhan.com##.share.btn
 fibaro.com###cookie-info
 filfox.info##.app-download-button
 film.qq.com###pc_client > .quick_link
@@ -4076,6 +4087,7 @@ qklw.com##.pull-right
 qklw.com##.qklw-content.article-content ul
 qklw.com##.text-right.col-sm-4
 qklw.com##div[class="pull-right"]
+qnzs.youth.cn##.bdsharebuttonbox
 qq.com##.l-qmail.q-icons
 qq.com##.l-qzone.q-icons
 qq.com##.qq-footer.layout
@@ -4118,6 +4130,7 @@ scez.cn##video
 science.caixin.com##.fenghui_code
 science.caixin.com##.rssBox
 science.caixin.com##.share_tool
+sdshangli.com##.br.mb.sb.airgg
 search.bilibili.com##.download-client-trigger.download-entry
 search.bilibili.com##.footer_right
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -4148,6 +4161,8 @@ shangxueba.com##.sus_app.sus_btn
 shangxueba.com##[href="//shangxueba.com/app/converge.html"]
 shangyexinzhi.com##.h5shareimg
 shangyouw.cn##.mip-share-container
+share.laiwu.net##.download_area
+share.laiwu.net##.white.down-top
 share.mala.cn##.white.down-top
 shenmegeng.cn##.floatbtn-share.floatbtn-item
 shenmegeng.cn##.share-component
@@ -4283,6 +4298,7 @@ speedtest.cn##.swiper-container-horizontal.swiper-container-initialized.video-5g
 speedtest.cn##.swiper-view
 speedtest.cn##.tips
 speedtest.cn##.tisubtn
+speedtest.cn##.top-download
 speedtest.cn##.topDownload
 speedtest.cn##.wrap > .title
 speedtest.cn##li.nav-enterprise-service.nav-item:nth-of-type(3) > .nav-item-link
@@ -4313,6 +4329,9 @@ srxzz.com##header
 ssoouu.com###article_code
 sspai.com###btn-call-app
 sspai.com##.iconfont-share
+static.nfapp.southcn.com###nativeShare
+static.nfapp.southcn.com###z_box
+static.nfapp.southcn.com##.swiper-container-android
 stcn.com##.add
 stcn.com##.top_r
 stcn.com##.yw_ewm
@@ -4872,6 +4891,7 @@ xinhuanet.com##.left.p-left
 xinhuanet.com##.no-ad.fixed.part-right
 xinhuanet.com##.part-right
 xinhuanet.com##.roedeer-container.nav-op > .nav-khd
+xinqtech.com##.bdsharebuttonbox
 xinqtech.com##.downbtn
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
