@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-09
+! TimeUpdated: 2023-01-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -68,6 +68,7 @@
 5you.com##*
 6188.net##*
 61maoak.com##*
+634.tv##*
 65maott.com##*
 668.su##*
 66891.cc##*
@@ -747,6 +748,8 @@ zztt37.com##*
 *###ad-right
 *###ad0
 *###ad01
+*###ad02
+*###ad03
 *###ad1
 *###AD15
 *###ad2
@@ -1402,6 +1405,7 @@ zztt37.com##*
 *##.yjads2
 *##.yjads3
 *##.z-ad-l
+*##.zzs_ad
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
 *##div#__ad_247x30
@@ -1619,6 +1623,7 @@ zztt37.com##*
 51test.net##a[href="javascript:void(0);"]:nth-of-type(5)
 528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
 52av.one##div.cl.plc > div > center
+52by.com##.share-list
 52hrtt.com##.detail_left
 52pojie.cn##.followp
 55.taopindi.com##div.wppc
@@ -1785,6 +1790,7 @@ b2b.baidu.com##.footer-right-item
 b2b.baidu.com##div.item > .wrap
 b4x99.com##.col4.row
 b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
+bacaoo.com##.app-load
 baidu.com###hotsearch-content-wrapper
 baidu.com###wenda_inquiry
 baidu.com##._1_KgV.card._8naka.c-container
@@ -1837,6 +1843,8 @@ baiyunju.cc##.widget_ssr_inner
 bangongniu.com##.share-widget
 bangxuetang.com##.admod
 baobao.baidu.com##.ecomad-container
+baoguzi.com##.sharebox
+baoguzi.com##.zeroad
 bar.cnki.net##.qrcode
 bbmmx.com##.xshare
 bbs.16rd.com###com-appcode-float-block-box
@@ -1918,6 +1926,7 @@ bilibili.com##section.bili-grid:nth-of-type(13)
 binance.com##.css-1ql2hru > .css-c510oc
 binance.com##.css-8non6d > .css-1n2fhb3
 biqwo.com##.ywtop_sethome
+bitalk.com##.share-component.social-share
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 biyungu.com##.wpcom_myimg_wrap
 bk.autotimes.com.cn##.wpcom_myimg_wrap
@@ -1982,6 +1991,8 @@ browser.360.cn##.qrCodeWx
 browser.qq.com###p0_btn_pc_sub
 bscscan.com##.col-lg-5.col-12
 btcha.com###bdshare
+btchangqing.cn##.post-note
+btchangqing.cn##.single-top-html
 btt400.com##.bottom_banner
 btt400.com##.psd
 btt400.com##.top_gz
@@ -2093,6 +2104,7 @@ chromeliulanqi.com##.g-split.g-tpl-160.g-section
 chuangshi.qq.com##.favorite
 chuangshi.qq.com##.fixedRight.codeWrap
 chuangshi.qq.com##.quickLink
+cifnews.com##.bdsharebuttonbox
 cihai123.com##.det_share
 cj.sina.cn###m-sentiment3
 cj.sina.cn###norm_qrcode_link_auto
@@ -2502,6 +2514,7 @@ film.qq.com###pc_client > .quick_link
 film.qq.com##.__lite_hide__._download.ft_cell_download.ft_cell
 film.qq.com##.icon_client.icon
 film.qq.com##.site_footer
+finacerun.com##.article-tool > .right
 finance.caixin.com##.appLink
 finance.caixin.com##.openInApp
 finance.caixin.com##.tb-bar-r
@@ -2825,6 +2838,8 @@ infzm.com##.color-weibo.icon-item
 infzm.com##.nfzm-left-bar > span
 infzm.com##[href="/download"]
 ini5.com##.img_div_1 > p
+internet.cnmo.com##.fl.cshare
+internet.cnmo.com##.gmine_ad
 ip.yqie.com###navigationtopleft > .navigationlink
 ip138.com##.mod-banner
 ip138.com##.mod-friendlink.module
@@ -3124,6 +3139,7 @@ lceda.cn##.header-title
 lckdj.com##.online_wechat.online_item
 lcread.com###huodong
 le.com##.top_share
+lianbaike.net##.j-share
 libattery.ofweek.com###gongzhonghao
 libattery.ofweek.com###goto_phone
 libattery.ofweek.com###two-bar-codes
@@ -3324,6 +3340,7 @@ m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
 m.huxiu.com##.guide-page-wrap
 m.huxiu.com##.js-top-fixed
+m.huxiu.com##.video-to-app
 m.huya.com###template
 m.huya.com##.header-app-btn
 m.huya.com##.pop-download
@@ -3332,6 +3349,7 @@ m.huya.com##.pop-wrap
 m.huya.com##.start-btn
 m.iask.sina.com.cn###share-button
 m.iask.sina.com.cn##.baidu_iask
+m.ibiquxs.com###strl
 m.icauto.com.cn##.ssi_2_guessulike
 m.icauto.com.cn##.ssi_2_lastad
 m.icauto.com.cn##.ssi_2_yindao
@@ -3423,6 +3441,11 @@ m.kuwo.cn##.right
 m.le.com##.c1648282229522.leapp_btn
 m.le.com##.c1648282311199.erji_leapp_btn.leapp_btn
 m.le.com##.daoliu
+m.le.com##.daoliu1
+m.le.com##.daoliuBot
+m.le.com##.demo-list.contentDaoliu
+m.le.com##.j-Banner
+m.le.com##.j-share
 m.le.com##.j-share.ico_share
 m.leisu.com##.ulinkBut
 m.lelewen.cn##.lmgg-block
@@ -3723,6 +3746,7 @@ mop.com##.goto-3g
 mop.com##div.dzh-heat:nth-of-type(2)
 mop.com##div.dzh-heat:nth-of-type(5)
 mop.com##div.mop-sport:nth-of-type(2)
+moto.xdter.com##.bdsharebuttonbox
 motorolasolutions.com##.social-widget
 movie.mtime.com##.fix.footinner
 movie.mtime.com##.fothr > dl > dd > [href="http://general.mtime.com/mobile/"]
@@ -3768,7 +3792,9 @@ mydigit.cn##[href="https://mydigit.cn/thread-119068-1-1.html"]
 mydigit.cn##a[href^="plugin.php"]:nth-of-type(7)
 myqqjd.com##.entry-content > .sharing-box
 myqqjd.com##.fds.like-left-box
+mzh.moegirl.org.cn###moe-open-in-app
 mzh.moegirl.org.cn##.download-app
+mzh.moegirl.org.cn##.flex-center.flex.user-area > .mobile-only
 mzh.moegirl.org.cn##.open-in-app-button
 n.miaopai.com##.footer
 nap6.com###asswecan
@@ -4370,6 +4396,7 @@ tasexy.com###sexy_a1
 tasexy.com###sexy_a2
 tasexy.com##.left > .b300
 tbs.co.jp##.tbs-gfooter-share
+tclxh.com###bdshare
 te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
 te.com.cn##.we-chat-wrapper
 tech-ex.com##.share-title
@@ -5324,6 +5351,7 @@ zzzyk.com##div.zykmore
 ||thinkmore.top$image
 ||timi21.com^$script
 ||tls2.duanbian.com$subdocument
+||tn.uvrifrd.cn/$image
 ||tt.027dir.com$image
 ||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
@@ -5352,6 +5380,7 @@ zzzyk.com##div.zykmore
 ||www.tuaox.cc/A1*.gif$image
 ||www.wgdacc.com$image
 ||www.wgdacc.com/*.php$image
+||www.wwsww.cn/images/okxzc.jpg$image
 ||xiao89.com$subdocument
 ||xingfupa.com$image
 ||xyt.lesson99.com$image
