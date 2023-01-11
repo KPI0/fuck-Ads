@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-10
+! TimeUpdated: 2023-01-11
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -906,6 +906,7 @@ zztt37.com##*
 *###setupad_anchor_970_90
 *###setupads
 *###slideBoxAdvert
+*###SmartAD6_Record_Div_ADPID_19
 *###soft-content-adsy
 *###softad
 *###softAd
@@ -994,6 +995,7 @@ zztt37.com##*
 *##.ad_1200_108
 *##.AD_1220x90
 *##.ad_1220x90
+*##.ad_199_72
 *##.ad_2
 *##.ad_3
 *##.AD_350x150
@@ -2764,6 +2766,7 @@ huobi.com###client_list
 huobi.com##.fedui-header-download
 hupu.com##.footer-floor
 hupu.com##[href^="https://mobile.hupu.com/"]
+huxiu.com##.share-wrap
 huya.com###download-pc-btn
 huya.com###UDBSdkLgn
 huya.com###UDBSdkLgn-box
@@ -2792,9 +2795,12 @@ iask.sina.com.cn##.new-user-bar.cf.iask-user-bar > .detail-operation-con > .op-s
 iask.sina.com.cn##li.other_item > .cf.iask-user-bar > .detail-operation-con > .op-share-con
 ibaotu.com##.ibanner-tips-close
 ibox.art##.navs > li > [href="/zh-cn/download/"]
+iccsz.com##.bdsharebuttonbox
+iccsz.com##.right_box
 ichacha.net###downloadAndroid
 icourse163.org###j-activityBanner
 icourse163.org##.e-hover-source.m-head-right-more.u-navLogin-kaoyan.j-kaoyan-link > [href] > .nav
+icsmart.cn##.J_showAllShareBtn.sharebtn
 icswb.com##.div_share_agree
 icxbk.com##.banner-sys
 idongde.com##.vip_c_bt
@@ -2831,6 +2837,7 @@ image.baidu.com##.boxBanner
 imdb.com##.ipc-icon--share
 infineon.com##.social-media-wrapper.text-right.col-md-3
 info110.com##.action-share
+infoobs.com##.share-card
 infoq.cn##.com-app-download
 infoq.cn##.header-notice
 infoq.cn##.share
@@ -3084,6 +3091,7 @@ kejiwanjia.com##.show.fade.alert-dismissible.alert-light.\;.alert
 kejiwanjia.com##.site-footer-nav
 kejiwanjia.com##code:nth-of-type(3)
 kejiwanjia.com##div.bar-item:nth-of-type(3)
+kg.qq.com##.mod_go
 kkgcn.com###main > div > span
 kkgcn.com##.abc-site
 kkgcn.com##.nbs-flexisel-container
@@ -3126,6 +3134,7 @@ lanzouo.com##body > div:nth-of-type(4)
 lanzouo.com##div:nth-of-type(8)
 laohu8.com##.share-menu-root
 laoyaoba.com##.content-left-bottomlist
+laoyaoba.com##.foot
 lapeople.com##.index-channel-fixed.index-channel.pull-left
 lapeople.com##.pane-box
 lapeople.com##a.tb-link.register-mp:nth-of-type(2)
@@ -3260,6 +3269,8 @@ m.caixin.com##.openInApp
 m.caixin.com##.tb-bar-r
 m.ccutu.com##.d
 m.ccv168.com##div.xiaohuzi
+m.ce.cn##.sharebut
+m.chainnode.com##.app
 m.china.com.cn##.fx
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
@@ -3534,7 +3545,9 @@ m.tangdou.com##.btn
 m.thepaper.cn###moblink_top_detail
 m.thepaper.cn##.fx
 m.tmtpost.com##.get_apps_btn
+m.tmtpost.com##.get_share
 m.tmtpost.com##.open_app
+m.tmtpost.com##.video_apps.apps
 m.tmtpost.com##body > .app_html_btn
 m.to8to.com##.share-wrapper
 m.toutiao.com###top-banner-container-1648038047365
@@ -3610,6 +3623,7 @@ m.youku.com##.h5-detail-guide.clipboard
 m.youku.com##.h5-detail-vip-guide.clipboard
 m.youku.com##.x-top-control
 m.youku.com##div.item
+m.yuzizi.com##.mobile_click
 m.zhaokaoti.com##.promotion
 m.zhibo8.cc##.top-header
 m.ziyuanm.com###gethongbao
@@ -3843,6 +3857,7 @@ news.eda365.com##.shareType
 news.eeworld.com.cn##.fengxiang
 news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
 news.hexun.com##.shareqq
+news.iresearch.cn##.m-share
 news.ittime.com.cn##.login
 news.ittime.com.cn##.share_box
 news.jstv.com##.appDownload
@@ -4125,6 +4140,7 @@ quanmin.baidu.com##.sharer-download
 qudonghao.cn##.fx_bot
 qunzou.com##.mask.copy_mask
 quotes.sina.cn###__callup_bottom
+quwanw.cn##.fr.share-widget
 rakuten.com.tw##.radtop-pop-box
 rakuten.com.tw##.superbanner
 re.1688.com##.leadLoginModal
@@ -4202,6 +4218,7 @@ shijiezz.com###viewfirst
 shilian.com##.kx_shares
 shop.dixintong.com##.fixed-chou
 shoudian.org##.attach_tips
+shoumaquan.com##.box
 show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
 shuaji.net##.footer-box-left
@@ -5326,6 +5343,7 @@ zzzyk.com##div.zykmore
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
 ||pxw.chinapp.com$subdocument
+||q2.heidaren.com$subdocument
 ||q2.nitupic.com$subdocument
 ||q8t6k.icu^$script
 ||qlogo.cn$image
