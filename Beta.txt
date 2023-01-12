@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-11
+! TimeUpdated: 2023-01-12
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1818,6 +1818,7 @@ baidu.com##[class="topImg"]
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(1)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(2)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(5)
+baidu.com##div.c-font-normal
 baijiahao.baidu.com##._16ea1zqC310VrXHS_t0WKV > ._2pAQdW0IKWK9Gls6a_Vbh > .I93A3I9G2BRddV73LoQ37
 baijiahao.baidu.com##.contentPadding.bottomTTSStruct
 baijiahao.baidu.com##.headDeflectorContainer
@@ -3397,6 +3398,8 @@ m.ithome.com##.open-app
 m.ithome.com##.open-app-banner
 m.ixigua.com##.banner_content
 m.ixigua.com##.page-detail__open-xigua
+m.ixigua.com##.player__guide__text
+m.ixigua.com##.xigua-bar-publish-container
 m.ixigua.com##.xigua-download
 m.ixigua.com##.xigua-guide-button
 m.jb51.net##.asd
@@ -4901,9 +4904,12 @@ xiaodutv.com###openAppSure
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
+xiaohongshu.com##.bottom-button-box
 xiaohongshu.com##.bottom-fixed.bottom-info
+xiaohongshu.com##.launch-btn.color.filled.m.br1000.fw500.reds-button
 xiaohongshu.com##.middle-wrapper
 xiaohongshu.com##.open-app-btn
+xiaohongshu.com##.share-btn
 xiaohongshu.com##.share-item
 xiaohongshu.com##.sub-total-link
 xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
@@ -5105,6 +5111,7 @@ zhongce.sina.com.cn##.side-btns-jfyb-resize
 zhongruitong.cn##.not-real-name-button
 zhongyaofangji.com##.bshare-custom
 zhuangku.com##.service-fixed
+zhuanlan.zhihu.com##.Button--blue
 zhuanlan.zhihu.com##.Button--blue.MobileAppHeader-downloadLink.Button
 zhuanlan.zhihu.com##.css-v91ii.OpenInAppButton
 zhuji123.com##div.picture
