@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-12
+! TimeUpdated: 2023-01-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -3463,6 +3463,7 @@ m.le.com##.j-share
 m.le.com##.j-share.ico_share
 m.leisu.com##.ulinkBut
 m.lelewen.cn##.lmgg-block
+m.life.httpcn.com##.icon-fenxiang
 m.linuxidc.com##.download-btn-996chuanqi-desc
 m.loupan.com##.lb
 m.med66.com##.courseBox
@@ -3482,6 +3483,7 @@ m.mudvod.tv##.android_banner.m-box
 m.mudvod.tv##.banner_android.m-box-items-full.m-box-items
 m.mudvod.tv##.header_app.iqiyi-h5-empty
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
+m.nichaw.cn##.g-b-r10.g-b-f.g-p15-lr
 m.nivod.tv###bottom_btn
 m.nivod.tv##.android_banner.m-box
 m.nowcoder.com##.mb-5.flex-row-start
@@ -5334,6 +5336,7 @@ zzzyk.com##div.zykmore
 ||mw.dachuyi.com$subdocument
 ||n3597.com$image
 ||nbitopmkt.oss-accelerate.aliyuncs.com/bitopmkt$image
+||ncbf2.nichaw.cn$subdocument
 ||omtend.com^$script,domain=jswvip.net
 ||p.abcache.com$image
 ||p.syhh890.com/pic1/ppp$image
