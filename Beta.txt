@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-13
+! TimeUpdated: 2023-01-14
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -131,6 +131,7 @@ aisejushi6.com##*
 antivirus.rising.com.cn##*
 anxz.com##*
 anyxz.com##*
+apkevery.com##*
 app378.com##*
 appav.live##*
 appchina.com##*
@@ -197,6 +198,7 @@ cm1357.com##*
 cmdh.me##*
 cmm.lol##*
 cncrk.com##*
+conchdesktop.com##*
 cr173.com##*
 crsky.com##*
 cs900a21.com##*
@@ -488,6 +490,7 @@ pc.rising.com.cn##*
 pc6.com##*
 pcn234.com##*
 pcsoft.com.cn##*
+pdfxd.com##*
 peach-av.com##*
 peise.net##*
 phimsexhay669.com##*
@@ -673,6 +676,7 @@ yashenggd.com##*
 ydan.cc##*
 yegonghaose555.com##*
 yg10.app##*
+yijirecovery.com##*
 youiv.tv##*
 youjizz.com##*
 youqian.360.cn##*
@@ -808,6 +812,7 @@ zztt37.com##*
 *###appad
 *###appAdv
 *###appadv
+*###aside-ad
 *###Baidu-bottomAd
 *###Baidu-bottomad
 *###Baidu-topAd
@@ -1124,6 +1129,7 @@ zztt37.com##*
 *##.article_ad
 *##.articleDetail-ad-list
 *##.articles-ad
+*##.aside-ad
 *##.aside-ad-box
 *##.aside_adv
 *##.askCenterAd
@@ -1613,6 +1619,7 @@ zztt37.com##*
 51kanong.com##.xigua_a
 51kanong.com##.xigua_a_img
 51ldb.com##.xiazai-bottom
+51ldb.com##.xiazai-top > div > .open-app
 51miz.com##.new-fixed-button
 51pptmoban.com##.dlink
 51pptmoban.com##.mad
@@ -3402,6 +3409,7 @@ m.ixigua.com##.player__guide__text
 m.ixigua.com##.xigua-bar-publish-container
 m.ixigua.com##.xigua-download
 m.ixigua.com##.xigua-guide-button
+m.ixigua.com##div.button:nth-of-type(2)
 m.jb51.net##.asd
 m.jd.com###imk2FixedBottom
 m.jd.com##.carousel-wrapper
@@ -3641,6 +3649,7 @@ m.zongheng.com##.download_app
 m.zongheng.com##[href^="/h5/getDiversionBook"]
 m.zongheng.com##div[id]
 m.zw.offcn.com##.new_aadgk
+m.zxxk.com##.open-app
 madisonboom.com##.cf.fxBox
 madisonboom.com##[class="fx"]
 madou.sbs##.logo-banner
@@ -4150,6 +4159,7 @@ rakuten.com.tw##.radtop-pop-box
 rakuten.com.tw##.superbanner
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
+read01.com##.share_btn
 remark.sohu.com##span.item:nth-of-type(1)
 remove.bg##.sharing-buttons
 renminshangjin.com###bay
@@ -4505,6 +4515,7 @@ tieba.baidu.com##.ufw-gap.u-f-t
 tieba.baidu.com##.wake
 tieba.baidu.com##div.f-d-item
 tieba.baidu.com##li.tbui_slideshow_slide.img_list_3pic:nth-of-type(1)
+tieba.com##div.thread_item_box.clearfix
 tiehuatu.com##.dk_item
 tiehuatu.com##.zujian
 tiktok.com##.ejkrawn0.tiktok-1vrbodl-DivPromotionContainer
@@ -5022,6 +5033,7 @@ yjbys.com##.banner
 yjbys.com##.conttop_code
 yjcf360.com##.share_xiaomi
 yl1001.com##.share-area-name
+ylmfu.com##.share
 yoojia.com##.page-root > div
 yoqu.win##.Share
 you85.net###toptb > .cl.wp > .z [href="https://www.you85.net/"]
@@ -5319,6 +5331,7 @@ zzzyk.com##div.zykmore
 ||js2.mgjianshe.com$subdocument
 ||js2.whsp.cn$subdocument
 ||jz.down10s.com$subdocument
+||k.51feibao.com$subdocument
 ||kb69.top$image
 ||kdewa222.familydoctor.com.cn$subdocument
 ||kjhxw.xyz^
