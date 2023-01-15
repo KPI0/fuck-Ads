@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-14
+! TimeUpdated: 2023-01-15
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1903,6 +1903,7 @@ bg.qianzhan.com##.rpt-des-new.rpt-des-r > p:nth-of-type(3)
 bianews.com##.fr.we_img_box
 bianews.com##.nav-tr-lang
 bianji.wwei.cn##.sidebar-client-box.sidebar-block
+biaoqingba.cn##.shares
 biketo.com##.sidebar-QRcode
 bilibili.com##.adblock-tips
 bilibili.com##.app-download-link
@@ -2077,6 +2078,7 @@ chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-s
 chinanews.com.cn##li.division:nth-of-type(1)
 chinatimes.com##.col-md-auto > .social-share
 chinatimes.com##.social-share-wrapper
+chinawriter.com.cn##.end_shared
 chinaz.com###RYBCWjTZaX
 chinaz.com##.article-right-sidebar > .cloumn-bd__minp.media-banner_auto.cloumn-bd
 chinaz.com##.cloumn-bd__minp
@@ -3277,8 +3279,10 @@ m.caixin.com##.openInApp
 m.caixin.com##.tb-bar-r
 m.ccutu.com##.d
 m.ccv168.com##div.xiaohuzi
+m.cdgtw.net##.share
 m.ce.cn##.sharebut
 m.chainnode.com##.app
+m.china-xian.com##.share-new-icon.pr.share-icon
 m.china.com.cn##.fx
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
@@ -3557,6 +3561,7 @@ m.tadu.com##.inset_login_box
 m.tangdou.com##.btn
 m.thepaper.cn###moblink_top_detail
 m.thepaper.cn##.fx
+m.tianqi.com##.yinliu_app
 m.tmtpost.com##.get_apps_btn
 m.tmtpost.com##.get_share
 m.tmtpost.com##.open_app
@@ -3567,9 +3572,11 @@ m.toutiao.com###top-banner-container-1648038047365
 m.toutiao.com##.bottom-banner-btn
 m.toutiao.com##.commentbar-wrap-share
 m.toutiao.com##.download-bar__container
+m.toutiao.com##.float-activate-button-container
 m.toutiao.com##.open
 m.toutiao.com##.video-actions-item-share
 m.toutiao.com##.video-banner
+m.toutiao.com##.welcome-download
 m.ttpai.cn##.hide-in-app
 m.tuniu.com###J_appDownloadRenderBox
 m.tuniu.com##.mini-voucher
@@ -3609,6 +3616,7 @@ m.xbbshuwu.com##div[style*="top: 0px"]
 m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
 m.xbbshuwu.com##p:nth-of-type(4)
 m.xbbshuwu.com##p:nth-of-type(5)
+m.xdxfdb.com##.Share-Model.share
 m.xiangha.com##.author
 m.xiangha.com##.diversion
 m.xiangha.com##.js-own-aodo-box
@@ -3784,6 +3792,7 @@ movie.youku.com##.u-phone_2eD26
 movie.youku.com##.u-vip_3-BwE
 mp.cnfol.com###appPopupsConfirm
 mp.cnfol.com###as_100
+mp.pdnews.cn##.share.social-share
 mp.v.qq.com##.container___3IFD3
 mparticle.uc.cn##.Footer
 mparticle.uc.cn##.OpenApp
@@ -3810,6 +3819,7 @@ music.taihe.com##div.fl.item:nth-of-type(1)
 musichive.com.cn##.qrcode___1ze6R
 my.oschina.net##.article-box__content > .action-box > div.action-item:nth-of-type(4)
 my.oschina.net##div.action-item:nth-of-type(5)
+my140.com##div.only_mobile
 my607.com##.one
 my607.com##.two
 my607.com##td
@@ -4249,6 +4259,7 @@ sina.cn##.fl_suspension_box
 sina.cn##.j_shareBtn.fl_words_ic
 sina.cn##.ldy_art_bottom_button
 sina.cn##.sina_sliders_pos
+sina.cn##.sina_tj_banner.j_sax
 sina.cn##a.ft_down_a:nth-of-type(2)
 sina.com.cn##.mod02-cont
 sina.com.cn##.part-a-l > .mod-02
@@ -4759,6 +4770,7 @@ wap.yc.ifeng.com##.toper > .openapp
 wap.zol.com.cn###top-app-bar_8s27ibaduxa
 wap.zol.com.cn##[src="https://icon.zol-img.com.cn/m/pages/assets/pages/wap-detail/components/top-app-bar/images/ask-3.png"]
 wapjs.189.cn##.p3.p2.k20.o3
+weather1.sina.cn###j_downapp
 web.4399.com###wall_box > a.link
 web.4399.com##.add_favior_btn.menu
 web.4399.com##.bj_l
@@ -5203,7 +5215,9 @@ zzzyk.com##div.zykmore
 ||2.jishirili.com$subdocument
 ||2.k1u.com$subdocument
 ||2.luerong.com$subdocument
+||2.wubizhijia.com$subdocument
 ||2.zhifujing.org$subdocument
+||222.zxwkw.net$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
 ||51xl.xyz$image
@@ -5383,6 +5397,7 @@ zzzyk.com##div.zykmore
 ||scez.cn$media
 ||sdk.51.la^$script
 ||shiold2.zhaosw.com$subdocument
+||sina.cn/check$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
