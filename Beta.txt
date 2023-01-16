@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-15
+! TimeUpdated: 2023-01-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1036,6 +1036,7 @@ zztt37.com##*
 *##.ad_like
 *##.ad_list
 *##.Ad_list
+*##.ad_lunbo
 *##.ad_pic
 *##.ad_right
 *##.ad_single
@@ -1526,6 +1527,7 @@ zztt37.com##*
 20095c5e34.xttop.cc##.bg-white.fixed-bottom.container
 2018zhuan.com##.action-share
 21jingji.com##[href="https://app.21jingji.com/"]
+22ee.cn##li.social-item:nth-of-type(2)
 230890.com##.clear.entry-footer
 230890.com##.entry-meta-right
 23bei.com###layui-layer-shade1
@@ -1659,6 +1661,8 @@ zztt37.com##*
 69tang.org###item11
 73508.com###xh_index_footzc
 73508.com##.fl.user_error_share
+771633.com###g-nav
+771633.com##.share-s
 81.cn##canvas
 88888888av.com##[style="width:100%;height:100px;margin-bottom:2px;"]
 8899lt.com##body > div > table > tbody > tr > td
@@ -1680,6 +1684,7 @@ zztt37.com##*
 99b74.com##.block
 99b74.com##.dmcenter
 99b74.com##.spot
+99hufu.com###toolbar
 99hufu.com##.j-share
 99hufu.com##[class="share-icon qq"]
 99hufu.com##[class="share-icon qzone"]
@@ -2244,6 +2249,7 @@ d0z.net##.sharedaddy
 d1ev.com##.action_share
 d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
+dadaqq.com##.hzt-footer-tool
 daily.zhihu.com##.Daily
 dandanzan.com##.lgyPl_v2_inner
 dandanzan.com##.lgyPl_v2_load_more_record
@@ -2435,6 +2441,9 @@ eduei.com##.sec-sub
 ee.ofweek.com##.dl-right1
 eefocus.com##.icon-container
 eefocus.com##.listpage-rolling-ad.panel-default.panel
+eepw.com.cn##.article_add_topad
+eepw.com.cn##.bdsharebuttonbox
+eepw.com.cn##.share
 eet-china.com##.channel-list-seat
 eet-china.com##.hidden-xs.sidebar-code
 eet-china.com##.share-btn-xs.myicon-icon
@@ -3878,6 +3887,7 @@ news.eda365.com##.headerbg
 news.eda365.com##.infobg
 news.eda365.com##.pagebg.bannerbg
 news.eda365.com##.shareType
+news.eeany.cn##.share-sd
 news.eeworld.com.cn##.fengxiang
 news.hbtv.com.cn##div.flex_sbc:nth-of-type(3)
 news.hexun.com##.shareqq
@@ -4241,6 +4251,7 @@ shezhan88.com##[href="javascript:alert("]
 shhxbk.com##.use-beshare-social-btn
 shijiezz.com###viewfirst
 shilian.com##.kx_shares
+shilian.com##.share_tag
 shop.dixintong.com##.fixed-chou
 shoudian.org##.attach_tips
 shoumaquan.com##.box
@@ -4409,6 +4420,7 @@ stockstar.com##.news
 stockstar.com##.tags
 study.163.com##.open-app-btn
 super.sina.cn##.call_up_banner
+sws100.com###toolbar
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
 sydneytoday.com##.mtg-bottom-app
@@ -4712,6 +4724,7 @@ vip.iqiyi.com##.J-download-title > .header-sideItemCon
 vip.iqiyi.com##.T-icon-game > .header-sideItemCon
 vip.jokerps.com##.b2-share-forward-fill.b2font
 vip.jokerps.com##.b2tooltipbox.poster-span
+vircloud.net##.share.tag-title
 vkandian.cn###_dsdsd
 vkandian.cn##.pic-list
 vkandian.cn##.show-line
@@ -4785,6 +4798,7 @@ web02.cnki.net##[href="https://inks.cnki.net"]
 webact.185.hk##.col-md-4.col-sm-6.col-xs-12 > div
 webhek.com###overlay99
 webkaka.com###commend2
+weibo.com##.W_gotop_v2.W_gotop
 weidian.com##.keep-track-of-show-animation.keep-track-of-show.keep-track-of
 weixinbqb.com##.d_tags > p
 weixinbqb.com##[src="/style/images/jsq.gif"]
@@ -5036,6 +5050,7 @@ yes321.com##[href="https://yes321.com/prod/yesapp/commonality/downApp/down.html"
 yesky.com##li:nth-of-type(4)
 yezicc.com##.article-bottom
 yezicc.com##.article-top
+ygkkk.blogspot.com##.post-share-buttons-top.post-share-buttons
 yhd.com##[style="z-index: 1;"]
 yhdm.io##.l.share > span
 yhdm8.co##li.hidden-xs:nth-of-type(4)
@@ -5399,6 +5414,7 @@ zzzyk.com##div.zykmore
 ||shiold2.zhaosw.com$subdocument
 ||sina.cn/check$subdocument
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
+||sodata.k12kc.com$subdocument
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
 ||static-xiaoguotu.17house.com$image
