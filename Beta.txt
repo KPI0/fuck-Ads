@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-17
+! TimeUpdated: 2023-01-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1053,9 +1053,16 @@ zztt37.com##*
 *##.ad_pic
 *##.ad_right
 *##.ad_single
+*##.ad_single_0
 *##.ad_single_1
 *##.ad_single_2
 *##.ad_single_3
+*##.ad_single_4
+*##.ad_single_5
+*##.ad_single_6
+*##.ad_single_7
+*##.ad_single_8
+*##.ad_single_9
 *##.ad_single_title
 *##.ad_under_title
 *##.adbaidu1100
@@ -1873,6 +1880,7 @@ baikecun.com##.icon-weixin
 baipiao2.com##.post-apd
 baiyintd.cn##.share
 baiyunju.cc##.widget_ssr_inner
+bandwagonhost.net##.share-single
 bangongniu.com##.share-widget
 bangxuetang.com##.admod
 baobao.baidu.com##.ecomad-container
@@ -2112,6 +2120,7 @@ chinaz.com##.media-banner__box > .cloumn-bd__minp.media-banner_auto.cloumn-bd
 chinaz.com##.media-wrapper
 chinaz.com##.mediaBox
 chinaz.com##.medialink-wrapper.section.cloumn-bd
+chinaz.com##.meta__right
 chinaz.com##.nfeatured-wrapper__media
 chinaz.com##.single-mode__media.single-mode
 chinaz.com##.smediabox
@@ -2198,6 +2207,8 @@ cncjj.com##.clear.entry-bottom
 cncjj.com##.entry-content > .xh-social
 cncjj.com##.entry-meta > .custom-share
 cncjj.com##.header-icons
+cnidc.co##.orbui
+cnidc.co##.shares
 cnki.com.cn##.mobile-link.a05
 cnki.net##.banner-main
 cnmaxwell.com##.fr > [href="#"]
@@ -2574,6 +2585,10 @@ finance.sina.com.cn##.fapp
 finance.sina.com.cn##.sina-client
 finance.sina.com.cn##.zc-app-btn.right-bar-btn
 fisco.com.cn##.bshare-custom
+flyzy2005.cn##.Share
+flyzy2005.cn##[href="https://yhgo.wang/tencent/double11"]
+flyzy2005.cn##[href^="https://www.aliyun.com/minisite/goods"]
+flyzy2005.cn##div.container > [href="https://bwg.wiki"]
 fonts.safe.360.cn##.footer
 free-proxy.cz##.social-likes_visible.social-likes
 freebuf.com##div.approve:nth-of-type(5)
@@ -2758,6 +2773,7 @@ heytap.com##li.float-wrap-btn:nth-of-type(3)
 hezibuluo.com##.j-share
 hezibuluo.com##.widget_wp125
 heziku.com##.j-share.action-item
+hhhyh.com##li.social-item:nth-of-type(3)
 hinews.cn##.bshare-custom
 hinews.cn##.h80
 hinews.cn##div.sp10
@@ -3026,6 +3042,9 @@ jishuin.proginn.com##p:nth-of-type(13)
 jishuin.proginn.com##section:nth-of-type(3)
 jishuin.proginn.com##section:nth-of-type(4)
 jndvisa.com##.sharebox
+joelled.com##.article-zan-fav
+joelled.com##.container.topShow
+joelled.com##[href^="https://www.west.cn"]
 jokerlu.com##.main.col-md-offset-2.col-md-10.col-sm-offset-3.col-sm-9
 jokerlu.com##.navbar-fixed-top.navbar-inverse.navbar
 jokerlu.com##.sidebar.col-md-2.col-sm-3
@@ -3522,6 +3541,8 @@ m.mgtv.com##.n-share
 m.mgtv.com##.open-app-popup
 m.mhtxs.la###appss
 m.mhtxs.la###strl
+m.miguvideo.com##.openClient
+m.miguvideo.com##.share-01
 m.mobile01.com##.app-btn
 m.mp.oeeee.com##.bdshare
 m.mudvod.tv###bottom_btn
@@ -3794,6 +3815,8 @@ mi.com###J_siteDownloadApp
 mi.com##.follow
 mi.com##.item-image.item
 mi.com##span.sep:nth-of-type(11)
+migu.cn##.share.btn-item
+miguvideo.com##.header-download.side-item
 mingpao.com##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 mingyantong.com###headermobile
 mingyantong.com###jubigshare
@@ -4744,6 +4767,7 @@ v2rayse.com##.theme--light.v-sheet.v-card.mt-2
 v5ppt.com##.picinfo-video
 veidc.com##.asb-indexd-01.asb-indexd.asb
 veidc.com##.orbui
+veidc.com##.shares
 veidc.com##.widget_ui_textorbui.widget.widget-on-phone
 veidc.com##div.widget_custom_html.widget.widget-on-phone.widget_text:nth-of-type(n)
 view.inews.qq.com##._1SWUWqTi2R592v5SdoMlaN
@@ -4762,6 +4786,9 @@ vkandian.cn##.pic-list
 vkandian.cn##.show-line
 voachinese.com##.share--box
 vps.yangmao.info##.bm22m12
+vps1352.com##.share.post_share
+vps234.com###article-bottom-banners
+vps234.com###top-bannber
 vpsche.com##.single-top-html
 vpsgo.com##.asb
 vpsgo.com##body > div.container
@@ -4913,6 +4940,7 @@ west.cn##.auto-size-fold.slide-h-100.slide-container
 west.cn##.bdsharebuttonbox
 west.cn##.carousel-inner
 west.cn##.clouthost_out
+wetv.vip##.download-tips.tips
 wiki.biligame.com##.app-download-bar
 wiki.jikexueyuan.com##.clearfix.detail-share
 wiki.mbalib.com###rqCodeBtn
@@ -5323,6 +5351,7 @@ zzzyk.com##div.zykmore
 ||bu2.wang1314.com$subdocument
 ||bujvtes.cn$image
 ||c.j0rd.vip$image
+||c.tudouxy02.com$subdocument
 ||c2.yephp.net$subdocument
 ||cbd.qiwenya.com$subdocument
 ||cbjs.baidu.com$image
