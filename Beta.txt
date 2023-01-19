@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-18
+! TimeUpdated: 2023-01-19
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -860,6 +860,7 @@ zztt37.com##*
 *###googad
 *###guang
 *###guang1
+*###guangao
 *###header_adv
 *###header_topad
 *###indexgg
@@ -1263,6 +1264,7 @@ zztt37.com##*
 *##.header_ad
 *##.home-ad
 *##.home-ad-link
+*##.hz-guangao
 *##.iguangao
 *##.img-ad
 *##.index-ad
@@ -2503,6 +2505,7 @@ emcreative.eastmoney.com###emglobaljs_component_dialog_confirm_execute
 emwap.eastmoney.com###divShareButton
 emwap.eastmoney.com###fold-ok
 emwap.eastmoney.com##.share-wrap
+esd.cn##.bdsharebuttonbox
 esmchina.com##.share
 etmall.com.tw##.promo-banner
 events.baidu.com##.bottom-img
@@ -2700,6 +2703,7 @@ guancha.cn##.Share_button_tsina
 guancha.cn##.Share_button_weixin
 guancha.cn##.shared-comment
 guancha.cn##div.share > span
+guangdiu.com##.headdlbanner
 guicaige.com##.sharebox
 guyuehome.com##.js_share.item
 guyuehome.com##.sticky-bar .icon-wechat
@@ -2774,6 +2778,7 @@ hezibuluo.com##.j-share
 hezibuluo.com##.widget_wp125
 heziku.com##.j-share.action-item
 hhhyh.com##li.social-item:nth-of-type(3)
+hhyc8888.com##.share-component.social-share
 hinews.cn##.bshare-custom
 hinews.cn##.h80
 hinews.cn##div.sp10
@@ -3531,6 +3536,9 @@ m.lelewen.cn##.lmgg-block
 m.life.httpcn.com##.icon-fenxiang
 m.linuxidc.com##.download-btn-996chuanqi-desc
 m.loupan.com##.lb
+m.manmanbuy.com##.app-promotion-bar
+m.manmanbuy.com##.download
+m.manmanbuy.com##.insert-app-download
 m.med66.com##.courseBox
 m.med66.com##.downloadApp-btn
 m.med66.com##.nbanner
@@ -3672,6 +3680,9 @@ m.xbbshuwu.com##div[style*="top: 0px"]
 m.xbbshuwu.com##div[style*="width:100%;text-alight:center; "]
 m.xbbshuwu.com##p:nth-of-type(4)
 m.xbbshuwu.com##p:nth-of-type(5)
+m.xbiao.com##.app_alert_link
+m.xbiao.com##.foot_open_app_visible.foot_open_app
+m.xbiao.com##.top_open_placeholder
 m.xdxfdb.com##.Share-Model.share
 m.xiangha.com##.author
 m.xiangha.com##.diversion
@@ -4544,6 +4555,8 @@ thetigerhood.com##.post-share
 thetigerhood.com##.share-btn
 thetigerhood.com##.share-title
 theverge.com##.c-global-header__social
+tianxinvxing.com##.bdsharebuttonbox
+tianxinvxing.com##.clearfix
 tianya.cn##.download-ways
 tianya.cn##.social
 tianyancha.com###tyc_banner_left
@@ -4830,6 +4843,8 @@ wap.faloo.com##.show.zheZhao2.zheZhao
 wap.faloo.com##.textHide.openApp2.display_flex_center.f_m_btn1.f_m_btn
 wap.fuling.com##.deepshare
 wap.fuling.com##.white.down-top
+wap.gametea.com##.mip-element.jv-button
+wap.haogu114.com##.pullUp
 wap.lookvin.com##.pl_fx
 wap.mail.qq.com##.btn
 wap.pai-hang-bang.com##.foot
@@ -5088,6 +5103,7 @@ xw.qq.com##.shareA
 xxhd15.com##.hf
 xxsy.net###weappimg > div
 xxsy.net##.homeauthor.client
+xy007.net##.share.info-item
 xyyyzzs.com##.fbAkSl
 xzbu.com###down-file
 xzbu.com###doyoo_monitor
