@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-19
+! TimeUpdated: 2023-01-20
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1084,6 +1084,7 @@ zztt37.com##*
 *##.adsContainer
 *##.AdSense
 *##.adshoptop
+*##.adTags
 *##.adv
 *##.adv-bottom
 *##.adv-container
@@ -2052,6 +2053,7 @@ c.biancheng.net###top-banner > .wap-yes
 c.biancheng.net##.pic
 caacnews.com.cn###FenXiang
 caibian.net##.j-share.action-item
+caischina.cn##[src="/Public/zgxwbd/css/you1.jpeg"]
 cangchou.com##.j-share.action-item
 canva.cn##.jv5LaQ
 caotama.com###block-4
@@ -2530,6 +2532,7 @@ facebook.com##span > div > .l9j0dhe7 > .sj5x9vvc.cxgpxx05
 fandom.com##.article-share
 fandom.com##[class="card-share"]
 fane8.com##.extend_2
+fanooo.com##div.text-center.puock-bg.circle-button:nth-of-type(3)
 fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
 fanyi-app.baidu.com##.top-bn-btn-open
 fanyi.baidu.com###app-read
@@ -2821,6 +2824,7 @@ huajiao.com##.js-dl-box.download-box
 huajiao.com##.js-download-pc
 huajiao.com##.pos-top-1.entry-icon
 huajiao.com##li.item:nth-of-type(8)
+huakings.cn##.mobile_click
 huang.1.cheapshop.cn##.ziti.topliucheng > b
 hujiang.com##.tool-share.elem
 huobi.com###client_list
@@ -2897,6 +2901,7 @@ im.qq.com##.plats
 im.qq.com##[href="https://im.qq.com/download"]
 image.baidu.com##.boxBanner
 imdb.com##.ipc-icon--share
+imnks.com##.mobile_click
 infineon.com##.social-media-wrapper.text-right.col-md-3
 info110.com##.action-share
 infoobs.com##.share-card
@@ -3542,6 +3547,7 @@ m.manmanbuy.com##.insert-app-download
 m.med66.com##.courseBox
 m.med66.com##.downloadApp-btn
 m.med66.com##.nbanner
+m.meidebi.com##.wake-app
 m.meishichina.com##.insertlist
 m.meishichina.com##.mib
 m.mgtv.com##.mg-down-btn
@@ -4845,6 +4851,7 @@ wap.fuling.com##.deepshare
 wap.fuling.com##.white.down-top
 wap.gametea.com##.mip-element.jv-button
 wap.haogu114.com##.pullUp
+wap.itxinwen.com##.bdsharebuttonbox
 wap.lookvin.com##.pl_fx
 wap.mail.qq.com##.btn
 wap.pai-hang-bang.com##.foot
@@ -4988,6 +4995,7 @@ woshipm.com##.fixed-linkedme
 wosn.net##.fadeInUp.wow.feed.widget
 wosn.net##.s-weixin
 woyao998.cn##center
+wp.gxnas.com##.Share
 wpok.cn###home-row-pics > .wrapper
 wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
@@ -5030,6 +5038,7 @@ xiaohongshu.com##.middle-wrapper
 xiaohongshu.com##.open-app-btn
 xiaohongshu.com##.share-btn
 xiaohongshu.com##.share-item
+xiaohongshu.com##.share-wrapper
 xiaohongshu.com##.sub-total-link
 xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
 xiaoji.la##.fly-zanzhu
@@ -5244,6 +5253,7 @@ zhujicankao.com##.asb-post-footer
 zhujicankao.com##.sings-tops2
 zhujicankao.com##[href="https://www.locvps.com/"]
 zhujiji.com##[class="meta-right"]
+zhuyugu.com##.share-single
 zikao365.com###ZCMSAP_328
 zikao365.com##.beeBoxTop
 zikao365.com##.fl.info-share-new
