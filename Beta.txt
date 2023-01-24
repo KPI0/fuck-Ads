@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-23
+! TimeUpdated: 2023-01-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -573,6 +573,7 @@ suzip.com##*
 svjav.com##*
 swz456.com##*
 syc345.com##*
+syr789.com##*
 sysceo.cn##*
 sysceo.com##*
 t66y.com##*
@@ -924,6 +925,7 @@ zztt37.com##*
 *###new_ad
 *###newListAdIc
 *###partners
+*###photoAdDiv
 *###phpad
 *###plugin_toc_bot_ad_game
 *###popBox
@@ -958,6 +960,7 @@ zztt37.com##*
 *###top-adv
 *###topads
 *###topads0
+*###wordAdDiv
 *###yh_sidebar_ad1
 *###yh_sidebar_ad2
 *###yh_sidebar_ad3
@@ -1942,6 +1945,7 @@ baikequ.com##.fr.share-widget
 baipiao2.com##.post-apd
 baiyintd.cn##.share
 baiyunju.cc##.widget_ssr_inner
+balincan8.com##[href^="https://pages.tmall.com"]
 bandwagonhost.net##.share-single
 bangongniu.com##.share-widget
 bangxuetang.com##.admod
@@ -2578,6 +2582,7 @@ emwap.eastmoney.com###divShareButton
 emwap.eastmoney.com###fold-ok
 emwap.eastmoney.com##.share-wrap
 esd.cn##.bdsharebuttonbox
+esengof.com##[href^="https://pages.tmall.com"]
 esmchina.com##.share
 etmall.com.tw##.promo-banner
 events.baidu.com##.bottom-img
@@ -2595,6 +2600,8 @@ extfans.com##.share-content.d-lg-block.d-none
 eyun.baidu.com##.default-text.client-download
 eyun.baidu.com##.g-clearfix.app-list
 eyun.baidu.com##[href^="https://eyun.baidu.com/enterprise/product"]
+eyunsou.com##.dbad
+eyunsou.com##.ycad
 fabiaoqing.com##.floatcenter.segment.ui
 facebook.com##.om3e55n1.cgu29s5g.cqf1kptm.alzwoclg > .q46jt4gp > div > span
 facebook.com##span > div > .l9j0dhe7 > .aodizinl.e5nlhep0.d2edcug0.pfnyh3mw.cbu4d94t.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
@@ -3198,6 +3205,8 @@ kaifa.baidu.com##.reward-entry-home-81a02
 kaifa.baidu.com##.reward-entry-search-6e208
 kaifangsy.com###down_boxcode
 kaifangsy.com###top_boxcode
+kaiym.cn###c2
+kaiym.cn##.img01.img0
 kanshu5.net##.callApp_fl_btn
 kanshu5.net##.look_more_a
 kanshu5.net##.sw_sp.m_f_a
@@ -3632,6 +3641,7 @@ m.linuxidc.com##.download-btn-996chuanqi-desc
 m.loupan.com##.lb
 m.manmanbuy.com##.app-activity-download
 m.manmanbuy.com##.app-promotion-bar
+m.manmanbuy.com##.appbanner
 m.manmanbuy.com##.download
 m.manmanbuy.com##.insert-app-download
 m.med66.com##.courseBox
@@ -3813,6 +3823,7 @@ m.youku.com##.h5-detail-guide.clipboard
 m.youku.com##.h5-detail-vip-guide.clipboard
 m.youku.com##.x-top-control
 m.youku.com##div.item
+m.yuncaijing.com##.-banner
 m.yuzizi.com##.mobile_click
 m.yw-jz.com##.only_share
 m.zbj.com##.hasFold.pub-bottom
@@ -4124,6 +4135,7 @@ offcn.com##.zg_dbmk
 offcn.com##.zg_footer
 offcn.com##span > strong
 office.iask.com##.loginRedPacket-dialog
+office66.cn##[href^="/e/public/ClickAd"]
 officeplus.cn##.favorit
 ofweek.com###article_id_top2
 ofweek.com##.app-download
@@ -4301,6 +4313,7 @@ qcc.com##.header-qrcode.dropdown.nav-item
 qcc.com##.open-app
 qcc.com##a.should-popover.item
 qfapi.ybvv.com##.down-top
+qian8.cc##.shareSummary
 qian921.com##.comiis_share_key
 qianjia.com##.article-share
 qianjia.com##.f-mt30.app
@@ -4368,6 +4381,8 @@ rfi.fr##.o-pwa-ah2s__content
 right.com.cn##.z
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
+risi-cpps.com##.action-share.action
+risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 rsdznjj.com##.layout-entry-share
 ruancan.com##.j-share
 rulaisz.com##.box-title
@@ -4929,6 +4944,8 @@ w3h5.com##.widget_lf-bt-box.widget
 w3h5.com##.widget_lf-bt-box_inner.widget_inner
 w3school.com.cn###sidebar_zzs
 wangan.com##.sticky.ui.article-actions-rail
+wangfuchao.com##.hover-show.action-share.action
+wangluohuodong.com##.fastpost-popup
 wap.10086.cn##.lb_ad
 wap.21food.cn##.bann_ndf
 wap.bixiabook.com###baseHeight
@@ -5103,6 +5120,7 @@ wk.baidu.com##.reader-pop-manager-view-containter
 wk.baidu.com##.wk-student
 wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
+word.feibu.info##.share-component.social-share
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
 world.huanqiu.com##.metadata-share.icon-medium-plus.bshare-custom > ul > li
 woshipm.com##.fixed-linkedme
@@ -5178,6 +5196,8 @@ ximalaya.com##.xz_.dl-pc
 ximalaya.com##button.F_n.old-btn.xui-btn
 ximalaya.com##div.mgb-20:nth-of-type(1)
 xinchengyy.net##[style="height: 480px;"]
+xingkongweb.com##.b2-radius.box.mg-b.single-bottom-html
+xingkongweb.com##.single-top-html
 xinhuanet.com##.domMobile111
 xinhuanet.com##.domPC.fix-ewm
 xinhuanet.com##.domPC.xwApp
