@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-01-27
+! TimeUpdated: 2023-01-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -423,6 +423,9 @@
 *##.adshoptop
 *##.adTags
 *##.adv
+*##.adv-01
+*##.adv-02
+*##.adv-03
 *##.adv-bottom
 *##.adv-container
 *##.adv-fullscreen
@@ -603,6 +606,7 @@
 *##.guanggao
 *##.guanggao_336
 *##.h5-detail-ad
+*##.h_adv
 *##.head-top-ad
 *##.header-ads
 *##.header_ad
@@ -641,6 +645,7 @@
 *##.LeftAdBox
 *##.leftAdBox
 *##.leftgg2
+*##.li_r_adv
 *##.linkad-container
 *##.localAd
 *##.logo_textAd
@@ -789,6 +794,7 @@
 *##.wpcom_ad_wrap
 *##.wwads-cn
 *##.xigua_ad
+*##.xinnet-adv-code
 *##.yjads
 *##.yjads1
 *##.yjads2
@@ -1056,6 +1062,7 @@
 771633.com##.share-s
 77169.net##.move_share
 7nua.com##.bdsharebuttonbox
+800s.cn##.social-share
 81.cn##canvas
 88888888av.com##[style="width:100%;height:100px;margin-bottom:2px;"]
 8899lt.com##body > div > table > tbody > tr > td
@@ -1157,6 +1164,7 @@ aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
 aizhanghao.com##.fenBtn.icon-button
 ala.baidu.com##.more-btn-desc
 ala.baidu.com##.nav-bar-bottom
+aliyun.com##.ace-commonfooter-download-h5-contentContainer
 aliyun.com##.app-btn
 aliyundrive.com##.container--CIvrv
 aliyundrive.com##.desktop-reminder--1IK76
@@ -1248,6 +1256,7 @@ baike.baidu.com##[style="transform: translate(0px, 0px); display: block;"]
 baike.pcauto.com.cn##.bk-share-item
 baike.pcauto.com.cn##.share-tit
 baike.quark.cn##div.confirm-cq-btn:nth-of-type(2)
+baike.yulefm.com##.mip-share-container
 baikecun.com##.custom-share
 baikecun.com##.icon-weibo
 baikecun.com##.icon-weixin
@@ -1499,6 +1508,7 @@ chinanews.com.cn##.gghzh
 chinanews.com.cn##.index_layerul > li
 chinanews.com.cn##.index_layerul [href="/app/chinanews/index.shtml"]
 chinanews.com.cn##.right.con_left_nav_share
+chinanews.com.cn##.share
 chinanews.com.cn##embed
 chinanews.com.cn##li#jrzmdiv1.division > .left.index-nav-select-wide.index-nav-select
 chinanews.com.cn##li.division:nth-of-type(1)
@@ -1676,6 +1686,7 @@ d06v3b.smartapps.cn##.swan-web-suspend-button
 d0z.net##.sharedaddy
 d1ev.com##.action_share
 d1ev.com##.am-fl.ws-left > .am-sticky-placeholder
+dacankao.com##.sharep
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
 dadaqq.com##.hzt-footer-tool
 daily.zhihu.com##.Daily
@@ -2007,6 +2018,7 @@ freedidi.com##.group.sharrre-header.sharrre-container
 freeroad.org##.top-inside.force-desktop.smt-app-message_bar.smt-app
 freeroad.org##[src="https://freeroad.org/wp-content/uploads/2021/01/Photography-Workshop.png"]
 freetrip88.com##.j-share
+fshuiren.com##.bdsharebuttonbox
 fsylr.com##.posts-top-cjtz-mini
 fulibiu.com##.lanrenzhijia
 fur.net.cn##.j-share.action-item
@@ -2131,6 +2143,7 @@ h.4399.com##.one.topSwiper.md-swiper
 h.4399.com##.topSwiper.md-swiper
 h.xinhuaxmt.com##.banner-container
 h.xinhuaxmt.com##.link-app
+h.znds.com##.common_box.share_box
 h5.17k.com##.a3.empty
 h5.17k.com##.app_float
 h5.17k.com##.chapter_44528763
@@ -2240,6 +2253,7 @@ huajiao.com##li.item:nth-of-type(8)
 huakings.cn##.mobile_click
 huang.1.cheapshop.cn##.ziti.topliucheng > b
 hujiang.com##.tool-share.elem
+hukaiwen.net.cn##.sharebox
 huobi.com###client_list
 huobi.com##.fedui-header-download
 hupu.com##.footer-floor
@@ -2662,6 +2676,7 @@ libattery.ofweek.com##.share
 libattery.ofweek.com##div:nth-of-type(8)
 liebanwang.b2b.huangye88.com##.adiv
 life.ynet.com##.down_app
+lilvm.rjyl100.cn##div:nth-of-type(8)
 link.bilibili.com##.link-footer
 linuxea.com##.joe_detail__operate-share
 lishaowei.cn##.action-share.action.dropup.hover-show
@@ -2736,6 +2751,7 @@ m.baidu.com##.bottomOperateTop
 m.baidu.com##.c-blocka.c-invoke-class > .c-img-wrapper > .c-img-radius-br.c-img-radius-bl.c-img-radius-tr.c-img-radius-tl.c-img-s.c-img-item.c-img
 m.baidu.com##.c-line-clamp1.c-title > .c-title-text
 m.baidu.com##.card._1_KgV._8naka.c-container
+m.baidu.com##.go-invoke
 m.baidu.com##.img-wrapper
 m.baidu.com##.ivk-bottom-panel-confirm-btn
 m.baidu.com##.na-ec-item
@@ -2772,6 +2788,7 @@ m.bjnews.com.cn##.xjb-top
 m.bohe.cn##.posr.d-flex
 m.bqg65.com###goimg
 m.bqg65.com##.readwz
+m.c114.com.cn##.app-open
 m.caijing.com.cn##.downdiv
 m.caixin.com##.appLink
 m.caixin.com##.openInApp
@@ -3068,6 +3085,7 @@ m.sohu.com##.index.new.fixed.fixed-setto-desktop
 m.sohu.com##.reply-opare__share.reply-opare__a
 m.sohu.com##.visible.promotion-box
 m.soogif.com##[href^="https://www.9xiuzb.com"]
+m.soogif.com##div.popular-item
 m.souid.com###div_dx_top
 m.souid.com##.overlay
 m.speedtest.cn##.download-wrap
@@ -4323,6 +4341,8 @@ w3h5.com##.widget_lf-bt-box.widget
 w3h5.com##.widget_lf-bt-box_inner.widget_inner
 w3school.com.cn###sidebar_zzs
 wangan.com##.sticky.ui.article-actions-rail
+wangchuang8.com##.mt-3.col-auto.wctg-md1-wc6
+wangchuang8.com##.share-link.go-copy
 wangfuchao.com##.hover-show.action-share.action
 wangluohuodong.com##.fastpost-popup
 wap.10086.cn##.lb_ad
@@ -4393,6 +4413,7 @@ weibo.com##.W_gotop_v2.W_gotop
 weidian.com##.keep-track-of-show-animation.keep-track-of-show.keep-track-of
 weixinbqb.com##.d_tags > p
 weixinbqb.com##[src="/style/images/jsq.gif"]
+weiye.net##.btns_wrap
 wen.baidu.com##.share-area
 wenda.so.com###task-left-wrap
 wenda.so.com##.js-detail-guess.pb20.pt25.mod-detail-normal
@@ -4771,6 +4792,7 @@ zhiu.cn##.article-footer
 zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
 zhizhizhi.com###mobi_fixed_b
+zhongce.sina.cn##.j_shareBtn.foot_cmt_share
 zhongce.sina.com.cn###task_share
 zhongce.sina.com.cn##.side-btns-jfyb-resize
 zhongruitong.cn##.not-real-name-button
@@ -4945,6 +4967,7 @@ zzzyk.com##div.zykmore
 ||du.szsxr.com$subdocument
 ||eajgm.com^$domain=juhaihg.com
 ||enl2.96845.com$subdocument
+||f2.rjyl100.cn$subdocument
 ||fanwen2.yyquan.vip$subdocument
 ||fbmmjc.39yst.com$subdocument
 ||fengei.net$subdocument
@@ -5028,6 +5051,7 @@ zzzyk.com##div.zykmore
 ||p1.meituan.net/csc/*.gif$image
 ||p1.meituan.net^$image,domain=xinchengyy.net
 ||pa.jueju.cn$subdocument
+||pass2.soogif.com$subdocument
 ||peanpbr.cn^$script
 ||pic.link.topshu.xyz$image
 ||pic.picnewsss.com$image
