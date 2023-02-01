@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-01-31
+! TimeUpdated: 2023-02-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1719,6 +1719,7 @@ zztt37.com##*
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
 3w.huanqiu.com##.content-tool
+3xol.com##.share.fl.bdsharebuttonbox
 404886.com##blockquote
 4399.com##.link_w
 4399.com##[href="//4399.com/desk/"]
@@ -3730,6 +3731,7 @@ m.manmanbuy.com##.insert-app-download
 m.med66.com##.courseBox
 m.med66.com##.downloadApp-btn
 m.med66.com##.nbanner
+m.med66.com##.Share-Model.share
 m.meidebi.com##.wake-app
 m.meishichina.com##.insertlist
 m.meishichina.com##.mib
@@ -4039,6 +4041,7 @@ mingyantong.com###jubigshare
 mingyantong.com###jushare
 mingyantong.com###xqriqrc
 minsu.dianping.com##.lg-hide.b-cover
+mip.gucheng.com##[href="https://99i99.vip/"]
 mip.qlmhome.cn##.wpcom_myimg_wrap
 mitem.lenovo.com.cn##.bottomOpenAppBtn
 miui.com##.app_download
@@ -5308,6 +5311,7 @@ xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
 xiaoji.la##.fly-zanzhu
 xiaomiyoupin.com##.fixed-nav
 xiaomiyoupin.com##.h-icon-con.m-safe-anchor
+xiaoweigod.com##.action-share
 xiaoyeyun6.com##.post_share
 xiaozidian.com.cn##.fixedbox
 xidcn.com##.shares
@@ -5866,6 +5870,7 @@ zzzyk.com##div.zykmore
 ||yichan.net.cn$image
 ||ysjs.ys137.com.cn$subdocument
 ||ysjs4.ys137.com.cn$subdocument
+||ysjs5.ys137.com.cn$subdocument
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||z2.fakutownee.cn$subdocument
