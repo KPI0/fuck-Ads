@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-05
+! TimeUpdated: 2023-02-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -651,6 +651,7 @@
 *##.li_r_adv
 *##.linkad-container
 *##.localAd
+*##.logo_ad
 *##.logo_textAd
 *##.logo_textad
 *##.logoAd
@@ -680,6 +681,7 @@
 *##.my-ad2
 *##.my-ad3
 *##.n-top__ad
+*##.new_part_rightcontad
 *##.newAd
 *##.news-advertising
 *##.news_ad
@@ -1698,6 +1700,7 @@ daily.zhihu.com##.Daily
 dandanzan.com##.lgyPl_v2_inner
 dandanzan.com##.lgyPl_v2_load_more_record
 dandanzan.com##.lgyPl_v2_record_item_saytext
+dandelioncloud.cn##.mobile_click
 daniao.org###custom_html-10
 dashoubi.org.cn##.bdsharebuttonbox
 dawendou.com##.alert-bounceIn.copy-alert
@@ -2872,6 +2875,7 @@ m.fosiw.cn##.newsFx
 m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.gaoshouyou.com##.gsy-gd
+m.gcsh.net##.pullUp
 m.gmw.cn##.m-shareCon
 m.gome.com.cn###topMDownapp
 m.guancha.cn##.g_swiper_container
@@ -3387,6 +3391,7 @@ music.taihe.com##button.is-round.el-button--info.el-button:nth-of-type(3)
 music.taihe.com##div.fl.item:nth-of-type(1)
 musichive.com.cn##.qrcode___1ze6R
 my.oschina.net##.article-box__content > .action-box > div.action-item:nth-of-type(4)
+my.oschina.net##.share
 my.oschina.net##div.action-item:nth-of-type(5)
 my140.com##div.only_mobile
 my607.com##.one
@@ -5170,6 +5175,7 @@ zzzyk.com##div.zykmore
 ||zawqwpah.xyz$image
 ||zhujicankao.com/img/images/*$image
 ||zle.com$subdocument
+||zs.net114.com$subdocument
 ||zv.china-10.com$subdocument
 ||zxq.bj-kevin.com$subdocument
 ||zy2.gk100.com$subdocument
