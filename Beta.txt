@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-07
+! TimeUpdated: 2023-02-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1518,6 +1518,8 @@ zztt37.com##*
 *##.wechat
 *##.weibo
 *##.wgt-ad-guess
+*##.what-ad
+*##.what-ad-ask
 *##.widget_image_ad
 *##.works-slider-ad
 *##.wpcom_ad_wrap
@@ -1529,6 +1531,7 @@ zztt37.com##*
 *##.yjads2
 *##.yjads3
 *##.z-ad-l
+*##.ZZCardAtvert-text
 *##.zzs_ad
 *##[class="csdn-common-logo-advert"]
 *##[title="广告"]
@@ -1724,6 +1727,7 @@ zztt37.com##*
 3g.163.com##.widget-floatMenu
 3g.163.com##footer > span
 3g.china.com##.header_app
+3g.made-in-china.com###shareBtnId
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
 3w.huanqiu.com##.content-tool
@@ -3456,6 +3460,7 @@ m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
 m.699pic.com##.show.top-notice-position
 m.77dushu.com###appss
 m.77dushu.com###strl
+m.81qt.com##.only_share
 m.8684.cn##.app-tip
 m.8684.cn##.js-appdownload
 m.91abroad.com##.guangin
@@ -3600,6 +3605,7 @@ m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.gaoshouyou.com##.gsy-gd
 m.gcsh.net##.pullUp
+m.gldjc.com##.page-bottom
 m.gmw.cn##.m-shareCon
 m.gome.com.cn###topMDownapp
 m.guancha.cn##.g_swiper_container
@@ -3610,6 +3616,7 @@ m.haohaoyun.com###qianduan_top_ok
 m.health.china.com##.header-banner
 m.hexun.com##.layer-top
 m.hexun.com##.modal-popup-openapp
+m.huangye88.com##.price_r
 m.hupu.com##.open-hupu
 m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
@@ -3733,6 +3740,8 @@ m.lelewen.cn##.lmgg-block
 m.life.httpcn.com##.icon-fenxiang
 m.linuxidc.com##.download-btn-996chuanqi-desc
 m.loupan.com##.lb
+m.lubanyuan.cn##.nr-mad3.w720-mad
+m.lubanyuan.cn##[href^="/e/public/ClickAd"]
 m.manmanbuy.com##.app-activity-download
 m.manmanbuy.com##.app-promotion-bar
 m.manmanbuy.com##.appbanner
@@ -3933,6 +3942,10 @@ m.zbj.com##.hasFold.pub-bottom
 m.zhaokaoti.com##.promotion
 m.zhibo8.cc##.top-header
 m.zhms.cn##.share
+m.zhuangku.com##.shade-click
+m.zhuangku.com##.share_btn.share
+m.zhuzhai.com##.news-dt-top-gd
+m.zhuzhai.com##.topNav-com-head-download
 m.ziyuanm.com###gethongbao
 m.zol.com.cn##.bottom-share__btn
 m.zongheng.com###fukerrwowo
@@ -4746,6 +4759,7 @@ sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
 sydw.huatu.com##.bottomBar
 szhl.cc##.bdsharebuttonbox
+szjara.com###bdshare
 t.bilibili.com##.download-client-trigger.download-entry
 t.bilibili.com##.notice-panel
 t.bilibili.com##li.nav-link-item:nth-of-type(8)
@@ -5108,6 +5122,7 @@ wap.cnki.net##.Appopen
 wap.cnki.net##.cum-browser
 wap.cnki.net##.fix-bottom-content-inner
 wap.cnki.net##.fix-top
+wap.dmjob.net##.pullUp
 wap.eastmoney.com###divShareButton
 wap.eastmoney.com###liShare
 wap.eastmoney.com##.share-wrap
@@ -5734,6 +5749,7 @@ zzzyk.com##div.zykmore
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
+||hfhff.zhuzhai.com$subdocument
 ||hg2kkjhkll.huguan123.com$subdocument
 ||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
