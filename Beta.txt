@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-09
+! TimeUpdated: 2023-02-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2023,6 +2023,7 @@ bbs.elecfans.com##.qrcode
 bbs.elecfans.com##.share
 bbs.elecfans.com##.sidebar-tool-wechat
 bbs.elecfans.com##ul.wid152.ga-lf > .ga-attend
+bbs.gongkong.com##.social-share
 bbs.hupu.com##.download-app
 bbs.hupu.com##.game-center-sidebar
 bbs.hupu.com##.gamecenter
@@ -4927,6 +4928,8 @@ tool.lu###facebox
 tool.lu###t_fixed
 tool.lu##.facebox_overlayBG.facebox_hide
 tool.lu##.js-share-bar
+tool.oschina.net##.download-item.item
+tool.oschina.net##.giteetip.label.red.ui.floating
 tools.bugscaner.com###div_qrcode_container
 tools.bugscaner.com###top-header > .row
 tools.bugscaner.com##.v-modal
@@ -5020,6 +5023,9 @@ user.youku.com##.g-footer_2MHYp
 user.youku.com##.handle_lz8pm
 user.youku.com##.u-app_Ubbmj
 user.youku.com##.u-phone_2eD26
+usr.cn##.head_share
+usr.cn##.sahreboxbt.acts.down_rbox_btn
+usr.cn##.share_product
 uu.163.com###share_top > .NIE-share2.NIE-share > .NIE-share-iconBtn
 uu.163.com##.bbxz_box
 v.cctv.com##.leftBar
@@ -5867,6 +5873,7 @@ zzzyk.com##div.zykmore
 ||sodata.k12kc.com$subdocument
 ||srxzz.com/bimg/ad1.jpg$image
 ||srxzz.com/bimg/banner1.jpg$image
+||ss.diyifanwen.net$subdocument
 ||static-xiaoguotu.17house.com$image
 ||statics.rili.com.cn$subdocument
 ||sysoctw.cn$image
