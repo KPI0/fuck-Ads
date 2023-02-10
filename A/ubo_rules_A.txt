@@ -1287,11 +1287,14 @@ baoguzi.com##.zeroad
 baozhuang5.com##.bdsharebuttonbox
 bar.cnki.net##.qrcode
 bbmmx.com##.xshare
+bbs.125.la##.sharep
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com##.recommend
 bbs.9game.cn##.guide-app-fix
+bbs.co188.com##.bdsharebuttonbox
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
+bbs.eeworld.com.cn##.toshare
 bbs.elecfans.com###a_top_url
 bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
 bbs.elecfans.com##.bdshare-slide-button
@@ -1727,6 +1730,8 @@ desktx.com##.current > span
 desktx.com##.msg_con > span:nth-of-type(1)
 detail.zol.com.cn###zolapp-float-qrcode
 developer.aliyun.com##.app-fixed-btn
+dg8.com.cn##.share-btn
+dg8.com.cn##.share.fl.m-soft-share
 dianying.taobao.com##.banner-container.J_smartBanner
 dianyingjie.com##.share
 dict.cn###dshared
@@ -1756,21 +1761,15 @@ dnzp.com##.postt
 doc.mbalib.com##.wjdc-box
 doc.wendoc.com##.ding01
 doc88.com###app_read
-doc88.com###footer > .mainpart
 doc88.com##.activelist > .clearfix
 doc88.com##.columns-us
 doc88.com##.dk-side
 doc88.com##.header-func > .wrapper > ul > li > [href="/app.html"]
 doc88.com##.header-func > .wrapper > ul > li:nth-of-type(2)
 doc88.com##.iamge1
-doc88.com##.mainpart > .clearfix
 doc88.com##.qrcode > p
 doc88.com##.top-wx > [href]
-doc88.com##div.columns:nth-of-type(1)
-doc88.com##div.columns:nth-of-type(2)
-doc88.com##div.columns:nth-of-type(3)
 doc88.com##i.line.iconfont:nth-of-type(7)
-doc88.com##li:nth-of-type(4)
 doc88.com##span.client-show:nth-of-type(2)
 docer.com##.footer-info__subscribe.footer-info__column > dd
 docer.com##.footer-info__subscribe.footer-info__column > dt
@@ -2067,6 +2066,7 @@ gcores.com##.appDownloadTip
 gd.sina.com.cn##.share-layout
 gd.sina.com.cn##.share-sns
 gd3x.com##.bdsharebuttonbox
+gdzrlj.com##.bdsharebuttonbox
 geekpark.net##.contact > div
 geekpark.net##.down
 geekpark.net##.tools-erweima.tools-item
@@ -2431,7 +2431,10 @@ jamesdailylife.com###block-5
 jamesdailylife.com###custom_html-8
 jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
 jamesdailylife.com###sidebar-sticky > .widget_media_image.widget_block.widget
+javaforall.cn##.__single_2.wpcom_myimg_wrap
+javaforall.cn##.j-share.action-item
 javashuo.com##.share
+jb51.cc##.col-md-6
 jb51.net##.blank10
 jb51.net##.blank5
 jb51.net##.clearfix.pt10
@@ -3459,6 +3462,7 @@ new.qq.com##a.item > .txt
 new.qq.com##a.item:nth-of-type(4)
 newiot.com###ggxc
 newqc.cn##.pbvideo-share
+news.0551fangchan.com##.bdsharebuttonbox
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
 news.caijingmobile.com##.bottom-flash
@@ -3800,6 +3804,8 @@ rfa.org###storytoptools
 rfi.fr##.m-share-bar
 rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
+rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
+rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
 right.com.cn##.z
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
@@ -3820,6 +3826,7 @@ science.caixin.com##.fenghui_code
 science.caixin.com##.rssBox
 science.caixin.com##.share_tool
 sdshangli.com##.br.mb.sb.airgg
+sdxgyq.net##.d_textbanner.widget
 search.bilibili.com##.download-client-trigger.download-entry
 search.bilibili.com##.footer_right
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -4039,6 +4046,7 @@ stcn.com##.share-component.social-share.share-popup
 stcn.com##.top_r
 stcn.com##.yw_ewm
 stcn.com##div.tt:nth-of-type(4)
+stmcu.org.cn##.bdsharebuttonbox
 stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
@@ -4835,6 +4843,7 @@ zhidao.baidu.com##.wap-youx-change-asp
 zhidao.baidu.com##.wgt-footer-new
 zhidao.baidu.com##.zhidao-app.menu-right-list-item
 zhidao.baidu.com##[class="share-area"]
+zhidao.wangchao.net.cn##.bdsharebuttonbox
 zhihu.com###js-openInApp
 zhihu.com##.after-none.MobileAppHeader-actions
 zhihu.com##.Download-link
