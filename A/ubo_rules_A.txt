@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-10
+! TimeUpdated: 2023-02-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1455,6 +1455,7 @@ bukaivip1.com##.layui-layer-dialog.layui-layer
 bukaivip1.com##.more-btn > li:nth-of-type(3)
 bukaivip1.com##.open-share
 businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
+buy.realme.com##.share-container
 bx9y.com##.ok
 bytenew.com##.bdsharebuttonbox
 c.biancheng.net###top-banner > .wap-yes
@@ -1519,6 +1520,7 @@ chinadaily.com.cn##.newtipbox > .floatrgt
 chinadaily.com.cn##div.arcinfo:nth-of-type(4)
 chinahost.org##.wp > .z
 chinanews.com##.gghzh
+chinanews.com##.openBox
 chinanews.com.cn###newewm
 chinanews.com.cn##.bdsharebuttonbox
 chinanews.com.cn##.download_wrapper
@@ -1700,6 +1702,7 @@ cu518.com##canvas
 cww.net.cn###share_news
 cy.cqbys.com##div.rightdiv:nth-of-type(3)
 cy.ncss.cn##.appTip
+d.wanfangdata.com.cn##.shareBtn
 d06v3b.smartapps.cn##.swan-web-suspend-button
 d0z.net##.sharedaddy
 d1ev.com##.action_share
@@ -2708,6 +2711,7 @@ liuliangzu.com##.ggpost-below
 liuxue86.com##.modal-pay.modal
 liuzhanwu.cn##.orbui
 liuzhanwu.cn##div.widget_ui_orbui.widget.widget-on-phone > .item
+live.baidu.com##.baidu-reflow-btn
 live.bilibili.com##.bili-btn-warp.open-app-btn
 live.bilibili.com##.f-right.footer-right
 live.nuedc-training.com.cn##div.fl.clearfix:nth-of-type(1)
@@ -2725,8 +2729,12 @@ lzw98.com###likepc
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+m.10jqka.com.cn###backWashNav
+m.10jqka.com.cn##.backwash_download.fl.header-dl
 m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
+m.10jqka.com.cn##.openBtn
+m.1688.com##.banner-and-poplayer
 m.1688.com##.header-wrapper
 m.17ce.com##.add_txt
 m.17ce.com##.top-banner-app
@@ -2739,6 +2747,7 @@ m.4399.cn##.cn-mt10.cn-app_download
 m.51credit.com##.appdownClick
 m.51job.com##.goApp
 m.528btc.com##.weui-c-tools
+m.56.com##.share_btn
 m.58.com##.AppDownloadDetail
 m.58.com##.download-bottom
 m.58.com##.OpenInAppBarWrap
@@ -2815,6 +2824,7 @@ m.bqg65.com###goimg
 m.bqg65.com##.readwz
 m.c114.com.cn##.app-open
 m.caijing.com.cn##.downdiv
+m.caijing.com.cn##[href="//m.caijing.com.cn/download.html"]
 m.caixin.com##.appLink
 m.caixin.com##.openInApp
 m.caixin.com##.tb-bar-r
@@ -2909,8 +2919,10 @@ m.hupu.com##.open-hupu
 m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
 m.huxiu.com##.guide-page-wrap
+m.huxiu.com##.js-article-detection.js-article-open-app.js-mod-sidebar.mod-sidebar-app.mod-sidebar
 m.huxiu.com##.js-top-fixed
 m.huxiu.com##.video-to-app
+m.huxiu.com##.wx-hide.fl.title
 m.huya.com###template
 m.huya.com##.header-app-btn
 m.huya.com##.pop-download
@@ -3573,6 +3585,9 @@ okex.com##.icon-home_download.iconfont.icon
 okex.com##.other-wrap.nav-download
 okhqb.com##.code-box
 okx.com##.other-wrap.nav-download
+oldtang.com##.orbui-post.orbui-m.orbui
+oldtang.com##.orbui-site.orbui-m.orbui
+oldtang.com##.widget_ui_orbui
 onedream.yfdnb.com##.u-popup__content
 onedream.yfdnb.com##.uni-modal
 onedream.yfdnb.com##uni-modal
@@ -4080,6 +4095,7 @@ taodocs.com##.link > span:nth-of-type(2)
 taodocs.com##li.ewm.mv_lis:nth-of-type(5)
 taokeshow.com##.wpcom_myimg_wrap
 taose.tv###table1
+taoxv.com##.shares
 taptap.cn##.open-app
 taptap.com##.pull-right
 taptap.com##.tap-footer__download
@@ -4106,6 +4122,7 @@ techweb.com.cn##.share-join
 techweb.com.cn##.wb_item
 tekno.kompas.com##.container.social--container
 tekno.kompas.com##.eee.social--inline
+tenda.com.cn##.share
 thecover.cn###share_icons
 thehour.cn##.appDownload
 theme.loome.net##.baishare
@@ -4444,6 +4461,7 @@ wap.fuling.com##.white.down-top
 wap.gametea.com##.mip-element.jv-button
 wap.haogu114.com##.pullUp
 wap.itxinwen.com##.bdsharebuttonbox
+wap.libaclub.com##.showopenapp.openapp-btn
 wap.lookvin.com##.pl_fx
 wap.mail.qq.com##.btn
 wap.pai-hang-bang.com##.foot
@@ -4648,6 +4666,7 @@ xiaomiyoupin.com##.h-icon-con.m-safe-anchor
 xiaoweigod.com##.action-share
 xiaoyeyun6.com##.post_share
 xiaozidian.com.cn##.fixedbox
+xiayizhan.cn##.share-component
 xidcn.com##.shares
 xiegw.cn##.fr.gb_resLay
 xiegw.cn##.icon-icon.iconfont
@@ -5037,6 +5056,7 @@ zzzyk.com##div.zykmore
 ||du.szsxr.com$subdocument
 ||eajgm.com^$domain=juhaihg.com
 ||enl2.96845.com$subdocument
+||f.chusan.com$subdocument
 ||f2.rjyl100.cn$subdocument
 ||fanwen2.yyquan.vip$subdocument
 ||fbmmjc.39yst.com$subdocument
