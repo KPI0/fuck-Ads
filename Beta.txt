@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-16
+! TimeUpdated: 2023-02-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1729,6 +1729,7 @@ zztt37.com##*
 360lvse.com##.sx-webz
 360lvse.com##div.banner
 361shipin.com##.sm6.xs12.align-self-center.text-right.flex
+365jia.cn##.nt_share
 36dm.club##.top_nav > .right > [href="javascript:void(0);"]
 36kr.com##.app-track-card
 36kr.com##.code
@@ -1980,6 +1981,7 @@ b2b168.com##[href="https://cn.b2b168.com/cnaprilad.html"]
 b4x99.com##.col4.row
 b4x99.com##li:nth-of-type(3) > [href="javascript:void(0)"]
 bacaoo.com##.app-load
+baibaike.com##.social-share.share-component
 baidu.com###hotsearch-content-wrapper
 baidu.com###wenda_inquiry
 baidu.com##._1_KgV.card._8naka.c-container
@@ -2022,6 +2024,7 @@ baike.baidu.com##.squareAni
 baike.baidu.com##.topA
 baike.baidu.com##[href^="/wapui/subpage/baikeappdownload"]
 baike.baidu.com##[style="transform: translate(0px, 0px); display: block;"]
+baike.ofweek.com##.bot_share
 baike.pcauto.com.cn##.bk-share-item
 baike.pcauto.com.cn##.share-tit
 baike.quark.cn##div.confirm-cq-btn:nth-of-type(2)
@@ -2379,6 +2382,8 @@ cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.pls-footer-website-contact-view
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
+cmfish.com###toptb > .wp > .z
+cmfish.com##.sharep
 cmmu.cn##.bdshare
 cmsky.com##.share-s
 cn-healthcare.com##.appupdownnavwap
@@ -2522,6 +2527,7 @@ digitalattackmap.com##.share-icons
 digitaling.com##.bsns_box.f_l
 digitaling.com##.right_qr
 digitaling.com##.sns_box.f_r
+dingdedq.com##.share-component.social-share
 discord.com##div.listItem-3SmSlK:nth-of-type(6) > .guildSeparator-a4uisj
 discord.com##div.listItem-3SmSlK:nth-of-type(7)
 discord.com##div.listItem-GuPuDH:nth-of-type(7)
@@ -3027,7 +3033,9 @@ hk.finance.yahoo.com##.caas-share-section
 hk.news.yahoo.com##.Mih\(82px\).Z\(3\).End\(0\).Start\(0\).B\(56px\).Pos\(f\).D\(f\).Bgc\(\$c-fuji-charcoal\)
 hk.news.yahoo.com##.Mt\(24px\).Mb\(24px\).Mx\(20px\)
 hk.news.yahoo.com##.Z\(2\).D\(b\).T\(12px\).End\(4px\).Pos\(a\).H\(30px\).Maw\(26\%\).W\(26\%\).app-promo
+hnlackkj.com##.get-codes-bdshare
 hntoan.com###bdshare
+hnyousu.cn##.clear.entry-bottom
 home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
 home.vip.youku.com##.dropdown_3IYGs
 home.vip.youku.com##.g-bottom
@@ -3142,6 +3150,9 @@ imnks.com##.mobile_click
 imotao.com##[href^="https://www.88sup.com/"]
 infineon.com##.social-media-wrapper.text-right.col-md-3
 info.autotimes.com.cn##.j-share.action-item
+info.b2b168.com##.left
+info.b2b168.com##.yyad2015
+info.b2b168.com##.yzgyxx
 info.b2b168.com##[href="https://cn.b2b168.com/cnaprilad.html"]
 info110.com##.action-share
 infoobs.com##.share-card
@@ -3260,6 +3271,7 @@ jfdaily.com##div.title:nth-of-type(14)
 jfdaily.com##div.title:nth-of-type(16)
 jia.baidu.com##.service-entry-qrcode.service-entry-item
 jiadianxinwen.com##.bdshare
+jianshu.com##.ant-dropdown-menu-submenu-title
 jianshu.com##.btn-content > button:nth-of-type(2)
 jianshu.com##.download-btn
 jianshu.com##.header-download
@@ -3503,6 +3515,7 @@ libattery.ofweek.com##div:nth-of-type(8)
 liebanwang.b2b.huangye88.com##.adiv
 life.ynet.com##.down_app
 lilvm.rjyl100.cn##div:nth-of-type(8)
+lingchenzi.com###block-16
 link.bilibili.com##.link-footer
 linuxea.com##.joe_detail__operate-share
 lishaowei.cn##.action-share.action.dropup.hover-show
@@ -4746,6 +4759,8 @@ sina.cn##.ldy_art_bottom_button
 sina.cn##.sina_sliders_pos
 sina.cn##.sina_tj_banner.j_sax
 sina.cn##a.ft_down_a:nth-of-type(2)
+sina.com.cn###ad_16827
+sina.com.cn###ad_45990
 sina.com.cn##.mod02-cont
 sina.com.cn##.part-a-l > .mod-02
 sina.com.cn##.part-a-l > div.blank-cont
@@ -4902,6 +4917,7 @@ stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
 study.163.com##.open-app-btn
+sugaomei2022.testmart.cn##.bshare-custom
 super.sina.cn##.call_up_banner
 sws100.com###toolbar
 sws100.com##.wpcom_myimg_wrap
@@ -5423,6 +5439,7 @@ west.cn##.bdsharebuttonbox
 west.cn##.carousel-inner
 west.cn##.clouthost_out
 wetv.vip##.download-tips.tips
+wifilu.com##.post-end-tool-btn-item.post-share-btn
 wiki.antpedia.com##[href^="https://www.antpedia.com/antad/"]
 wiki.biligame.com##.app-download-bar
 wiki.jikexueyuan.com##.clearfix.detail-share
@@ -5698,6 +5715,7 @@ zh.planetcalc.com##.share-buttons
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
 zhazhijiav.top##div.container:nth-of-type(2)
+zhboyang.com###bdshare
 zhcw.com##.zwqk > .ztX3w-L
 zhekou.manmanbuy.com##.insert-app-download
 zhenniuw.com###hd
