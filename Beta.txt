@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-17
+! TimeUpdated: 2023-02-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -120,6 +120,7 @@ a123fn.com##*
 a123fp.com##*
 a1av.xyz##*
 a234kt.com##*
+a789yp.com##*
 achickenb01.com##*
 adbluechina.com##*
 aff002.net##*
@@ -489,6 +490,7 @@ ntr12.cc##*
 nyljd.com##*
 one222.net##*
 one333.net##*
+one55.app##*
 one77.app##*
 one777.app##*
 one889.app##*
@@ -3003,6 +3005,7 @@ haoword.com##.layui-layer-dialog.layui-anim-05.layui-layer
 haoword.com##.ss
 haoword.com##[href="http://haoword.com/shortcut.php"]
 hbook.me##.carousel-inner
+hdmoli.com##div.clearfix.myui-panel-bg.myui-panel:nth-of-type(2)
 hdqydz.icoc.in##.shareContainer
 health.sina.cn##.download-app-block
 health.sina.cn##.download_app
@@ -3940,6 +3943,8 @@ m.qingting.fm##.float-bot-btn
 m.qingting.fm##.float-btn
 m.qinzhiw.com##.bdsharebuttonbox
 m.qire777.com###bdu6874759
+m.qizuang.com##.float-menu
+m.qizuang.com##.p-inner-appentry-box
 m.qj.com.cn##.brand-fixed-bar
 m.qtx.com###down_app
 m.rdhyw.com##.hfgg
@@ -5468,6 +5473,8 @@ wk.baidu.com##.reader-pop-manager-view-containter
 wk.baidu.com##.wk-student
 wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
+woliam.com##.art-content > .onlywap
+woliam.com##.share-component.social-share
 word.feibu.info##.share-component.social-share
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
 world.huanqiu.com##.metadata-share.icon-medium-plus.bshare-custom > ul > li
