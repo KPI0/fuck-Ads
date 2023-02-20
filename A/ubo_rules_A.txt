@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-18
+! TimeUpdated: 2023-02-20
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1422,6 +1422,7 @@ blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
 blog.51cto.com##.first
+blog.51cto.com##.shareBtn.common-operationbtn
 blog.csdn.net###asideNewNps
 blog.csdn.net###kp_box_blog_cont
 blog.csdn.net###wap_open_app_btn
@@ -2418,6 +2419,7 @@ ifeng.com##ol
 ifeng.com##span[data-index]
 iibesh-expo.com##.qqright-box
 iisp.com##.bdsharebuttonbox
+iknow.lenovo.com.cn##.shareBox
 im.qq.com##.btn-downlond
 im.qq.com##.plats
 im.qq.com##[href="https://im.qq.com/download"]
@@ -3892,6 +3894,7 @@ qinav.com###qinav_a2
 qinav.com##.b300
 qinav.com##li:nth-of-type(5)
 qiuquan.cc##.asb-post-footer
+qixiaozhu.com##.share-box
 qiyeshangpu.com##.k-right
 qiyisq.com##.wp > .z
 qklw.com##.pull-right
