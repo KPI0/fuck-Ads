@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-21
+! TimeUpdated: 2023-02-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -840,6 +840,7 @@ zztt37.com##*
 *###ADimg
 *###adlinkT
 *###adlisli
+*###adnewsscroll
 *###ads
 *###Ads
 *###ads-in-topic-top
@@ -1079,6 +1080,15 @@ zztt37.com##*
 *##.ad9-home
 *##.ad9Style
 *##.ad_0
+*##.ad_01
+*##.ad_02
+*##.ad_03
+*##.ad_04
+*##.ad_05
+*##.ad_06
+*##.ad_07
+*##.ad_08
+*##.ad_09
 *##.ad_1
 *##.ad_10
 *##.AD_1200_108
@@ -1427,6 +1437,7 @@ zztt37.com##*
 *##.n-top__ad
 *##.new_part_rightcontad
 *##.newAd
+*##.newad-a
 *##.news-advertising
 *##.news_ad
 *##.news_ad1
@@ -1734,6 +1745,7 @@ zztt37.com##*
 360lvse.com##.sx-webz
 360lvse.com##div.banner
 361shipin.com##.sm6.xs12.align-self-center.text-right.flex
+365jia.cn##.bshare-custom
 365jia.cn##.nt_share
 36dm.club##.top_nav > .right > [href="javascript:void(0);"]
 36kr.com##.app-track-card
@@ -1947,6 +1959,7 @@ amma.artron.net##.tool-site
 amma.artron.net##div.tool-Article:nth-of-type(1) > .tool-Article-ul > li:nth-of-type(1)
 anfensi.com##strong
 anhukeji.com##.bdsharebuttonbox
+anrayli.com##.bdshare_t
 antpedia.com##.share
 aofuo.com##.clearfix.myui-foot
 apkpure.com##.share-btn
@@ -2413,6 +2426,20 @@ cn.nytimes.com##.footerLink.last
 cn.nytimes.com##.mobile-article.share-tools
 cn.nytimes.com##.ribbon-show.article-ribbon
 cn.pornhub.com##.shareButton
+cnal.com###indexbd
+cnal.com###indexbd1
+cnal.com###indexbd11
+cnal.com###indexbd2
+cnal.com###indexbd_04
+cnal.com###indexbd_05
+cnal.com###indexbd_06
+cnal.com###indexbd_07
+cnal.com###indexbd_32
+cnal.com###indexbd_34
+cnal.com###indexbd_35
+cnal.com###indexbd_36
+cnal.com###indexbd_38
+cnal.com##.indextop_rbd
 cnbeta.com###McYZCXfQZn
 cnbeta.com.tw##.article-share-code
 cnblogs.com###green_channel_wechat
@@ -3738,6 +3765,7 @@ m.fx361.com##.icon-shouji.iconfont
 m.fx361.com##span.tool-icon:nth-of-type(n)
 m.gaoshouyou.com##.gsy-gd
 m.gcsh.net##.pullUp
+m.gdjinge.com##.newsShare
 m.gldjc.com##.page-bottom
 m.gmw.cn##.m-shareCon
 m.gome.com.cn###topMDownapp
@@ -4325,6 +4353,7 @@ newqc.cn##.pbvideo-share
 news.0551fangchan.com##.bdsharebuttonbox
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
+news.bjx.com.cn##.share
 news.caijingmobile.com##.bottom-flash
 news.caijingmobile.com##.qrcode
 news.cctv.com##.cur.silde > .right_text > .share
@@ -4677,6 +4706,7 @@ rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
+right.com.cn##.sharep
 right.com.cn##.z
 right.com.cn##.z > [href="https://right.com.cn/forum/"]
 right.com.cn##.z > [href="javascript:;"]
