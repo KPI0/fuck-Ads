@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-22
+! TimeUpdated: 2023-02-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -56,6 +56,8 @@
 466.fun##*
 4hu.tv##*
 516b.info##*
+51cg.fun##*
+51cg1.com##*
 51xiazai.cn##*
 52av.one##*
 52pk.com##*
@@ -191,6 +193,7 @@ cableav.tv##*
 caolll.com##*
 ccafc.org.cn##*
 ccbflp.com##*
+ccgg14.com##*
 ccho.cc##*
 cdymsm.com##*
 cfgioa.com##*
@@ -883,6 +886,7 @@ zztt37.com##*
 *###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
 *###BannerZoneAD_Div25
+*###bdshare
 *###bottom-adv
 *###bottomADBanner
 *###bottomads
@@ -1035,6 +1039,8 @@ zztt37.com##*
 *##.Ad-list
 *##.ad-m
 *##.ad-mobile
+*##.ad-num-5
+*##.ad-num-wrap
 *##.ad-pc
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
@@ -1159,6 +1165,7 @@ zztt37.com##*
 *##.adimg
 *##.Adimg
 *##.ADimg
+*##.adiv
 *##.adList
 *##.ads
 *##.ads-item
@@ -1274,6 +1281,7 @@ zztt37.com##*
 *##.boxad
 *##.BoxAdContent
 *##.BoxAdTop
+*##.bshare-custom
 *##.btmAd
 *##.btmad
 *##.c-nav-advertising
@@ -1766,6 +1774,7 @@ zztt37.com##*
 3g.163.com##.widget-floatMenu
 3g.163.com##footer > span
 3g.china.com##.header_app
+3g.k.sohu.com##.back-to-channel-fixed
 3g.made-in-china.com###shareBtnId
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
@@ -2941,6 +2950,7 @@ go.cqmmgo.com##.wanneng-menu > .wn-box
 go.cqmmgo.com##.wn-icon
 godbolt.org##.btn-outline-primary.btn.nav-item
 gog.com##div.footer-microservice__middle-section:nth-of-type(2)
+gollay.cn###bdshare
 golue.com##.rztList
 golue.com##.w320.fr.right
 gome.com.cn###gome-aside-app
@@ -3005,6 +3015,7 @@ h5.stcn.com##.app-download-fixed
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
 ha.huatu.com##body > div > div
+hangyudl.com##.p-preview-share
 hanyu.baidu.com###fengchao
 hanyu.baidu.com##.app-download
 hanyu.baidu.com##.app-qrcode
@@ -3547,6 +3558,7 @@ lcread.com###huodong
 ld-seo.com##.bdsharebuttonbox
 le.com##.top_share
 legaldaily.com.cn##.bshare-custom
+lelink-iot.com##.bshare-custom
 lianbaike.net##.j-share
 lianmenghao.cn##.single-share
 lianmenhu.com##.bdsharebuttonbox
@@ -4292,6 +4304,7 @@ msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+msjh520.com###player-left > div:nth-of-type(2)
 mt.sohu.com###big-share > ul
 mtop.aizhan.com###ny_c
 mtop.aizhan.com###yx_content5
@@ -4718,6 +4731,8 @@ rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
 ruons.com##.mobile_click
+s.1688.com##.common-promotionBanner
+s.1688.com##.download-app-banner
 s.kaoyaya.com##.custom-window
 saky.com.cn##.m-footer-share
 samsung.com##.static-content
@@ -4728,6 +4743,8 @@ science.caixin.com##.rssBox
 science.caixin.com##.share_tool
 sdshangli.com##.br.mb.sb.airgg
 sdxgyq.net##.d_textbanner.widget
+sdyndqkj.com##.bdshare_t
+sdyndqkj.com##.list_p > .clearfix
 search.bilibili.com##.download-client-trigger.download-entry
 search.bilibili.com##.footer_right
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -5495,6 +5512,10 @@ west.cn##.bdsharebuttonbox
 west.cn##.carousel-inner
 west.cn##.clouthost_out
 wetv.vip##.download-tips.tips
+whjtdgg.com##.external
+whjtdgg.com##.static.container > div:nth-of-type(3)
+whjtdgg.com##body > div:nth-of-type(2)
+whjtdgg.com##body > p
 wifilu.com##.post-end-tool-btn-item.post-share-btn
 wiki.antpedia.com##[href^="https://www.antpedia.com/antad/"]
 wiki.biligame.com##.app-download-bar
@@ -6015,6 +6036,7 @@ zzzyk.com##div.zykmore
 ||h05hxsame.hexun.com$subdocument
 ||hfhff.zhuzhai.com$subdocument
 ||hg2kkjhkll.huguan123.com$subdocument
+||hnrte.ghkmoert.xyz$image
 ||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
 ||huayiyuan.hk$image
