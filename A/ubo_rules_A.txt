@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-22
+! TimeUpdated: 2023-02-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -155,6 +155,7 @@
 *###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
 *###BannerZoneAD_Div25
+*###bdshare
 *###bottom-adv
 *###bottomADBanner
 *###bottomads
@@ -307,6 +308,8 @@
 *##.Ad-list
 *##.ad-m
 *##.ad-mobile
+*##.ad-num-5
+*##.ad-num-wrap
 *##.ad-pc
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
@@ -431,6 +434,7 @@
 *##.adimg
 *##.Adimg
 *##.ADimg
+*##.adiv
 *##.adList
 *##.ads
 *##.ads-item
@@ -546,6 +550,7 @@
 *##.boxad
 *##.BoxAdContent
 *##.BoxAdTop
+*##.bshare-custom
 *##.btmAd
 *##.btmad
 *##.c-nav-advertising
@@ -1038,6 +1043,7 @@
 3g.163.com##.widget-floatMenu
 3g.163.com##footer > span
 3g.china.com##.header_app
+3g.k.sohu.com##.back-to-channel-fixed
 3g.made-in-china.com###shareBtnId
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
@@ -2213,6 +2219,7 @@ go.cqmmgo.com##.wanneng-menu > .wn-box
 go.cqmmgo.com##.wn-icon
 godbolt.org##.btn-outline-primary.btn.nav-item
 gog.com##div.footer-microservice__middle-section:nth-of-type(2)
+gollay.cn###bdshare
 golue.com##.rztList
 golue.com##.w320.fr.right
 gome.com.cn###gome-aside-app
@@ -2277,6 +2284,7 @@ h5.stcn.com##.app-download-fixed
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
 ha.huatu.com##body > div > div
+hangyudl.com##.p-preview-share
 hanyu.baidu.com###fengchao
 hanyu.baidu.com##.app-download
 hanyu.baidu.com##.app-qrcode
@@ -2819,6 +2827,7 @@ lcread.com###huodong
 ld-seo.com##.bdsharebuttonbox
 le.com##.top_share
 legaldaily.com.cn##.bshare-custom
+lelink-iot.com##.bshare-custom
 lianbaike.net##.j-share
 lianmenghao.cn##.single-share
 lianmenhu.com##.bdsharebuttonbox
@@ -3564,6 +3573,7 @@ msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+msjh520.com###player-left > div:nth-of-type(2)
 mt.sohu.com###big-share > ul
 mtop.aizhan.com###ny_c
 mtop.aizhan.com###yx_content5
@@ -3990,6 +4000,8 @@ rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
 ruons.com##.mobile_click
+s.1688.com##.common-promotionBanner
+s.1688.com##.download-app-banner
 s.kaoyaya.com##.custom-window
 saky.com.cn##.m-footer-share
 samsung.com##.static-content
@@ -4000,6 +4012,8 @@ science.caixin.com##.rssBox
 science.caixin.com##.share_tool
 sdshangli.com##.br.mb.sb.airgg
 sdxgyq.net##.d_textbanner.widget
+sdyndqkj.com##.bdshare_t
+sdyndqkj.com##.list_p > .clearfix
 search.bilibili.com##.download-client-trigger.download-entry
 search.bilibili.com##.footer_right
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
@@ -4705,7 +4719,6 @@ wenku.baidu.com##.client-btn.middle-btn
 wenku.baidu.com##.client-btn.small-btn > .tool-icon
 wenku.baidu.com##.client-download-content
 wenku.baidu.com##.client-rec-wrapper
-wenku.baidu.com##.close
 wenku.baidu.com##.comp-share-wrap
 wenku.baidu.com##.dialog-mask
 wenku.baidu.com##.doc-btns-wrap > .app-btn.small-btn
@@ -4714,13 +4727,10 @@ wenku.baidu.com##.edit-subscription-content
 wenku.baidu.com##.experience-card-content
 wenku.baidu.com##.experience-card-wrap
 wenku.baidu.com##.fold-page-tip
-wenku.baidu.com##.has-cashier-card.try-end-fold-page
 wenku.baidu.com##.hx-bottom-wrapper
 wenku.baidu.com##.hx-recom-wrapper
 wenku.baidu.com##.hx-warp
 wenku.baidu.com##.icon-client.class-head
-wenku.baidu.com##.inner-vip.comp-vip-pop
-wenku.baidu.com##.inner-vip.vip-pop-wrap
 wenku.baidu.com##.mod.authority-publish-wrapper
 wenku.baidu.com##.mod.brand-content-wrapper
 wenku.baidu.com##.mod.edit-subscription-dialog-wrapper > .mask
@@ -4730,21 +4740,10 @@ wenku.baidu.com##.red-text
 wenku.baidu.com##.share-btn
 wenku.baidu.com##.sidebar-wrapper
 wenku.baidu.com##.sider-edge.wk-web-5219.fix-block.relative-doc-newwrapper > .relative-doc-in-wrapper > .hx-wrapper
-wenku.baidu.com##.tip-text
-wenku.baidu.com##.tool-bar-wrap > .btns-wrap
-wenku.baidu.com##.tool-bar.app-btn.small-btn > .tool-icon
-wenku.baidu.com##.toolbar-pc-search-guide
-wenku.baidu.com##.tools-wrapper
-wenku.baidu.com##.vip-activity-content
-wenku.baidu.com##.vip-pop-inner
+wenku.baidu.com##.vip-activity-wrap-new
+wenku.baidu.com##.vip-member-pop-content
 wenku.baidu.com##.vip-privilege-card-wrap
-wenku.baidu.com##.wkWeb6122-0.hx-warp
-wenku.baidu.com##.zhenxuan-guide
-wenku.baidu.com##a:nth-of-type(3)
-wenku.baidu.com##a:nth-of-type(4)
 wenku.baidu.com##div.group-block
-wenku.baidu.com##div.small-btn
-wenku.baidu.com##div.tool-item
 wenmi.com##.alert-bounceIn.copy-alert
 wenmi.com##.art-useful.alc
 wenmi.com##.block-tjfw.mt40 > .fthin.ft20
@@ -4767,6 +4766,10 @@ west.cn##.bdsharebuttonbox
 west.cn##.carousel-inner
 west.cn##.clouthost_out
 wetv.vip##.download-tips.tips
+whjtdgg.com##.external
+whjtdgg.com##.static.container > div:nth-of-type(3)
+whjtdgg.com##body > div:nth-of-type(2)
+whjtdgg.com##body > p
 wifilu.com##.post-end-tool-btn-item.post-share-btn
 wiki.antpedia.com##[href^="https://www.antpedia.com/antad/"]
 wiki.biligame.com##.app-download-bar
@@ -5287,6 +5290,7 @@ zzzyk.com##div.zykmore
 ||h05hxsame.hexun.com$subdocument
 ||hfhff.zhuzhai.com$subdocument
 ||hg2kkjhkll.huguan123.com$subdocument
+||hnrte.ghkmoert.xyz$image
 ||hsfw.riji13.com$subdocument
 ||huangtupian.com$image
 ||huayiyuan.hk$image
