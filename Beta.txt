@@ -5450,7 +5450,6 @@ wenku.baidu.com##.client-btn.middle-btn
 wenku.baidu.com##.client-btn.small-btn > .tool-icon
 wenku.baidu.com##.client-download-content
 wenku.baidu.com##.client-rec-wrapper
-wenku.baidu.com##.close
 wenku.baidu.com##.comp-share-wrap
 wenku.baidu.com##.dialog-mask
 wenku.baidu.com##.doc-btns-wrap > .app-btn.small-btn
@@ -5459,13 +5458,10 @@ wenku.baidu.com##.edit-subscription-content
 wenku.baidu.com##.experience-card-content
 wenku.baidu.com##.experience-card-wrap
 wenku.baidu.com##.fold-page-tip
-wenku.baidu.com##.has-cashier-card.try-end-fold-page
 wenku.baidu.com##.hx-bottom-wrapper
 wenku.baidu.com##.hx-recom-wrapper
 wenku.baidu.com##.hx-warp
 wenku.baidu.com##.icon-client.class-head
-wenku.baidu.com##.inner-vip.comp-vip-pop
-wenku.baidu.com##.inner-vip.vip-pop-wrap
 wenku.baidu.com##.mod.authority-publish-wrapper
 wenku.baidu.com##.mod.brand-content-wrapper
 wenku.baidu.com##.mod.edit-subscription-dialog-wrapper > .mask
@@ -5475,21 +5471,10 @@ wenku.baidu.com##.red-text
 wenku.baidu.com##.share-btn
 wenku.baidu.com##.sidebar-wrapper
 wenku.baidu.com##.sider-edge.wk-web-5219.fix-block.relative-doc-newwrapper > .relative-doc-in-wrapper > .hx-wrapper
-wenku.baidu.com##.tip-text
-wenku.baidu.com##.tool-bar-wrap > .btns-wrap
-wenku.baidu.com##.tool-bar.app-btn.small-btn > .tool-icon
-wenku.baidu.com##.toolbar-pc-search-guide
-wenku.baidu.com##.tools-wrapper
-wenku.baidu.com##.vip-activity-content
-wenku.baidu.com##.vip-pop-inner
+wenku.baidu.com##.vip-activity-wrap-new
+wenku.baidu.com##.vip-member-pop-content
 wenku.baidu.com##.vip-privilege-card-wrap
-wenku.baidu.com##.wkWeb6122-0.hx-warp
-wenku.baidu.com##.zhenxuan-guide
-wenku.baidu.com##a:nth-of-type(3)
-wenku.baidu.com##a:nth-of-type(4)
 wenku.baidu.com##div.group-block
-wenku.baidu.com##div.small-btn
-wenku.baidu.com##div.tool-item
 wenmi.com##.alert-bounceIn.copy-alert
 wenmi.com##.art-useful.alc
 wenmi.com##.block-tjfw.mt40 > .fthin.ft20
