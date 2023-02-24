@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-23
+! TimeUpdated: 2023-02-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -863,6 +863,7 @@ zztt37.com##*
 *###adv7
 *###adv8
 *###adv9
+*###adv_down_url
 *###adversiment
 *###advertisement
 *###advertisements
@@ -1896,6 +1897,7 @@ a.xcar.com.cn##.open-app-entry
 a8q.cn##li.list-group-item:nth-of-type(3)
 a8q.cn##marquee
 a8wl.xyz##.widget
+aazwx.com###tcc
 abbreviationfinder.org##.single_bottom_shart
 abi.com.cn##.cl.cr_share
 ac.qq.com###sideComCodeWrap > [href="javascript:void(0)"]
@@ -1971,6 +1973,7 @@ anhukeji.com##.bdsharebuttonbox
 anrayli.com##.bdshare_t
 antpedia.com##.share
 aofuo.com##.clearfix.myui-foot
+aoy-power.com##.shareInfo
 apkpure.com##.share-btn
 apollounion.com##.wap-hide.share
 app.4399.cn##.description
@@ -2183,6 +2186,7 @@ blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.guide-box
+blog.csdn.net##.guide-rr-first
 blog.csdn.net##.m_toolbar_left_app_btn
 blog.csdn.net##.operate_share_box
 blog.csdn.net##.passport-login-box
@@ -3300,6 +3304,7 @@ jb51.net##.blank10
 jb51.net##.blank5
 jb51.net##.clearfix.pt10
 jb51.net##.rFixedBox
+jccjrjy.org.cn###tcc
 jd.com###J_fs_act
 jd.com###J_promo_lk
 jd.com##.activity-top
@@ -3714,6 +3719,9 @@ m.cifnews.com##.open-app
 m.cncn.net##.my-wd
 m.cngold.org##.mt20.clearfix.section_btn
 m.cnhubei.com##.bg
+m.co188.com##.app_btns
+m.co188.com##.zl_operate_share
+m.co188.com##div.app_browser_item:nth-of-type(3)
 m.creprice.cn##.app_download
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
