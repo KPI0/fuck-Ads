@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-24
+! TimeUpdated: 2023-02-25
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -118,6 +118,7 @@
 9sex.tv##*
 9upk.com##*
 9xxx.net##*
+a123fb.com##*
 a123fn.com##*
 a123fp.com##*
 a1av.xyz##*
@@ -874,6 +875,15 @@ zztt37.com##*
 *###appad
 *###appAdv
 *###appadv
+*###article_soft_ad1
+*###article_soft_ad2
+*###article_soft_ad3
+*###article_soft_ad4
+*###article_soft_ad5
+*###article_soft_ad6
+*###article_soft_ad7
+*###article_soft_ad8
+*###article_soft_ad9
 *###aside-ad
 *###Baidu-bottomAd
 *###Baidu-bottomad
@@ -1102,6 +1112,7 @@ zztt37.com##*
 *##.ad_1200_108
 *##.AD_1220x90
 *##.ad_1220x90
+*##.AD_190_90
 *##.AD_199_72
 *##.ad_199_72
 *##.ad_2
@@ -1550,6 +1561,7 @@ zztt37.com##*
 *##.top_appAd_fixed
 *##.topad
 *##.topappad
+*##.topgg
 *##.tx-info-module-box
 *##.videoSideAds
 *##.view-ad
@@ -2192,6 +2204,7 @@ blog.csdn.net##.operate_share_box
 blog.csdn.net##.passport-login-box
 blog.csdn.net##.passport-login-container
 blog.csdn.net##.passport-login-mark
+blog.csdn.net##.rr-guide-box
 blog.csdn.net##.share-btn
 blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
@@ -4222,6 +4235,7 @@ maxiaobang.com##.j-share.action-item
 mayiwenku.com###boxleft > table
 mbachina.com##.jesong_pan_icon
 mbachina.com##.suspend-right > ul
+mbb.eet-china.com##.share-list
 mbb.eet-china.com##.site-follow
 mbd.baidu.com##.drag-bottom
 mbd.baidu.com##.headDeflectorContainer
@@ -4374,7 +4388,9 @@ newqc.cn##.pbvideo-share
 news.0551fangchan.com##.bdsharebuttonbox
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
+news.bjx.com.cn##.cc-inst
 news.bjx.com.cn##.share
+news.bjx.com.cn##.sign
 news.caijingmobile.com##.bottom-flash
 news.caijingmobile.com##.qrcode
 news.cctv.com##.cur.silde > .right_text > .share
@@ -5635,6 +5651,7 @@ xinqtech.com##.downbtn
 xinxisea.com##.icon-share
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
+xitongzhijia.net##.fl.m-soft-share
 xkzzz.com###aPshow1
 xkzzz.com##.apshow
 xkzzz.com##.ml-plist
