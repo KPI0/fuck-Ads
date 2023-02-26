@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-25
+! TimeUpdated: 2023-02-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -57,6 +57,8 @@
 4hu.tv##*
 516b.info##*
 51cg.fun##*
+51cg.plus##*
+51cg1.co##*
 51cg1.com##*
 51xiazai.cn##*
 52av.one##*
@@ -70,6 +72,7 @@
 591.se##*
 59867pq.com##*
 5you.com##*
+6039tom.com##*
 6188.net##*
 61maoak.com##*
 634.tv##*
@@ -89,6 +92,7 @@
 855.fun##*
 88888888av.com##*
 8pn8sc.com##*
+8ucg9.xyz##*
 9188qp.com##*
 91bx.org##*
 91hub.cc##*
@@ -117,6 +121,7 @@
 99box.com##*
 9sex.tv##*
 9upk.com##*
+9xt64.xyz##*
 9xxx.net##*
 a123fb.com##*
 a123fn.com##*
@@ -142,6 +147,7 @@ antivirus.rising.com.cn##*
 anxz.com##*
 anyxz.com##*
 apkevery.com##*
+app003.vip##*
 app378.com##*
 appav.live##*
 appchina.com##*
@@ -169,6 +175,7 @@ baipiao2.com##*
 baofeng.com##*
 bb51.me##*
 bbailo.vip##*
+bbaizhe.xyz##*
 bear20.com##*
 bel345.com##*
 bel789.com##*
@@ -254,6 +261,7 @@ dygjkb.com##*
 dyxhw.com##*
 e59f.com##*
 e989.tv##*
+eeussnb.com##*
 epochtimes.com##*
 esoftor.com##*
 estyle.wang##*
@@ -281,6 +289,7 @@ ggdyx.com##*
 gha678.com##*
 gmb456.com##*
 gokahoikuen.com##*
+goxincs330.com##*
 greenxf.com##*
 greenxiazai.com##*
 grl567.com##*
@@ -298,6 +307,7 @@ hardsextube.com##*
 hb6s.com##*
 hbook.me##*
 heibi100.com##*
+heiliao112.pro##*
 heiliao9.pro##*
 heraa.cc##*
 hi.com##*
@@ -388,6 +398,7 @@ kaenv.com##*
 kb69.top##*
 keledh.ga##*
 ken234.com##*
+kh10w.xyz##*
 kids0cn.com##*
 kjcenter.com##*
 kkx.net##*
@@ -462,6 +473,7 @@ men.com##*
 mex345.com##*
 mex678.com##*
 mg86.net##*
+mh3618.com##*
 missav.com##*
 mitao888.com##*
 mm1.app##*
@@ -620,6 +632,7 @@ timo7.com##*
 tkbpyg.life##*
 tktube.com##*
 tom3828.com##*
+tomtv220.com##*
 ton456.com##*
 tongying.cc##*
 tongying.info##*
@@ -700,6 +713,7 @@ xz7.com##*
 yangbit.com##*
 yashenggd.com##*
 ydan.cc##*
+ydrhg.xyz##*
 yegonghaose555.com##*
 yg10.app##*
 yijirecovery.com##*
@@ -872,6 +886,7 @@ zztt37.com##*
 *###aliyunAD
 *###anchorads
 *###app-ad
+*###app_ad_pic
 *###appad
 *###appAdv
 *###appadv
@@ -1173,6 +1188,7 @@ zztt37.com##*
 *##.adbox_above
 *##.adcolumn
 *##.add_advert
+*##.add_advertisement
 *##.adgg
 *##.adimg
 *##.Adimg
@@ -1691,6 +1707,7 @@ zztt37.com##*
 1905.com##.clear.pic-other
 1905.com##.open-link
 1905.com##.tools-itemShare
+192-168-1-1.com.cn##.Share
 1eh.cn##.mobile_click
 1kkk.com##.bottom-ys-con
 1kkk.com##.btn-4
@@ -1868,6 +1885,7 @@ zztt37.com##*
 8899lt.com##body > div > table > tbody > tr > td
 8btc.com##div.bbt-col-xs-4:nth-of-type(6)
 8btc.com##div.item:nth-of-type(2)
+8ucg9.xyz##.common
 912688.com##.float-nav-purchase
 91exam.org##.a2 > div
 91exam.org##.page
@@ -1897,6 +1915,7 @@ zztt37.com##*
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
+9xt64.xyz##.common
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
 a-hospital.com##.bdsharebuttonbox
@@ -3512,6 +3531,9 @@ kejiwanjia.com##code:nth-of-type(3)
 kejiwanjia.com##div.bar-item:nth-of-type(3)
 kfzbg.com##.social-share.share-component
 kg.qq.com##.mod_go
+kh10w.xyz##.common
+kh10w.xyz##[class="header_right"]
+kh10w.xyz##[href="https://5341t.com:30653"]
 kjmti.com##.bdsharebuttonbox
 kkgcn.com###main > div > span
 kkgcn.com##.abc-site
@@ -5555,6 +5577,7 @@ wk.baidu.com##.wk-student
 wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
 woliam.com##.art-content > .onlywap
+woliam.com##.bgff.dkpro_kztg
 woliam.com##.share-component.social-share
 word.feibu.info##.share-component.social-share
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
@@ -5720,6 +5743,7 @@ yd.baidu.com##.open-fixed-bars
 yd.baidu.com##.page-mask
 yd.baidu.com##.top-download
 ydd17.com##.activity11
+ydrhg.xyz##.common
 yebaike.com##.social-share.share-component
 yes321.com##[href="https://yes321.com/prod/yesapp/commonality/downApp/down.html"]
 yesky.com##li:nth-of-type(4)
