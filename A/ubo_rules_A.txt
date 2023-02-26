@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-23
+! TimeUpdated: 2023-02-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -132,6 +132,7 @@
 *###adv7
 *###adv8
 *###adv9
+*###adv_down_url
 *###adversiment
 *###advertisement
 *###advertisements
@@ -139,9 +140,19 @@
 *###aliyunAD
 *###anchorads
 *###app-ad
+*###app_ad_pic
 *###appad
 *###appAdv
 *###appadv
+*###article_soft_ad1
+*###article_soft_ad2
+*###article_soft_ad3
+*###article_soft_ad4
+*###article_soft_ad5
+*###article_soft_ad6
+*###article_soft_ad7
+*###article_soft_ad8
+*###article_soft_ad9
 *###aside-ad
 *###Baidu-bottomAd
 *###Baidu-bottomad
@@ -370,6 +381,7 @@
 *##.ad_1200_108
 *##.AD_1220x90
 *##.ad_1220x90
+*##.AD_190_90
 *##.AD_199_72
 *##.ad_199_72
 *##.ad_2
@@ -430,6 +442,7 @@
 *##.adbox_above
 *##.adcolumn
 *##.add_advert
+*##.add_advertisement
 *##.adgg
 *##.adimg
 *##.Adimg
@@ -818,6 +831,7 @@
 *##.top_appAd_fixed
 *##.topad
 *##.topappad
+*##.topgg
 *##.tx-info-module-box
 *##.videoSideAds
 *##.view-ad
@@ -947,6 +961,7 @@
 1905.com##.clear.pic-other
 1905.com##.open-link
 1905.com##.tools-itemShare
+192-168-1-1.com.cn##.Share
 1eh.cn##.mobile_click
 1kkk.com##.bottom-ys-con
 1kkk.com##.btn-4
@@ -1124,6 +1139,7 @@
 8899lt.com##body > div > table > tbody > tr > td
 8btc.com##div.bbt-col-xs-4:nth-of-type(6)
 8btc.com##div.item:nth-of-type(2)
+8ucg9.xyz##.common
 912688.com##.float-nav-purchase
 91exam.org##.a2 > div
 91exam.org##.page
@@ -1153,6 +1169,7 @@
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
+9xt64.xyz##.common
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
 a-hospital.com##.bdsharebuttonbox
@@ -1165,6 +1182,7 @@ a.xcar.com.cn##.open-app-entry
 a8q.cn##li.list-group-item:nth-of-type(3)
 a8q.cn##marquee
 a8wl.xyz##.widget
+aazwx.com###tcc
 abbreviationfinder.org##.single_bottom_shart
 abi.com.cn##.cl.cr_share
 ac.qq.com###sideComCodeWrap > [href="javascript:void(0)"]
@@ -1240,6 +1258,7 @@ anhukeji.com##.bdsharebuttonbox
 anrayli.com##.bdshare_t
 antpedia.com##.share
 aofuo.com##.clearfix.myui-foot
+aoy-power.com##.shareInfo
 apkpure.com##.share-btn
 apollounion.com##.wap-hide.share
 app.4399.cn##.description
@@ -1452,11 +1471,13 @@ blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.feed-Sign-span
 blog.csdn.net##.guide-box
+blog.csdn.net##.guide-rr-first
 blog.csdn.net##.m_toolbar_left_app_btn
 blog.csdn.net##.operate_share_box
 blog.csdn.net##.passport-login-box
 blog.csdn.net##.passport-login-container
 blog.csdn.net##.passport-login-mark
+blog.csdn.net##.rr-guide-box
 blog.csdn.net##.share-btn
 blog.csdn.net##.tool-QRcode.tool-active.tool-item-size.tool-item
 blog.csdn.net##.wap-shadowbox.weixin-shadowbox
@@ -2569,6 +2590,7 @@ jb51.net##.blank10
 jb51.net##.blank5
 jb51.net##.clearfix.pt10
 jb51.net##.rFixedBox
+jccjrjy.org.cn###tcc
 jd.com###J_fs_act
 jd.com###J_promo_lk
 jd.com##.activity-top
@@ -2763,6 +2785,9 @@ kejiwanjia.com##code:nth-of-type(3)
 kejiwanjia.com##div.bar-item:nth-of-type(3)
 kfzbg.com##.social-share.share-component
 kg.qq.com##.mod_go
+kh10w.xyz##.common
+kh10w.xyz##[class="header_right"]
+kh10w.xyz##[href="https://5341t.com:30653"]
 kjmti.com##.bdsharebuttonbox
 kkgcn.com###main > div > span
 kkgcn.com##.abc-site
@@ -2983,6 +3008,9 @@ m.cifnews.com##.open-app
 m.cncn.net##.my-wd
 m.cngold.org##.mt20.clearfix.section_btn
 m.cnhubei.com##.bg
+m.co188.com##.app_btns
+m.co188.com##.zl_operate_share
+m.co188.com##div.app_browser_item:nth-of-type(3)
 m.creprice.cn##.app_download
 m.dgjs123.com##.gg_c
 m.dgjs123.com##.gg_c3
@@ -3483,6 +3511,7 @@ maxiaobang.com##.j-share.action-item
 mayiwenku.com###boxleft > table
 mbachina.com##.jesong_pan_icon
 mbachina.com##.suspend-right > ul
+mbb.eet-china.com##.share-list
 mbb.eet-china.com##.site-follow
 mbd.baidu.com##.drag-bottom
 mbd.baidu.com##.headDeflectorContainer
@@ -3635,7 +3664,9 @@ newqc.cn##.pbvideo-share
 news.0551fangchan.com##.bdsharebuttonbox
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
+news.bjx.com.cn##.cc-inst
 news.bjx.com.cn##.share
+news.bjx.com.cn##.sign
 news.caijingmobile.com##.bottom-flash
 news.caijingmobile.com##.qrcode
 news.cctv.com##.cur.silde > .right_text > .share
@@ -4800,6 +4831,7 @@ wk.baidu.com##.wk-student
 wk.baidu.com##.wk-student-defense
 woliakan.com##.clearfix.stui-extra
 woliam.com##.art-content > .onlywap
+woliam.com##.bgff.dkpro_kztg
 woliam.com##.share-component.social-share
 word.feibu.info##.share-component.social-share
 work.weixin.qq.com##div.frame_foot_nav_item:nth-of-type(6)
@@ -4896,6 +4928,7 @@ xinqtech.com##.downbtn
 xinxisea.com##.icon-share
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
+xitongzhijia.net##.fl.m-soft-share
 xkzzz.com###aPshow1
 xkzzz.com##.apshow
 xkzzz.com##.ml-plist
@@ -4964,6 +4997,7 @@ yd.baidu.com##.open-fixed-bars
 yd.baidu.com##.page-mask
 yd.baidu.com##.top-download
 ydd17.com##.activity11
+ydrhg.xyz##.common
 yebaike.com##.social-share.share-component
 yes321.com##[href="https://yes321.com/prod/yesapp/commonality/downApp/down.html"]
 yesky.com##li:nth-of-type(4)
