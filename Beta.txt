@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-26
+! TimeUpdated: 2023-02-27
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4748,6 +4748,7 @@ qxzs.org.cn##.bdsharebuttonbox
 qy-dz.com##.shareContainer
 rakuten.com.tw##.radtop-pop-box
 rakuten.com.tw##.superbanner
+rdhyw.com##.hfgg
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
 read01.com##.share_btn
@@ -5406,6 +5407,7 @@ wangchuang8.com##.mt-3.col-auto.wctg-md1-wc6
 wangchuang8.com##.share-link.go-copy
 wangfuchao.com##.hover-show.action-share.action
 wangluohuodong.com##.fastpost-popup
+wanqh.com##.wpcom_myimg_wrap
 wap.10086.cn##.lb_ad
 wap.21food.cn##.bann_ndf
 wap.bixiabook.com###baseHeight
@@ -5996,6 +5998,7 @@ zzzyk.com##div.zykmore
 ||b1.feimiao.cn/*$subdocument
 ||b2.meet99.com$subdocument
 ||b2.meiwenjuzi.com$subdocument
+||baidu.nnen.cn$subdocument
 ||baidu2.cardbaobao.com$subdocument
 ||baidustatic.com$image
 ||baz.96jia.com$subdocument
