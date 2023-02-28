@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-02-26
+! TimeUpdated: 2023-02-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -162,6 +162,7 @@
 *###baidulianmeng1
 *###baidulianmeng2
 *###baidulianmeng3
+*###baidutg
 *###BannerZoneAD_Div1
 *###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
@@ -1209,6 +1210,7 @@ aha-music.com##.ckcontent
 aha-music.com##cloudflare-app
 ahhhhfs.com##.mobile.site_abc_wrap
 ahsrst.cn##.mySwiperBox
+ai-af.cn##.bshareDiv
 aibicl.com##.arrow
 aibicl.com##.ctrolPanel
 aibicl.com##.message
@@ -1421,6 +1423,7 @@ bianews.com##.fr.we_img_box
 bianews.com##.nav-tr-lang
 bianji.wwei.cn##.sidebar-client-box.sidebar-block
 biaoqingba.cn##.shares
+biggo.com.tw##.bicon-share
 biketo.com##.sidebar-QRcode
 bilibili.com##.adblock-tips
 bilibili.com##.app-download-link
@@ -4002,6 +4005,8 @@ qxzs.org.cn##.bdsharebuttonbox
 qy-dz.com##.shareContainer
 rakuten.com.tw##.radtop-pop-box
 rakuten.com.tw##.superbanner
+rdhyw.com##.hfgg
+rdhyw.com##.share
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
 read01.com##.share_btn
@@ -4660,6 +4665,7 @@ wangchuang8.com##.mt-3.col-auto.wctg-md1-wc6
 wangchuang8.com##.share-link.go-copy
 wangfuchao.com##.hover-show.action-share.action
 wangluohuodong.com##.fastpost-popup
+wanqh.com##.wpcom_myimg_wrap
 wap.10086.cn##.lb_ad
 wap.21food.cn##.bann_ndf
 wap.bixiabook.com###baseHeight
@@ -5236,7 +5242,17 @@ zzzyk.com##div.zykmore
 ||abb.baihuwang.com$subdocument
 ||abc.qianbaikefu.com$subdocument
 ||abl.lczk.cn$subdocument
+||ads-api.tiktok.com^
+||adsfs.oppomobile.com^
+||advertising-api-eu.amazon.com^
+||advertising.apple.com^
+||advertising.yahoo.com^
+||advertising.yandex.ru^
+||advice-ads.s3.amazonaws.com^
 ||aiai81.xyz$subdocument
+||analytics.s3.amazonaws.com^
+||analyticsengine.s3.amazonaws.com^
+||appmetrica.yandex.ru^
 ||article.qcyz.cn$subdocument
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
@@ -5250,6 +5266,7 @@ zzzyk.com##div.zykmore
 ||b1.feimiao.cn/*$subdocument
 ||b2.meet99.com$subdocument
 ||b2.meiwenjuzi.com$subdocument
+||baidu.nnen.cn$subdocument
 ||baidu2.cardbaobao.com$subdocument
 ||baidustatic.com$image
 ||baz.96jia.com$subdocument
@@ -5265,6 +5282,8 @@ zzzyk.com##div.zykmore
 ||bd2.thyou.com$subdocument
 ||bda2.sdmtkj.com$subdocument
 ||bdad.webkf.net$subdocument
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
 ||bdb.wxhefei.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||bdlm.ouyu158.com/gg.html$subdocument
@@ -5274,6 +5293,7 @@ zzzyk.com##div.zykmore
 ||bs.kudiaoyu.cn$subdocument
 ||bu2.wang1314.com$subdocument
 ||bujvtes.cn$image
+||business-api.tiktok.com^
 ||c.j0rd.vip$image
 ||c.sitongzixun.com$subdocument
 ||c.tudouxy02.com$subdocument
@@ -5286,11 +5306,13 @@ zzzyk.com##div.zykmore
 ||cdnkbc1pnat.23bei.com$subdocument
 ||cgadres.sgp1.digitaloceanspaces.com$image
 ||chinanews.com/gg$object
+||ck.ads.oppomobile.com^
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||cpro.baidu.com$image
 ||d.shouying.tv$subdocument
 ||d2.92831.net$subdocument
+||data.ads.oppomobile.com^
 ||data.shuomingshu.cn$subdocument
 ||def.sibuzyn.com$subdocument
 ||desk.sstar.xyz$image
@@ -5313,6 +5335,7 @@ zzzyk.com##div.zykmore
 ||ftsxgg2.szrfdq.com$subdocument
 ||g2.kmw.com$subdocument
 ||gdgmhur.cn$image
+||gemini.yahoo.com^
 ||gg.eefocus.com$image
 ||gg2.wenzhaihui.com$subdocument
 ||ggds.hunt007.com$subdocument
@@ -5320,6 +5343,7 @@ zzzyk.com##div.zykmore
 ||gj.eryalawyer.com$subdocument
 ||googleads.g.doubleclick.net$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
+||grs.hicloud.com^
 ||gw.alicdn.com/imgextra/i3/*.png?$image
 ||h05hxsame.hexun.com$subdocument
 ||hfhff.zhuzhai.com$subdocument
@@ -5345,6 +5369,8 @@ zzzyk.com##div.zykmore
 ||index.bizdirlib.com$subdocument
 ||index.chetan.com$subdocument
 ||index.geonamebase.com$subdocument
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
 ||ip.51kubo.com$subdocument
 ||jcylrv.iask.com.cn$subdocument
 ||jeep.renzhongjiaoyu.xyz$image
@@ -5370,6 +5396,7 @@ zzzyk.com##div.zykmore
 ||lesson99.com$image
 ||lfwxe.xyz^$script
 ||lingmei.me$image
+||log.fc.yahoo.com^
 ||lxqwed.top$image
 ||lxy.kuqim.com$subdocument
 ||m.biqusk.org^$script
@@ -5379,12 +5406,14 @@ zzzyk.com##div.zykmore
 ||m6.66077.cn$subdocument
 ||manlungkey.com^$script
 ||meb.ccdengbao.com$subdocument
+||metrika.yandex.ru^
 ||mmjs.tcmap.com.cn/*$subdocument
 ||mw.dachuyi.com$subdocument
 ||n3597.com$image
 ||nbitopmkt.oss-accelerate.aliyuncs.com/bitopmkt$image
 ||ncbf2.nichaw.cn$subdocument
 ||nissifresh.com^$script,domain=jswvip.net
+||offerwall.yandex.net^
 ||omtend.com^$script,domain=jswvip.net
 ||p.abcache.com$image
 ||p.syhh890.com/pic1/ppp$image
@@ -5441,6 +5470,8 @@ zzzyk.com##div.zykmore
 ||two.awnmy.com$subdocument
 ||two.fsylr.com$subdocument
 ||ubb.autotimes.com.cn$subdocument
+||udc.yahoo.com^
+||udcm.yahoo.com^
 ||unmc.bj.bcebos.com$image
 ||v2.juanta.com$subdocument
 ||view.98zw.com$subdocument
@@ -5449,6 +5480,7 @@ zzzyk.com##div.zykmore
 ||vmax-ktv.com^$script
 ||wcl.bailuxiangyuan.com$subdocument
 ||wenku.kuaisou.com/vendor$image
+||widgets.pinterest.com^
 ||wskp.cc$image
 ||www.17ce.com/adwrap$image
 ||www.55xw.net/gg.html$subdocument
