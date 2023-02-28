@@ -6275,3 +6275,9 @@ zzzyk.com##div.zykmore
 ||zv.china-10.com$subdocument
 ||zxq.bj-kevin.com$subdocument
 ||zy2.gk100.com$subdocument
+||analytics.query.yahoo.com^
+||ads-sg.tiktok.com^
+||geo.yahoo.com^
+||app-measurement.com^
+||smetrics.samsung.com^
+||adfstat.yandex.ru^
