@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-02-28
+! TimeUpdated: 2023-03-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -5597,6 +5597,7 @@ wpok.cn###home-row-pics > .wrapper
 wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
+wqbig.com##.j-share.action-item
 wse61.cam##.jsv-g1.jsv
 wstx.com##.gg_3
 wuxiaworld.com##.space-y-1.mx-2
@@ -5719,6 +5720,7 @@ xvideos99.xxx##.fads2
 xw.qq.com##.channel-entry.jsx-2375966888
 xw.qq.com##.shareA
 xxhd15.com##.hf
+xxskszx.com##strong
 xxsy.net###weappimg > div
 xxsy.net##.homeauthor.client
 xy007.net##.share.info-item
@@ -5988,7 +5990,9 @@ zzzyk.com##div.zykmore
 ||abb.baihuwang.com$subdocument
 ||abc.qianbaikefu.com$subdocument
 ||abl.lczk.cn$subdocument
+||adfstat.yandex.ru^
 ||ads-api.tiktok.com^
+||ads-sg.tiktok.com^
 ||adsfs.oppomobile.com^
 ||advertising-api-eu.amazon.com^
 ||advertising.apple.com^
@@ -5996,8 +6000,10 @@ zzzyk.com##div.zykmore
 ||advertising.yandex.ru^
 ||advice-ads.s3.amazonaws.com^
 ||aiai81.xyz$subdocument
+||analytics.query.yahoo.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||app-measurement.com^
 ||appmetrica.yandex.ru^
 ||article.qcyz.cn$subdocument
 ||asf2.hwcha.com$subdocument
@@ -6079,9 +6085,11 @@ zzzyk.com##div.zykmore
 ||fpb2.gaojipro.com$subdocument
 ||fpb2.lz03.cn$subdocument
 ||ftsxgg2.szrfdq.com$subdocument
+||g2.dljdy.com$subdocument
 ||g2.kmw.com$subdocument
 ||gdgmhur.cn$image
 ||gemini.yahoo.com^
+||geo.yahoo.com^
 ||gg.eefocus.com$image
 ||gg2.wenzhaihui.com$subdocument
 ||ggds.hunt007.com$subdocument
@@ -6198,6 +6206,7 @@ zzzyk.com##div.zykmore
 ||sdm.gongxuku.com$subdocument
 ||shiold2.zhaosw.com$subdocument
 ||sina.cn/check$subdocument
+||smetrics.samsung.com^
 ||socialmarketings.com/_nuxt/img/app.7057fd5.png$image
 ||sodata.k12kc.com$subdocument
 ||srxzz.com/bimg/ad1.jpg$image
@@ -6275,9 +6284,3 @@ zzzyk.com##div.zykmore
 ||zv.china-10.com$subdocument
 ||zxq.bj-kevin.com$subdocument
 ||zy2.gk100.com$subdocument
-||analytics.query.yahoo.com^
-||ads-sg.tiktok.com^
-||geo.yahoo.com^
-||app-measurement.com^
-||smetrics.samsung.com^
-||adfstat.yandex.ru^
