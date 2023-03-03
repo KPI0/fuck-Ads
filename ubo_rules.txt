@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-03-01
+! TimeUpdated: 2023-03-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -804,6 +804,7 @@ zztt37.com##*
 *###AD15
 *###ad2
 *###ad3
+*###ad313
 *###ad4
 *###ad5
 *###ad6
@@ -1338,6 +1339,7 @@ zztt37.com##*
 *##.content_ad
 *##.content_Ad
 *##.content_adsense
+*##.control-adv
 *##.couplet_ad
 *##.csbox
 *##.detail-pure-ad-hx-btn
@@ -1825,6 +1827,7 @@ zztt37.com##*
 51hei.com##.topbar_dot > [href="#"]
 51hei.com##.wp > .z
 51jiaoxi.com##.show.global-activity-wrap
+51jrft.com##.fyadds
 51jrq.com##.social-share
 51kanong.com##.comiis_share_key
 51kanong.com##.xigua_a
@@ -1952,6 +1955,7 @@ adult.noodlemagazine.com##.sharing
 afdian.net##.info > .vm-btn
 afdian.net##.mt-32-0.mq.block.banner-door
 afdian.net##a.explore-door.mq.ml-40-16.fs16:nth-of-type(4)
+afzhan.com##.bdshare-box
 aha-music.com##.ckcontent
 aha-music.com##cloudflare-app
 ahhhhfs.com##.mobile.site_abc_wrap
@@ -2021,6 +2025,7 @@ app.myzaker.com###qrcode
 app.myzaker.com##.fixed-comment-bottom-bar
 app.weijj.com##.deepshare
 app.weijj.com##.white.down-top
+app17.com##.yzxx
 appinn.com##.related-posts.mylike
 appm.xtol.cn##.m-page-tip
 archives.zujuan.com##[src="/qrcode_zujuan.jpg"]
@@ -2927,6 +2932,7 @@ fz.17house.com##.clearfix.xidi
 g.pconline.com.cn###JshareBtn
 g.pconline.com.cn##.enter-zt
 g.pconline.com.cn##.repair-mingjia
+g.pconline.com.cn##.wakeUp.app-boc
 game.xiaomi.com##.banner-desktop.banner
 gamelook.com.cn##.entry-share
 games.sina.com.cn##.share_wrap
@@ -3298,6 +3304,7 @@ isharepc.com##.panel-body
 isharepc.com##.wx-pic
 it.huangye88.com##.none > p
 it.huangye88.com##.sma
+item.szlcsc.com##.tjfl.red-package
 ithome.com###down
 ithome.com##.app.sfa
 ithome.com##.shareto
@@ -3331,6 +3338,8 @@ jamesdailylife.com###block-5
 jamesdailylife.com###custom_html-8
 jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
 jamesdailylife.com###sidebar-sticky > .widget_media_image.widget_block.widget
+javaclub.cn###newmodule
+javaclub.cn##.sharebox
 javaforall.cn##.__single_2.wpcom_myimg_wrap
 javaforall.cn##.j-share.action-item
 javashuo.com##.share
@@ -5688,6 +5697,7 @@ xkzzz.com##.ml-plist
 xkzzz.com##.ml-tlist
 xkzzz.com##.s-plist
 xkzzz.com##.s-tlist
+xmsbtauto.com###bshareF
 xmtyy.net##.m-news-button
 xmtyy.net##blockquote
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(n)
@@ -5836,6 +5846,7 @@ zh.numberempire.com##.sharing
 zh.planetcalc.com##.share-buttons
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
+zhaoplc.com##.j-share.action-item
 zhazhijiav.top##div.container:nth-of-type(2)
 zhboyang.com###bdshare
 zhcw.com##.zwqk > .ztX3w-L
