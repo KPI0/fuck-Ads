@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-02
+! TimeUpdated: 2023-03-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -804,6 +804,7 @@ zztt37.com##*
 *###AD15
 *###ad2
 *###ad3
+*###ad313
 *###ad4
 *###ad5
 *###ad6
@@ -1338,6 +1339,7 @@ zztt37.com##*
 *##.content_ad
 *##.content_Ad
 *##.content_adsense
+*##.control-adv
 *##.couplet_ad
 *##.csbox
 *##.detail-pure-ad-hx-btn
@@ -3336,6 +3338,8 @@ jamesdailylife.com###block-5
 jamesdailylife.com###custom_html-8
 jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
 jamesdailylife.com###sidebar-sticky > .widget_media_image.widget_block.widget
+javaclub.cn###newmodule
+javaclub.cn##.sharebox
 javaforall.cn##.__single_2.wpcom_myimg_wrap
 javaforall.cn##.j-share.action-item
 javashuo.com##.share
@@ -5842,6 +5846,7 @@ zh.numberempire.com##.sharing
 zh.planetcalc.com##.share-buttons
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
+zhaoplc.com##.j-share.action-item
 zhazhijiav.top##div.container:nth-of-type(2)
 zhboyang.com###bdshare
 zhcw.com##.zwqk > .ztX3w-L
