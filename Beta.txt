@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-03
+! TimeUpdated: 2023-03-05
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -3069,6 +3069,7 @@ hanyu.baidu.com##li.userbar-item.pipe:nth-of-type(4)
 hanyu.baidu.com##li.userbar-item:nth-of-type(3)
 hao.360.com##.plane-bd > li
 hao.360.com##.plane-bd [href="https://go.360.cn/"]
+hao4k.cn##.comiis_flex .comiis_share_key
 haodf.com###open-app-box
 haohaoyun.com##.topBanner
 haoka88.com##.__single_2.wpcom_myimg_wrap
@@ -4299,6 +4300,7 @@ mgtv.com##div.icon:nth-of-type(2)
 mgtv.com##p > [href^="https://download.imgo.tv"]
 mguba.eastmoney.com###open_app
 mhgui.com##.desktop
+mhwmm.com##.article-share
 mi.com###J_siteDownloadApp
 mi.com##.follow
 mi.com##.item-image.item
@@ -6105,6 +6107,7 @@ zzzyk.com##div.zykmore
 ||gg2.wenzhaihui.com$subdocument
 ||ggds.hunt007.com$subdocument
 ||ggt999.oss-cn-hangzhou.aliyuncs.com$image
+||gif.laipeitu.com/google_1.html$subdocument
 ||gj.eryalawyer.com$subdocument
 ||googleads.g.doubleclick.net$subdocument
 ||googleads.g.doubleclick.net/pagead/ads$subdocument
@@ -6195,6 +6198,7 @@ zzzyk.com##div.zykmore
 ||pornlulu.com/*$image
 ||pos.baidu.com$subdocument
 ||pos.baidu.com/s$subdocument
+||pqjprom.cn^$script,domain=jswvip.net
 ||pxw.chinapp.com$subdocument
 ||q2.heidaren.com$subdocument
 ||q2.nitupic.com$subdocument
