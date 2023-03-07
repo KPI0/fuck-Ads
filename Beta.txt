@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-05
+! TimeUpdated: 2023-03-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4291,7 +4291,9 @@ meipian.cn##.header-navs-menu > .header-navs-link
 meipian.cn##div.bar-item:nth-of-type(3)
 meipian3.cn##.content > div.item:nth-of-type(2)
 meipian3.cn##.guide-confirm
+meipian3.cn##.item.item-share
 meipian3.cn##.mp-fixed-download-open-btn
+meipian3.cn##.show.mp-article-bottom-bar
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
@@ -4513,6 +4515,7 @@ o8tv.com##.playfav > [href="javascript:;"]
 o8tv.com##.popup
 o8tv.com##div.pcad.clearfix.myui-panel-bg.myui-panel
 o8tv.com##li.hidden-xs.hidden-sm.hidden-md > [href="https://dayaodianqi.com/"]
+oachn.net##tbody
 ofec.com.cn##.bshare-custom
 offcn.com##.clearfix.dfgwy_botnew
 offcn.com##.conpag.addMarTop.zg-newMesRight
@@ -4870,6 +4873,7 @@ shop.dixintong.com##.fixed-chou
 shop.vivo.com.cn##.header
 shop.vivo.com.cn##.vp-head-download-show.vp-head-download
 shoudian.org##.attach_tips
+shoudian.org##.sharep
 shoumaquan.com##.box
 show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
@@ -6160,6 +6164,7 @@ zzzyk.com##div.zykmore
 ||kdewa222.familydoctor.com.cn$subdocument
 ||kjhxw.xyz^
 ||kk.qudoula.com$subdocument
+||kvze.lvze365.com$subdocument
 ||ldbbs.ldmnq.com$image
 ||lesson99.com$image
 ||lfwxe.xyz^$script
