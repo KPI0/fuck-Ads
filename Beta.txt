@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-07
+! TimeUpdated: 2023-03-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -3116,6 +3116,7 @@ heziku.com##.j-share.action-item
 hhhyh.com##li.social-item:nth-of-type(3)
 hhyc8888.com##.share-component.social-share
 hicoldcat.com##.post-info-share
+highidea.cn##.shareInfo
 hikmicrotech.com##.type-a.c-flex.c-share
 hinews.cn##.bshare-custom
 hinews.cn##.h80
@@ -3655,6 +3656,9 @@ lzw98.com###likepc
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+m.00563.com##.news-ashop
+m.00563.com##.news-bshop
+m.00563.com##.news-cshop
 m.10jqka.com.cn###backWashNav
 m.10jqka.com.cn##.backwash_download.fl.header-dl
 m.10jqka.com.cn##.favShare-box
@@ -4884,6 +4888,7 @@ shuashuati.com##.homeBanner_3YHSR
 shuashuati.com##.tiQuestionBottom_1AYu2
 shuo.taoguba.com.cn###joinTGB
 shuomingshu.cn##.j-share.action-item
+shupsdy.com##.j-share-render-box
 shzd2-1980066.jqw.com##.shareBox
 shzpmc.chinacrane.net###top > a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(1)
 shzpmc.chinacrane.net##a[href="http://shzpmc.chinacrane.net/"]:nth-of-type(2)
@@ -4914,6 +4919,7 @@ sixu.life##.b-a.bg-white.breadcrumb > div
 sj.qq.com##.GameDetail_brand__AceOG
 sj.qq.com##.Header_downloadQRCodeContainer__kt_si
 sjhv.com##.hover-show.action-share.action
+skepower.cn##.p-preview-share
 sm.ms##.apps-download
 sm.ms##.footer
 sm.ms##.google-download
@@ -5311,6 +5317,8 @@ upantool.com##.light.tbox > h2
 upimg.baike.so.com##.gallery-page.gallery-page-ft
 upimg.baike.so.com##.shareicon
 upimg.baike.so.com##.wrap.entry-plus > .boxwrap
+ups-eps.net##.m-share
+ups88.net##.m-share
 url54.ctfile.com##.flex-row.d-flex.p-3.card-body
 url54.ctfile.com##.fs--1.btn-light.btn-sm.btn
 url54.ctfile.com##.p-3.modal-body > div
@@ -5864,6 +5872,7 @@ zhenniuw.com###portal_block_69_content > li:nth-of-type(2)
 zhenniuw.com##.a_pt
 zhenniuw.com##.z.klp_zhdp
 zhenniuw.com##body > .cl.wp
+zhenzhiwd.com##.share
 zhibo8.cc##.new_ch
 zhibo8.cc##.pop-autoapp
 zhidao.baidu.com##.bannerdown
