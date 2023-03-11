@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-10
+! TimeUpdated: 2023-03-11
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -154,29 +154,50 @@ appchina.com##*
 aqdmv143.com##*
 are456.com##*
 arm456.com##*
+assoass.com##*
 ata234.com##*
 atg678.com##*
 attvideo.com##*
 aus234.com##*
+av-baron.com##*
 av01.tv##*
+av1688.cc##*
 av5.net##*
+av69.tv##*
+av6k.com##*
+avbebe.com##*
+avcar.vip##*
+avcens.xyz##*
+avday.tv##*
+aventertainments.com##*
+avfox.cc##*
 avgle.com##*
+avgod.club##*
 avhd101.com##*
+avhome.one##*
 avjb.com##*
 avlanga2.com##*
 avlulu.cc##*
 avmoo.click##*
+avpanda.cc##*
 avple.tv##*
+avseesee.com##*
 avtt2271.com##*
 avtt968.com##*
+avwong.com##*
+awflapp.top##*
 b4x99.com##*
+babycondom.com##*
 baipiao1.com##*
 baipiao2.com##*
 baofeng.com##*
+baraero.com##*
 bb51.me##*
 bbailo.vip##*
 bbaizhe.xyz##*
+bdsm-mov.net##*
 bear20.com##*
+bejav.net##*
 bel345.com##*
 bel789.com##*
 beqq.net##*
@@ -245,6 +266,8 @@ dear2.co##*
 dkmkg.com##*
 dotel.cc##*
 dou20.me##*
+doujin-info.net##*
+doujinland.info##*
 douying.uk##*
 downcc.com##*
 downkr.com##*
@@ -721,14 +744,17 @@ youiv.tv##*
 youjizz.com##*
 youqian.360.cn##*
 yp988q0.wang##*
+ypmate.com##*
 yskhd.com##*
 yuesebao.net##*
 yuewoba.xyz##*
 yunvdao.com##*
 yyzhenshun.com##*
 z260.tv##*
+zbporn.com##*
 zdk25.se##*
 zdk29.se##*
+zeenite.com##*
 zhaoav2.cloud##*
 zhazhijiav.top##*
 zhuangjiba.com##*
@@ -737,6 +763,7 @@ zjbl.qq.com##*
 zjyonghong.com##*
 zs.91.com##*
 zyjiadian.com##*
+zzcartoon.com##*
 zztt37.com##*
 ||*avtt*.com
 ||*madou*.cc
@@ -1474,6 +1501,7 @@ zztt37.com##*
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
 *##.model-header-ad
+*##.modown-ad
 *##.module-ad
 *##.module-side-ad
 *##.mtg-newslist-ads
@@ -2053,6 +2081,8 @@ asmag.com.cn##.share.toolkit
 atlanta.americachineselife.com###header > .group.container
 audit0755.com###bdshare
 auto.ifeng.com##.bottom_box-qClU0haT
+av1688.cc##.article-shares
+avfox.cc##.article-shares
 b.faloo.com###er
 b.faloo.com##.centerSixteen
 b.faloo.com##[href="//b.faloo.com/down_0_1.html"]
