@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-03-09
+! TimeUpdated: 2023-03-12
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -271,6 +271,7 @@
 *###text_ad
 *###The_three_ads
 *###top-adv
+*###topAdPlace
 *###topads
 *###topads0
 *###wordAdDiv
@@ -303,6 +304,7 @@
 *##.ad-conetnt
 *##.ad-container
 *##.ad-content
+*##.ad-count-click
 *##.ad-detail
 *##.ad-dk
 *##.ad-flash
@@ -451,6 +453,7 @@
 *##.ADimg
 *##.adiv
 *##.adList
+*##.adPlace
 *##.ads
 *##.ads-item
 *##.ads-loc-holder
@@ -601,6 +604,7 @@
 *##.detail_ad_banner
 *##.detnew_adv
 *##.dkpro_adtg
+*##.dsfgg
 *##.ec-ad
 *##.ec_wise_ad
 *##.ecommerce-ad-box
@@ -650,10 +654,15 @@
 *##.ggwzz
 *##.ggxc-box
 *##.ghxi_wpcom_ad_wrap
+*##.gkgg_tu
 *##.gonggao
 *##.growth-ad
 *##.guangaoi
 *##.guanggao
+*##.guanggao01
+*##.guanggao02
+*##.guanggao03
+*##.guanggao04
 *##.guanggao_336
 *##.h5-detail-ad
 *##.h_adv
@@ -719,6 +728,7 @@
 *##.mobilePaddingAdsAboveArticle
 *##.mod_ad_spread
 *##.model-header-ad
+*##.modown-ad
 *##.module-ad
 *##.module-side-ad
 *##.mtg-newslist-ads
@@ -849,6 +859,7 @@
 *##.wgt-ad-guess
 *##.what-ad
 *##.what-ad-ask
+*##.widget_html_ad
 *##.widget_image_ad
 *##.works-slider-ad
 *##.wpcom_ad_wrap
@@ -1069,6 +1080,7 @@
 3w.huanqiu.com##.content-tool
 3xol.com##.share.fl.bdsharebuttonbox
 404886.com##blockquote
+4399.com###ads1_1
 4399.com##.link_w
 4399.com##[href="//4399.com/desk/"]
 4pcc.com##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
@@ -1140,6 +1152,7 @@
 7nua.com##.bdsharebuttonbox
 800s.cn##.social-share
 81.cn##canvas
+880by.com##.shares
 88888888av.com##[style="width:100%;height:100px;margin-bottom:2px;"]
 8899lt.com##body > div > table > tbody > tr > td
 8btc.com##div.bbt-col-xs-4:nth-of-type(6)
@@ -1296,6 +1309,8 @@ asmag.com.cn##.share.toolkit
 atlanta.americachineselife.com###header > .group.container
 audit0755.com###bdshare
 auto.ifeng.com##.bottom_box-qClU0haT
+av1688.cc##.article-shares
+avfox.cc##.article-shares
 b.faloo.com###er
 b.faloo.com##.centerSixteen
 b.faloo.com##[href="//b.faloo.com/down_0_1.html"]
@@ -1473,6 +1488,7 @@ blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
 blog.51cto.com##.first
 blog.51cto.com##.shareBtn.common-operationbtn
+blog.chenhao.net##.social-sharer
 blog.csdn.net###asideNewNps
 blog.csdn.net###kp_box_blog_cont
 blog.csdn.net###wap_open_app_btn
@@ -1605,6 +1621,8 @@ chejiahao.m.autohome.com.cn##ol
 chem17.com##.Share-3
 chem960.com##.syncads-pc
 chenxie.net##.post-end-tool-btns
+cheshirex.com###text-58
+cheshirex.com##.aligncenter
 china-audit.com##.fav
 china-nengyuan.com##td:nth-of-type(1) > table:nth-of-type(5) > tbody > tr > td
 china-xian.com##.bdsharebuttonbox
@@ -2124,6 +2142,7 @@ feelcn.com##.bdsharebuttonbox
 feimiao.cn##.float
 feimiao.cn##.fr
 feimiao.cn##.user_box
+feiniaomy.com##.tip_g
 fenxiangzhan.com###zanad
 fenxiangzhan.com##.share.btn
 fibaro.com###cookie-info
@@ -3108,6 +3127,7 @@ m.hexun.com##.modal-popup-openapp
 m.hflh888lamp.com##.shareInfo
 m.huake66.com##.only_share
 m.huangye88.com##.price_r
+m.huatu.com##.icon-share
 m.hupu.com##.open-hupu
 m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
@@ -4357,6 +4377,7 @@ taptap.com##.tap-footer__download
 tasexy.com###sexy_a1
 tasexy.com###sexy_a2
 tasexy.com##.left > .b300
+tastek.cn##.social-share.share-component
 tbs.co.jp##.tbs-gfooter-share
 tclxh.com###bdshare
 te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
@@ -5225,6 +5246,7 @@ zongheng.com##.game_center
 zongheng.com##.tabA.app-menu
 zongheng.com##[href^="//zongheng.com/feedback"]
 zoyi14.smartapps.cn##.swan-web-suspend-button
+zrodata.com##.j-share.action-item
 zsjj.zhaosw.com##.hot.recommend
 zt5.com##.bdsharebuttonbox
 zuixu.com###layui-layer-shade1
@@ -5320,6 +5342,7 @@ zzzyk.com##div.zykmore
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdb.wxhefei.com$subdocument
+||bdd2.nnsbbs.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||bdlm.ouyu158.com/gg.html$subdocument
 ||bdsrh.shangyexinzhi.com$subdocument
@@ -5355,6 +5378,7 @@ zzzyk.com##div.zykmore
 ||digitaloceanspaces.com$image
 ||dimg04.c-ctrip.com$image
 ||dmn.lczk.cn$subdocument
+||docexcel.net^$script
 ||doubleclick.net$subdocument
 ||du.szsxr.com$subdocument
 ||eajgm.com^$domain=juhaihg.com
@@ -5410,6 +5434,7 @@ zzzyk.com##div.zykmore
 ||iot-eu-logser.realme.com^
 ||iot-logser.realme.com^
 ||ip.51kubo.com$subdocument
+||j.docexcel.net$subdocument
 ||jcylrv.iask.com.cn$subdocument
 ||jeep.renzhongjiaoyu.xyz$image
 ||jf.shuangqiong.net$subdocument
