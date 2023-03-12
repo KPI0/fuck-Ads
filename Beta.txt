@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-11
+! TimeUpdated: 2023-03-12
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1853,6 +1853,7 @@ zztt37.com##*
 3w.huanqiu.com##.content-tool
 3xol.com##.share.fl.bdsharebuttonbox
 404886.com##blockquote
+4399.com###ads1_1
 4399.com##.link_w
 4399.com##[href="//4399.com/desk/"]
 4pcc.com##[style="margin: 0px; padding: 0px; font-size: 0px; display: flex;"]
@@ -3899,6 +3900,7 @@ m.hexun.com##.modal-popup-openapp
 m.hflh888lamp.com##.shareInfo
 m.huake66.com##.only_share
 m.huangye88.com##.price_r
+m.huatu.com##.icon-share
 m.hupu.com##.open-hupu
 m.hupu.com##.share
 m.hupu.com##.tabs-component-search-app
@@ -6113,6 +6115,7 @@ zzzyk.com##div.zykmore
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bdb.wxhefei.com$subdocument
+||bdd2.nnsbbs.com$subdocument
 ||bdjs.mapbar.com$subdocument
 ||bdlm.ouyu158.com/gg.html$subdocument
 ||bdsrh.shangyexinzhi.com$subdocument
