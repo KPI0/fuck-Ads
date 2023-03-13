@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-12
+! TimeUpdated: 2023-03-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1902,6 +1902,7 @@ zztt37.com##*
 5axxw.com###gzh-mask
 5axxw.com###gzh-modal
 5blog.net##.clearfix.mt.social-widget.enhqscptjj
+5o5r.cn##.j-share.action-item
 608y.com##.qrcode_box
 61maoak.com##li.scroll-list:nth-of-type(2)
 64365.com##.left-pop-wechart
@@ -2206,6 +2207,7 @@ beeeup.com##.fr.shareIcon
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
+best.pconline.com.cn##.pc-share
 best.pconline.com.cn##.zt-ivy
 best.pconline.com.cn##i.fix-tool-item:nth-of-type(4)
 beta.dooland.com##.share
