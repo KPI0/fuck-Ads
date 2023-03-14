@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-03-12
+! TimeUpdated: 2023-03-14
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -309,6 +309,7 @@
 *##.ad-dk
 *##.ad-flash
 *##.ad-horizontal
+*##.ad-image
 *##.ad-img
 *##.Ad-img
 *##.ad-index-bottom-left
@@ -461,6 +462,7 @@
 *##.ads_detail_top
 *##.ads_details_900_bottom
 *##.ads_details_900_recommend
+*##.ads_dwn
 *##.adsbygoogle
 *##.adsContainer
 *##.AdSense
@@ -566,6 +568,7 @@
 *##.bna_ad1
 *##.bna_ad2
 *##.bna_ad3
+*##.bottom_ad
 *##.boxad
 *##.BoxAdContent
 *##.BoxAdTop
@@ -575,6 +578,7 @@
 *##.c-nav-advertising
 *##.c1c2_b1b2_adbx
 *##.calc-guanggao
+*##.center_ad
 *##.ceo-ad
 *##.ceo-ads
 *##.cesuankuang
@@ -1129,6 +1133,7 @@
 5axxw.com###gzh-mask
 5axxw.com###gzh-modal
 5blog.net##.clearfix.mt.social-widget.enhqscptjj
+5o5r.cn##.j-share.action-item
 608y.com##.qrcode_box
 61maoak.com##li.scroll-list:nth-of-type(2)
 64365.com##.left-pop-wechart
@@ -1433,6 +1438,7 @@ beeeup.com##.fr.shareIcon
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
 best.pconline.com.cn##.no-login-fixed-bottom
+best.pconline.com.cn##.pc-share
 best.pconline.com.cn##.zt-ivy
 best.pconline.com.cn##i.fix-tool-item:nth-of-type(4)
 beta.dooland.com##.share
@@ -1477,6 +1483,10 @@ bilibili.com##section.bili-grid:nth-of-type(12)
 bilibili.com##section.bili-grid:nth-of-type(13)
 binance.com##.css-1ql2hru > .css-c510oc
 binance.com##.css-8non6d > .css-1n2fhb3
+bing.com##.ads_dwn
+bing.com##.bottom_ad
+bing.com##.center_ad
+bing.com##.top_ad
 biqwo.com##.ywtop_sethome
 bitalk.com##.share-component.social-share
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
@@ -1487,6 +1497,7 @@ blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
 blog.51cto.com##.first
+blog.51cto.com##.ins
 blog.51cto.com##.shareBtn.common-operationbtn
 blog.chenhao.net##.social-sharer
 blog.csdn.net###asideNewNps
@@ -1611,6 +1622,7 @@ ceconline.com##.icon_share
 ceconline.com##.Sub_icon
 cehuan.com##.navchat
 cehuan.com##.shares
+cesc.com.cn##.share
 chaicp.com##.w.icp_top > .clearfix
 chaincatcher.com##.app-tips
 chajian5.com##.banner-post.banner
@@ -2275,6 +2287,8 @@ golue.com##.w320.fr.right
 gome.com.cn###gome-aside-app
 gome.com.cn###gome-aside-app-code
 gome.com.cn###gome-phone
+gongkong.ofweek.com##.fl.artical-operation-share
+gongkong.ofweek.com##.share
 google.com##.SSwjIe.KxwPGc
 google.com##.uU7dJb
 gototsinghua.org.cn##.footer
@@ -2345,6 +2359,7 @@ hao.360.com##.plane-bd > li
 hao.360.com##.plane-bd [href="https://go.360.cn/"]
 hao4k.cn##.comiis_flex .comiis_share_key
 haodf.com###open-app-box
+haogu114.com##.xidiBottom
 haohaoyun.com##.topBanner
 haoka88.com##.__single_2.wpcom_myimg_wrap
 haoka88.com##.hzt-weixin-footer-bar
@@ -2650,6 +2665,7 @@ jfdaily.com##div.title:nth-of-type(14)
 jfdaily.com##div.title:nth-of-type(16)
 jia.baidu.com##.service-entry-qrcode.service-entry-item
 jiadianxinwen.com##.bdshare
+jianshu.com###share
 jianshu.com##.ant-dropdown-menu-submenu-title
 jianshu.com##.btn-content > button:nth-of-type(2)
 jianshu.com##.download-btn
@@ -3291,6 +3307,7 @@ m.mudvod.tv##.android_banner.m-box
 m.mudvod.tv##.banner_android.m-box-items-full.m-box-items
 m.mudvod.tv##.header_app.iqiyi-h5-empty
 m.mydrivers.com##.others > [href="https://app.kkj.cn/"]
+m.nbzdm.com##.shareInfo
 m.nichaw.cn##.g-b-r10.g-b-f.g-p15-lr
 m.nivod.tv###bottom_btn
 m.nivod.tv##.android_banner.m-box
@@ -4208,6 +4225,7 @@ smartapps.baidu.com##.swan-web-suspend-button
 smarthome.qianjia.com##.clearfix.welcome-join.mod
 smarthome.qianjia.com##.tool-share
 smarthome.qianjia.com##p.MsoNormal:nth-of-type(16)
+smartroomcn.com##.post-sharing
 sms.cabq.nl##.alert-danger.alert
 sms.cabq.nl##.swiper-container
 sms.cabq.nl##.swiper-wrapper
@@ -4337,6 +4355,7 @@ stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
 study.163.com##.open-app-btn
+studyofnet.com###btn_share
 sugaomei2022.testmart.cn##.bshare-custom
 super.sina.cn##.call_up_banner
 sws100.com###toolbar
@@ -4850,6 +4869,7 @@ west.cn##.bdsharebuttonbox
 west.cn##.carousel-inner
 west.cn##.clouthost_out
 wetv.vip##.download-tips.tips
+whg6.com##.shares
 whjtdgg.com##.external
 whjtdgg.com##.static.container > div:nth-of-type(3)
 whjtdgg.com##body > div:nth-of-type(2)
@@ -5136,6 +5156,7 @@ zaoju.xuexiaodaquan.com##div.fhg_div
 zh-cn.aiseesoft.com###share-list
 zh.numberempire.com##.sharing
 zh.planetcalc.com##.share-buttons
+zhangqiaokeyan.com##.share
 zhaoav2.cloud##.wrap > .right
 zhaopin.baidu.com##div.infowraper:nth-of-type(3)
 zhaoplc.com##.j-share.action-item
@@ -5264,6 +5285,7 @@ zzyyww.cn##.resource
 zzyyww.cn##.tags
 zzzjtd.com##.bdsharebuttonbox
 zzzyk.com##div.zykmore
+||120xiu.com/adimgs$image
 ||122cha.com$subdocument
 ||135320.com$subdocument
 ||14110.com$image
@@ -5329,6 +5351,7 @@ zzzyk.com##div.zykmore
 ||baz.96jia.com$subdocument
 ||bbb.100shw.com$subdocument
 ||bcd.8u58.com$subdocument
+||bcd.ruodian360.com$subdocument
 ||bcd.z907.com$subdocument
 ||bchina-2.xsfaya.com/*$subdocument
 ||bd-un2.wanglv.com$subdocument
