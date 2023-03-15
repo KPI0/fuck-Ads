@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-14
+! TimeUpdated: 2023-03-15
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1228,6 +1228,7 @@ zztt37.com##*
 *##.adiv
 *##.adList
 *##.adPlace
+*##.AdPositionId
 *##.ads
 *##.ads-item
 *##.ads-loc-holder
@@ -1570,6 +1571,7 @@ zztt37.com##*
 *##.ripro_gg_wrap
 *##.rom_ad
 *##.search-job-aside-ads-box
+*##.search_ad_new
 *##.section-adbox
 *##.section-ads
 *##.seo-ad
@@ -1624,6 +1626,7 @@ zztt37.com##*
 *##.topappad
 *##.topgg
 *##.tx-info-module-box
+*##.ui-ad
 *##.videoSideAds
 *##.view-ad
 *##.vipad
@@ -2059,6 +2062,7 @@ aofuo.com##.clearfix.myui-foot
 aoy-power.com##.shareInfo
 apkpure.com##.share-btn
 apollounion.com##.wap-hide.share
+app.0745news.cn##.m-share
 app.4399.cn##.description
 app.4399.cn##.f_nav
 app.4399.cn##.fullscreen.header
@@ -4841,6 +4845,8 @@ rdhyw.com##.share
 re.1688.com##.leadLoginModal
 re.1688.com##.mobile
 read01.com##.share_btn
+readyic.com##.fx_box
+readyic.com##.fxd
 remark.sohu.com##span.item:nth-of-type(1)
 remove.bg##.sharing-buttons
 renminshangjin.com###bay
