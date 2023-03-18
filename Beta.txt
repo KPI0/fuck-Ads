@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-17
+! TimeUpdated: 2023-03-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1327,6 +1327,7 @@ zztt37.com##*
 *##.baidutags
 *##.baike-ad
 *##.banner-ad
+*##.banner_gg
 *##.bdad
 *##.bdad640
 *##.bdad960
@@ -1716,6 +1717,7 @@ zztt37.com##*
 1010jiajiao.com##.right_box
 1010jiajiao.com##div.box_body:nth-of-type(5)
 1010jiajiao.com##div.box_head > div
+10bests.com##.j-share.action-item
 10jqka.com.cn##.backWashNavBtn-show
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
@@ -1889,6 +1891,7 @@ zztt37.com##*
 51pptmoban.com##.tb1
 51ps.cn##.share-component.social-share
 51sjk.com##.footer
+51sjk.com##.shares.range
 51test.net##.content-fr > div
 51test.net##.word_download_tip_btn
 51test.net##a[href="javascript:void(0);"]:nth-of-type(5)
@@ -1971,6 +1974,7 @@ zztt37.com##*
 9xt64.xyz##.common
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
+@@||www.fffmo.com^$script,1p
 a-hospital.com##.bdsharebuttonbox
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.yyb-safe-text
@@ -2275,6 +2279,7 @@ blog.163.com##.down-to-kaola
 blog.51cto.com##.first
 blog.51cto.com##.ins
 blog.51cto.com##.shareBtn.common-operationbtn
+blog.52date.cn##.mobile_click
 blog.chenhao.net##.social-sharer
 blog.csdn.net###asideNewNps
 blog.csdn.net###kp_box_blog_cont
@@ -2692,6 +2697,7 @@ diyifanwen.com##div.space10:nth-of-type(17)
 dljz.nicethemes.cn##.art_share
 dmjob.net##.xidiBottom
 dmys2.com##.btn-share.btn-collect.btn-large
+dnpz.net##.lanmu300
 dnzp.com##.postt
 doc.mbalib.com##.wjdc-box
 doc.wendoc.com##.ding01
@@ -3010,6 +3016,7 @@ gb-hy.com##.shareContainer
 gbs.cn##.toolbar
 gcjx3.xyz##[href="http://23.224.188.8:2939/vip200.html"] > .lazyloaded
 gcores.com##.appDownloadTip
+gcsh.net##.xidiBottom
 gd.sina.com.cn##.share-layout
 gd.sina.com.cn##.share-sns
 gd3n.com###bdshare
@@ -3093,6 +3100,7 @@ guancha.cn##.shared-comment
 guancha.cn##div.share > span
 guangdiu.com##.headdlbanner
 guicaige.com##.sharebox
+guozeyu.com##.tloA
 guyuehome.com##.js_share.item
 guyuehome.com##.sticky-bar .icon-wechat
 guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
@@ -3201,6 +3209,7 @@ hk.news.yahoo.com##.Mt\(24px\).Mb\(24px\).Mx\(20px\)
 hk.news.yahoo.com##.Z\(2\).D\(b\).T\(12px\).End\(4px\).Pos\(a\).H\(30px\).Maw\(26\%\).W\(26\%\).app-promo
 hnlackkj.com##.get-codes-bdshare
 hntoan.com###bdshare
+hntszdxx.com##.article-share
 hnyousu.cn##.clear.entry-bottom
 home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
 home.vip.youku.com##.dropdown_3IYGs
@@ -3573,6 +3582,7 @@ kaifangsy.com###down_boxcode
 kaifangsy.com###top_boxcode
 kaiym.cn###c2
 kaiym.cn##.img01.img0
+kankanews.com##.shareCon
 kanshu5.net##.callApp_fl_btn
 kanshu5.net##.look_more_a
 kanshu5.net##.sw_sp.m_f_a
@@ -3752,6 +3762,7 @@ m.56.com##.share_btn
 m.58.com##.AppDownloadDetail
 m.58.com##.download-bottom
 m.58.com##.OpenInAppBarWrap
+m.5haogou.com##.social-share.share-component
 m.699pic.com##.chongzhiact
 m.699pic.com##.fl.footer-share
 m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
@@ -4713,6 +4724,8 @@ pdfzj.cn##.g-abs.h-right > a[href="javascript:void(0);"]:nth-of-type(1)
 pdfzj.cn##.mumu
 pdfzj.cn##.spig
 pdfzj.cn##a[href="javascript:void(0);"]:nth-of-type(2)
+pearvideo.com##.act-app
+pearvideo.com##.share-to
 pet82.com##.toolbar-open
 petssky.com##.bk.use-beshare-social-btn.zmy-btn-share.zmy-btn-beshare
 phb123.com##.suspension-code
@@ -5790,6 +5803,7 @@ xinxisea.com##.icon-share
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
 xitongzhijia.net##.fl.m-soft-share
+xitongzhijia.net##.m-news-share
 xkzzz.com###aPshow1
 xkzzz.com##.apshow
 xkzzz.com##.ml-plist
@@ -5880,6 +5894,7 @@ yjbys.com##.banner
 yjbys.com##.conttop_code
 yjbys.com##[href="https://my.yjbys.com/doc/"]
 yjcf360.com##.share_xiaomi
+yl.szhk.com##.banner_dt
 yl1001.com##.share-area-name
 ylmfu.com##.share
 yoojia.com##.page-root > div
