@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-18
+! TimeUpdated: 2023-03-19
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -80,6 +80,7 @@
 668.su##*
 66891.cc##*
 66se20.com##*
+687mm.top##*
 69mnuuv.com##*
 69tang.org##*
 75717.cc##*
@@ -415,6 +416,7 @@ jokerlutxt.top##*
 jor123.com##*
 jor789.com##*
 jpwl88.cn##*
+juditharnopp.com##*
 jz5u.com##*
 jz807.com##*
 kaenv.com##*
@@ -664,6 +666,9 @@ tto345.com##*
 tuaox.cc##*
 tuv123.com##*
 tuv345.com##*
+txdagp5j.com##*
+txkj99oy.com##*
+txpdx9dd.com##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
@@ -1624,6 +1629,7 @@ zztt37.com##*
 *##.top_app_ad
 *##.top_appAd_fixed
 *##.topad
+*##.topadv
 *##.topappad
 *##.topgg
 *##.tx-info-module-box
@@ -2524,6 +2530,8 @@ cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.pls-footer-website-contact-view
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
+club.liangchanba.com###gz_table
+cmd8.com##.single-share
 cmfish.com###toptb > .wp > .z
 cmfish.com##.sharep
 cmmu.cn##.bdshare
@@ -3228,6 +3236,7 @@ hostjl.com##.action-share
 hostloc.com##.wp > .z
 hot.ziroom.com##.ziroom-download-container
 house.ifeng.com##.fengyu
+how234.com##.ult_share
 hpeak.cn##.article-content > [href="https://www.hpeak.cn/ad"]
 hpeak.cn##.widget_custom_html.zib-widget.widget_text
 hpeak.cn##.widget_media_image.zib-widget
@@ -3848,6 +3857,7 @@ m.ce.cn##.sharebut
 m.chainnode.com##.app
 m.china-xian.com##.share-new-icon.pr.share-icon
 m.china.com.cn##.fx
+m.chinaflashmarket.com##.app-download
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
 m.cncn.net##.my-wd
@@ -5159,6 +5169,7 @@ super.sina.cn##.call_up_banner
 sws100.com###toolbar
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
+sx-mc.com##.box-fix-right
 sxbai.com##.post_share
 sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
@@ -5508,6 +5519,7 @@ vivo.com##.vp-head-download-show.vp-head-download
 vkandian.cn###_dsdsd
 vkandian.cn##.pic-list
 vkandian.cn##.show-line
+vmware.com###menu-share
 voachinese.com##.share--box
 vogueda.com##.j-share.action-item
 vps.yangmao.info##.bm22m12
@@ -5846,6 +5858,7 @@ xxhd15.com##.hf
 xxskszx.com##strong
 xxsy.net###weappimg > div
 xxsy.net##.homeauthor.client
+xxxxx520.com##.xshare
 xy007.net##.share.info-item
 xyyyzzs.com##.fbAkSl
 xzbu.com###down-file
