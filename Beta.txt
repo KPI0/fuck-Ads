@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-19
+! TimeUpdated: 2023-03-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2088,6 +2088,7 @@ app.weijj.com##.white.down-top
 app17.com##.yzxx
 appinn.com##.related-posts.mylike
 appm.xtol.cn##.m-page-tip
+aray.cn##.shares
 archives.zujuan.com##[src="/qrcode_zujuan.jpg"]
 article.cechina.cn##.icon-medium.bshare-custom
 as886.com##.article-ade
@@ -2176,12 +2177,14 @@ baoguzi.com##.sharebox
 baoguzi.com##.zeroad
 baozhuang5.com##.bdsharebuttonbox
 bar.cnki.net##.qrcode
+barwe.cc##.post-operate-share
 bbmmx.com##.xshare
 bbs.125.la##.sharep
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com###goods_list_1
 bbs.16rd.com##.recommend
 bbs.9game.cn##.guide-app-fix
+bbs.cnction.com##.sharep
 bbs.co188.com##.bdsharebuttonbox
 bbs.co188.com##.mcbl_content_shareoperate
 bbs.co188.com##.qz_li4
@@ -2706,6 +2709,7 @@ dljz.nicethemes.cn##.art_share
 dmjob.net##.xidiBottom
 dmys2.com##.btn-share.btn-collect.btn-large
 dnpz.net##.lanmu300
+dnxtc.net##.zixun-share
 dnzp.com##.postt
 doc.mbalib.com##.wjdc-box
 doc.wendoc.com##.ding01
@@ -4643,6 +4647,7 @@ okex.com##.other-wrap.nav-download
 okhqb.com##.code-box
 okx.com##.other-wrap.nav-download
 oldtang.com##.orbui-post.orbui-m.orbui
+oldtang.com##.orbui-site
 oldtang.com##.orbui-site.orbui-m.orbui
 oldtang.com##.widget_ui_orbui
 onedream.yfdnb.com##.u-popup__content
@@ -4890,9 +4895,6 @@ rfi.fr##.o-pwa-ah2s__content
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
 right.com.cn##.sharep
-right.com.cn##.z
-right.com.cn##.z > [href="https://right.com.cn/forum/"]
-right.com.cn##.z > [href="javascript:;"]
 risi-cpps.com##.action-share.action
 risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 rsdznjj.com##.layout-entry-share
@@ -5171,6 +5173,7 @@ sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
 sx-mc.com##.box-fix-right
 sxbai.com##.post_share
+sycxqy.com##.article-share
 sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
 sydw.huatu.com##.bottomBar
@@ -5943,6 +5946,7 @@ youxituoluo.com##.share_box
 youzan.com###resource-package
 youzan.com##.clue-components-form-list__item--active.clue-components-form-list__item
 ypk.39.net##div.wrap
+ypojie.com##.shares
 ypppt.com##.aad4
 yqybzhan.com##.bdshare-slide-button-box
 yqybzhan.com##.bdsharebuttonbox
@@ -6113,6 +6117,7 @@ zzzyk.com##div.zykmore
 ||2.jishirili.com$subdocument
 ||2.k1u.com$subdocument
 ||2.luerong.com$subdocument
+||2.m18cc.com$subdocument
 ||2.php178.com$subdocument
 ||2.smalltown.top$subdocument
 ||2.wubizhijia.com$subdocument
