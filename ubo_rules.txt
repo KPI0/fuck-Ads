@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-03-17
+! TimeUpdated: 2023-03-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -80,6 +80,7 @@
 668.su##*
 66891.cc##*
 66se20.com##*
+687mm.top##*
 69mnuuv.com##*
 69tang.org##*
 75717.cc##*
@@ -415,6 +416,7 @@ jokerlutxt.top##*
 jor123.com##*
 jor789.com##*
 jpwl88.cn##*
+juditharnopp.com##*
 jz5u.com##*
 jz807.com##*
 kaenv.com##*
@@ -664,6 +666,9 @@ tto345.com##*
 tuaox.cc##*
 tuv123.com##*
 tuv345.com##*
+txdagp5j.com##*
+txkj99oy.com##*
+txpdx9dd.com##*
 txpozg6.com##*
 txps8mk.com##*
 tzdsjx.com##*
@@ -1327,6 +1332,7 @@ zztt37.com##*
 *##.baidutags
 *##.baike-ad
 *##.banner-ad
+*##.banner_gg
 *##.bdad
 *##.bdad640
 *##.bdad960
@@ -1623,6 +1629,7 @@ zztt37.com##*
 *##.top_app_ad
 *##.top_appAd_fixed
 *##.topad
+*##.topadv
 *##.topappad
 *##.topgg
 *##.tx-info-module-box
@@ -1716,6 +1723,7 @@ zztt37.com##*
 1010jiajiao.com##.right_box
 1010jiajiao.com##div.box_body:nth-of-type(5)
 1010jiajiao.com##div.box_head > div
+10bests.com##.j-share.action-item
 10jqka.com.cn##.backWashNavBtn-show
 10jqka.com.cn##.dimonsion
 10jqka.com.cn##.scroll-ta-over.fid-scroll-box.bottom
@@ -1889,6 +1897,7 @@ zztt37.com##*
 51pptmoban.com##.tb1
 51ps.cn##.share-component.social-share
 51sjk.com##.footer
+51sjk.com##.shares.range
 51test.net##.content-fr > div
 51test.net##.word_download_tip_btn
 51test.net##a[href="javascript:void(0);"]:nth-of-type(5)
@@ -1971,6 +1980,7 @@ zztt37.com##*
 9xt64.xyz##.common
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
+@@||www.fffmo.com^$script,1p
 a-hospital.com##.bdsharebuttonbox
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.yyb-safe-text
@@ -2078,6 +2088,7 @@ app.weijj.com##.white.down-top
 app17.com##.yzxx
 appinn.com##.related-posts.mylike
 appm.xtol.cn##.m-page-tip
+aray.cn##.shares
 archives.zujuan.com##[src="/qrcode_zujuan.jpg"]
 article.cechina.cn##.icon-medium.bshare-custom
 as886.com##.article-ade
@@ -2166,12 +2177,14 @@ baoguzi.com##.sharebox
 baoguzi.com##.zeroad
 baozhuang5.com##.bdsharebuttonbox
 bar.cnki.net##.qrcode
+barwe.cc##.post-operate-share
 bbmmx.com##.xshare
 bbs.125.la##.sharep
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com###goods_list_1
 bbs.16rd.com##.recommend
 bbs.9game.cn##.guide-app-fix
+bbs.cnction.com##.sharep
 bbs.co188.com##.bdsharebuttonbox
 bbs.co188.com##.mcbl_content_shareoperate
 bbs.co188.com##.qz_li4
@@ -2275,6 +2288,7 @@ blog.163.com##.down-to-kaola
 blog.51cto.com##.first
 blog.51cto.com##.ins
 blog.51cto.com##.shareBtn.common-operationbtn
+blog.52date.cn##.mobile_click
 blog.chenhao.net##.social-sharer
 blog.csdn.net###asideNewNps
 blog.csdn.net###kp_box_blog_cont
@@ -2519,6 +2533,8 @@ cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.pls-footer-website-contact-view
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
+club.liangchanba.com###gz_table
+cmd8.com##.single-share
 cmfish.com###toptb > .wp > .z
 cmfish.com##.sharep
 cmmu.cn##.bdshare
@@ -2692,6 +2708,8 @@ diyifanwen.com##div.space10:nth-of-type(17)
 dljz.nicethemes.cn##.art_share
 dmjob.net##.xidiBottom
 dmys2.com##.btn-share.btn-collect.btn-large
+dnpz.net##.lanmu300
+dnxtc.net##.zixun-share
 dnzp.com##.postt
 doc.mbalib.com##.wjdc-box
 doc.wendoc.com##.ding01
@@ -3010,6 +3028,7 @@ gb-hy.com##.shareContainer
 gbs.cn##.toolbar
 gcjx3.xyz##[href="http://23.224.188.8:2939/vip200.html"] > .lazyloaded
 gcores.com##.appDownloadTip
+gcsh.net##.xidiBottom
 gd.sina.com.cn##.share-layout
 gd.sina.com.cn##.share-sns
 gd3n.com###bdshare
@@ -3093,6 +3112,7 @@ guancha.cn##.shared-comment
 guancha.cn##div.share > span
 guangdiu.com##.headdlbanner
 guicaige.com##.sharebox
+guozeyu.com##.tloA
 guyuehome.com##.js_share.item
 guyuehome.com##.sticky-bar .icon-wechat
 guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
@@ -3201,6 +3221,7 @@ hk.news.yahoo.com##.Mt\(24px\).Mb\(24px\).Mx\(20px\)
 hk.news.yahoo.com##.Z\(2\).D\(b\).T\(12px\).End\(4px\).Pos\(a\).H\(30px\).Maw\(26\%\).W\(26\%\).app-promo
 hnlackkj.com##.get-codes-bdshare
 hntoan.com###bdshare
+hntszdxx.com##.article-share
 hnyousu.cn##.clear.entry-bottom
 home.console.aliyun.com##.seamless.next-card-show-divider.next-card-free.next-card
 home.vip.youku.com##.dropdown_3IYGs
@@ -3219,6 +3240,7 @@ hostjl.com##.action-share
 hostloc.com##.wp > .z
 hot.ziroom.com##.ziroom-download-container
 house.ifeng.com##.fengyu
+how234.com##.ult_share
 hpeak.cn##.article-content > [href="https://www.hpeak.cn/ad"]
 hpeak.cn##.widget_custom_html.zib-widget.widget_text
 hpeak.cn##.widget_media_image.zib-widget
@@ -3573,6 +3595,7 @@ kaifangsy.com###down_boxcode
 kaifangsy.com###top_boxcode
 kaiym.cn###c2
 kaiym.cn##.img01.img0
+kankanews.com##.shareCon
 kanshu5.net##.callApp_fl_btn
 kanshu5.net##.look_more_a
 kanshu5.net##.sw_sp.m_f_a
@@ -3752,6 +3775,7 @@ m.56.com##.share_btn
 m.58.com##.AppDownloadDetail
 m.58.com##.download-bottom
 m.58.com##.OpenInAppBarWrap
+m.5haogou.com##.social-share.share-component
 m.699pic.com##.chongzhiact
 m.699pic.com##.fl.footer-share
 m.699pic.com##.fuzhi-btn.icon-fenxiang.iconfont
@@ -3837,6 +3861,7 @@ m.ce.cn##.sharebut
 m.chainnode.com##.app
 m.china-xian.com##.share-new-icon.pr.share-icon
 m.china.com.cn##.fx
+m.chinaflashmarket.com##.app-download
 m.chinairn.com##.dtbg
 m.cifnews.com##.open-app
 m.cncn.net##.my-wd
@@ -4622,6 +4647,7 @@ okex.com##.other-wrap.nav-download
 okhqb.com##.code-box
 okx.com##.other-wrap.nav-download
 oldtang.com##.orbui-post.orbui-m.orbui
+oldtang.com##.orbui-site
 oldtang.com##.orbui-site.orbui-m.orbui
 oldtang.com##.widget_ui_orbui
 onedream.yfdnb.com##.u-popup__content
@@ -4713,6 +4739,8 @@ pdfzj.cn##.g-abs.h-right > a[href="javascript:void(0);"]:nth-of-type(1)
 pdfzj.cn##.mumu
 pdfzj.cn##.spig
 pdfzj.cn##a[href="javascript:void(0);"]:nth-of-type(2)
+pearvideo.com##.act-app
+pearvideo.com##.share-to
 pet82.com##.toolbar-open
 petssky.com##.bk.use-beshare-social-btn.zmy-btn-share.zmy-btn-beshare
 phb123.com##.suspension-code
@@ -4867,9 +4895,6 @@ rfi.fr##.o-pwa-ah2s__content
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
 right.com.cn##.sharep
-right.com.cn##.z
-right.com.cn##.z > [href="https://right.com.cn/forum/"]
-right.com.cn##.z > [href="javascript:;"]
 risi-cpps.com##.action-share.action
 risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 rsdznjj.com##.layout-entry-share
@@ -5146,7 +5171,9 @@ super.sina.cn##.call_up_banner
 sws100.com###toolbar
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
+sx-mc.com##.box-fix-right
 sxbai.com##.post_share
+sycxqy.com##.article-share
 sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
 sydw.huatu.com##.bottomBar
@@ -5495,6 +5522,7 @@ vivo.com##.vp-head-download-show.vp-head-download
 vkandian.cn###_dsdsd
 vkandian.cn##.pic-list
 vkandian.cn##.show-line
+vmware.com###menu-share
 voachinese.com##.share--box
 vogueda.com##.j-share.action-item
 vps.yangmao.info##.bm22m12
@@ -5790,6 +5818,7 @@ xinxisea.com##.icon-share
 xinzuzc.com##div.mod_block_big
 xitongcheng.com##.nnwrap
 xitongzhijia.net##.fl.m-soft-share
+xitongzhijia.net##.m-news-share
 xkzzz.com###aPshow1
 xkzzz.com##.apshow
 xkzzz.com##.ml-plist
@@ -5832,6 +5861,7 @@ xxhd15.com##.hf
 xxskszx.com##strong
 xxsy.net###weappimg > div
 xxsy.net##.homeauthor.client
+xxxxx520.com##.xshare
 xy007.net##.share.info-item
 xyyyzzs.com##.fbAkSl
 xzbu.com###down-file
@@ -5880,6 +5910,7 @@ yjbys.com##.banner
 yjbys.com##.conttop_code
 yjbys.com##[href="https://my.yjbys.com/doc/"]
 yjcf360.com##.share_xiaomi
+yl.szhk.com##.banner_dt
 yl1001.com##.share-area-name
 ylmfu.com##.share
 yoojia.com##.page-root > div
@@ -5915,6 +5946,7 @@ youxituoluo.com##.share_box
 youzan.com###resource-package
 youzan.com##.clue-components-form-list__item--active.clue-components-form-list__item
 ypk.39.net##div.wrap
+ypojie.com##.shares
 ypppt.com##.aad4
 yqybzhan.com##.bdshare-slide-button-box
 yqybzhan.com##.bdsharebuttonbox
@@ -6085,6 +6117,7 @@ zzzyk.com##div.zykmore
 ||2.jishirili.com$subdocument
 ||2.k1u.com$subdocument
 ||2.luerong.com$subdocument
+||2.m18cc.com$subdocument
 ||2.php178.com$subdocument
 ||2.smalltown.top$subdocument
 ||2.wubizhijia.com$subdocument
