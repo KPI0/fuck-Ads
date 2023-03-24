@@ -4583,7 +4583,6 @@ tousu.sina.cn##.indexApp
 toutiao.com##.add-to-desktop-wrapper
 toutiao.com##.detail-side-interaction > div:nth-of-type(5)
 toutiao.com##.feedback.tool-item
-toutiao.com##.left-container
 toutiao.com##.share-btn
 toutiao.com##.ttp-portal-wrapper
 toutiao.com##[href="//app.toutiao.com/news_article/"]
