@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-03-21
+! TimeUpdated: 2023-03-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1124,6 +1124,7 @@
 51test.net##.word_download_tip_btn
 51test.net##a[href="javascript:void(0);"]:nth-of-type(5)
 528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
+52asus.com##.flexslider
 52av.one##div.cl.plc > div > center
 52by.com##.share-list
 52hrtt.com##.detail_left
@@ -1592,6 +1593,7 @@ bukaivip1.com##.open-share
 businessweekly.com.tw##div > .ga_btn.Popover-container.Margin-top
 buy.realme.com##.share-container
 bx9y.com##.ok
+bxcqd.com##.airgg
 bytenew.com##.bdsharebuttonbox
 c.biancheng.net###addweixin-widget
 c.biancheng.net###top-banner > .wap-yes
@@ -2980,6 +2982,7 @@ m.10jqka.com.cn##.backwash_download.fl.header-dl
 m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
 m.10jqka.com.cn##.openBtn
+m.163.com##.js-open-app.backflow-floating
 m.1688.com##.banner-and-poplayer
 m.1688.com##.header-wrapper
 m.17ce.com##.add_txt
@@ -3570,6 +3573,7 @@ manhua.dmzj.com##[href="//dmzj.com/app/index.html"]
 manhuagui.com##.shortcuts
 manhuatai.com##.app-guide-qrcode
 manmanapp.com##.down_app_prompt
+manongdao.com##.share-group
 manwaiyin.com##.j-share
 map.baidu.com###activity-banner-panel
 map.baidu.com###card-n
@@ -4131,6 +4135,10 @@ s.kaoyaya.com##.custom-window
 saky.com.cn##.m-footer-share
 samsung.com##.static-content
 samsungeshop.com.cn##li:nth-of-type(3)
+scczz.com###bottom-banner.banner
+scczz.com###cmnt-banner2.banner
+scczz.com###singlebottom-banner
+scczz.com###singletop-banner
 scez.cn##video
 science.caixin.com##.fenghui_code
 science.caixin.com##.rssBox
