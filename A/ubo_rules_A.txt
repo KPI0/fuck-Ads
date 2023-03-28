@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-03-26
+! TimeUpdated: 2023-03-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1410,6 +1410,7 @@ bbs.9game.cn##.guide-app-fix
 bbs.cnction.com##.sharep
 bbs.co188.com##.bdsharebuttonbox
 bbs.co188.com##.mcbl_content_shareoperate
+bbs.co188.com##.mcblc_operate_share
 bbs.co188.com##.qz_li4
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
@@ -4162,6 +4163,7 @@ sekorm.com##.share-icon-wrap
 sensor.ofweek.com##.share
 sensor.ofweek.com##div > [href="javascript:;"]
 sensorexpert.com.cn##.active.postbird-box-container
+sensorexpert.com.cn##.advise-detail
 sensorexpert.com.cn##.detail-do > .clearfix
 sensorexpert.com.cn##.postbird-box-dialog > .postbird-box-content
 sensorexpert.com.cn##.wexinSao.postbird-box-container
@@ -4850,6 +4852,7 @@ wen.baidu.com##.share-area
 wenda.so.com###task-left-wrap
 wenda.so.com##.js-detail-guess.pb20.pt25.mod-detail-normal
 wenda.so.com##.js-mod-flow.hide.pt25.mod-detail-normal
+wenda.so.com##.js-share-btn.share-icon.opt-icon
 wenda.so.com##.share-btn
 wenda.so.com##.top-search-banner
 wenda.xuexiaodaquan.com##.common-share.share
@@ -5064,6 +5067,7 @@ xolo0755.com##.b_Share
 xpc654.com##.myui-panel_bd
 xpsee.com##.autumn-single-bottom-a-d
 xpsee.com##.autumn-single-top-a-d
+xtrojan.org##.code-block-3.code-block
 xue.baidu.com##div.ePqaIM.sc-jhrdCu:nth-of-type(1)
 xueqiu.com###swiper
 xueqiu.com##.AppBanner_mobile_app-banner__btns_2M9
@@ -5203,6 +5207,7 @@ yzsryq.com##[href^="https://www.binancezh.sh/"]
 zaixian-fanyi.com##div:nth-of-type(10)
 zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
 zaoju.xuexiaodaquan.com##div.fhg_div
+zdyan.com##.share
 zh-cn.aiseesoft.com###share-list
 zh.numberempire.com##.sharing
 zh.planetcalc.com##.share-buttons
@@ -5334,6 +5339,7 @@ zzqzz.com##.site_abc_wrap
 zztongyun.com###bdshare
 zztongyun.com##.z
 zztongyun.com##[href^="http://t.qbdgame.com"]
+zztongyun.com##[href^="https://depay.depay.one"]
 zzyyww.cn##.resource
 zzyyww.cn##.tags
 zzzjtd.com##.bdsharebuttonbox
