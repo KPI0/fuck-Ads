@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-28
+! TimeUpdated: 2023-03-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1018,6 +1018,7 @@ zztt37.com##*
 *###photoAdDiv
 *###phpad
 *###plugin_toc_bot_ad_game
+*###popadv_popmenu
 *###popBox
 *###randomBox
 *###right-bottom-ads
@@ -1786,6 +1787,7 @@ zztt37.com##*
 22ee.cn##li.social-item:nth-of-type(2)
 230890.com##.clear.entry-footer
 230890.com##.entry-meta-right
+2333.org.cn##.j-share.action-item
 23bei.com###layui-layer-shade1
 23bei.com##.hidden-p
 23bei.com##.layui-layer-iframe.layui-layer
@@ -2406,6 +2408,8 @@ ccvalue.cn##.qr-code
 cdn.nftshipan.club##.bannerImg > .uni-swiper-wrapper
 cdn.nftshipan.club##.uni-scroll-view-content > .bannerImg
 cdn.nftshipan.club##uni-swiper-item > .bannerImgDetail
+cdnb.net##.__single_1.wpcom_myimg_wrap
+cdnb.net##.top-news
 ce.cn###identifier-pannel
 ce.cn##.bshare-custom
 ce.cn##.sethome.red_3a
@@ -2516,6 +2520,10 @@ cj.sina.cn##.shou.broadcast
 cj.sina.cn##.show.broadcast
 cj.sina.cn##.unfold-words
 ckcest.cn##.a-share-btn.sr-share-btn.sr-btn
+ckj9.cc##.qq
+ckj9.cc##[href="http://103.143.28.78:1336/244444.html"]
+ckj9.cc##[href="https://27196.cc:8443"]
+ckj9.cc##[href="https://706859.cc:8443"]
 cllk.net##.clearfix.alizi-detail-header
 cloud.189.cn###J_DLMenu > .dropdown-toggle
 cloud.189.cn##.enterprise-guide
@@ -2953,6 +2961,7 @@ feimiao.cn##.float
 feimiao.cn##.fr
 feimiao.cn##.user_box
 feiniaomy.com##.tip_g
+feipinzhan.com##.share
 fenxiangzhan.com###zanad
 fenxiangzhan.com##.share.btn
 fibaro.com###cookie-info
@@ -3037,6 +3046,8 @@ gd.sina.com.cn##.share-sns
 gd3n.com###bdshare
 gd3x.com##.bdsharebuttonbox
 gdzrlj.com##.bdsharebuttonbox
+gebi1.com###diyfastposttop
+gebi1.com###diyviewright1
 geekpark.net##.contact > div
 geekpark.net##.down
 geekpark.net##.tools-erweima.tools-item
@@ -3362,6 +3373,8 @@ instrument.ofweek.com##.share
 instrument.ofweek.com##div > [href="javascript:;"]
 internet.cnmo.com##.fl.cshare
 internet.cnmo.com##.gmine_ad
+iot.ofweek.com##.share
+iot.ofweek.com##.sharebar
 iotku.com###btnShareToWeChat
 iotku.com##.PubBizReq.m-purchase-sd.g-sd2
 iotword.com##.xshare
@@ -3689,10 +3702,12 @@ langpz.com###menuShare
 langpz.com##.page-share-wrap
 lanzouo.com##body > div:nth-of-type(4)
 lanzouo.com##div:nth-of-type(8)
+laod.cn##.j-share.action-item
 laodad.com##.custom-share
 laohu8.com##.share-menu-root
 laoyaoba.com##.content-left-bottomlist
 laoyaoba.com##.foot
+laoyue.vip##.sharebox
 lapeople.com##.index-channel-fixed.index-channel.pull-left
 lapeople.com##.pane-box
 lapeople.com##a.tb-link.register-mp:nth-of-type(2)
@@ -4855,6 +4870,9 @@ qiuquan.cc##.asb-post-footer
 qixiaozhu.com##.share-box
 qiyeshangpu.com##.k-right
 qiyisq.com##.wp > .z
+qkl234.com##.apd-bg
+qkl234.com##.post-apd
+qkl234.com##[class="im-content-card"]
 qklw.com##.pull-right
 qklw.com##.qklw-content.article-content ul
 qklw.com##.text-right.col-sm-4
@@ -5790,9 +5808,11 @@ xiaohongshu.com##.share-item
 xiaohongshu.com##.share-wrapper
 xiaohongshu.com##.sub-total-link
 xiaohongshu.com##div.normal-launch-app-container:nth-of-type(2)
+xiaohus.com##.download
 xiaoji.la##.fly-zanzhu
 xiaomiyoupin.com##.fixed-nav
 xiaomiyoupin.com##.h-icon-con.m-safe-anchor
+xiaowei0.com##.xshare
 xiaoweigod.com##.action-share
 xiaoyeyun6.com##.post_share
 xiaozidian.com.cn##.fixedbox
@@ -6439,6 +6459,7 @@ zzzyk.com##div.zykmore
 ||ysjs.ys137.com.cn$subdocument
 ||ysjs4.ys137.com.cn$subdocument
 ||ysjs5.ys137.com.cn$subdocument
+||yy.tututu666.com$image
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
 ||z2.fakutownee.cn$subdocument
