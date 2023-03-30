@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-29
+! TimeUpdated: 2023-03-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4448,6 +4448,8 @@ miui.com##.app_download
 mkzhan.com##.icon-ic_head_app.iconfont
 mkzhan.com##.j-header-down.user-item > [href] > .item-text
 mkzhan.com##.qr-code.aside__item
+mma.vogel.com.cn##.d-sm-block.d-none.go-box
+mma.vogel.com.cn##.sharetoolbar-block
 mmic.net.cn##.sbanan
 mo.ab126.com###share
 mobile.baidu.com##.banner-ck.detail-banner
@@ -4684,6 +4686,8 @@ ooopic.com##.active-part.wt-asideItem
 ooopic.com##.show.loginTip-box
 ooopic.com##.wt-aside-footer > div.wt-asideItem
 ooopic.com##ul.fl:nth-of-type(5)
+open.163.com##.bottom-share
+open.163.com##.photo-view-tips
 opinion.people.com.cn###ops_share
 opposhop.cn##.welcome-wrapper
 opssh.cn##.list-banner
@@ -4723,6 +4727,7 @@ pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 pan.quark.cn##.share-content-right
 panewslab.com##.phone.item
 pansci.asia##[class="container ad-container all_top"]
+paperyy.com##.setup-box-share
 passport.bilibili.com##.right.block
 passport.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
 patreon.com##.bottomLeft__3ZFPD.root__1VdHR
@@ -4805,6 +4810,7 @@ product.m.dangdang.com##.app_download
 product.pconline.com.cn##.artBottomQRcode
 product.pconline.com.cn##.fixLeftQRcode
 product.pconline.com.cn##.pc-share
+product.pconline.com.cn##.share.item
 product.yesky.com##.gbshare
 proewildfire.cn###wechat_float_qrcode
 proewildfire.cn##.wp > .z
@@ -5426,6 +5432,7 @@ tw.appledaily.com##.social-container-BRCZHDC23BDYZPOQ2JHQFZIBHI.flex--justify-en
 tw.news.yahoo.com##.caas-share-section
 tw.yahoo.com###mega-banner-wrapper
 tw.yahoo.com##.D\(n\)--sm1366.Mend\(16px\).End\(100\%\).T\(0\).Pos\(a\).Td\(n\)
+txga.com##.web-fenxiangfangshi
 ubook.reader.qq.com##.bottom-guide-r
 ubook.reader.qq.com##.download
 ubook.reader.qq.com##.guide
