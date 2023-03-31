@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-03-30
+! TimeUpdated: 2023-03-31
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1466,6 +1466,7 @@ zztt37.com##*
 *##.infoAd
 *##.infoad
 *##.information-adver
+*##.irnpage_ad
 *##.item-ad
 *##.jiaoyu_gg
 *##.jifeng-ad-wrapper
@@ -2090,6 +2091,8 @@ app.weijj.com##.deepshare
 app.weijj.com##.white.down-top
 app17.com##.yzxx
 appinn.com##.related-posts.mylike
+appm.hangzhou.com.cn##.app-box
+appm.hangzhou.com.cn##.sharebox
 appm.xtol.cn##.m-page-tip
 aray.cn##.shares
 archives.zujuan.com##[src="/qrcode_zujuan.jpg"]
@@ -2194,6 +2197,7 @@ bbs.co188.com##.mcblc_operate_share
 bbs.co188.com##.qz_li4
 bbs.csdn.net##.csdn-toolbar-fl.toolbar-menus [href^="https://download.csdn.net/"]
 bbs.csdn.net##.no—h.option-box
+bbs.eeworld.com.cn##.ti_searchbar.clearfix
 bbs.eeworld.com.cn##.toshare
 bbs.elecfans.com###a_top_url
 bbs.elecfans.com##.absolute-ga.ga-lf > .ga-attend
@@ -5467,6 +5471,8 @@ url54.ctfile.com##.fs--1.btn-light.btn-sm.btn
 url54.ctfile.com##.p-3.modal-body > div
 user.guancha.cn##.g_swiper_container
 user.guancha.cn##.share-box-clear.share-box
+user.guancha.cn##.share-button
+user.guancha.cn##.share-title
 user.guancha.cn##.swiper-container-android.swiper-container-horizontal.swiper-container-initialized.swiper-container
 user.guancha.cn##.swiper-slide-active.swiper-slide > .go-to-app.g_flexBox
 user.youku.com##.dropdown_3IYGs
