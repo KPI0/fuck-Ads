@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-04-03
+! TimeUpdated: 2023-04-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1387,6 +1387,8 @@ zztt37.com##*
 *##.content_Ad
 *##.content_adsense
 *##.control-adv
+*##.copyright-ad
+*##.copyright-ad-pic
 *##.couplet_ad
 *##.csbox
 *##.detail-pure-ad-hx-btn
@@ -3800,6 +3802,7 @@ m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
 m.10jqka.com.cn##.openBtn
 m.163.com##.js-open-app.backflow-floating
+m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
 m.1688.com##.header-wrapper
 m.17ce.com##.add_txt
@@ -4564,6 +4567,7 @@ new-tudou.com##.qr-code-footer
 new-tudou.com##.td-h__dl
 new-tudou.com##li.td-side-bar-item > .dropdown__panel
 new.9ihb.com##.jinsom-single-left-bar
+new.fire114.cn##.siderbar-img
 new.qq.com###xgtj-20211130A04RHG
 new.qq.com##.fixed-bar
 new.qq.com##.right-bar > div
@@ -4912,6 +4916,8 @@ qklw.com##div[class="pull-right"]
 qnck.cyol.com##.bshare-custom
 qnol.net##.share-component.social-share
 qnzs.youth.cn##.bdsharebuttonbox
+qq-name.cn##.ggao
+qq-name.cn##.love
 qq.com##.l-qmail.q-icons
 qq.com##.l-qzone.q-icons
 qq.com##.qq-footer.layout
