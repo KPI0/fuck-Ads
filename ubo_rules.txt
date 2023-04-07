@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-04-06
+! TimeUpdated: 2023-04-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -942,6 +942,7 @@ zztt37.com##*
 *###baidulianmeng2
 *###baidulianmeng3
 *###baidutg
+*###banner_ad
 *###BannerZoneAD_Div1
 *###BannerZoneAD_Div2
 *###BannerZoneAD_Div20
@@ -970,6 +971,7 @@ zztt37.com##*
 *###fullAd
 *###gg
 *###gg-link
+*###gg-logo
 *###gg1
 *###gg2
 *###gg3
@@ -1150,6 +1152,7 @@ zztt37.com##*
 *##.ad8Style
 *##.ad9
 *##.ad9-home
+*##.ad960
 *##.ad9Style
 *##.ad_0
 *##.ad_01
@@ -1258,11 +1261,13 @@ zztt37.com##*
 *##.adv-bottom
 *##.adv-container
 *##.adv-fullscreen
+*##.adv-img
 *##.adv-left
 *##.adv-pro
 *##.adv-pro-main
 *##.adv-pro-wrap
 *##.adv-right
+*##.adv-url
 *##.adv10
 *##.adv7
 *##.adv_block
@@ -1460,6 +1465,7 @@ zztt37.com##*
 *##.h_adv
 *##.hang-baidu_adv
 *##.hang-baidu_advinner
+*##.head-guanggao
 *##.head-top-ad
 *##.header-ads
 *##.header_ad
@@ -1579,6 +1585,7 @@ zztt37.com##*
 *##.reply-ad-banner-container
 *##.reply-ad-container
 *##.reply-ad-img
+*##.right-float-adv
 *##.right_gg
 *##.right_top_ad
 *##.rightad
@@ -2085,6 +2092,7 @@ anfensi.com##strong
 anhukeji.com##.bdsharebuttonbox
 anrayli.com##.bdshare_t
 antpedia.com##.share
+aoeii.com##.share-wrapper
 aofuo.com##.clearfix.myui-foot
 aoy-power.com##.shareInfo
 apkpure.com##.share-btn
@@ -2714,6 +2722,7 @@ dg8.com.cn##.share.fl.m-soft-share
 dgdz0577.b2b168.com##.baiduadR
 dianying.taobao.com##.banner-container.J_smartBanner
 dianyingjie.com##.share
+dianzubuluo.com##.gkt-share-right.basicShareBtn
 dict.cn###dshared
 dict.cn##[href^="http://cidian.haidii.com/home.html"]
 dictall.com###ggr2_300
@@ -6207,6 +6216,7 @@ zzzyk.com##div.zykmore
 ||2.wubizhijia.com$subdocument
 ||2.zhifujing.org$subdocument
 ||222.zxwkw.net$subdocument
+||3.biz72.com$subdocument
 ||4.qumama.cn$subdocument
 ||4pcc.com^$script
 ||51xl.xyz$image
