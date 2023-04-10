@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-04-07
+! TimeUpdated: 2023-04-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1110,6 +1110,8 @@ zztt37.com##*
 *##.ad-num-5
 *##.ad-num-wrap
 *##.ad-pc
+*##.ad-plane-post
+*##.ad-plane-post-bottom
 *##.ad-plane-post-comment
 *##.ad-plane-post-in
 *##.ad-right
@@ -1241,6 +1243,7 @@ zztt37.com##*
 *##.adPlace
 *##.AdPositionId
 *##.ads
+*##.ads-container
 *##.ads-item
 *##.ads-loc-holder
 *##.ads300-90
@@ -1670,6 +1673,7 @@ zztt37.com##*
 *##.widget_image_ad
 *##.works-slider-ad
 *##.wpcom_ad_wrap
+*##.wwads
 *##.wwads-cn
 *##.xigua_ad
 *##.xinnet-adv-code
@@ -2934,6 +2938,7 @@ esengof.com##[href^="https://pages.tmall.com"]
 esmchina.com##.share
 etmall.com.tw##.promo-banner
 events.baidu.com##.bottom-img
+events.baidu.com##.top-img
 ex.chinadaily.com.cn##div.fenx:nth-of-type(3)
 examk.com##.right
 examw.com###ft_about
@@ -3329,6 +3334,7 @@ hxm5.com###qrcode
 hxm5.com##.cate-title
 hxstrive.com##.abc123
 hy.httpcn.com##.bsgg
+hzznsz.com##.jz-moduleSide.formStyle67.form
 i.chaoxing.com##li.black.appDown:nth-of-type(1)
 i.chaoxing.com##li.black.appDown:nth-of-type(2)
 i.ifeng.com##.bookrack-2087uMYt
@@ -3787,6 +3793,7 @@ live.nuedc-training.com.cn##div.fl.clearfix:nth-of-type(1)
 llxbw.com##.layui-col-space5.layui-row.layui-clear
 logcg.com##.a2a_default_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 logcg.com##.addtoany_share_save_container
+lonhowe.cn##.qabs
 lotto.sina.cn##div.cta:nth-of-type(3)
 ltube.life##.cate
 lulian.cn##.met-editor > .social-box
@@ -4445,6 +4452,7 @@ mdspw.com##.clearfix.stui-app__bd
 mdspw.com##.s-slider
 mdzgjx.com##.share
 meet99.com###share
+meijinmeng.cn##.action-share.action
 meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
 meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
 meijumi.top###sgpb-popup-dialog-main-div > div > .sg-popup-builder-content
@@ -4459,6 +4467,7 @@ meipian3.cn##.mp-fixed-download-open-btn
 meipian3.cn##.show.mp-article-bottom-bar
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 meiruanwang.com##.sharebox
+mfrjz.com##.shares
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
 mgtv.com##.sidebar-download
@@ -4942,6 +4951,7 @@ qudonghao.cn##.fx_bot
 qunzou.com##.mask.copy_mask
 quotes.sina.cn###__callup_bottom
 quwanw.cn##.fr.share-widget
+quzhongrensan.cn##.os-share-box
 qxzs.org.cn##.bdsharebuttonbox
 qy-dz.com##.shareContainer
 rakuten.com.tw##.radtop-pop-box
@@ -5256,6 +5266,7 @@ sycxqy.com##.article-share
 sydneytoday.com##.mtg-bottom-app
 sydneytoday.com##.sharebar
 sydw.huatu.com##.bottomBar
+sysin.org##.share-component.social-share
 szhl.cc##.bdsharebuttonbox
 szjara.com###bdshare
 szsjx.com###goods_share
@@ -5290,6 +5301,7 @@ tasexy.com##.left > .b300
 tastek.cn##.social-share.share-component
 tbs.co.jp##.tbs-gfooter-share
 tclxh.com###bdshare
+tcxiaowei.com##.sharebox
 te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
 te.com.cn##.we-chat-wrapper
 tech-ex.com##.share-title
@@ -5992,6 +6004,7 @@ yi2.net##.details-bot-bar
 yidu.edu.cn##.fr.shareto
 yifou.com##.btn-share.floatbar-btn
 yii666.com##.sidebar
+yiqi.com##.fl.share_Btnwb
 yiqixuexi8.com##.share-group
 yisu.com##.zixun-share-box
 yjbys.com##.banner
@@ -6514,6 +6527,7 @@ zzzyk.com##div.zykmore
 ||xzz.clgwe.com$subdocument
 ||y.yaohuo.me
 ||yangzhi.4-p.cc$subdocument
+||yanqian.pcoic.com$subdocument
 ||yichan.net.cn$image
 ||ysjs.ys137.com.cn$subdocument
 ||ysjs4.ys137.com.cn$subdocument
