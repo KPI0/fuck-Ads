@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-04-10
+! TimeUpdated: 2023-04-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4954,6 +4954,7 @@ quwanw.cn##.fr.share-widget
 quzhongrensan.cn##.os-share-box
 qxzs.org.cn##.bdsharebuttonbox
 qy-dz.com##.shareContainer
+qzxx.com##.shares
 rakuten.com.tw##.radtop-pop-box
 rakuten.com.tw##.superbanner
 rdhyw.com##.hfgg
@@ -5066,6 +5067,8 @@ shilian.com##.modle_3
 shilian.com##.share_tag
 shlihang.com##.bdselect_share_box
 shop.dixintong.com##.fixed-chou
+shop.szonline.net##.asideAd1-1skycmDX
+shop.szonline.net##.topAd-12XqLTmh
 shop.vivo.com.cn##.header
 shop.vivo.com.cn##.vp-head-download-show.vp-head-download
 shoudian.org##.attach_tips
