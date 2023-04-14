@@ -120,7 +120,8 @@ https://raw.githubusercontent.com/Cats-Team/AdRules/main/adblock.txt
 [![image](https://github.com/KPI0/fuck-Ads/blob/main/images/6123c0f805778ed52be6a71a1c023b1e.gif)](https://github.com/KPI0)
 
 # 广告拦截分数评估
-[https://checkadblock.ru](https://checkadblock.ru)
+[https://checkadblock.ru](https://checkadblock.ru)</br>
+[https://d3ward.github.io/toolz/adblock.html](https://d3ward.github.io/toolz/adblock.html)</br>
 
 # 历史Star
 [![Stargazers over time](https://starchart.cc/KPI0/fuck-Ads.svg)](https://starchart.cc/KPI0/fuck-Ads)
