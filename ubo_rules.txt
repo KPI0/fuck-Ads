@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-04-13
+! TimeUpdated: 2023-04-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1890,6 +1890,7 @@ zztt37.com##*
 3g.china.com##.header_app
 3g.k.sohu.com##.back-to-channel-fixed
 3g.made-in-china.com###shareBtnId
+3kjs.com##.custom-share
 3rxing.org###fullDD > div
 3rxing.org##div.dd300:nth-of-type(3)
 3w.huanqiu.com##.content-tool
@@ -4821,6 +4822,9 @@ pet82.com##.toolbar-open
 petssky.com##.bk.use-beshare-social-btn.zmy-btn-share.zmy-btn-beshare
 phb123.com##.suspension-code
 photo.baidu.com##.yk-side__footer
+php.cn###ad21
+php.cn###ad50
+php.cn###ad68
 php.cn##.wwads-vertical.wwads-cn
 pianshen.com##.dotloading
 pincong.rocks##.more-operate.pull-right > a.aw-small-text
@@ -5931,6 +5935,7 @@ xmsbtauto.com###bshareF
 xmtyy.net##.m-news-button
 xmtyy.net##blockquote
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(n)
+xnbaoku.com##.site_abc_wrap
 xolo0755.com##.b_Share
 xpc654.com##.myui-panel_bd
 xpsee.com##.autumn-single-bottom-a-d
