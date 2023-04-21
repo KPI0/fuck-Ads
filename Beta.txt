@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-04-17
+! TimeUpdated: 2023-04-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -213,6 +213,7 @@ btt400.com##*
 buliangdh46.xyz##*
 buliangvip.com##*
 buy.rising.com.cn##*
+bysgp5.com##*
 byym36.com##*
 byym75.com##*
 byym91.com##*
@@ -602,6 +603,7 @@ servetates.com##*
 sese8342.com##*
 sex.com##*
 sexyhub.com##*
+sgp3.fun##*
 shn567.com##*
 shop.yipanhaocai.com##*
 shoujiweishi.baidu.com##*
@@ -654,6 +656,7 @@ tikporn.tube##*
 tiktits.com##*
 timi21.com##*
 timo7.com##*
+tk5.app##*
 tkbpyg.life##*
 tktube.com##*
 tom3828.com##*
@@ -1355,6 +1358,7 @@ zztt37.com##*
 *##.bdsharebuttonbox
 *##.bg-ad-left
 *##.bg-ad-right
+*##.bgw.conter-box
 *##.bl_ad
 *##.blog-slide-ad-box
 *##.bna_ad
@@ -6072,6 +6076,7 @@ yun.139.com##.down_explain_div_span
 yun.139.com##.fr
 yun.139.com##[href="#/client"]
 yun.139.com##div.document_top_menu:nth-of-type(7)
+yun.ikuai8.com##.act_img_dns.act_img
 yunio.cn##.action-share.action
 yuque.com##.index-module_qrCodeWrapper_6UwnH
 yxcehua.com##.xshare
