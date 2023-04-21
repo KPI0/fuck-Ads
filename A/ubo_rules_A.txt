@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-04-17
+! TimeUpdated: 2023-04-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -577,6 +577,7 @@
 *##.bdsharebuttonbox
 *##.bg-ad-left
 *##.bg-ad-right
+*##.bgw.conter-box
 *##.bl_ad
 *##.blog-slide-ad-box
 *##.bna_ad
@@ -5294,6 +5295,7 @@ yun.139.com##.down_explain_div_span
 yun.139.com##.fr
 yun.139.com##[href="#/client"]
 yun.139.com##div.document_top_menu:nth-of-type(7)
+yun.ikuai8.com##.act_img_dns.act_img
 yunio.cn##.action-share.action
 yuque.com##.index-module_qrCodeWrapper_6UwnH
 yxcehua.com##.xshare
