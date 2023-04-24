@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-04-21
+! TimeUpdated: 2023-04-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -545,6 +545,7 @@ onlytik.com##*
 oofof.com##*
 ourshdtv.com##*
 ouyaoxiazai.com##*
+paipancon.com##*
 pak234.com##*
 papersnowdge.cc##*
 pbkjz1.com##*
@@ -2361,6 +2362,7 @@ bmlink.com##[href="https://www.bmlink.com/entry/reg.aspx"]
 bmyzl.com##.pg-0.player_right.col-xs-12.col-sm-12.col-md-3 > h1
 bmyzl.com##.row > h1
 boce.com##.money_left
+book-dl.com##.social-share
 book.km.com##.btn_A.btnHook
 book.km.com##.tools-item > [href^="/index.php"]
 book.km.com##a[href="javascript:;"]:nth-of-type(3)
@@ -3796,6 +3798,7 @@ live.bilibili.com##.bili-btn-warp.open-app-btn
 live.bilibili.com##.f-right.footer-right
 live.nuedc-training.com.cn##div.fl.clearfix:nth-of-type(1)
 llxbw.com##.layui-col-space5.layui-row.layui-clear
+lnbdc.com##.c-share-list
 logcg.com##.a2a_default_style.a2a_floating_style.a2a_kit_size_32.a2a_kit
 logcg.com##.addtoany_share_save_container
 lonhowe.cn##.qabs
