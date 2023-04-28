@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-04-26
+! TimeUpdated: 2023-04-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -688,6 +688,7 @@ ury123.com##*
 ury234.com##*
 ury345.com##*
 uzzf.com##*
+v.webp.website##*
 veryhuo.com##*
 video.xunlei.com##*
 violatorrecords.com##*
@@ -1107,6 +1108,7 @@ zztt37.com##*
 *##.ad-detail
 *##.ad-dk
 *##.ad-flash
+*##.ad-global-top
 *##.ad-horizontal
 *##.ad-image
 *##.ad-img
@@ -2446,6 +2448,7 @@ cbndata.com##.fixed-share
 cc.163.com###download
 cc.163.com##.browser-zoom-tips
 cc.163.com##.browser-zoom-tips-bgCon
+cc.ai55.cc##.my-love-container
 cc120.top###MlPlist1
 cc120.top###MlTlist1
 cc120.top##[href^="https://hashcloud.top"]
