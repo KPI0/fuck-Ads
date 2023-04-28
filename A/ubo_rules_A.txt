@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-04-24
+! TimeUpdated: 2023-04-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -240,6 +240,16 @@
 *###Nav_Top_Ad
 *###new_ad
 *###newListAdIc
+*###nex_index_top_ads0
+*###nex_index_top_ads1
+*###nex_index_top_ads2
+*###nex_index_top_ads3
+*###nex_index_top_ads4
+*###nex_index_top_ads5
+*###nex_index_top_ads6
+*###nex_index_top_ads7
+*###nex_index_top_ads8
+*###nex_index_top_ads9
 *###partners
 *###photoAdDiv
 *###phpad
@@ -313,6 +323,7 @@
 *##.ad-detail
 *##.ad-dk
 *##.ad-flash
+*##.ad-global-top
 *##.ad-horizontal
 *##.ad-image
 *##.ad-img
@@ -1652,6 +1663,7 @@ cbndata.com##.fixed-share
 cc.163.com###download
 cc.163.com##.browser-zoom-tips
 cc.163.com##.browser-zoom-tips-bgCon
+cc.ai55.cc##.my-love-container
 cc120.top###MlPlist1
 cc120.top###MlTlist1
 cc120.top##[href^="https://hashcloud.top"]
@@ -1924,6 +1936,8 @@ dacankao.com##.sharep
 dadablog.cn##.mb-md-0.mb-4.col-md-5.col-12
 dadaqq.com##.hzt-footer-tool
 daily.zhihu.com##.Daily
+dalao.im##.sidebar
+dalao.im##.single-top-html
 dandanzan.com##.lgyPl_v2_inner
 dandanzan.com##.lgyPl_v2_load_more_record
 dandanzan.com##.lgyPl_v2_record_item_saytext
@@ -4658,6 +4672,7 @@ tool.cncn.com##.ewm
 tool.cncn.com##.fr.share_bd
 tool.cncn.com##.qr_code
 tool.cncn.com##[src="https://s.cncnimg.cn/images/a/2019/heyuan930x90_20190402.jpg"]
+tool.ip138.com##.banner-outer
 tool.lu###facebox
 tool.lu###t_fixed
 tool.lu##.facebox_overlayBG.facebox_hide
