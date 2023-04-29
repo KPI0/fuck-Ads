@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-04-28
+! TimeUpdated: 2023-04-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2588,6 +2588,7 @@ cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
 cloud.tencent.com##.c-btn-weak.c-btn
+cloud.tencent.com##.com-event-panel
 cloud.tencent.com##.com-event-panel-img
 cloud.tencent.com##.com-module-content
 cloud.tencent.com##.com-widget-global > div
@@ -3845,6 +3846,7 @@ m.10jqka.com.cn##.backwash_download.fl.header-dl
 m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
 m.10jqka.com.cn##.openBtn
+m.163.com##.fixedOpenNewsapp
 m.163.com##.js-open-app.backflow-floating
 m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
@@ -5155,6 +5157,7 @@ smarthome.qianjia.com##.clearfix.welcome-join.mod
 smarthome.qianjia.com##.tool-share
 smarthome.qianjia.com##p.MsoNormal:nth-of-type(16)
 smartroomcn.com##.post-sharing
+smdk000.com##.j-share.action-item
 sms.cabq.nl##.alert-danger.alert
 sms.cabq.nl##.swiper-container
 sms.cabq.nl##.swiper-wrapper
@@ -6444,6 +6447,7 @@ zzzyk.com##div.zykmore
 ||kjhxw.xyz^
 ||kk.qudoula.com$subdocument
 ||kvze.lvze365.com$subdocument
+||lcn.aivote.com$subdocument
 ||ldbbs.ldmnq.com$image
 ||lesson99.com$image
 ||lfwxe.xyz^$script
