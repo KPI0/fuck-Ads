@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-04-29
+! TimeUpdated: 2023-05-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1298,6 +1298,7 @@ zztt37.com##*
 *##.advbanner
 *##.advbox
 *##.advclick
+*##.adver-img-wrap
 *##.adver-pic
 *##.adversiment
 *##.advert
@@ -1966,6 +1967,7 @@ zztt37.com##*
 5axxw.com###gzh-mask
 5axxw.com###gzh-modal
 5blog.net##.clearfix.mt.social-widget.enhqscptjj
+5mrk.com##.site_abc_wrap
 5o5r.cn##.j-share.action-item
 608y.com##.qrcode_box
 61maoak.com##li.scroll-list:nth-of-type(2)
@@ -2274,6 +2276,7 @@ bbs.pinggu.org###bottom-nav-share
 bbs.tianya.cn###barcode_float > [href="http://tianya.cn/mobile/"]
 bbs.tianya.cn##.scroll-btn
 bbs.vpser.net##.wp > .z
+bbs.zsxwz.com##.social-share.share-component
 bbsnet.com##.baishare
 bddhw.cn##.j-share
 beeeup.com##.fr.shareIcon
@@ -2432,6 +2435,9 @@ c.biancheng.net###addweixin-widget
 c.biancheng.net###top-banner > .wap-yes
 c.biancheng.net##.pic
 caacnews.com.cn###FenXiang
+cadejiajia.com###MlPlist2
+cadejiajia.com##.sharebox
+cadejiajia.com##center
 caibian.net##.j-share.action-item
 caischina.cn##[src="/Public/zgxwbd/css/you1.jpeg"]
 cangchou.com##.j-share.action-item
@@ -2656,6 +2662,8 @@ cocomanga.com##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.f
 cointelegraphcn.com##.header-zone__banners
 cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
+console.hsk.oray.com##.pointer.poster.el-image
+console.hsk.oray.com##.postCard
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
 consumer.huawei.com##.huawei-bootom-cookie
 context.reverso.net###home-mobile-badges-apps
@@ -2861,6 +2869,7 @@ duanmeiwen.com##.mySwiperBox
 dubox.com##.notification-wrap
 duitang.com##.dt_down_guide_small_tip
 duitang.com##.top.app-download-guide
+dujin.org##.orbui-post
 dujin.org##div.widget_custom_html.widget.widget_text:nth-of-type(4)
 dumall.baidu.com##.show.fixed-right-top.whiteBg.com-focus.jsx-1049465603
 dumall.baidu.com##div.whiteBg.com-focus.jsx-1049465603:nth-of-type(4)
@@ -3595,6 +3604,7 @@ jishuin.proginn.com##p:nth-of-type(12)
 jishuin.proginn.com##p:nth-of-type(13)
 jishuin.proginn.com##section:nth-of-type(3)
 jishuin.proginn.com##section:nth-of-type(4)
+jisuan.mobi##.share-component.social-share
 jk.th38.cn###m_contact
 jndvisa.com##.sharebox
 joelled.com##.article-zan-fav
@@ -3811,6 +3821,8 @@ liuliangzu.com##.ggpost-below
 liuxue86.com##.modal-pay.modal
 liuzhanwu.cn##.orbui
 liuzhanwu.cn##div.widget_ui_orbui.widget.widget-on-phone > .item
+liuzhanwu.com##.shares
+liuzhanwu.com##.widget_ui_orbui
 live.baidu.com##.baidu-reflow-btn
 live.bilibili.com##.bili-btn-warp.open-app-btn
 live.bilibili.com##.f-right.footer-right
@@ -5538,6 +5550,8 @@ ubook.reader.qq.com##.title-line
 ubook.reader.qq.com##.top-guide
 ubook.reader.qq.com##div.red:nth-of-type(1)
 ubook.reader.qq.com##div[class=writer-say]
+ulidc.com##.orbui-site.orbui-m
+ulidc.com##.shares
 union.ctfile.com###explaination-part
 union.ctfile.com###final-part
 union.ctfile.com###footer
@@ -5654,6 +5668,7 @@ vmware.com###menu-share
 voachinese.com##.share--box
 vogueda.com##.j-share.action-item
 vps.yangmao.info##.bm22m12
+vps.yangmao.info##.ym23m3
 vps1352.com##.share.post_share
 vps234.com###article-bottom-banners
 vps234.com###top-bannber
