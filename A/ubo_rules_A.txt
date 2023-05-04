@@ -5133,10 +5133,12 @@ xianba.net##.post-end-tool-btns
 xiaodutv.com###openAppSure
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
+xiaohongshu.com##.bottom-bar
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
 xiaohongshu.com##.bottom-bar.launch-app-container
 xiaohongshu.com##.bottom-button-box
 xiaohongshu.com##.bottom-fixed.bottom-info
+xiaohongshu.com##.fixed
 xiaohongshu.com##.launch-btn.color.filled.m.br1000.fw500.reds-button
 xiaohongshu.com##.middle-wrapper
 xiaohongshu.com##.nav-bar-box
