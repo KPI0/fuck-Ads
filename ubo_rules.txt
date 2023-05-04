@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-05-01
+! TimeUpdated: 2023-05-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1124,6 +1124,7 @@ zztt37.com##*
 *##.ad-list
 *##.Ad-list
 *##.ad-m
+*##.ad-mb
 *##.ad-mobile
 *##.ad-num-5
 *##.ad-num-wrap
@@ -1271,9 +1272,11 @@ zztt37.com##*
 *##.ads_dwn
 *##.adsbygoogle
 *##.adsContainer
+*##.adsense
 *##.AdSense
 *##.adshoptop
 *##.adTags
+*##.adts
 *##.adv
 *##.adv-01
 *##.adv-02
@@ -3229,6 +3232,7 @@ h5.ippzone.com##.OpenButton
 h5.mse.360.cn##.top-banner
 h5.oldkids.cn##.share
 h5.onemeta.com.cn##.round.shadow-blur.bg-blue.cu-btn
+h5.pipix.com##.spring.clearfix.affix
 h5.stcn.com##.app-download-fixed
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
@@ -5915,10 +5919,12 @@ xiaodutv.com###openAppSure
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
 xiaohongshu.com##.bottom-bar.button-bottom-bar.cube-z-bottom-bar
+xiaohongshu.com##.bottom-bar.launch-app-container
 xiaohongshu.com##.bottom-button-box
 xiaohongshu.com##.bottom-fixed.bottom-info
 xiaohongshu.com##.launch-btn.color.filled.m.br1000.fw500.reds-button
 xiaohongshu.com##.middle-wrapper
+xiaohongshu.com##.nav-bar-box
 xiaohongshu.com##.open-app-btn
 xiaohongshu.com##.share-btn
 xiaohongshu.com##.share-item
