@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-05-04
+! TimeUpdated: 2023-05-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4887,6 +4887,8 @@ portableapps.com##.region-header.region > .block-block.block
 portal.qiniu.com##.static-notification
 post.m.smzdm.com##.button_share.z-group-data.share
 post.m.smzdm.com##.foot-banner
+post.m.smzdm.com##.go-baike-buy
+post.m.smzdm.com##.handle-btns > div:nth-of-type(2)
 post.m.smzdm.com##.handle-btns > div:nth-of-type(3)
 post.m.smzdm.com##.logo-download
 post.smzdm.com###elevator > li:nth-of-type(1)
@@ -5054,6 +5056,8 @@ sdyndqkj.com##.list_p > .clearfix
 search.bilibili.com##.download-client-trigger.download-entry
 search.bilibili.com##.footer_right
 search.bilibili.com##li.nav-link-item:nth-of-type(8) > span > .van-popover__reference.link
+search.m.smzdm.com##.download-mini
+search.m.smzdm.com##.download-normal
 search.smzdm.com###subscribes
 search.smzdm.com##.J_feedback.search-feedback
 search.smzdm.com##.z-clearfix.footer-inner
