@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-05-07
+! TimeUpdated: 2023-05-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -3495,6 +3495,7 @@ m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot
 m.smzdm.com##.footer-banner
+m.smzdm.com##.handle-btns > div:nth-of-type(1)
 m.smzdm.com##.logo-download
 m.smzdm.com##[href^="https://app.smzdm.com/xiazai/"]
 m.sohu.com###weChatShare
@@ -4102,6 +4103,7 @@ portableapps.com##.region-header.region > .block-block.block
 portal.qiniu.com##.static-notification
 post.m.smzdm.com##.button_share.z-group-data.share
 post.m.smzdm.com##.foot-banner
+post.m.smzdm.com##.footer-wrap
 post.m.smzdm.com##.go-baike-buy
 post.m.smzdm.com##.handle-btns > div:nth-of-type(2)
 post.m.smzdm.com##.handle-btns > div:nth-of-type(3)
