@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-08
+! TimeUpdated: 2023-05-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1436,6 +1436,7 @@ zztt37.com##*
 *##.ecommerce-ad-commodity-main
 *##.ecommerce-ad-commodity-main-content
 *##.ecommerce-ad-commodity-main-content-des
+*##.ecommerce-ad-exp-wrap-haowu
 *##.eef-ad-type-billboard
 *##.enterprise-guide-ad-box
 *##.eobd-adv
@@ -2080,6 +2081,7 @@ aibicl.com##.qrcode
 aicediamond.top###long-page > li
 aicediamond.top##body > div.container:nth-of-type(1)
 aicediamond.top##div.container > li
+aida64cn.com##.tcbg
 aifengbei.com##.comiis_flex .comiis_share_key
 aiops.com##.share.fl.bdsharebuttonbox
 aiqicha.baidu.com##.active-enter
@@ -2606,6 +2608,7 @@ cloud.tencent.com##.event.theme2.com-3-article-panel
 cloud.tencent.com##.link-share.com-opt-link
 cloud.tencent.com##.main-cnt > div
 cloud.tencent.com##.pls-footer-website-contact-view
+cloud.tencent.com##.with-tag.cdc-event-card
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
 cls.cn##.detail-option.bg-c-f6f8f9.clearfix > .f-r
 club.liangchanba.com###gz_table
@@ -2912,6 +2915,7 @@ easylearn.baidu.com##.client-wrap
 easylearn.baidu.com##.download-app
 easylearn.baidu.com##.feedback-icon
 easylearn.baidu.com##.fixed-download
+easylearn.baidu.com##.float-fixed
 easylearn.baidu.com##.member-guide
 easylearn.baidu.com##.vip-banner-cont
 easylearn.baidu.com##.vip-bar
@@ -3069,6 +3073,7 @@ flyzy2005.cn##[href="https://yhgo.wang/tencent/double11"]
 flyzy2005.cn##[href^="https://www.aliyun.com/minisite/goods"]
 flyzy2005.cn##div.container > [href="https://bwg.wiki"]
 fonts.safe.360.cn##.footer
+forum.gl-inet.cn##.wp > .z
 forum.huawei.com##.share.reply
 free-proxy.cz##.social-likes_visible.social-likes
 freebuf.com##div.approve:nth-of-type(5)
@@ -3848,6 +3853,7 @@ lutu88.com##.__single_0.wpcom_myimg_wrap
 lutu88.com##.__single_1.wpcom_myimg_wrap
 lutu88.com##.__single_2.wpcom_myimg_wrap
 lutu88.com##.item-myimg.item
+lw13.cn###absArticleTop
 lxapk.com##.article-content > .size-full.wp-block-image
 lzbs.com.cn##.bdsharebuttonbox
 lzw98.com###likepc
@@ -4583,6 +4589,7 @@ msg.youku.com##.dropdown_3IYGs
 msg.youku.com##.white_2K5ye.u-app_Ubbmj
 mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
+msicn.com.cn##.icon-bar
 msjh520.com###player-left > div:nth-of-type(2)
 mt.sohu.com###big-share > ul
 mtop.aizhan.com###ny_c
@@ -5028,6 +5035,7 @@ rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
+right.com.cn##.focus
 right.com.cn##.sharep
 risi-cpps.com##.action-share.action
 risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
@@ -5543,7 +5551,9 @@ tw.appledaily.com###div-GDPR-message
 tw.appledaily.com##.member-campaign
 tw.appledaily.com##.social-container-BRCZHDC23BDYZPOQ2JHQFZIBHI.box--hidden-sm.vertical.tw-desktop-social_container
 tw.appledaily.com##.social-container-BRCZHDC23BDYZPOQ2JHQFZIBHI.flex--justify-end.flex--align.flex.absolute.undefined.tw-desktop-social_container
+tw.news.yahoo.com##.app-promo
 tw.news.yahoo.com##.caas-share-section
+tw.news.yahoo.com##.Mih\(82px\).Z\(3\).End\(0\).Start\(0\).B\(56px\).Pos\(f\).D\(f\).Bgc\(\$c-fuji-charcoal\)
 tw.yahoo.com###mega-banner-wrapper
 tw.yahoo.com##.D\(n\)--sm1366.Mend\(16px\).End\(100\%\).T\(0\).Pos\(a\).Td\(n\)
 txga.com##.web-fenxiangfangshi
