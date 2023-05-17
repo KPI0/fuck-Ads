@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-14
+! TimeUpdated: 2023-05-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -152,7 +152,10 @@ app003.vip##*
 app378.com##*
 appav.live##*
 appchina.com##*
+aq806.com##*
 aqdmv143.com##*
+aqdw143.com##*
+aqdw195.com##*
 are456.com##*
 arm456.com##*
 assoass.com##*
@@ -728,6 +731,7 @@ xingfupa.com##*
 xitonghe.com##*
 xixiwg.com##*
 xmmv9.com##*
+xn--vctr31ecwaz4k.com##*
 xng15.xyz##*
 xnxx.com##*
 xpc654.com##*
@@ -746,6 +750,10 @@ xxxmmm.club##*
 xxxxvideo.uno##*
 xz7.com##*
 yangbit.com##*
+yanjiusuo1.app##*
+yanjiusuo1.me##*
+yanjiusuo2.me##*
+yanjiusuo3.me##*
 yashenggd.com##*
 ydan.cc##*
 ydrhg.xyz##*
@@ -831,6 +839,7 @@ zztt37.com##*
 *###ad-flash
 *###ad-header
 *###ad-in-page
+*###ad-index
 *###ad-left
 *###ad-list
 *###Ad-list
@@ -2285,6 +2294,7 @@ bbs.vpser.net##.wp > .z
 bbs.zsxwz.com##.social-share.share-component
 bbsnet.com##.baishare
 bddhw.cn##.j-share
+bdys03.com##.ayx
 beeeup.com##.fr.shareIcon
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
@@ -3356,6 +3366,7 @@ huang.1.cheapshop.cn##.ziti.topliucheng > b
 huiyingwu.com##.post-share
 hujiang.com##.tool-share.elem
 hukaiwen.net.cn##.sharebox
+huoban.com##.mnsblock.mnsbot.mnshow
 huobi.com###client_list
 huobi.com##.fedui-header-download
 hupu.com##.footer-floor
