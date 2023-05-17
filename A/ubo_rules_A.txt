@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-05-14
+! TimeUpdated: 2023-05-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -46,6 +46,7 @@
 *###ad-flash
 *###ad-header
 *###ad-in-page
+*###ad-index
 *###ad-left
 *###ad-list
 *###Ad-list
@@ -1500,6 +1501,7 @@ bbs.vpser.net##.wp > .z
 bbs.zsxwz.com##.social-share.share-component
 bbsnet.com##.baishare
 bddhw.cn##.j-share
+bdys03.com##.ayx
 beeeup.com##.fr.shareIcon
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
@@ -2571,6 +2573,7 @@ huang.1.cheapshop.cn##.ziti.topliucheng > b
 huiyingwu.com##.post-share
 hujiang.com##.tool-share.elem
 hukaiwen.net.cn##.sharebox
+huoban.com##.mnsblock.mnsbot.mnshow
 huobi.com###client_list
 huobi.com##.fedui-header-download
 hupu.com##.footer-floor
