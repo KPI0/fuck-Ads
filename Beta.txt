@@ -1126,6 +1126,7 @@ zztt37.com##*
 *##.ad-index-bottom-right
 *##.ad-index-left
 *##.ad-index-right
+*##.ad-label-rb
 *##.ad-left
 *##.ad-limgrtxt
 *##.ad-limgrtxt-middle
@@ -1621,6 +1622,7 @@ zztt37.com##*
 *##.reply-ad-banner-container
 *##.reply-ad-container
 *##.reply-ad-img
+*##.righr_ad
 *##.right-float-adv
 *##.right_gg
 *##.right_top_ad
@@ -2216,6 +2218,7 @@ baijiahao.baidu.com##.index-module_bottomContainer_2QFqg
 baijiahao.baidu.com##.index-module_recentArticleContainer_13m7C
 baijiahao.baidu.com##.index-module_relateContainer_3RNjY
 baijiahao.baidu.com##.index-module_topList_k56w2
+baijiahao.baidu.com##.share
 baijiahao.baidu.com##.undefined
 baike.baidu.com##._4txvhmc
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
@@ -3544,6 +3547,7 @@ jamesdailylife.com###block-5
 jamesdailylife.com###custom_html-8
 jamesdailylife.com###sidebar-sticky > .widget_custom_html.widget.widget_text
 jamesdailylife.com###sidebar-sticky > .widget_media_image.widget_block.widget
+jaobe.com##.btn_extend
 javaclub.cn###newmodule
 javaclub.cn##.sharebox
 javaforall.cn##.__single_2.wpcom_myimg_wrap
@@ -4296,6 +4300,7 @@ m.readnovel.com##.qq.footer-app-fixed.prevent-shield
 m.readnovel.com##.rb-cover
 m.readnovel.com##div.read-chapter-forum:nth-of-type(n)
 m.renrenshipu.com##.icon_share
+m.sgss8.net##.lazyloaded
 m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot
@@ -6286,6 +6291,7 @@ zongheng.com##[href^="//zongheng.com/feedback"]
 zoyi14.smartapps.cn##.swan-web-suspend-button
 zrodata.com##.j-share.action-item
 zsjj.zhaosw.com##.hot.recommend
+zsqd.app.qing5.com##.arcRecommend
 zt5.com##.bdsharebuttonbox
 zuixu.com###layui-layer-shade1
 zuixu.com###layui-layer-shade2
