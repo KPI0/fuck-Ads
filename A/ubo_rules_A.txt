@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-05-18
+! TimeUpdated: 2023-05-19
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -617,6 +617,9 @@
 *##.ceo-ads
 *##.cesuankuang
 *##.channel_ad_text_2016
+*##.circuit-ad-box
+*##.circuit-ad-container
+*##.circuit-ad-item
 *##.cj_bna_ad
 *##.cl.tshare
 *##.cmsAd
@@ -1251,6 +1254,7 @@
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
 9xt64.xyz##.common
+@@||misumi.com.cn^$script,1p
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
 @@||qlogo.cn^$image,domain=jswvip.net
@@ -1325,6 +1329,7 @@ aizhan.com##.azone
 aizhan.com##.ico-nav-mobile
 aizhan.com##.main-nav-tool > ul > li:nth-of-type(1)
 aizhan.com##[src="//statics.aizhan.com/images/img/gotopa.png"]
+aizhanghao.com###nidhaj
 aizhanghao.com##.fenBtn.icon-button
 ala.baidu.com##.more-btn-desc
 ala.baidu.com##.nav-bar-bottom
@@ -1724,6 +1729,8 @@ cheshirex.com###text-58
 cheshirex.com##.aligncenter
 china-audit.com##.fav
 china-nengyuan.com##td:nth-of-type(1) > table:nth-of-type(5) > tbody > tr > td
+china-share.com##.nbgg
+china-share.com##.pcnone
 china-xian.com##.bdsharebuttonbox
 china-xian.com##.infotxt
 china-xj.cn###bdshare
@@ -1919,6 +1926,7 @@ cqnews.net##.bsharebox
 cqnews.net##.bsharebox1
 cqooc.com##[src="/images/qq_qr.png"]
 cqooc.com##[src="/images/wechat_qr.png"]
+cqvip.com##[src="/css/img/zsgg.jpg"]
 cs-kymy.com##h1
 cs.zjol.com.cn##.box-jrcsq
 cs.zjol.com.cn##.box-sdch
@@ -3604,6 +3612,7 @@ m.xiangha.com##.own-aodo-box
 m.xianjichina.com###j-art-banner
 m.xianjichina.com##.bar-share
 m.xiqu9.com###jd_dom
+m.xp7.com##.fx
 m.xsyq.cc##a#__dfdsdefsdb.__foiud
 m.xsyq.cc##b
 m.xuefunan.com##.j-share.action-item
@@ -5143,6 +5152,7 @@ wwei.cn##[href="//app.wwei.cn/"]
 wwei.cn##div.all-client
 wwsww.cn##.nyzc
 wwwx168.cn##.post-share
+wx.edumx.cn##.advistor-item
 wx2.qq.com##[class="download_entry ng-scope"]
 wx2.qq.com##span.ng-scope.sep:nth-of-type(1)
 wy668.com.cn##.bdshare
