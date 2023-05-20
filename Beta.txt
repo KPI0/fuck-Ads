@@ -2048,11 +2048,11 @@ zztt37.com##*
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
 9xt64.xyz##.common
+@@||fffmo.com^$script,1p
 @@||misumi.com.cn^$script,1p
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
 @@||qlogo.cn^$image,domain=jswvip.net
-@@||www.fffmo.com^$script,1p
 a-hospital.com##.bdsharebuttonbox
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.yyb-safe-text
@@ -2358,6 +2358,7 @@ bing.com##.ads_dwn
 bing.com##.bottom_ad
 bing.com##.center_ad
 bing.com##.top_ad
+biquge.la##.fav-wp
 biqwo.com##.ywtop_sethome
 bitalk.com##.share-component.social-share
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
@@ -3268,6 +3269,8 @@ h5.mse.360.cn##.top-banner
 h5.oldkids.cn##.share
 h5.onemeta.com.cn##.round.shadow-blur.bg-blue.cu-btn
 h5.pipix.com##.spring.clearfix.affix
+h5.smzdm.com##.footer-banner
+h5.smzdm.com##.logo-download
 h5.stcn.com##.app-download-fixed
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
@@ -3905,6 +3908,7 @@ m.163.com##.js-open-app.backflow-floating
 m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
 m.1688.com##.header-wrapper
+m.17173.com##.gb-17173app-tg
 m.17ce.com##.add_txt
 m.17ce.com##.top-banner-app
 m.17ce.com##div.add_img
@@ -4318,6 +4322,8 @@ m.sgss8.net##.lazyloaded
 m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot
+m.smzdm.com##.download-mini
+m.smzdm.com##.download-normal
 m.smzdm.com##.footer-banner
 m.smzdm.com##.handle-btns > div:nth-of-type(1)
 m.smzdm.com##.logo-download
@@ -4686,6 +4692,9 @@ newiot.com###ggxc
 newiot.com###nynewsshare
 newqc.cn##.pbvideo-share
 news.0551fangchan.com##.bdsharebuttonbox
+news.17173.com##.gb-17173app-tg
+news.17173.com##.gb-final-box-recomm
+news.17173.com##.pn-share
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
 news.bjx.com.cn##.cc-inst
