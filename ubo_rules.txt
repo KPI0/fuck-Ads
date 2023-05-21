@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-05-19
+! TimeUpdated: 2023-05-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -577,6 +577,7 @@ probeporn.com##*
 prt345.com##*
 pry345.com##*
 pry678.com##*
+pussyboy.net##*
 qinav.com##*
 qingse.one##*
 qq388.cn##*
@@ -1508,6 +1509,7 @@ zztt37.com##*
 *##.hang-baidu_advinner
 *##.head-guanggao
 *##.head-top-ad
+*##.header-ad-banner
 *##.header-ads
 *##.header_ad
 *##.home-ad
@@ -2047,11 +2049,11 @@ zztt37.com##*
 9sex.tv##.mb-1.text-center.p-lg-2.p-3
 9sex.tv##div.mt-4.maxWFitContent.imgBoxW.p-0.col-12
 9xt64.xyz##.common
+@@||fffmo.com^$script,1p
 @@||misumi.com.cn^$script,1p
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
 @@||qlogo.cn^$image,domain=jswvip.net
-@@||www.fffmo.com^$script,1p
 a-hospital.com##.bdsharebuttonbox
 a.app.qq.com##.app-tag-panel
 a.app.qq.com##.yyb-safe-text
@@ -2357,6 +2359,7 @@ bing.com##.ads_dwn
 bing.com##.bottom_ad
 bing.com##.center_ad
 bing.com##.top_ad
+biquge.la##.fav-wp
 biqwo.com##.ywtop_sethome
 bitalk.com##.share-component.social-share
 bitpush.news##.pr-12.content-new > .flex .flex-col.flex
@@ -2694,6 +2697,8 @@ cocomanga.com##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.f
 cointelegraphcn.com##.header-zone__banners
 cointelegraphcn.com##div.sidebar__widget:nth-of-type(3)
 cokemv.me##.popupShow.none.popup-tips.popup
+colamanhua.com##.fed-icon-fenxiang
+colamanhua.com##.gryjneuz_b
 console.hsk.oray.com##.pointer.poster.el-image
 console.hsk.oray.com##.postCard
 consumer.huawei.com##.col-md-6.col-xl-4.contact__block
@@ -3265,6 +3270,8 @@ h5.mse.360.cn##.top-banner
 h5.oldkids.cn##.share
 h5.onemeta.com.cn##.round.shadow-blur.bg-blue.cu-btn
 h5.pipix.com##.spring.clearfix.affix
+h5.smzdm.com##.footer-banner
+h5.smzdm.com##.logo-download
 h5.stcn.com##.app-download-fixed
 h5.ubanquan.cn##div.entrance-container:nth-of-type(5) > ul > li:nth-of-type(3)
 ha.huatu.com##[src="https://u3.huatu.com/uploads/allimg/211014/660670-211014103915247.jpg"]
@@ -3902,6 +3909,7 @@ m.163.com##.js-open-app.backflow-floating
 m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
 m.1688.com##.header-wrapper
+m.17173.com##.gb-17173app-tg
 m.17ce.com##.add_txt
 m.17ce.com##.top-banner-app
 m.17ce.com##div.add_img
@@ -4315,6 +4323,8 @@ m.sgss8.net##.lazyloaded
 m.shezhan88.com##.videoWrap
 m.shezhan88.com##.wz-cont > div
 m.shezhan88.com##dl.arcHot
+m.smzdm.com##.download-mini
+m.smzdm.com##.download-normal
 m.smzdm.com##.footer-banner
 m.smzdm.com##.handle-btns > div:nth-of-type(1)
 m.smzdm.com##.logo-download
@@ -4683,6 +4693,9 @@ newiot.com###ggxc
 newiot.com###nynewsshare
 newqc.cn##.pbvideo-share
 news.0551fangchan.com##.bdsharebuttonbox
+news.17173.com##.gb-17173app-tg
+news.17173.com##.gb-final-box-recomm
+news.17173.com##.pn-share
 news.bandao.cn##.news-topshare
 news.bandao.cn##.news-topshare-fixed
 news.bjx.com.cn##.cc-inst
@@ -6234,6 +6247,7 @@ zhiu.cn##.article-footer
 zhiyou.smzdm.com###elevator > li > span
 zhiyou.smzdm.com##.z-clearfix.footer-inner
 zhizhizhi.com###mobi_fixed_b
+zhizhizhi.com##.dock_detail.dock
 zhongce.sina.cn##.j_shareBtn.foot_cmt_share
 zhongce.sina.com.cn###task_share
 zhongce.sina.com.cn##.side-btns-jfyb-resize
