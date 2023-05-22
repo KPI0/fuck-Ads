@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-21
+! TimeUpdated: 2023-05-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -465,6 +465,9 @@ lululu.one##*
 lyqapp.com##*
 m-d.tv##*
 m.0ig.top##*
+m.60ss20.com##*
+m.60ss21.com##*
+m.60ss28.com##*
 m.qq.com##*
 madou.club##*
 madou.icu##*
@@ -798,6 +801,7 @@ zztt37.com##*
 ||178.128.25.172
 ||2345*.com
 ||jdht*.com
+||m.60ss*.com
 ! 广告弹窗/元素
 *###__ad
 *###__ad0
