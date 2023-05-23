@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-22
+! TimeUpdated: 2023-05-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1340,6 +1340,7 @@ zztt37.com##*
 *##.advertising3
 *##.advertising_container
 *##.advertList
+*##.advertWrap
 *##.advh5
 *##.advimg
 *##.advPop
@@ -4037,6 +4038,7 @@ m.diaoyur.com##.app-download
 m.dict.cn###dbann
 m.digitaling.com##.open_btn
 m.dmh8.com##.dropdown-hover.playshare
+m.doc.xuehai.net###had1
 m.douban.com##.card > div
 m.douban.com##.center
 m.douban.com##.green.btn
@@ -4056,12 +4058,14 @@ m.dzsc.com##.relative
 m.ebrun.com##.right-open-app
 m.eda365.com##.appopen
 m.eda365.com##.openapp
+m.edu.iask.sina.com.cn##.aigc-banner
 m.edu.iask.sina.com.cn##.share
 m.eestar.com##.hydrated.logo-btn-con
 m.eeworld.com.cn##.viewshare
 m.elecfans.com##.baidu_click_tongji2.open_app_arc
 m.elecfans.com##.btn-createCover.ft_share
 m.elecfans.com##.btn-createCover.share
+m.elecfans.com##.download_btn
 m.elecfans.com##.login-reg-fixed
 m.elecfans.com##.open_app_fixed.flex.open_app
 m.elecfans.com##.perfect_infomation_tip
@@ -5508,6 +5512,7 @@ tieba.baidu.com##.u_menu_member.u_menu_item
 tieba.baidu.com##.ufw-gap.u-f-t
 tieba.baidu.com##.wake
 tieba.baidu.com##div.f-d-item
+tieba.baidu.com##li.tb-share__item:nth-of-type(1)
 tieba.baidu.com##li.tbui_slideshow_slide.img_list_3pic:nth-of-type(1)
 tieba.com##div.thread_item_box.clearfix
 tiehuatu.com##.dk_item
@@ -6175,6 +6180,7 @@ youzan.com##.clue-components-form-list__item--active.clue-components-form-list__
 ypk.39.net##div.wrap
 ypojie.com##.shares
 ypppt.com##.aad4
+ypppt.com##li.miz
 yqybzhan.com##.bdshare-slide-button-box
 yqybzhan.com##.bdsharebuttonbox
 ysgyz.cn##.share
