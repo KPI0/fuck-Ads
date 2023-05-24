@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-23
+! TimeUpdated: 2023-05-24
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2780,6 +2780,7 @@ dandanzan.com##.lgyPl_v2_load_more_record
 dandanzan.com##.lgyPl_v2_record_item_saytext
 dandelioncloud.cn##.mobile_click
 daniao.org###custom_html-10
+dashishan.com##.sharebtntn.sharebtn
 dashoubi.org.cn##.bdsharebuttonbox
 dawendou.com##.alert-bounceIn.copy-alert
 dawendou.com##.marks
@@ -3642,6 +3643,7 @@ jingyan.baidu.com##.fresh-share-exp-e
 jingyan.baidu.com##.share-btn
 jingyan.baidu.com##.task-panel-entrance
 jingyan.baidu.com##.w-share
+jingyanben.com##.left-mod-box
 jinrong.suning.com##.lc-footer-bot-last.lc-footer-bot-list > dd > p
 jinrong.suning.com##.lc-footer-bot-last.lc-footer-bot-list > dt > .lazy-loading.lazy-img
 jinse.com##.js-foot-status > .js-right
@@ -4719,6 +4721,8 @@ news.cctv.com##.sharelike
 news.cctv.com##.slideDown
 news.cctv.com##.weima
 news.cctv.com##.xinwen18886_iphonesee01
+news.cn##.domPC.fix-ewm
+news.cn##.share
 news.cngold.org##.article-info
 news.cnhubei.com###cjly_nav01
 news.cnpc.com.cn##.fxtb
@@ -5367,6 +5371,7 @@ stcn.com##.top_r
 stcn.com##.yw_ewm
 stcn.com##div.tt:nth-of-type(4)
 stmcu.org.cn##.bdsharebuttonbox
+stock.10jqka.com.cn##.info-left-share
 stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
@@ -5419,9 +5424,11 @@ tastek.cn##.social-share.share-component
 tbs.co.jp##.tbs-gfooter-share
 tclxh.com###bdshare
 tcxiaowei.com##.sharebox
+tdaddql.cn##.download-wrapper
 te.com.cn##.desktop.expanded-wechat.qr-code-wrapper
 te.com.cn##.we-chat-wrapper
 tech-ex.com##.share-title
+tech.hexun.com##.showall_img
 tech.hqew.com##.header-qrcode-qiaqia
 tech.hqew.com##.qr
 tech.hqew.com##.tech-chain
@@ -5757,6 +5764,7 @@ w3h5.com##.widget_lf-bt-box.widget
 w3h5.com##.widget_lf-bt-box_inner.widget_inner
 w3school.com.cn###sidebar_zzs
 wangan.com##.sticky.ui.article-actions-rail
+wanganshiji.com##.shareitem
 wangchuang8.com##.mt-3.col-auto.wctg-md1-wc6
 wangchuang8.com##.share-link.go-copy
 wangfuchao.com##.hover-show.action-share.action
@@ -5980,6 +5988,7 @@ xcc.com##.app
 xde6.net##.fr.gb_resLay
 xgfox.com##.\35 f4dc19cd05c1.wap_top.col-xs-12.col-md-3 > [href] > [src]
 xgiu.com##.card__body > span
+xhby.net##.cnt_bshar
 xhby.net##.m_down
 xheishou.com##.cl.bdsharebuttonbox
 xi6bai.cn##.action-share.action
@@ -6079,6 +6088,7 @@ xueshu.baidu.com##.footer_dy
 xueshu.baidu.com##.gj.pagefoot
 xueshu.baidu.com##.paper-banner-img
 xueshu.baidu.com##.paper_share
+xuewen.cnki.net##.share
 xuewen.cnki.net##.top-share
 xuexila.com##.arcfu_btn
 xuexila.com##.copy-alert
@@ -6544,6 +6554,7 @@ zzzyk.com##div.zykmore
 ||kdewa222.familydoctor.com.cn$subdocument
 ||kjhxw.xyz^
 ||kk.qudoula.com$subdocument
+||ks.diyifanwen.net^$script,1p
 ||kvze.lvze365.com$subdocument
 ||lcn.aivote.com$subdocument
 ||ldbbs.ldmnq.com$image
