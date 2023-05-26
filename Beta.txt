@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-24
+! TimeUpdated: 2023-05-26
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1248,6 +1248,7 @@ zztt37.com##*
 *##.Ad_list
 *##.ad_lunbo
 *##.ad_pic
+*##.ad_pop
 *##.ad_right
 *##.ad_single
 *##.ad_single_0
@@ -1524,6 +1525,16 @@ zztt37.com##*
 *##.img-ad
 *##.in_adgg
 *##.index-ad
+*##.index-ad-0
+*##.index-ad-1
+*##.index-ad-2
+*##.index-ad-3
+*##.index-ad-4
+*##.index-ad-5
+*##.index-ad-6
+*##.index-ad-7
+*##.index-ad-8
+*##.index-ad-9
 *##.index-advertising
 *##.index-left_adv
 *##.infoAd
@@ -2607,6 +2618,7 @@ chun-wang.com##.m-share
 chyxx.com##.cx-content__share-wrap
 cifnews.com##.bdsharebuttonbox
 cihai123.com##.det_share
+city.sina.cn##.art_share
 cj.sina.cn###m-sentiment3
 cj.sina.cn###norm_qrcode_link_auto
 cj.sina.cn##.js-callup-client.m-callup-client2
@@ -2633,6 +2645,7 @@ cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
 cloud.tencent.com##.c-btn-weak.c-btn
+cloud.tencent.com##.cdc-operation-tips
 cloud.tencent.com##.com-event-panel
 cloud.tencent.com##.com-event-panel-img
 cloud.tencent.com##.com-module-content
@@ -5098,6 +5111,7 @@ risi-cpps.com##.action-share.action
 risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 rsdznjj.com##.layout-entry-share
 ruancan.com##.j-share
+ruiwen.com##[href="https://my.yjbys.com/doc/"]
 rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
@@ -5162,6 +5176,7 @@ shangxueba.com##[href="//shangxueba.com/app/converge.html"]
 shangyexinzhi.com##.clear.article-bottom-share_wrapper > .right
 shangyexinzhi.com##.h5shareimg
 shangyouw.cn##.mip-share-container
+share.erji.net##.common_footer
 share.laiwu.net##.download_area
 share.laiwu.net##.white.down-top
 share.mala.cn##.white.down-top
@@ -5937,6 +5952,7 @@ wk.baidu.com##.card-wrap
 wk.baidu.com##.fold-page-conversion
 wk.baidu.com##.guide-bottom-btn-wrap
 wk.baidu.com##.guide-btn
+wk.baidu.com##.item-big-img
 wk.baidu.com##.middle-box-root
 wk.baidu.com##.not-baidu.college-strong-guide-contain
 wk.baidu.com##.not-baidu.core-btn-guide
@@ -6210,6 +6226,7 @@ yunio.cn##.action-share.action
 yuque.com##.index-module_qrCodeWrapper_6UwnH
 yxcehua.com##.xshare
 yy200.cn##.xzdz_huodong
+yyfangchan.com##.j-share.action-item
 yywwg.com##.wpcom_myimg_wrap
 yzsryq.com##[href="https://www.lybg1688.com/join/50477569"]
 yzsryq.com##[href^="https://www.binancezh.sh/"]
