@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-05-24
+! TimeUpdated: 2023-05-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -450,6 +450,7 @@
 *##.Ad_list
 *##.ad_lunbo
 *##.ad_pic
+*##.ad_pop
 *##.ad_right
 *##.ad_single
 *##.ad_single_0
@@ -726,6 +727,16 @@
 *##.img-ad
 *##.in_adgg
 *##.index-ad
+*##.index-ad-0
+*##.index-ad-1
+*##.index-ad-2
+*##.index-ad-3
+*##.index-ad-4
+*##.index-ad-5
+*##.index-ad-6
+*##.index-ad-7
+*##.index-ad-8
+*##.index-ad-9
 *##.index-advertising
 *##.index-left_adv
 *##.infoAd
@@ -937,6 +948,7 @@
 *##[class="csdn-common-logo-advert"]
 *##[href="https://www.niugongju.com/chatgpt-acount.html"]
 *##[title="广告"]
+*##_ad
 *##div#__ad_247x30
 *##div#gg_link
 *##div.modAdv
@@ -984,6 +996,9 @@
 029ztxx.com###v_footer
 0430.com##.bgad
 0574bbs.com###thread-share
+073980.com##.navchat
+073980.com##.orbui-m
+073980.com##.shares
 0755rc.com##.nad
 0813fs.com##.b_login
 10086.cn###sjyyt
@@ -1573,6 +1588,7 @@ bitpush.news##.pr-12.content-new > .flex .flex-col.flex
 biyungu.com##.wpcom_myimg_wrap
 bjsncpck.com##.p-preview-share
 bk.autotimes.com.cn##.wpcom_myimg_wrap
+bkqs.com.cn##[href="https://www.niugongju.com/chatgpt-easy.html"]
 blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
@@ -1809,6 +1825,7 @@ chun-wang.com##.m-share
 chyxx.com##.cx-content__share-wrap
 cifnews.com##.bdsharebuttonbox
 cihai123.com##.det_share
+city.sina.cn##.art_share
 cj.sina.cn###m-sentiment3
 cj.sina.cn###norm_qrcode_link_auto
 cj.sina.cn##.js-callup-client.m-callup-client2
@@ -1835,6 +1852,7 @@ cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
 cloud.tencent.com##.c-btn-weak.c-btn
+cloud.tencent.com##.cdc-operation-tips
 cloud.tencent.com##.com-event-panel
 cloud.tencent.com##.com-event-panel-img
 cloud.tencent.com##.com-module-content
@@ -2274,6 +2292,7 @@ fanyi.youdao.com##.side__nav__fanyiguan
 fanyiba.net###portal_view2
 fanyiguan.youdao.com###bar
 farm.jxctdzkj.com###y-iframe
+fast.uc.cn##.detail-header-bar
 feelcn.com##.bdsharebuttonbox
 feimiao.cn##.float
 feimiao.cn##.fr
@@ -2451,6 +2470,8 @@ guyuehome.com##.js_share.item
 guyuehome.com##.sticky-bar .icon-wechat
 guyuehome.com##.sticky-bar > ul > li:nth-of-type(3)
 gx.jd.com##[href="https://jdread-api.jd.com/static/swiper-cover/html/tobDownload.html"]
+gxri.com###gl-show-share
+gxri.com##.dt-icon-fenxiang
 gzefox.icoc.in##.pdShareDiv
 gzfc.net##.fed-icon-fenxiang.fed-icon-font.fed-back-whits.fed-text-center.fed-visible.fed-goto-share
 gzlpw.com##.clearfix.box-fix
@@ -2693,6 +2714,7 @@ infzm.com##.color-weibo.icon-item
 infzm.com##.nfzm-left-bar > span
 infzm.com##[href="/download"]
 ini5.com##.img_div_1 > p
+instagram.com##[class^="_ad"]
 instrument.ofweek.com##.fl.artical-operation-share
 instrument.ofweek.com##.share
 instrument.ofweek.com##div > [href="javascript:;"]
@@ -3626,11 +3648,13 @@ m.xiangha.com##.materials
 m.xiangha.com##.own-aodo-box
 m.xianjichina.com###j-art-banner
 m.xianjichina.com##.bar-share
+m.ximalaya.com##._PC.less-tips
 m.xiqu9.com###jd_dom
 m.xp7.com##.fx
 m.xsyq.cc##a#__dfdsdefsdb.__foiud
 m.xsyq.cc##b
 m.xuefunan.com##.j-share.action-item
+m.xxizj.com##.ui-page > .ui-link
 m.xyj321.com##.footer_pic
 m.xyj321.com##.share
 m.xzbu.com###doyoo_monitor
@@ -4300,6 +4324,7 @@ risi-cpps.com##.action-share.action
 risi-cpps.com##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 rsdznjj.com##.layout-entry-share
 ruancan.com##.j-share
+ruiwen.com##[href="https://my.yjbys.com/doc/"]
 rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
@@ -4346,6 +4371,7 @@ sensorexpert.com.cn##.wexinSao.postbird-box-container
 sensortiot.com###dibutiao
 seohet.com##.text-center.info
 seospt.com##.j-share.action-item
+seotea.com##.mip-fill-content.c-share-list
 seoxiehui.cn##.share-hr
 sese8342.com##[href="https://cf465j.com"]
 sese8342.com##[href="https://sujrq8.com"]
@@ -4364,6 +4390,7 @@ shangxueba.com##[href="//shangxueba.com/app/converge.html"]
 shangyexinzhi.com##.clear.article-bottom-share_wrapper > .right
 shangyexinzhi.com##.h5shareimg
 shangyouw.cn##.mip-share-container
+share.erji.net##.common_footer
 share.laiwu.net##.download_area
 share.laiwu.net##.white.down-top
 share.mala.cn##.white.down-top
@@ -5139,6 +5166,7 @@ wk.baidu.com##.card-wrap
 wk.baidu.com##.fold-page-conversion
 wk.baidu.com##.guide-bottom-btn-wrap
 wk.baidu.com##.guide-btn
+wk.baidu.com##.item-big-img
 wk.baidu.com##.middle-box-root
 wk.baidu.com##.not-baidu.college-strong-guide-contain
 wk.baidu.com##.not-baidu.core-btn-guide
@@ -5410,8 +5438,10 @@ yun.139.com##div.document_top_menu:nth-of-type(7)
 yun.ikuai8.com##.act_img_dns.act_img
 yunio.cn##.action-share.action
 yuque.com##.index-module_qrCodeWrapper_6UwnH
+yuque.com##.social-share
 yxcehua.com##.xshare
 yy200.cn##.xzdz_huodong
+yyfangchan.com##.j-share.action-item
 yywwg.com##.wpcom_myimg_wrap
 yzsryq.com##[href="https://www.lybg1688.com/join/50477569"]
 yzsryq.com##[href^="https://www.binancezh.sh/"]
@@ -5816,6 +5846,7 @@ zzzyk.com##div.zykmore
 ||s.chuangtie.com$subdocument
 ||s.grescw.com$subdocument
 ||s.yibinfan.com$subdocument
+||s1.sanjiangdai.com$subdocument
 ||scez.cn$media
 ||sdk.51.la^$script
 ||sdm.gongxuku.com$subdocument
