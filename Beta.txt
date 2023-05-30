@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-28
+! TimeUpdated: 2023-05-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2391,6 +2391,7 @@ bkqs.com.cn##[href="https://www.niugongju.com/chatgpt-easy.html"]
 blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
+blog.51cto.com##.ac-box
 blog.51cto.com##.first
 blog.51cto.com##.ins
 blog.51cto.com##.shareBtn.common-operationbtn
@@ -6092,7 +6093,16 @@ xkzzz.com##.ml-tlist
 xkzzz.com##.s-plist
 xkzzz.com##.s-tlist
 xmsbtauto.com###bshareF
+xmtyy.net##.button-logo
+xmtyy.net##.dk-index
+xmtyy.net##.dl-index-one
+xmtyy.net##.gg_close
+xmtyy.net##.l-button-logo
 xmtyy.net##.m-news-button
+xmtyy.net##.magintbutton
+xmtyy.net##.tythj
+xmtyy.net##.xx_gg
+xmtyy.net##.ythj
 xmtyy.net##blockquote
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(n)
 xnbaoku.com##.site_abc_wrap
