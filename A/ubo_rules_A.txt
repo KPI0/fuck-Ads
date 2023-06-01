@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-05-28
+! TimeUpdated: 2023-06-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -742,6 +742,7 @@
 *##.infoAd
 *##.infoad
 *##.information-adver
+*##.inner-ad-info
 *##.irnpage_ad
 *##.item-ad
 *##.jiaoyu_gg
@@ -1592,6 +1593,7 @@ bkqs.com.cn##[href="https://www.niugongju.com/chatgpt-easy.html"]
 blockvalue.com##.wbox
 blockvalue.com##div.wrap2.new:nth-of-type(4)
 blog.163.com##.down-to-kaola
+blog.51cto.com##.ac-box
 blog.51cto.com##.first
 blog.51cto.com##.ins
 blog.51cto.com##.shareBtn.common-operationbtn
@@ -3136,6 +3138,7 @@ m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
 m.10jqka.com.cn##.openBtn
 m.163.com##.fixedOpenNewsapp
+m.163.com##.floatMenu-logo
 m.163.com##.js-open-app.backflow-floating
 m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
@@ -4424,6 +4427,7 @@ show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
 shuaji.net##.footer-box-left
 shuaji.net##.footer-container
+shuaji.net##.home-banner-show.home-banner
 shuanglongtrade.com##.post-end-tools
 shuashuati.com##.homeBanner_3YHSR
 shuashuati.com##.tiQuestionBottom_1AYu2
@@ -5293,7 +5297,16 @@ xkzzz.com##.ml-tlist
 xkzzz.com##.s-plist
 xkzzz.com##.s-tlist
 xmsbtauto.com###bshareF
+xmtyy.net##.button-logo
+xmtyy.net##.dk-index
+xmtyy.net##.dl-index-one
+xmtyy.net##.gg_close
+xmtyy.net##.l-button-logo
 xmtyy.net##.m-news-button
+xmtyy.net##.magintbutton
+xmtyy.net##.tythj
+xmtyy.net##.xx_gg
+xmtyy.net##.ythj
 xmtyy.net##blockquote
 xn--fx1ay19a.cc##li.list-group-item:nth-of-type(n)
 xnbaoku.com##.site_abc_wrap
