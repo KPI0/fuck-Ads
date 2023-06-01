@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-05-30
+! TimeUpdated: 2023-06-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1541,6 +1541,7 @@ zztt37.com##*
 *##.infoAd
 *##.infoad
 *##.information-adver
+*##.inner-ad-info
 *##.irnpage_ad
 *##.item-ad
 *##.jiaoyu_gg
@@ -3936,6 +3937,7 @@ m.10jqka.com.cn##.favShare-box
 m.10jqka.com.cn##.open-in-app
 m.10jqka.com.cn##.openBtn
 m.163.com##.fixedOpenNewsapp
+m.163.com##.floatMenu-logo
 m.163.com##.js-open-app.backflow-floating
 m.163.com##.js-operate-share.operate-share
 m.1688.com##.banner-and-poplayer
@@ -5224,6 +5226,7 @@ show.bilibili.com##li:nth-of-type(3)
 shuaji.net##.footer-box
 shuaji.net##.footer-box-left
 shuaji.net##.footer-container
+shuaji.net##.home-banner-show.home-banner
 shuanglongtrade.com##.post-end-tools
 shuashuati.com##.homeBanner_3YHSR
 shuashuati.com##.tiQuestionBottom_1AYu2
