@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-01
+! TimeUpdated: 2023-06-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1993,6 +1993,7 @@ zztt37.com##*
 51test.net##.word_download_tip_btn
 51test.net##a[href="javascript:void(0);"]:nth-of-type(5)
 528btc.com##li.withsub.hoversub.tab:nth-of-type(6) > a
+52asus.com###guiigo-black-mask
 52asus.com##.flexslider
 52av.one##div.cl.plc > div > center
 52by.com##.share-list
@@ -2331,6 +2332,7 @@ bdys03.com##.ayx
 beeeup.com##.fr.shareIcon
 bel789.com##li:nth-of-type(3)
 benmuji.cn##.guideDownLoad
+berrylink.cn##.shares
 best.pconline.com.cn##.no-login-fixed-bottom
 best.pconline.com.cn##.pc-share
 best.pconline.com.cn##.zt-ivy
@@ -2768,6 +2770,8 @@ csdn.net##.so-questionnaire
 csdn.net##li > [href^="//csdn.net/apps/download"]
 cslab.gxu.edu.cn##body > table:nth-of-type(1) > tbody > tr > td
 cslab.gxu.edu.cn##embed
+ct.ghpym.com##.flex-row.d-flex.p-3.card-body
+ct.ghpym.com##.fs--1.btn-light.btn-sm.btn
 ctexcel.com##.invite-share
 ctfile.com###content
 ctfile.com##.border-bottom > .space-2.container
