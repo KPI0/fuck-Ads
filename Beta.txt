@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-04
+! TimeUpdated: 2023-06-07
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -5076,6 +5076,7 @@ qidian.com##.fl.focus-box
 qidian.com##.web-game
 qidian.com##li.color-type_0
 qidian.com##li.nav-li:nth-of-type(9)
+qifu.baidu.com##.cloud-fixed-footer
 qikan.cqvip.com##[href^="/Qikan/WebControl/AppIntroduce"]
 qinav.com###qinav_a1
 qinav.com###qinav_a2
