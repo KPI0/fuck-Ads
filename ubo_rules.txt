@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-06-04
+! TimeUpdated: 2023-06-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2677,6 +2677,7 @@ cloud.tencent.com##.com-widget-operations
 cloud.tencent.com##.event.theme2.com-3-article-panel
 cloud.tencent.com##.link-share.com-opt-link
 cloud.tencent.com##.main-cnt > div
+cloud.tencent.com##.mod-commercial
 cloud.tencent.com##.pls-footer-website-contact-view
 cloud.tencent.com##.with-tag.cdc-event-card
 cloud.tencent.com##a.fn-sdk-nav-btn-item:nth-of-type(1)
@@ -3014,6 +3015,7 @@ eduei.com##.jesong-container-mini-inner
 eduei.com##.jesong-container-mini.jesong_chat_layout_pc_sc.jesong_chat_layout_pc
 eduei.com##.kefu-cont
 eduei.com##.sec-sub
+eduse.cn##.entry-content > .xh-social
 ee.ofweek.com##.dl-right1
 eefocus.com##.icon-container
 eefocus.com##.listpage-rolling-ad.panel-default.panel
@@ -3555,6 +3557,11 @@ iplaysoft.com###sidebar_scroll_wb
 iplaysoft.com##.elevator > li
 iplaysoft.com##.socialshare
 iplaysoft.com##li > .ipsicon-phone.ipsicon
+iq.com##.download-btn-text
+iq.com##.hhdyEQ
+iq.com##.multiport-show
+iq.com##.pc.download-container
+iq.com##.pc.qrcode-wrap
 iqiyi.com###nav_appDown
 iqiyi.com##.coop-ewm
 iqiyi.com##.footer-content
@@ -5076,6 +5083,7 @@ qidian.com##.fl.focus-box
 qidian.com##.web-game
 qidian.com##li.color-type_0
 qidian.com##li.nav-li:nth-of-type(9)
+qifu.baidu.com##.cloud-fixed-footer
 qikan.cqvip.com##[href^="/Qikan/WebControl/AppIntroduce"]
 qinav.com###qinav_a1
 qinav.com###qinav_a2
