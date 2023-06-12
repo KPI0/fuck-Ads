@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-06-08
+! TimeUpdated: 2023-06-12
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1130,6 +1130,7 @@ zztt37.com##*
 *##.ad-content-8
 *##.ad-content-9
 *##.ad-count-click
+*##.ad-demo
 *##.ad-detail
 *##.ad-dk
 *##.ad-flash
@@ -1154,6 +1155,7 @@ zztt37.com##*
 *##.ad-mobile
 *##.ad-num-5
 *##.ad-num-wrap
+*##.ad-parent
 *##.ad-pc
 *##.ad-plane-post
 *##.ad-plane-post-bottom
@@ -4001,6 +4003,8 @@ m.acfun.cn##.down-app-button
 m.acfun.cn##.header-ico
 m.acfun.cn##.open-app-btn
 m.acfun.cn##.right-btn.confirm-btn
+m.ahwang.cn###bg.bg
+m.ahwang.cn##.wxUnfoldText
 m.aigei.com##.app-down-mobile
 m.amap.com##.o-downloadtips-map
 m.apkpure.com##.share-wrap
