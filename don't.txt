@@ -2,3 +2,5 @@
 ! 请勿添加
 192.168.10.2##.topline.alert-info.alert
 192.168.10.4##.pr-2.py-2.gap-1.justify-center
+192.168.10.4##.ant-form-item-control-input-content > .ant-btn-primary.ant-btn
+192.168.10.4##div.ant-form-item:nth-of-type(3)
