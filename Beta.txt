@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-12
+! TimeUpdated: 2023-06-13
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1371,6 +1371,7 @@ zztt37.com##*
 *##.advView-two-right
 *##.advvvvv
 *##.adwidget
+*##.AdWidget_ImageWidget
 *##.ajax_gg
 *##.alertAd
 *##.aliad2
@@ -3086,6 +3087,7 @@ fandom.com##[class="card-share"]
 fane8.com##.extend_2
 fanooo.com##div.text-center.puock-bg.circle-button:nth-of-type(3)
 fanqiang.network##.addtoany_content_bottom.addtoany_content.addtoany_share_save_container
+fanqiangdang.com##[href="http://z97.icu"]
 fanyi-app.baidu.com##.top-bn-btn-open
 fanyi.baidu.com###app-read
 fanyi.baidu.com##.app-bar
@@ -3604,6 +3606,7 @@ itxen.cn##.action-share.action.dropup.hover-show
 itxen.cn##div.widget_custom_html.zib-widget.widget_text:nth-of-type(2)
 iwshang.com##.content-section > .content-span
 iwshang.com##.page > div > .content-span
+ixbk.net##.pop-hongbao-on
 ixigua.com##.BU-FixedGroup__desktop.BU-FixedGroup__block
 ixigua.com##.icon-pc-add2
 ixigua.com##.icon-share2
@@ -5225,6 +5228,7 @@ share.erji.net##.common_footer
 share.laiwu.net##.download_area
 share.laiwu.net##.white.down-top
 share.mala.cn##.white.down-top
+share.weiyun.com##.layout-sider-bar
 sheasytest.com##.bdsharebuttonbox
 shengxun-keji.com##.floatbtn-share
 shengxun-keji.com##.social-share
@@ -6057,6 +6061,7 @@ xi6bai.cn##.action-share.action
 xi6bai.cn##a.single-action-tabbar.tabbar-item:nth-of-type(3)
 xiachufang.com##.open-app-button
 xianba.net##.post-end-tool-btns
+xianbao.fun##.pop-hongbao-on
 xiaodutv.com###openAppSure
 xiaohongshu.com##.all-tip > .pop-over.pop-over-container
 xiaohongshu.com##.android
