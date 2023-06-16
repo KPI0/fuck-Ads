@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-14
+! TimeUpdated: 2023-06-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -920,6 +920,7 @@ zztt37.com##*
 *###ads_general_1_bottom
 *###adsContainer
 *###adsense
+*###adsenseAfterComments
 *###adTonglan
 *###adv
 *###adv-float-div
@@ -2084,6 +2085,7 @@ zztt37.com##*
 99hufu.com##[class="share-icon wechat"]
 99hufu.com##[class="share-wx-wrap"]
 9game.cn##.share-con
+9kr.cc##.box-shadow-wrap-normal.single-post.panel-small
 9sex.tv###carouselExampleControls
 9sex.tv##.higher.ivu-carousel-track
 9sex.tv##.imgBoxW.mt-lg-1.col-lg-12.col-md-6.col-12
@@ -3493,6 +3495,7 @@ icxbk.com##.banner-sys
 idongde.com##.vip_c_bt
 idongde.com##.vip_view2
 idongde.com##.vipcode-follow
+idoremember.com##.donation
 iehou.com##.iehou_side_nav
 ifanr.com##.c-article-share__button
 ifanr.com##.c-goto-top-item--app.c-goto-top-item
@@ -6113,6 +6116,7 @@ xiegw.cn##.icon-icon.iconfont
 xiexiebang.com##.marks
 xiezuocat.com##.application
 xiezuocat.com##.googleBrowserPlugin
+ximalaya.com##._cI.dl-pc
 ximalaya.com##._uH.header-pc.header-gray.xui-header-iconNav-item
 ximalaya.com##.amid-banner
 ximalaya.com##.downloadButton
