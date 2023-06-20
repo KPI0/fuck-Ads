@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-06-16
+! TimeUpdated: 2023-06-20
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -906,6 +906,7 @@ zztt37.com##*
 *###ad_right_fc4
 *###ad_rightslot
 *###ad_showbox
+*###adbannertop
 *###adfloatbaidu
 *###adhtml
 *###adimg
@@ -1229,6 +1230,7 @@ zztt37.com##*
 *##.ad_350x150
 *##.AD_350x300
 *##.ad_350x300
+*##.ad_360
 *##.AD_360_300
 *##.ad_360_300
 *##.ad_4
@@ -1284,6 +1286,7 @@ zztt37.com##*
 *##.add_advert
 *##.add_advertisement
 *##.adgg
+*##.adhx
 *##.adimg
 *##.Adimg
 *##.ADimg
@@ -1630,6 +1633,7 @@ zztt37.com##*
 *##.page_ad
 *##.page_bottom_ad_item
 *##.paiban-ad
+*##.panel-ad
 *##.pep-ad-img
 *##.pep-ad-img-wrapper
 *##.person-trainAd
@@ -1759,6 +1763,7 @@ zztt37.com##*
 *##.yjads1
 *##.yjads2
 *##.yjads3
+*##.yqh_ad
 *##.z-ad-l
 *##.ZZCardAtvert-text
 *##.zzs_ad
@@ -1985,6 +1990,7 @@ zztt37.com##*
 4t7k54.smartapps.cn##.swan-web-suspend-button
 51.ruyo.net##.post-end-tool-btn-item.post-share-btn
 5151sc.com##div.begin:nth-of-type(3)
+51credit.com##.appcodedown-box
 51cto.com##.erweima-box
 51cto.com##.share
 51dongshi.com##.bshare-custom
@@ -3791,6 +3797,7 @@ k.sina.cn##.icon_share2
 k.sina.cn##.look_more_a
 k.sina.cn##.qweasd.sw_c0
 k.sina.cn##.s_card.art_t
+ka.southmoney.com##.item.flex.arctileJsinfo
 kaifa.baidu.com##.reward-entry-home-81a02
 kaifa.baidu.com##.reward-entry-search-6e208
 kaifangsy.com###down_boxcode
@@ -4363,6 +4370,7 @@ m.pcauto.com.cn##.down-app-mode
 m.pcauto.com.cn##.m-bd-tg
 m.pcauto.com.cn##.sub-item-xz.sub-header-item
 m.pchouse.com.cn##.shareBox
+m.pchouse.com.cn##.zxysBanner
 m.piccdg.com###\32 022
 m.piccdg.com##video
 m.ppkao.com##.analysis_app
@@ -6317,6 +6325,7 @@ zaixian-fanyi.com##div:nth-of-type(10)
 zaobao.com.sg##.js-stickybit-parent.col-lg-1.col-12
 zaoju.xuexiaodaquan.com##div.fhg_div
 zdyan.com##.share
+zgjgzs.net###dt-share
 zh-cn.aiseesoft.com###share-list
 zh.numberempire.com##.sharing
 zh.planetcalc.com##.share-buttons
