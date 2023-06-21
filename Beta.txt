@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-20
+! TimeUpdated: 2023-06-21
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2433,6 +2433,7 @@ blog.csdn.net###wap_open_app_btn
 blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.feed-Sign-weixin
 blog.csdn.net##.guide-box
 blog.csdn.net##.guide-rr-first
 blog.csdn.net##.m_toolbar_left_app_btn
@@ -3675,10 +3676,14 @@ jia.baidu.com##.service-entry-qrcode.service-entry-item
 jiadianxinwen.com##.bdshare
 jianshu.com###share
 jianshu.com##.ant-dropdown-menu-submenu-title
+jianshu.com##.baidu-app-download-2eIkf_1
 jianshu.com##.btn-content > button:nth-of-type(2)
+jianshu.com##.call-app-Ad-bottom
+jianshu.com##.download
 jianshu.com##.download-btn
 jianshu.com##.header-download
 jianshu.com##.index_call-app-btn
+jianshu.com##.line-container
 jianshu.com##.note__flow__download
 jianshu.com##div.guidance-wrap-item:nth-of-type(2)
 jiashancloud.com##.post-share-btn
@@ -4480,6 +4485,7 @@ m.v.qq.com##.player-mask__small-tips
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
 m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.vip.com##.u-download-bar-wrap
 m.vmall.com##.header-pullapp
 m.vpgame.com##.m-download
 m.wandoujia.com##.midbanner
