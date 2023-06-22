@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-21
+! TimeUpdated: 2023-06-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2884,6 +2884,7 @@ dljz.nicethemes.cn##.art_share
 dmjob.net##.xidiBottom
 dmys2.com##.btn-share.btn-collect.btn-large
 dnpz.net##.lanmu300
+dnsqx.com##.content div
 dnxtc.net###box
 dnxtc.net##.zixun-share
 dnxtc.net##[style="width:1200px;height:108px;margin:0 auto;margin-top:15px;"]
@@ -3391,6 +3392,7 @@ help.aliyun.com##.icon-fenxiang.iconfont
 henan.china.com.cn##.bottomShare
 henan.china.com.cn##div.detail_con:nth-of-type(2) > .d_img
 henwell.cn##.fr.share-widget
+heshunhm.com##.sharebtntn.sharebtn
 heytap.com##li.float-wrap-btn:nth-of-type(3)
 hezibuluo.com##.j-share
 hezibuluo.com##.widget_wp125
@@ -5363,6 +5365,7 @@ so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
 so.szlcsc.com##.overseas-dialog
+so66.cn##.leftsd
 socialbeta.com##div.h-p:nth-of-type(2)
 socialbeta.com##div.mt40:nth-of-type(5)
 socialmarketings.com##.copyLink > div > .el-dropdown
@@ -5470,6 +5473,7 @@ stcn.com##.yw_ewm
 stcn.com##div.tt:nth-of-type(4)
 stmcu.org.cn##.bdsharebuttonbox
 stock.10jqka.com.cn##.info-left-share
+stock.hexun.com##.quick_content_download
 stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
