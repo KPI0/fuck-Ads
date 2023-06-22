@@ -4,5 +4,6 @@
 192.168.10.4##.pr-2.py-2.gap-1.justify-center
 192.168.10.4##.ant-form-item-control-input-content > .ant-btn-primary.ant-btn
 192.168.10.4##div.ant-form-item:nth-of-type(3)
+192.168.31.31##div:nth-of-type(2) > .table
 192.168.31.116##.widget-body.motd-body
 192.168.31.116##.pr-2.py-2.gap-1.justify-center
