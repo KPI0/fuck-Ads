@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-06-20
+! TimeUpdated: 2023-06-27
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -665,6 +665,8 @@
 *##.detail-pure-ad-hx-btn
 *##.detail_ad_banner
 *##.detnew_adv
+*##.dfx-ad
+*##.dfx-adBlock1Wrapper
 *##.dkpro_adtg
 *##.dsfgg
 *##.ec-ad
@@ -1282,6 +1284,8 @@
 91zpc01.xyz##.links-top
 980a.com##[src="//inews.gtimg.com/newsapp_ls/0/14230079538/0"]
 99114.com##.cgtcode > span
+997788.com##.icon-boxs
+997788.com##.share-button
 99b74.com##.block
 99b74.com##.dmcenter
 99b74.com##.spot
@@ -1634,6 +1638,7 @@ blog.csdn.net###wap_open_app_btn
 blog.csdn.net##.btn_open_app_prompt_item
 blog.csdn.net##.common-nps-box.recommend-nps-box
 blog.csdn.net##.feed-Sign-span
+blog.csdn.net##.feed-Sign-weixin
 blog.csdn.net##.guide-box
 blog.csdn.net##.guide-rr-first
 blog.csdn.net##.m_toolbar_left_app_btn
@@ -2084,6 +2089,7 @@ dljz.nicethemes.cn##.art_share
 dmjob.net##.xidiBottom
 dmys2.com##.btn-share.btn-collect.btn-large
 dnpz.net##.lanmu300
+dnsqx.com##.content div
 dnxtc.net###box
 dnxtc.net##.zixun-share
 dnxtc.net##[style="width:1200px;height:108px;margin:0 auto;margin-top:15px;"]
@@ -2591,6 +2597,7 @@ help.aliyun.com##.icon-fenxiang.iconfont
 henan.china.com.cn##.bottomShare
 henan.china.com.cn##div.detail_con:nth-of-type(2) > .d_img
 henwell.cn##.fr.share-widget
+heshunhm.com##.sharebtntn.sharebtn
 heytap.com##li.float-wrap-btn:nth-of-type(3)
 hezibuluo.com##.j-share
 hezibuluo.com##.widget_wp125
@@ -2876,10 +2883,14 @@ jia.baidu.com##.service-entry-qrcode.service-entry-item
 jiadianxinwen.com##.bdshare
 jianshu.com###share
 jianshu.com##.ant-dropdown-menu-submenu-title
+jianshu.com##.baidu-app-download-2eIkf_1
 jianshu.com##.btn-content > button:nth-of-type(2)
+jianshu.com##.call-app-Ad-bottom
+jianshu.com##.download
 jianshu.com##.download-btn
 jianshu.com##.header-download
 jianshu.com##.index_call-app-btn
+jianshu.com##.line-container
 jianshu.com##.note__flow__download
 jianshu.com##div.guidance-wrap-item:nth-of-type(2)
 jiashancloud.com##.post-share-btn
@@ -2976,6 +2987,7 @@ juejin.cn##.extension-banner
 juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
 juejin.cn##.poster-resouce-wrap
+juejin.cn##.sticky-block.sidebar-block
 juejin.cn##[class="sidebar-block banner-block"]
 juhe.cn##.share-box
 juming.com##.share-component.fr.social-share
@@ -3681,6 +3693,7 @@ m.v.qq.com##.player-mask__small-tips
 m.v.qq.com##.site-top__open-app
 m.v.qq.com##.tvp_app_banner
 m.v.qq.com##.U_box_bg_a.mod_sideslip_privileges.mod_box
+m.vip.com##.u-download-bar-wrap
 m.vmall.com##.header-pullapp
 m.vpgame.com##.m-download
 m.wandoujia.com##.midbanner
@@ -3853,6 +3866,7 @@ meipian3.cn##.mp-fixed-download-open-btn
 meipian3.cn##.show.mp-article-bottom-bar
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 meiruanwang.com##.sharebox
+meizhong.report##.single-component-share.single-component
 mfrjz.com##.shares
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
@@ -4377,6 +4391,7 @@ rfa.org###storytoptools
 rfi.fr##.m-share-bar
 rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
+rfi.fr##.t-content__shares
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
 right.com.cn##.boardlogo
@@ -4558,6 +4573,7 @@ so.iqiyi.com##.qy-svgicon-info.qy-svgicon
 so.iqiyi.com##.qy-svgicon-pca-dwn.qy-svgicon
 so.iqiyi.com##.qy-svgicon-upload.qy-svgicon
 so.szlcsc.com##.overseas-dialog
+so66.cn##.leftsd
 socialbeta.com##div.h-p:nth-of-type(2)
 socialbeta.com##div.mt40:nth-of-type(5)
 socialmarketings.com##.copyLink > div > .el-dropdown
@@ -4665,6 +4681,7 @@ stcn.com##.yw_ewm
 stcn.com##div.tt:nth-of-type(4)
 stmcu.org.cn##.bdsharebuttonbox
 stock.10jqka.com.cn##.info-left-share
+stock.hexun.com##.quick_content_download
 stockfeel.com.tw##.fixed.single-float-share-web
 stockstar.com##.news
 stockstar.com##.tags
