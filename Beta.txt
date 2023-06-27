@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-22
+! TimeUpdated: 2023-06-27
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1464,6 +1464,8 @@ zztt37.com##*
 *##.detail-pure-ad-hx-btn
 *##.detail_ad_banner
 *##.detnew_adv
+*##.dfx-ad
+*##.dfx-adBlock1Wrapper
 *##.dkpro_adtg
 *##.dsfgg
 *##.ec-ad
@@ -2081,6 +2083,8 @@ zztt37.com##*
 91zpc01.xyz##.links-top
 980a.com##[src="//inews.gtimg.com/newsapp_ls/0/14230079538/0"]
 99114.com##.cgtcode > span
+997788.com##.icon-boxs
+997788.com##.share-button
 99b74.com##.block
 99b74.com##.dmcenter
 99b74.com##.spot
@@ -3782,6 +3786,7 @@ juejin.cn##.extension-banner
 juejin.cn##.juejin
 juejin.cn##.panel-btn.share-btn
 juejin.cn##.poster-resouce-wrap
+juejin.cn##.sticky-block.sidebar-block
 juejin.cn##[class="sidebar-block banner-block"]
 juhe.cn##.share-box
 juming.com##.share-component.fr.social-share
@@ -4660,6 +4665,7 @@ meipian3.cn##.mp-fixed-download-open-btn
 meipian3.cn##.show.mp-article-bottom-bar
 meipian3.cn##div.mp-fixed-download:nth-of-type(4)
 meiruanwang.com##.sharebox
+meizhong.report##.single-component-share.single-component
 mfrjz.com##.shares
 mgtv.com##.hitv-share.hitv-svg-icon
 mgtv.com##.pclient
@@ -5184,6 +5190,7 @@ rfa.org###storytoptools
 rfi.fr##.m-share-bar
 rfi.fr##.o-pwa-ah2s--android-optin.o-pwa-ah2s
 rfi.fr##.o-pwa-ah2s__content
+rfi.fr##.t-content__shares
 rfid1.cn##.hero-aside-hot-article.sidebar-post.sidebar-content
 rfid1.cn##.hero-aside-relate-article.sidebar-post.sidebar-content
 right.com.cn##.boardlogo
