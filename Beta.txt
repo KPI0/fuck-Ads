@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-06-27
+! TimeUpdated: 2023-06-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -589,6 +589,7 @@ qqtn.com##*
 qqx15.com##*
 qt6.com##*
 qwrewr.net##*
+qxvxap.xyz##*
 qyule.com##*
 r18.com##*
 resao.com##*
@@ -648,6 +649,7 @@ syc345.com##*
 syr789.com##*
 sysceo.cn##*
 sysceo.com##*
+t5knsh.xyz##*
 t66y.com##*
 taiav.com##*
 taobeike.com##*
@@ -1738,6 +1740,7 @@ zztt37.com##*
 *##.topadv
 *##.topappad
 *##.topgg
+*##.trainAd
 *##.tx-info-module-box
 *##.ui-ad
 *##.videoSideAds
@@ -3763,6 +3766,7 @@ jsw95.net##.footer
 jsw95.net##.footer-sns
 jsw95.net##.post-con > [href="http://jsw95.net/post/57952.html"]
 jsw95.net##.tabcelan.widget-content
+jswmh.com##.ishare.share-component
 jswvip.net###divPrevious
 jswvip.net###divTags
 jswvip.net###post_box1
@@ -4261,6 +4265,8 @@ m.jb51.net##.asd
 m.jd.com###imk2FixedBottom
 m.jd.com##.carousel-wrapper
 m.jd.com##.pannel-seat
+m.jia.com##.getYusunBtn
+m.jia.com##.toutiao-ask-zxbj
 m.jiemian.com##.active.success-btn
 m.jiemian.com##.app-open
 m.jiemian.com##.download-app
