@@ -6278,7 +6278,6 @@ yl.szhk.com##.banner_dt
 yl1001.com##.share-area-name
 ylmfu.com##.share
 ymsino.com##.shareInfo
-yoojia.com##.page-root > div
 yoqu.win##.Share
 you85.net###toptb > .cl.wp > .z [href="https://www.you85.net/"]
 youdao.com##.fr
