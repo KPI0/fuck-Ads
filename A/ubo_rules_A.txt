@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-06-27
+! TimeUpdated: 2023-07-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -906,6 +906,7 @@
 *##.slide-advertisement
 *##.slideBoxAdvert
 *##.slider_ad_item
+*##.slogan-sAd
 *##.soft-ad
 *##.soft-Ad
 *##.soft_ad
@@ -939,6 +940,7 @@
 *##.topadv
 *##.topappad
 *##.topgg
+*##.trainAd
 *##.tx-info-module-box
 *##.ui-ad
 *##.videoSideAds
@@ -2185,6 +2187,7 @@ dw.com###sharing-bar
 dyhzdl.cn##.clearfix.fr.arti-hi-phone
 dyhzdl.cn##.flr.casedetail-share
 e.huawei.com##.global-share
+easeconvert.com##.cz_share.cz-leftside-share
 eastit.cn##.post-share
 eastit.cn##.share-sns
 eastmoney.com###addfavlink
@@ -2964,6 +2967,7 @@ jsw95.net##.footer
 jsw95.net##.footer-sns
 jsw95.net##.post-con > [href="http://jsw95.net/post/57952.html"]
 jsw95.net##.tabcelan.widget-content
+jswmh.com##.ishare.share-component
 jswvip.net###divPrevious
 jswvip.net###divTags
 jswvip.net###post_box1
@@ -3462,6 +3466,8 @@ m.jb51.net##.asd
 m.jd.com###imk2FixedBottom
 m.jd.com##.carousel-wrapper
 m.jd.com##.pannel-seat
+m.jia.com##.getYusunBtn
+m.jia.com##.toutiao-ask-zxbj
 m.jiemian.com##.active.success-btn
 m.jiemian.com##.app-open
 m.jiemian.com##.download-app
