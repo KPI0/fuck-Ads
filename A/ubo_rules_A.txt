@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-07-03
+! TimeUpdated: 2023-07-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -529,6 +529,7 @@
 *##.adv10
 *##.adv7
 *##.adv_block
+*##.adv_img
 *##.adv_jia
 *##.adv_text
 *##.AdvBanner
@@ -2221,6 +2222,7 @@ easylearn.baidu.com##.member-guide
 easylearn.baidu.com##.vip-banner-cont
 easylearn.baidu.com##.vip-bar
 ebay.com##.gh-app-banner--visible.gh-app-banner
+ednchina.com##.share-icon-xs.myicon-icon
 edu.liout.com###layui-layer-shade1
 edu.liout.com###zlkbAD > div
 edu.liout.com##.layui-layer-btn-c.layui-layer-btn
@@ -2811,6 +2813,8 @@ ishare.iask.sina.com.cn##.fix-right-bannertop
 ishare.iask.sina.com.cn##.jsVIPRecommended
 isharepc.com##.panel-body
 isharepc.com##.wx-pic
+isite.baidu.com##.goods-card
+isite.baidu.com##.gt-local-h5-bottom-tools-root-container
 it.huangye88.com##.none > p
 it.huangye88.com##.sma
 item.szlcsc.com##.tjfl.red-package
@@ -3578,6 +3582,8 @@ m.nivod.tv###bottom_btn
 m.nivod.tv##.android_banner.m-box
 m.nowcoder.com##.mb-5.flex-row-start
 m.nubia.com###topofwap
+m.open.163.com##.open-app-btn
+m.open.163.com##.video-dowload.warp
 m.paizi.com##svg
 m.paizi10.com##svg
 m.pcauto.com.cn###daogou
@@ -4443,6 +4449,7 @@ segmentfault.com##.btn-group-vertical.align-items-center > .dropdown
 segmentfault.com##.dropdown.bottom-share-wrap
 segmentfault.com##a.w-25.text-body.text-center:nth-of-type(4)
 seju8.com##.notice
+sekorm.com##.share-bar.cp2022
 sekorm.com##.share-icon-wrap
 sensor.ofweek.com##.share
 sensor.ofweek.com##div > [href="javascript:;"]
