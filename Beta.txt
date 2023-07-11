@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-07-08
+! TimeUpdated: 2023-07-11
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2644,6 +2644,7 @@ chongdiantou.com##.mt-md-4.mt-3.footer-widget-social
 chongdiantou.com##.size-full.attachment-full.wp-image-121974.image
 chongdiantou.com##.widget_search.card.widget
 chongqing.anjuke.com##.home-footer
+chongqing.baixing.com##.app-downlod
 chp.shadiao.app###index > section.mdl-grid--no-spacing.mdl-grid.section--center li
 chp.shadiao.app###show-ganfan
 chp.shadiao.app###show-wxgroup
@@ -4015,6 +4016,7 @@ m.17ce.com##div.add_img
 m.1905.com##.loadApp
 m.1905.com##.new_downLoad
 m.1905.com##.open-link
+m.21jingji.com##.download-bottom
 m.278wan.com##.guideDownLoad
 m.4399.cn##.cn-mt10.cn-app_download
 m.51credit.com##.appdownClick
