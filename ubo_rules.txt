@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-07-18
+! TimeUpdated: 2023-07-27
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1313,6 +1313,7 @@ zztt37.com##*
 *##.adPlace
 *##.AdPositionId
 *##.ads
+*##.ads--RPf__
 *##.ads-container
 *##.ads-item
 *##.ads-loc-holder
@@ -1469,6 +1470,7 @@ zztt37.com##*
 *##.commentads
 *##.common-top-ad-container
 *##.company-adv-outside
+*##.components-HeaderBarSystem-Mobile--mobile_header_ad
 *##.container-ad
 *##.container-top-ad
 *##.container-top-ads
@@ -3870,6 +3872,7 @@ ke.youdao.com##._2E3aw
 ke.youdao.com##._2JLL4wVedZBJXx9O701i8R._3Nu0ehzy2yuIsz2HsS3d6D
 ke.youdao.com##[href^="/download"]
 ke.youdao.com##a._2JLL4wVedZBJXx9O701i8R
+keaitupian.cn##.shares
 kechuang.org##.share-icon
 kegood.com###dbabx
 kegood.com###yx_content33
@@ -4415,6 +4418,7 @@ m.pcauto.com.cn##.m-bd-tg
 m.pcauto.com.cn##.sub-item-xz.sub-header-item
 m.pchouse.com.cn##.shareBox
 m.pchouse.com.cn##.zxysBanner
+m.php.cn##.nphpApp
 m.piccdg.com###\32 022
 m.piccdg.com##video
 m.ppkao.com##.analysis_app
@@ -6541,6 +6545,7 @@ zzzyk.com##div.zykmore
 ||54jkw.com$subdocument
 ||6.5ppt.net$subdocument
 ||68939975272.com$image
+||720static.com/tourPlayerAdv/$image
 ||8.lishibu.com$subdocument
 ||8499269.com$image
 ||8499683.com$image
@@ -6634,9 +6639,11 @@ zzzyk.com##div.zykmore
 ||dhn.jiankang123.net$subdocument
 ||digitaloceanspaces.com$image
 ||dimg04.c-ctrip.com$image
+||dj2.92ku.com$subdocument
 ||dmn.lczk.cn$subdocument
 ||docexcel.net^$script
 ||doubleclick.net$subdocument
+||dsoczontg.360doc.cn$subdocument
 ||du.szsxr.com$subdocument
 ||eajgm.com^$domain=juhaihg.com
 ||enl2.96845.com$subdocument
@@ -6830,6 +6837,7 @@ zzzyk.com##div.zykmore
 ||www2.58how.com$subdocument
 ||xiao89.com$subdocument
 ||xingfupa.com$image
+||xvv.cc^$script,domain=jswmh.com
 ||xyt.lesson99.com$image
 ||xzz.clgwe.com$subdocument
 ||y.yaohuo.me
