@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-07-27
+! TimeUpdated: 2023-08-03
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -4667,8 +4667,10 @@ max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
 max.book118.com##.mqrcode > [href="javascript:;"] > span
 max.book118.com##.re.webpreview-recommend
 max.book118.com##.service-shop
+max.book118.com##.sidebar-vip
 max.book118.com##.sidebar-wechat.sidebar-item
 max.book118.com##.site-link
+max.book118.com##.vip-re
 max.book118.com##[href^="/user_center_v1/upload/Upload/ordinary.html"] > .lazy-success
 maxiaobang.com##.j-share.action-item
 mayiwenku.com###boxleft > table
@@ -6574,6 +6576,7 @@ zzzyk.com##div.zykmore
 ||asf2.hwcha.com$subdocument
 ||ass.izshi.cn$subdocument
 ||b.33pp.com$subdocument
+||b.haonvxing.com$subdocument
 ||b.huicaiba.net$subdocument
 ||b.jiqrxx.com$subdocument
 ||b.lyq123.com$subdocument
