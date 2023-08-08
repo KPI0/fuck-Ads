@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-08-03
+! TimeUpdated: 2023-08-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -183,6 +183,7 @@ avhome.one##*
 avjb.com##*
 avlanga2.com##*
 avlulu.cc##*
+avmoo.cfd##*
 avmoo.click##*
 avpanda.cc##*
 avple.tv##*
@@ -304,6 +305,7 @@ fhpaaa.com##*
 fifigv.com##*
 flash.cn##*
 flashget.com##*
+freejavbt.com##*
 fuccunt.com##*
 fuck-videos.xxx##*
 fuckisex.com##*
@@ -379,6 +381,7 @@ j1o.net##*
 jable.tv##*
 jamgoo.com##*
 jav.guru##*
+jav.wine##*
 javbabe.net##*
 javcl.com##*
 javcloud.com##*
@@ -393,6 +396,7 @@ javhdporn.net##*
 javher.com##*
 javhub.net##*
 javlast.com##*
+javlemon.com##*
 javlib.com##*
 javlibrary.cc##*
 javlibrary.com##*
@@ -400,7 +404,10 @@ javlibrary.tv##*
 javmix.tv##*
 javmost.com##*
 javmost.xyz##*
+javopen.co##*
 javsex.guru##*
+javtrailers.com##*
+javtsunami.com##*
 javxxx.me##*
 jcss53.com##*
 jdav88.com##*
@@ -849,6 +856,7 @@ zztt37.com##*
 *###ad-in-page
 *###ad-index
 *###ad-left
+*###ad-link
 *###ad-list
 *###Ad-list
 *###ad-right
@@ -2137,6 +2145,7 @@ a.szmianfei.com##.j-share
 a.szmianfei.com##.share
 a.xcar.com.cn##.head_tm_content
 a.xcar.com.cn##.open-app-entry
+a3.ai55.cc##.my-love-container
 a8q.cn##li.list-group-item:nth-of-type(3)
 a8q.cn##marquee
 a8wl.xyz##.widget
