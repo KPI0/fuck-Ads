@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-08-08
+! TimeUpdated: 2023-08-17
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1108,6 +1108,7 @@ zztt37.com##*
 *###topAdPlace
 *###topads
 *###topads0
+*###website-right-float-ad-dialog
 *###wordAdDiv
 *###yh_sidebar_ad1
 *###yh_sidebar_ad2
@@ -1135,6 +1136,7 @@ zztt37.com##*
 *##.ad-bottom-new
 *##.ad-box
 *##.ad-card
+*##.ad-carousel-container
 *##.ad-conetnt
 *##.ad-container
 *##.ad-content
@@ -1147,6 +1149,7 @@ zztt37.com##*
 *##.ad-content-7
 *##.ad-content-8
 *##.ad-content-9
+*##.ad-content-list
 *##.ad-count-click
 *##.ad-demo
 *##.ad-detail
@@ -1357,6 +1360,7 @@ zztt37.com##*
 *##.adv_block
 *##.adv_img
 *##.adv_jia
+*##.adv_sec
 *##.adv_text
 *##.AdvBanner
 *##.advbanner
@@ -1448,6 +1452,7 @@ zztt37.com##*
 *##.bna_ad1
 *##.bna_ad2
 *##.bna_ad3
+*##.bom-adv-section
 *##.bottom_ad
 *##.boxad
 *##.BoxAdContent
@@ -1650,6 +1655,7 @@ zztt37.com##*
 *##.my-ad3
 *##.n-top__ad
 *##.new_part_rightcontad
+*##.new_right_item_adv
 *##.newAd
 *##.newad-a
 *##.news-advertising
@@ -1778,6 +1784,7 @@ zztt37.com##*
 *##.w-ad
 *##.wapad
 *##.web-header-ad-item
+*##.website-right-float-ad
 *##.wechat
 *##.weibo
 *##.wgt-ad-guess
@@ -1826,6 +1833,7 @@ zztt37.com##*
 /cihui-right-ad1$image
 /cihui-right-ad2$image
 /cihui-right-ad3$image
+/dm_gg*.jpg$image
 /douyin_ad_img$image
 /gg$image
 /gg01$image
@@ -3801,6 +3809,7 @@ jsw95.net##.footer-sns
 jsw95.net##.post-con > [href="http://jsw95.net/post/57952.html"]
 jsw95.net##.tabcelan.widget-content
 jswmh.com##.ishare.share-component
+jswmh95.com##.ishare
 jswvip.net###divPrevious
 jswvip.net###divTags
 jswvip.net###post_box1
@@ -4645,6 +4654,7 @@ maimai.cn##div.md\:hidden:nth-of-type(3)
 main.m.taobao.com###SLK_evokeUI_v2
 main.m.taobao.com##button
 maker.lceda.cn##.float-ul
+makuwang.com##.clearfix.guang
 mall.360.cn##.right-download-box
 mall.cnki.net##.last.downloadApp
 manga.bilibili.com##.app-button.download-app
@@ -5568,6 +5578,7 @@ taodocs.com###show_wx
 taodocs.com##.link > [href^="https://wpa1.qq.com/WN50jfRd"]
 taodocs.com##.link > span:nth-of-type(2)
 taodocs.com##li.ewm.mv_lis:nth-of-type(5)
+taodudu.cc##.forpc.bannerbar
 taokeshow.com##.wpcom_myimg_wrap
 taose.tv###table1
 taoxv.com##.shares
