@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-08-28
+! TimeUpdated: 2023-09-01
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -318,6 +318,7 @@
 *##.ad-01
 *##.ad-02
 *##.ad-03
+*##.ad-10604
 *##.ad-94FLcQ5x
 *##.ad-article
 *##.ad-badge
@@ -358,6 +359,8 @@
 *##.ad-index-right
 *##.ad-label-rb
 *##.ad-left
+*##.ad-leftdown
+*##.ad-leftdown-top
 *##.ad-limgrtxt
 *##.ad-limgrtxt-middle
 *##.ad-limgrtxt-txt
@@ -3425,6 +3428,7 @@ m.gldjc.com##.page-bottom
 m.gmw.cn##.m-shareCon
 m.gome.com.cn###topMDownapp
 m.guancha.cn##.g_swiper_container
+m.gugu5.com##[href="https://w.9446.cn/m/jiu/"]
 m.haiwainet.cn##.footer-box
 m.haochu.com##.bd-1
 m.haodf.com###open-app-box
@@ -3694,6 +3698,7 @@ m.sylllc.com##.list
 m.tadu.com###awakenapp
 m.tadu.com##.inset_login_box
 m.tangdou.com##.btn
+m.taxspirit.com##.adv___1OIsV
 m.thepaper.cn###moblink_top_detail
 m.thepaper.cn##.fx
 m.tianqi.com##.yinliu_app
@@ -5931,6 +5936,7 @@ zzzyk.com##div.zykmore
 ||js2.dadiniu.cn/*$subdocument
 ||js2.mgjianshe.com$subdocument
 ||js2.whsp.cn$subdocument
+||jygiizv.icu^$script
 ||jz.down10s.com$subdocument
 ||k.51feibao.com$subdocument
 ||kb69.top$image
