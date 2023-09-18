@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2023-09-01
+! TimeUpdated: 2023-09-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1899,6 +1899,7 @@ zztt37.com##*
 123.sogou.com##.l > span
 123.sogou.com##.leftbar
 123.sogou.com##.style_infoFlowCoolsite__3qAHc
+123pan.com##.webbody > div:nth-of-type(3)
 123wxwx.net##b
 163.com##.mod_news_download
 163.com##.newsapp-qrcode
@@ -3976,6 +3977,7 @@ lapin365.com##.container
 lapin365.com##.weixin.member > [href="//m.lapin365.com/apps.htm"]
 lbjhg.com##.clearfix.mt.share-widget
 lceda.cn###dlg_bom_show
+lceda.cn###dlgGenerateGerber-show
 lceda.cn###editor_start_right_page
 lceda.cn##.float-window
 lceda.cn##.header-title
@@ -5565,6 +5567,8 @@ sydw.huatu.com##.bottomBar
 sysin.org##.share-component.social-share
 szhl.cc##.bdsharebuttonbox
 szjara.com###bdshare
+szlcsc.com###website-group-dialog
+szlcsc.com##.mask
 szsjx.com###goods_share
 szwandi.cn##.share-post
 szyuanhao.com##.othercolor.hyperlink_b
