@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-09-18
+! TimeUpdated: 2023-10-08
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -267,6 +267,7 @@
 *###plugin_toc_bot_ad_game
 *###popadv_popmenu
 *###popBox
+*###post-top-ads
 *###randomBox
 *###right-bottom-ads
 *###right_ad1
@@ -301,6 +302,7 @@
 *###topads
 *###topads0
 *###website-right-float-ad-dialog
+*###wgt-ad-sou
 *###wordAdDiv
 *###yh_sidebar_ad1
 *###yh_sidebar_ad2
@@ -464,6 +466,7 @@
 *##.ad_8
 *##.ad_840x90
 *##.ad_9
+*##.ad_960
 *##.ad_api
 *##.ad_badge
 *##.Ad_badge
@@ -564,6 +567,7 @@
 *##.adver-img-wrap
 *##.adver-in
 *##.adver-pic
+*##.adver_3
 *##.adversiment
 *##.advert
 *##.advert_foot
@@ -731,6 +735,7 @@
 *##.gg-item
 *##.gg-link
 *##.gg1
+*##.gg1180
 *##.gg2
 *##.gg3
 *##.gg970
@@ -920,6 +925,7 @@
 *##.share-error-ad-box
 *##.share-error-ad-title
 *##.share-error-ad-top-box
+*##.show_leftad
 *##.showAdRight
 *##.showAdThree
 *##.side-ad
@@ -983,6 +989,7 @@
 *##.wechat
 *##.weibo
 *##.wgt-ad-guess
+*##.wgt-ad-sou-box
 *##.what-ad
 *##.what-ad-ask
 *##.widget_html_ad
@@ -1141,6 +1148,7 @@
 23bei.com##.layui-layer-iframe.layui-layer
 23bei.com##div.hidden-m:nth-of-type(n)
 23xstxt.net##b
+25xt.com##.share_list
 265.com##.b-A-B-C-D.b-A-B-C
 265.com##.b-Cb-Db-f.b-f
 265.com##.b-p-e-f.b-f
@@ -1301,6 +1309,7 @@
 880by.com##.shares
 88888888av.com##[style="width:100%;height:100px;margin-bottom:2px;"]
 8899lt.com##body > div > table > tbody > tr > td
+88tph.com##.fr-share
 8btc.com##div.bbt-col-xs-4:nth-of-type(6)
 8btc.com##div.item:nth-of-type(2)
 8ucg9.xyz##.common
@@ -2977,6 +2986,7 @@ jishuin.proginn.com##section:nth-of-type(3)
 jishuin.proginn.com##section:nth-of-type(4)
 jisuan.mobi##.share-component.social-share
 jk.th38.cn###m_contact
+jlc.com##.banner
 jndvisa.com##.sharebox
 joelled.com##.article-zan-fav
 joelled.com##.container.topShow
