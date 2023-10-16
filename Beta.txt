@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2023-10-08
+! TimeUpdated: 2023-10-16
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -849,6 +849,7 @@ zztt37.com##*
 *###AD
 *###Ad
 *###ad-arc-top
+*###AD-background
 *###ad-badge
 *###Ad-badge
 *###ad-banner
@@ -1640,6 +1641,7 @@ zztt37.com##*
 *##.lowerad
 *##.m-block-ad
 *##.m-bottom-ad
+*##.m_kxbtm_ad
 *##.man_adleft
 *##.mbd_ad
 *##.mdb-ad
@@ -1757,7 +1759,9 @@ zztt37.com##*
 *##.soft_Ad
 *##.softad
 *##.softAd
+*##.space-bottom-ad
 *##.sponsored-token
+*##.static_page_advert
 *##.t-ad
 *##.tbgg
 *##.text-ad
@@ -2118,6 +2122,8 @@ zztt37.com##*
 880by.com##.shares
 88888888av.com##[style="width:100%;height:100px;margin-bottom:2px;"]
 8899lt.com##body > div > table > tbody > tr > td
+88icon.com###layui-layer-shade1
+88icon.com##.layui-layer-page.layui-layer
 88tph.com##.fr-share
 8btc.com##div.bbt-col-xs-4:nth-of-type(6)
 8btc.com##div.item:nth-of-type(2)
@@ -2159,6 +2165,7 @@ zztt37.com##*
 @@||misumi.com.cn^$script,1p
 @@||p.qlogo.cn^$image,domain=exmail.qq.com
 @@||p.qlogo.cn^$image,domain=yaohuo.me
+@@||qlogo.cn^$image,domain=jswmh95.com
 @@||qlogo.cn^$image,domain=jswvip.net
 a-hospital.com##.bdsharebuttonbox
 a.app.qq.com##.app-tag-panel
@@ -2981,6 +2988,7 @@ docin.com##.share_style2.docin_share_sns
 docin.com##.slideButton
 docin.com##li:nth-of-type(5)
 dockerinfo.net##.bdsharebuttonbox
+docs.qq.com##.desktop-download-app-pc
 docs.qq.com##.full.down
 docsmall.com##.show.modal-connection
 dongbd.com##.top-banner
@@ -3074,6 +3082,7 @@ easylearn.baidu.com##.vip-banner-cont
 easylearn.baidu.com##.vip-bar
 ebay.com##.gh-app-banner--visible.gh-app-banner
 ednchina.com##.share-icon-xs.myicon-icon
+edrawsoft.cn###bottom-banner-activity-md
 edu.liout.com###layui-layer-shade1
 edu.liout.com###zlkbAD > div
 edu.liout.com##.layui-layer-btn-c.layui-layer-btn
@@ -3117,6 +3126,7 @@ elecfans.com##.aside_bdsharebuttonbox
 elecfans.com##.detail-share
 elecfans.com##.mian_jifen
 elecfans.com##.perfect_infomation_tip
+elecfans.com##.public-details-right-hero
 elecfans.com##.site_qrcode
 elecfans.com##.ysErCode
 elecfans.com##[href="https://dfm.elecfans.com/uploads/software/promoter/hqdfm_download.zip"]
@@ -5281,7 +5291,6 @@ rulaisz.com##.box-title
 runningcheese.com###move_share
 runoob.com##.qrcode
 ruons.com##.mobile_click
-s.1688.com##.common-promotionBanner
 s.1688.com##.download-app-banner
 s.kaoyaya.com##.custom-window
 saky.com.cn##.m-footer-share
@@ -5772,6 +5781,7 @@ ttpaihang.com###fl_dlr_div
 tudou.com##.qr-code-footer_277OH
 tudou.com##.qr-code_2ipWU
 tudou.com##.u-app_2yGae
+tukuppt.com##.wlimit.vip-yd
 tulading.cn##.bdsharebuttonbox
 tuoluo.cn##.qrcode.item
 tuoluocaijing.cn##.qrcode-slid-wrap
