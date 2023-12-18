@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2023-11-01
+! TimeUpdated: 2023-12-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -961,6 +961,7 @@
 *##.t-ad
 *##.tbgg
 *##.text-ad
+*##.text-link-ad
 *##.text_ad
 *##.tg-box
 *##.tg-site
@@ -1527,7 +1528,6 @@ baidu.com##[class="topImg"]
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(1)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(2)
 baidu.com##a.c-color-t.c-font-normal.mnav:nth-of-type(5)
-baidu.com##div.c-font-normal
 baijiahao.baidu.com##._16ea1zqC310VrXHS_t0WKV > ._2pAQdW0IKWK9Gls6a_Vbh > .I93A3I9G2BRddV73LoQ37
 baijiahao.baidu.com##.contentPadding.bottomTTSStruct
 baijiahao.baidu.com##.headDeflectorContainer
