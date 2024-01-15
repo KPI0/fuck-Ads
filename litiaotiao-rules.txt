@@ -1371,7 +1371,7 @@
     "-986089018": "{\"ltt_service\":false}"
   },
   {
-    "toast_text": "跳过傻逼广告"
+    "toast_text": "李跳跳：跳过傻逼广告"
   },
   {
     "673009131": "{\"ltt_service\":false}"
