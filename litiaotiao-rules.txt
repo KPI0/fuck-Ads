@@ -1317,8 +1317,7 @@
     "669871310": "{\"ltt_service\":false}"
   },
   {
-    "361910168": "{\"popup_rules\":[{\"id\":\"lpk\",\"action\":\"关闭\"},{\"id\":\"=广告\",\"action\":\"=更多\"},{\"id\":\"=关闭此条广告\",\"action\":\"=关闭此条广告\"},{\"id\":\"=立即前往\",\"action\":\"close\"}],{\"id\":\"+登录&-QQ\",\"action\":\"=登录\"}],\"rid\":[\"q0q1\"]
-}"
+    "361910168": "{\"popup_rules\":[{\"id\":\"lpk\",\"action\":\"关闭\"},{\"id\":\"=广告\",\"action\":\"=更多\"},{\"id\":\"=关闭此条广告\",\"action\":\"=关闭此条广告\"},{\"id\":\"=立即前往\",\"action\":\"close\"}],{\"id\":\"+登录&-QQ\",\"action\":\"=登录\"}],\"rid\":[\"q0q1\"]}"
   },
   {
     "-572565639": "{\"ltt_service\":false}"
@@ -2110,8 +2109,7 @@
     "987316152": "{\"ltt_service\":false}"
   },
   {
-    "-973170826": "{\"popup_rules\":[{\"id\":\"广告\",\"action\":\"feedbackIcon\"},{\"id\":\"dislike&feedbackBtn\",\"action\":\"不感兴趣\"},{\"id\":\"isdismatch&isduplicate&isbadad\",\"action\":\"与我无关\"},{\"id\":\"+登录&-微信\",\"action\":\"=登录\"}],\"rid\":[\"w0x1\"]
-}"
+    "-973170826": "{\"popup_rules\":[{\"id\":\"广告\",\"action\":\"feedbackIcon\"},{\"id\":\"dislike&feedbackBtn\",\"action\":\"不感兴趣\"},{\"id\":\"isdismatch&isduplicate&isbadad\",\"action\":\"与我无关\"},{\"id\":\"+登录&-微信\",\"action\":\"=登录\"}],\"rid\":[\"w0x1\"]}"
   },
   {
     "588474247": "{\"popup_rules\":[{\"id\":\"更新\",\"action\":\"取消\"}]}"
