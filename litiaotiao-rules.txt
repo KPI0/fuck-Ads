@@ -2109,7 +2109,7 @@
     "987316152": "{\"ltt_service\":false}"
   },
   {
-    "-973170826": "{\"popup_rules\":[{\"id\":\"广告\",\"action\":\"feedbackIcon\"},{\"id\":\"dislike&feedbackBtn\",\"action\":\"不感兴趣\"},{\"id\":\"isdismatch&isduplicate&isbadad\",\"action\":\"与我无关\"}]}"
+    "-973170826": "{\"popup_rules\":[{\"id\":\"广告\",\"action\":\"feedbackIcon\"},{\"id\":\"dislike&feedbackBtn\",\"action\":\"不感兴趣\"},{\"id\":\"isdismatch&isduplicate&isbadad\",\"action\":\"与我无关\"},{\"id\":\"+登录&-微信\",\"action\":\"=登录\"}]}"
   },
   {
     "588474247": "{\"popup_rules\":[{\"id\":\"更新\",\"action\":\"取消\"}]}"
