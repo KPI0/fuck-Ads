@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2024-01-16
+! TimeUpdated: 2024-01-23
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -290,6 +290,7 @@ duba.com##*
 duote.com##*
 dygjkb.com##*
 dyxhw.com##*
+e31.leyuoyo.com##*
 e59f.com##*
 e989.tv##*
 eeussnb.com##*
@@ -592,6 +593,7 @@ pry678.com##*
 pussyboy.net##*
 qinav.com##*
 qingse.one##*
+qmg3.cc##*
 qq388.cn##*
 qqtn.com##*
 qqx15.com##*
@@ -2875,13 +2877,10 @@ cslab.gxu.edu.cn##embed
 ct.ghpym.com##.flex-row.d-flex.p-3.card-body
 ct.ghpym.com##.fs--1.btn-light.btn-sm.btn
 ctexcel.com##.invite-share
-ctfile.com###content
 ctfile.com##.border-bottom > .space-2.container
 ctfile.com##.gradient-half-primary-v2
 ctfile.com##.min-height-lg-100vh.space-lg-0.space-top-md-5.space-top-2.align-items-lg-center.d-lg-flex.container
 ctfile.com##.u-header__navbar--no-space.u-header__navbar.navbar-expand-md.navbar.js-mega-menu
-ctfile.com##.u-header__navbar-collapse.navbar-collapse.collapse
-ctfile.com##footer
 cu518.com###cf_alert_div
 cu518.com##.clearfix.hidden-xs.hidden-sm.stui-pannel-bg.stui-pannel
 cu518.com##.copylink
@@ -5965,6 +5964,7 @@ vpsche.com##.single-top-html
 vpsgo.com##.asb
 vpsgo.com##body > div.container
 vpsss.net##.shares
+vpsxb.net##.git_banner_inner
 vr.sina.com.cn##.share_wrap
 w.dzwww.com###download_tip
 w3cjava.com##.share-s
