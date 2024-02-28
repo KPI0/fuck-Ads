@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-01-25
+! TimeUpdated: 2024-02-28
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -869,6 +869,8 @@
 *##.newAd
 *##.newad-a
 *##.news-advertising
+*##.news-paper-ad-banner
+*##.news-paper-detail-ad
 *##.news_ad
 *##.news_ad1
 *##.news_ad2
@@ -917,8 +919,10 @@
 *##.right_top_ad
 *##.rightad
 *##.rightAd
+*##.rightAd_b9vYA
 *##.RightAdBox
 *##.rightAdBox
+*##.rightAdLink_qeBB7
 *##.rightAdTop
 *##.rightgg
 *##.ripro_gg_wrap
