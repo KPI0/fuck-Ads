@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-02-28
+! TimeUpdated: 2024-04-10
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1217,6 +1217,7 @@
 361shipin.com##.sm6.xs12.align-self-center.text-right.flex
 365jia.cn##.bshare-custom
 365jia.cn##.nt_share
+369xiazai.com##[class="ad"]
 36dm.club##.top_nav > .right > [href="javascript:void(0);"]
 36kr.com##.app-track-card
 36kr.com##.code
@@ -6080,6 +6081,7 @@ zzzyk.com##div.zykmore
 ||www.57qs.cn/images/*.gif$image
 ||www.97mm.cc/A1*.gif$image
 ||www.ccv168.com/g*.html$subdocument
+||www.chinaflashmarket.com/*/ad$image
 ||www.diskaa.com^$script,domain=jieav.com
 ||www.dnzp.com/uploads/kk$image
 ||www.gpbctv.com/ad888$image
