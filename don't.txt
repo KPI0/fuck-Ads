@@ -1,5 +1,0 @@
-! 此文件仅个人额外规则备份
-! 请勿添加
-192.168.10.2##.topline.alert-info.alert
-192.168.31.18##.widget-body.motd-body
-192.168.31.18##.pr-2.py-2.gap-1.justify-center
