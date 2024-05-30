@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2024-04-17
+! TimeUpdated: 2024-05-30
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1001,6 +1001,7 @@ zztt37.com##*
 *###btmBox
 *###cen_ad
 *###class_ad
+*###content-right_advertisement
 *###contentad
 *###couplet
 *###det-rigad1
@@ -1327,6 +1328,7 @@ zztt37.com##*
 *##.adbaidu1100
 *##.adBox
 *##.adbox_above
+*##.adboxb
 *##.adcolumn
 *##.add_advert
 *##.add_advertisement
@@ -1505,6 +1507,7 @@ zztt37.com##*
 *##.container-ad
 *##.container-top-ad
 *##.container-top-ads
+*##.content-right_advertisement
 *##.content_ad
 *##.content_Ad
 *##.content_adsense
@@ -4727,8 +4730,10 @@ max.book118.com##.integral
 max.book118.com##.mqrcode > .drop-down
 max.book118.com##.mqrcode > [href="javascript:;"] > .icon-header
 max.book118.com##.mqrcode > [href="javascript:;"] > span
+max.book118.com##.preview-app
 max.book118.com##.re.webpreview-recommend
 max.book118.com##.service-shop
+max.book118.com##.side-app
 max.book118.com##.sidebar-vip
 max.book118.com##.sidebar-wechat.sidebar-item
 max.book118.com##.site-link
@@ -6861,6 +6866,7 @@ zzzyk.com##div.zykmore
 ||www.gpbctv.com/ad888$image
 ||www.kegood.com/game$image
 ||www.mbpro.top$image
+||www.panelook.cn/images/ad/*$image
 ||www.qhkxs.cn/image$image
 ||www.qycn.com/home/img/helpfile$image
 ||www.tiaoman5.com/feijibei/$image
