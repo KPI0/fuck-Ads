@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2024-07-11
+! TimeUpdated: 2024-07-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -197,6 +197,7 @@ babycondom.com##*
 baipiao1.com##*
 baipiao2.com##*
 baofeng.com##*
+baoxianz.com##*
 baraero.com##*
 bb51.me##*
 bbailo.vip##*
