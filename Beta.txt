@@ -1151,7 +1151,6 @@ zztt37.com##*
 *##.ad-card
 *##.ad-carousel-container
 *##.ad-conetnt
-*##.ad-container
 *##.ad-content
 *##.ad-content-1
 *##.ad-content-2
