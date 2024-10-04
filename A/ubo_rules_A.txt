@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-07-11
+! TimeUpdated: 2024-10-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -337,7 +337,6 @@
 *##.ad-card
 *##.ad-carousel-container
 *##.ad-conetnt
-*##.ad-container
 *##.ad-content
 *##.ad-content-1
 *##.ad-content-2
@@ -1955,7 +1954,6 @@ cloud.189.cn##.enterprise-guide
 cloud.189.cn##.enterprise-guide-box
 cloud.189.cn##.nav-block.client-download
 cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
-cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
 cloud.tencent.com##.c-btn-weak.c-btn
