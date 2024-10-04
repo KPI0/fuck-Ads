@@ -2769,7 +2769,6 @@ cloud.189.cn##.enterprise-guide
 cloud.189.cn##.enterprise-guide-box
 cloud.189.cn##.nav-block.client-download
 cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
-cloud.189.cn##a.J_cloudNav:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
 cloud.tencent.com##.c-btn-weak.c-btn
