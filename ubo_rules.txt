@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2024-07-22
+! TimeUpdated: 2024-10-04
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
