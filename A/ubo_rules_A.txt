@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-10-04
+! TimeUpdated: 2024-10-06
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1118,6 +1118,7 @@
 123.sogou.com##.l > span
 123.sogou.com##.leftbar
 123.sogou.com##.style_infoFlowCoolsite__3qAHc
+123pan.com##.bg_svip_block_ads
 123wxwx.net##b
 163.com##.mod_news_download
 163.com##.newsapp-qrcode
@@ -1551,6 +1552,7 @@ baijiahao.baidu.com##.index-module_relateContainer_3RNjY
 baijiahao.baidu.com##.index-module_topList_k56w2
 baijiahao.baidu.com##.share
 baijiahao.baidu.com##.undefined
+baijing.cn##.ad_count_new
 baike.baidu.com##._4txvhmc
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
 baike.baidu.com##.sl-sub-slogen
@@ -6051,6 +6053,7 @@ zzzyk.com##div.zykmore
 ||www.55xw.net/gg.html$subdocument
 ||www.57qs.cn/images/*.gif$image
 ||www.97mm.cc/A1*.gif$image
+||www.baijing.cn/uploads/advertisement/*$image
 ||www.ccv168.com/g*.html$subdocument
 ||www.chinaflashmarket.com/*/ad$image
 ||www.diskaa.com^$script,domain=jieav.com
