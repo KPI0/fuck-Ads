@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-10-06
+! TimeUpdated: 2024-11-29
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -44,6 +44,7 @@
 *###ad-badge
 *###Ad-badge
 *###ad-banner
+*###ad-container-1
 *###ad-flash
 *###ad-header
 *###ad-in-page
@@ -370,6 +371,7 @@
 *##.ad-limgrtxt
 *##.ad-limgrtxt-middle
 *##.ad-limgrtxt-txt
+*##.ad-link__QDu
 *##.ad-list
 *##.Ad-list
 *##.ad-m
@@ -652,6 +654,7 @@
 *##.bdsharebuttonbox
 *##.bg-ad-left
 *##.bg-ad-right
+*##.bg_svip_block_ads
 *##.bgw.conter-box
 *##.bl_ad
 *##.blog-slide-ad-box
@@ -670,6 +673,7 @@
 *##.c-nav-advertising
 *##.c1c2_b1b2_adbx
 *##.calc-guanggao
+*##.cdc-top-ad
 *##.center_ad
 *##.ceo-ad
 *##.ceo-ads
@@ -783,6 +787,7 @@
 *##.head-top-ad
 *##.header-ad-banner
 *##.header-ads
+*##.header-and-ad
 *##.header_ad
 *##.home-ad
 *##.home-ad-link
