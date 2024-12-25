@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2024-11-29
+! TimeUpdated: 2024-12-25
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -462,6 +462,7 @@ laomaotao.net##*
 laow000.com##*
 laow7.com##*
 lca123.com##*
+ldait.com##*
 lfge6.top##*
 liqucn.com##*
 llzyw48.com##*
@@ -2777,6 +2778,7 @@ cloud.189.cn##.nav-block.client-download
 cloud.189.cn##a.J_cloudNav.nav-list-hide:nth-of-type(3)
 cloud.ofweek.com###article_adson_01
 cloud.ofweek.com##.share
+cloud.tencent.com##.ad-link__aoa
 cloud.tencent.com##.c-btn-weak.c-btn
 cloud.tencent.com##.cdc-operation-tips
 cloud.tencent.com##.com-event-panel
@@ -3247,6 +3249,7 @@ finance.caixin.com##.appLink
 finance.caixin.com##.openInApp
 finance.caixin.com##.tb-bar-r
 finance.ce.cn###div1
+finance.ifeng.com##.ad_outpromo_single_image_class
 finance.sina.cn###sentiment2
 finance.sina.cn##.client-down
 finance.sina.com.cn###sina-finance-g1
@@ -4008,6 +4011,7 @@ kuwo.cn##[href="/down"]
 kuwo.cn##li.item:nth-of-type(4)
 kxceping.com##.style02
 kxceping.com##[href="http://www.ssf.cc/vps.asp"]
+landiannews.com##div.content-gg
 langpz.com###menuShare
 langpz.com##.page-share-wrap
 lanzouo.com##body > div:nth-of-type(4)
