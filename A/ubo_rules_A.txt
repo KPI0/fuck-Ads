@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2024-12-25
+! TimeUpdated: 2025-01-20
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1997,6 +1997,7 @@ cn.chinadaily.com.cn##.more
 cn.chinadaily.com.cn##.xinf-ri
 cn.linguee.com##.l_deepl_ad__content_container
 cn.lvmh.com##.ot-sdk-container > .ot-sdk-row
+cn.nikkei.com##.asideAdv
 cn.nytimes.com##.download_app
 cn.nytimes.com##.footerLink.last
 cn.nytimes.com##.mobile-article.share-tools
@@ -2258,6 +2259,7 @@ dushu.com##.text-gray.text-center.margin-big-top
 dushu.com##canvas
 duyou8.com##.arcfu_btn
 dw.com###sharing-bar
+dxmh8.com##.top.pc.site_abc_wrap
 dyhzdl.cn##.clearfix.fr.arti-hi-phone
 dyhzdl.cn##.flr.casedetail-share
 e.huawei.com##.global-share
@@ -4158,6 +4160,7 @@ news.mydrivers.com##.icon_fenxiang
 news.mydrivers.com##.share > table > tbody > tr > td
 news.mydrivers.com##.text-wrapper_share
 news.mydrivers.com##p.copyright:nth-of-type(n)
+news.qq.com##.download-banner-wrap
 news.sina.com.cn###blk_cNav1_01 > .cNavLinks
 news.sina.com.cn##.cNavLive
 news.sina.com.cn##.side-btns-2w
@@ -5776,6 +5779,7 @@ zzzyk.com##div.zykmore
 ||222.zxwkw.net$subdocument
 ||3.biz72.com$subdocument
 ||4.qumama.cn$subdocument
+||4275.com/css/91kf.gif?v=2$image
 ||4pcc.com^$script
 ||51xl.xyz$image
 ||520xingyun.com/images/*.gif$image
@@ -5793,6 +5797,7 @@ zzzyk.com##div.zykmore
 ||abb.baihuwang.com$subdocument
 ||abc.qianbaikefu.com$subdocument
 ||abl.lczk.cn$subdocument
+||ad-static-xg.tagtic.cn$image
 ||adfstat.yandex.ru^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
@@ -6011,6 +6016,7 @@ zzzyk.com##div.zykmore
 ||qlogo.cn$image
 ||qqpublic.qpic.cn$image
 ||qr123.82758.net$subdocument
+||renminbao.com/*/ads/$image
 ||renxingganwu.com^$domain=jswvip.net
 ||renzhongjiaoyu.xyz$image
 ||res.yizhiliuzhenjiu.com$image
@@ -6035,6 +6041,7 @@ zzzyk.com##div.zykmore
 ||static-xiaoguotu.17house.com$image
 ||statics.rili.com.cn$subdocument
 ||sysoctw.cn$image
+||tanju.vip/nyadstt.gif$image
 ||thinkmore.top$image
 ||timi21.com^$script
 ||tksfq.niuqiuyi.com$subdocument
