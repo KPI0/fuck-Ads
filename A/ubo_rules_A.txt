@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2025-01-20
+! TimeUpdated: 2025-02-05
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1622,6 +1622,7 @@ bbs.idcspy.com##.bdsharebuttonbox
 bbs.idcspy.com##.portal_block_summary
 bbs.idcspy.org###wechat_float_qrcode
 bbs.kafan.cn##.z > [href="https://bbs.kafan.cn/"]
+bbs.kanxue.com###thread_ad
 bbs.ludeqi.com##.swal2-content
 bbs.ludeqi.com##.swal2-shown.swal2-fade.swal2-center.swal2-container
 bbs.ludeqi.com##.theiaStickySidebar > .widget-area > .widget_custom_html.widget.widget_text
@@ -2337,8 +2338,10 @@ eeuu88.net##.zoomout
 egou5.com##div.c-share-btn
 elecfans.com###a_top_img
 elecfans.com###new-company-berry
+elecfans.com###sidebar-firstad-new
 elecfans.com##.aside_app
 elecfans.com##.aside_bdsharebuttonbox
+elecfans.com##.baike_advert
 elecfans.com##.detail-share
 elecfans.com##.mian_jifen
 elecfans.com##.perfect_infomation_tip
@@ -2648,7 +2651,9 @@ haoka88.com##.__single_2.wpcom_myimg_wrap
 haoka88.com##.hzt-weixin-footer-bar
 haokan.baidu.com##.about
 haokan.baidu.com##.download-hover.link-item
+haokan.baidu.com##.endimagead-download.endimagead-button
 haokan.baidu.com##.follow-btn
+haokan.baidu.com##.invoke-app-floating-tips
 haokan.baidu.com##.landrightbanner
 haokan.baidu.com##.like-0.videoinfo-collect
 haokan.baidu.com##.navigation-download
@@ -3302,6 +3307,7 @@ m.1905.com##.new_downLoad
 m.1905.com##.open-link
 m.21jingji.com##.download-bottom
 m.278wan.com##.guideDownLoad
+m.345iptv.com###ad-container
 m.4399.cn##.cn-mt10.cn-app_download
 m.51credit.com##.appdownClick
 m.51job.com##.goApp
@@ -5606,6 +5612,7 @@ yun.139.com##.fr
 yun.139.com##[href="#/client"]
 yun.139.com##div.document_top_menu:nth-of-type(7)
 yun.ikuai8.com##.act_img_dns.act_img
+yun.ikuai8.com##.el-carousel--horizontal.el-carousel > .el-carousel__container
 yunio.cn##.action-share.action
 yuque.com##.index-module_qrCodeWrapper_6UwnH
 yuque.com##.social-share
@@ -5871,6 +5878,7 @@ zzzyk.com##div.zykmore
 ||cgadres.sgp1.digitaloceanspaces.com$image
 ||chinanews.com/gg$object
 ||ck.ads.oppomobile.com^
+||cloudfront.net/*/Website-ad-1-nobadges.*.png$image
 ||cn.chinadaily.com.cn/image/2016/i2.png$image
 ||cooboys.com^$script
 ||cpro.baidu.com$image
