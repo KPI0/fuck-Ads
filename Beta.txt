@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2025-02-05
+! TimeUpdated: 2025-02-09
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2374,6 +2374,7 @@ baijiahao.baidu.com##.share
 baijiahao.baidu.com##.undefined
 baijing.cn##.ad_count_new
 baike.baidu.com##._4txvhmc
+baike.baidu.com##.guessLike_qgiki
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.squareAni
@@ -2407,6 +2408,9 @@ bbs.125.la##.sharep
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com###goods_list_1
 bbs.16rd.com##.recommend
+bbs.21dianyuan.com##.ad460
+bbs.21dianyuan.com##.ad595
+bbs.21dianyuan.com##.diad2
 bbs.9game.cn##.guide-app-fix
 bbs.cnction.com##.sharep
 bbs.co188.com##.bdsharebuttonbox
