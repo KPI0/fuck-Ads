@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_A
-! TimeUpdated: 2025-02-05
+! TimeUpdated: 2025-04-18
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1559,6 +1559,7 @@ baijiahao.baidu.com##.share
 baijiahao.baidu.com##.undefined
 baijing.cn##.ad_count_new
 baike.baidu.com##._4txvhmc
+baike.baidu.com##.guessLike_qgiki
 baike.baidu.com##.new-side-share.new-bdsharebuttonbox
 baike.baidu.com##.sl-sub-slogen
 baike.baidu.com##.squareAni
@@ -1592,7 +1593,11 @@ bbs.125.la##.sharep
 bbs.16rd.com###com-appcode-float-block-box
 bbs.16rd.com###goods_list_1
 bbs.16rd.com##.recommend
+bbs.21dianyuan.com##.ad460
+bbs.21dianyuan.com##.ad595
+bbs.21dianyuan.com##.diad2
 bbs.9game.cn##.guide-app-fix
+bbs.alipansou.com###verification-modal
 bbs.cnction.com##.sharep
 bbs.co188.com##.bdsharebuttonbox
 bbs.co188.com##.mcbl_content_shareoperate
@@ -2442,6 +2447,7 @@ finance.ce.cn###div1
 finance.ifeng.com##.ad_outpromo_single_image_class
 finance.sina.cn###sentiment2
 finance.sina.cn##.client-down
+finance.sina.com.cn###SFA_NV_POP_ZW
 finance.sina.com.cn###sina-finance-g1
 finance.sina.com.cn###tab_related_btn
 finance.sina.com.cn##.app-kaihu-qr
@@ -3967,6 +3973,9 @@ meet99.com###share
 meijinmeng.cn##.action-share.action
 meijucang.com##.clearfix.hidden-xs.hidden-sm.hy-layout
 meijucang.com##.hidden-xs.hidden-sm.hy-right-qrcode > .item > .clearfix
+meijumi.net##.couplet_app
+meijumi.net##.wapbuxianshi
+meijumi.net##.wapbuxianshi.m-top15.pmad
 meijumi.top###sgpb-popup-dialog-main-div > div > .sg-popup-builder-content
 meijumi.top##.close
 meijumi.top##.sg-popup-content.sgpb-theme-6-content.sgpb-content-31465.sgpb-content
@@ -4054,6 +4063,10 @@ mshop.weidnn.cn##.show.cu-modal
 mshop.weidnn.cn##.show.cu-modal > .cu-dialog > .img-box > .modal-img
 msicn.com.cn##.icon-bar
 msjh520.com###player-left > div:nth-of-type(2)
+msn.cn###DisplayAdsWC0
+msn.cn###WeatherRightRail-ScreenWidth-c5
+msn.cn##.newsContent-DS-EntryPoint1-1
+msn.cn##weather-feed-wc
 mt.sohu.com###big-share > ul
 mtop.aizhan.com###ny_c
 mtop.aizhan.com###yx_content5
@@ -4072,6 +4085,8 @@ music.taihe.com##[href="/download"]
 music.taihe.com##button.is-round.el-button--info.el-button:nth-of-type(3)
 music.taihe.com##div.fl.item:nth-of-type(1)
 musichive.com.cn##.qrcode___1ze6R
+mvcat.com##.adsbygoogle
+mvcat.com##.wxminiscan
 my.oschina.net##.article-box__content > .action-box > div.action-item:nth-of-type(4)
 my.oschina.net##.share
 my.oschina.net##div.action-item:nth-of-type(5)
@@ -4804,6 +4819,7 @@ study.163.com##.open-app-btn
 studyofnet.com###btn_share
 sugaomei2022.testmart.cn##.bshare-custom
 super.sina.cn##.call_up_banner
+susuifa.com##.single-top-html
 sws100.com###toolbar
 sws100.com##.wpcom_myimg_wrap
 sws100.com##blockquote
@@ -5356,6 +5372,8 @@ wpok.cn###home-row-pics > .wrapper
 wpok.cn##.b2-radius.box.mg-b.single-bottom-html
 wpok.cn##.html-box
 wpok.cn##.sidebar
+wpzysq.com##.leftc_pc
+wpzysq.com##.xn_ad
 wqbig.com##.j-share.action-item
 ws824.org##.shareitem
 wse61.cam##.jsv-g1.jsv
@@ -5419,6 +5437,7 @@ xiaoyeyun6.com##.post_share
 xiaozidian.com.cn##.fixedbox
 xiayizhan.cn##.share-component
 xidcn.com##.shares
+xiebiwenku.com##.padding-b-20 > .wp.img-responsive
 xiegw.cn##.fr.gb_resLay
 xiegw.cn##.icon-icon.iconfont
 xiexiebang.com##.marks
@@ -5524,6 +5543,7 @@ y.qq.com##.top_nav__item--subnav.top_nav__item
 y.qq.com##li.top_nav__item:nth-of-type(5) > .top_nav__link
 yangmao.info##.ix22m7-post.ix22m7
 yantu360.net##.social-share.share-component
+yanzi518.com##.top.pc.site_abc_wrap
 ycpack.net##.m-share
 yczn888.cn.china.cn##.remove_show
 yd.baidu.com##.book-info
