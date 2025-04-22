@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2025-04-18
+! TimeUpdated: 2025-04-22
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -1020,6 +1020,9 @@ zztt37.com##*
 *###flow_adv
 *###footerAds
 *###fullAd
+*###gdt-ad-container
+*###gdt-ad-image
+*###gdt-ad-image-container
 *###gg
 *###gg-link
 *###gg-logo
@@ -1372,6 +1375,7 @@ zztt37.com##*
 *##.adv-fullscreen
 *##.adv-img
 *##.adv-left
+*##.adv-mixer
 *##.adv-pro
 *##.adv-pro-main
 *##.adv-pro-wrap
@@ -2566,6 +2570,7 @@ bmyzl.com##.pg-0.player_right.col-xs-12.col-sm-12.col-md-3 > h1
 bmyzl.com##.row > h1
 boce.com##.money_left
 book-dl.com##.social-share
+book.douban.com###dale_book_home_inner_middle
 book.km.com##.btn_A.btnHook
 book.km.com##.tools-item > [href^="/index.php"]
 book.km.com##a[href="javascript:;"]:nth-of-type(3)
@@ -3028,6 +3033,8 @@ docs.qq.com##.desktop-download-app-pc
 docs.qq.com##.full.down
 docsmall.com##.show.modal-connection
 dongbd.com##.top-banner
+douban.com###dale_homepage_login_inner_middle
+douban.com###dale_topic_web_square_second
 douban.com###landing-bar
 douban.com##.lnk-doubanapp
 douguo.com##.share_right
@@ -4855,6 +4862,11 @@ mop.com##div.dzh-heat:nth-of-type(5)
 mop.com##div.mop-sport:nth-of-type(2)
 moto.xdter.com##.bdsharebuttonbox
 motorolasolutions.com##.social-widget
+movie.douban.com###dale_movie_home_inner_bottom
+movie.douban.com###dale_movie_nowplaying_inner_bottom
+movie.douban.com###dale_movie_subject_inner_middle
+movie.douban.com###dale_movie_subject_top_right
+movie.douban.com###gdt-ad-container
 movie.mtime.com##.fix.footinner
 movie.mtime.com##.fothr > dl > dd > [href="http://general.mtime.com/mobile/"]
 movie.youku.com##.g-footer_2MHYp
@@ -5127,6 +5139,7 @@ pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 pan.quark.cn##.share-content-right
+pan.xunlei.com##.viewer-app-tip
 panewslab.com##.phone.item
 pansci.asia##[class="container ad-container all_top"]
 paperyy.com##.setup-box-share
@@ -5588,6 +5601,7 @@ speedtest.cn##.top-download
 speedtest.cn##.topDownload
 speedtest.cn##.wrap > .title
 speedtest.cn##li.nav-enterprise-service.nav-item:nth-of-type(3) > .nav-item-link
+speedtest.net##.desktop-app-prompt-modal
 speedtest.net##.mobile-pretest
 speedtest.net##.u-c.pure-u-custom-ad-skyscraper
 splashtennis.com###dbsxfBox
@@ -5871,6 +5885,7 @@ upimg.baike.so.com##.shareicon
 upimg.baike.so.com##.wrap.entry-plus > .boxwrap
 ups-eps.net##.m-share
 ups88.net##.m-share
+url21.ctfile.com##div.mb-3.bg-light.card:nth-of-type(4)
 url54.ctfile.com##.flex-row.d-flex.p-3.card-body
 url54.ctfile.com##.fs--1.btn-light.btn-sm.btn
 url54.ctfile.com##.p-3.modal-body > div
@@ -6640,6 +6655,7 @@ zzzyk.com##div.zykmore
 ||abc.qianbaikefu.com$subdocument
 ||abl.lczk.cn$subdocument
 ||ad-static-xg.tagtic.cn$image
+||ad.doubanio.com$subdocument
 ||adfstat.yandex.ru^
 ||ads-api.tiktok.com^
 ||ads-sg.tiktok.com^
