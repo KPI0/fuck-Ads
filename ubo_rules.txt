@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads
-! TimeUpdated: 2025-04-22
+! TimeUpdated: 2025-04-25
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -2047,6 +2047,7 @@ zztt37.com##*
 361shipin.com##.sm6.xs12.align-self-center.text-right.flex
 365jia.cn##.bshare-custom
 365jia.cn##.nt_share
+366.me##.site-addswarp
 369xiazai.com##[class="ad"]
 36dm.club##.top_nav > .right > [href="javascript:void(0);"]
 36kr.com##.app-track-card
@@ -2457,6 +2458,9 @@ bbs.pinggu.org###bottom-nav-share
 bbs.tianya.cn###barcode_float > [href="http://tianya.cn/mobile/"]
 bbs.tianya.cn##.scroll-btn
 bbs.vpser.net##.wp > .z
+bbs.ypbbs.com##.adbkk
+bbs.ypbbs.com##.ceadd
+bbs.ypbbs.com##tbody
 bbs.zsxwz.com##.social-share.share-component
 bbsnet.com##.baishare
 bddhw.cn##.j-share
@@ -4008,6 +4012,8 @@ kompas.com##[class="kcm__articleList"]
 koubei.com###JS-appdownload
 koubei.com##.koubei-section3
 koubei.com##.koubei-section3-box
+kpkuang.one###kp-hid-gb > .uk-container-expand.uk-container
+kpkuang.one##div#sterra-ad-onmid
 ks.shangxueba.com##.level_banner
 kuaikanmanhua.com##.cls.oneLine > li > [href="https://kkmh.com/"]
 kuaikanmanhua.com##.code
@@ -4864,6 +4870,7 @@ moto.xdter.com##.bdsharebuttonbox
 motorolasolutions.com##.social-widget
 movie.douban.com###dale_movie_home_inner_bottom
 movie.douban.com###dale_movie_nowplaying_inner_bottom
+movie.douban.com###dale_movie_review_middle_mini
 movie.douban.com###dale_movie_subject_inner_middle
 movie.douban.com###dale_movie_subject_top_right
 movie.douban.com###gdt-ad-container
