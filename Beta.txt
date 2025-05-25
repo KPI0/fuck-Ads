@@ -1,6 +1,6 @@
 ! [uBlock Origin]
 ! Title: fuck Ads_Beta
-! TimeUpdated: 2025-04-25
+! TimeUpdated: 2025-05-25
 ! Homepage: https://github.com/KPI0/fuck-Ads
 ! Contribute: https://github.com/KPI0/fuck-Ads/issues
 ! 0-9,a-z
@@ -323,6 +323,7 @@ ggdyx.com##*
 gha678.com##*
 gmb456.com##*
 gokahoikuen.com##*
+google.*#@#.ads
 goxincs330.com##*
 greenxf.com##*
 greenxiazai.com##*
@@ -1975,6 +1976,7 @@ zztt37.com##*
 1kkk.com##.index-side-code
 1kkk.com##.show.index-float-code
 1kkk.com##[href="/download/"]
+1lou.me##div#advert
 1ppt.com##.lpadlist
 1ppt.com##.topbar
 1ting.com##.siteaction
@@ -2116,6 +2118,8 @@ zztt37.com##*
 52av.one##div.cl.plc > div > center
 52by.com##.share-list
 52hrtt.com##.detail_left
+52ldkj.com.cn##.clickable-section
+52ldkj.com.cn##.mb-0.threadlist.list-unstyled > div
 52pojie.cn##.followp
 5388tv.com##.det_share
 55.taopindi.com##div.wppc
@@ -2631,6 +2635,8 @@ c.biancheng.net###top-banner > .wap-yes
 c.biancheng.net##.pic
 c.m.163.com##.logoBottom
 c.m.163.com##.logoTop
+c.tieba.baidu.com##.ylh-ad-container
+c.tieba.baidu.com##.ylh-custom-ad-container
 caacnews.com.cn###FenXiang
 cadejiajia.com###MlPlist2
 cadejiajia.com##.sharebox
@@ -3037,6 +3043,7 @@ docs.qq.com##.desktop-download-app-pc
 docs.qq.com##.full.down
 docsmall.com##.show.modal-connection
 dongbd.com##.top-banner
+douban.com###dale_group_topic_inner_middle
 douban.com###dale_homepage_login_inner_middle
 douban.com###dale_topic_web_square_second
 douban.com###landing-bar
@@ -4832,6 +4839,7 @@ mi.com##.item-image.item
 mi.com##span.sep:nth-of-type(11)
 migu.cn##.share.btn-item
 miguvideo.com##.header-download.side-item
+mikuclub.win##.w-100.img-fluid
 mingpao.com##.cc-color-override--1762072787.cc-bottom.cc-theme-classic.cc-type-info.cc-banner.cc-window
 mingyantong.com###headermobile
 mingyantong.com###jubigshare
@@ -5146,6 +5154,7 @@ pan.baidu.com##a.wp-disk-header__right-item
 pan.baidu.com##a.wp-s-header__right-item:nth-of-type(4)
 pan.baidu.com##div.wp-disk-header__right-item:nth-of-type(1)
 pan.quark.cn##.share-content-right
+pan.tpym.cn##.am-margin-bottom-0.am-g
 pan.xunlei.com##.viewer-app-tip
 panewslab.com##.phone.item
 pansci.asia##[class="container ad-container all_top"]
@@ -5763,6 +5772,7 @@ tiatiatoutiao.com##.show_go_1
 tieba.baidu.com###spage-tbshare-container
 tieba.baidu.com##.app_download_box
 tieba.baidu.com##.clearfix.top-sec
+tieba.baidu.com##.ylh-custom-ad-container
 tieba.com##div.thread_item_box.clearfix
 tiehuatu.com##.dk_item
 tiehuatu.com##.zujian
@@ -5819,6 +5829,7 @@ tpstps.com##.topaa
 tretars.com###sidebar-left-xf > .widget_vfilmtime_ad.sidebox
 tretars.com###sidebar-right > .widget_vfilmtime_ad.sidebox
 tretars.com##.suxing_social.sidebox
+tsdm39.com###ts_sidebar_block_1 > .share_self
 ttpaihang.com###fl_dll_div
 ttpaihang.com###fl_dlr_div
 tudou.com##.qr-code-footer_277OH
@@ -6917,6 +6928,7 @@ zzzyk.com##div.zykmore
 ||tt.027dir.com$image
 ||two.awnmy.com$subdocument
 ||two.fsylr.com$subdocument
+||u-x.jd.com/auto$subdocument
 ||ubb.autotimes.com.cn$subdocument
 ||udc.yahoo.com^
 ||udcm.yahoo.com^
@@ -6964,6 +6976,7 @@ zzzyk.com##div.zykmore
 ||ysjs.ys137.com.cn$subdocument
 ||ysjs4.ys137.com.cn$subdocument
 ||ysjs5.ys137.com.cn$subdocument
+||yt-adp.ws.126.net/$image
 ||yy.tututu666.com$image
 ||yy2022.dtime.com/*$subdocument
 ||z.photoint.net/*$subdocument
