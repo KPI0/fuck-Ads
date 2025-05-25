@@ -3307,6 +3307,8 @@ lzw98.com###likepc
 m-lou.com###container
 m-lou.com###header-bg
 m-lou.com##.wrap.caf304
+mail.google.com#@#.ads
+mail.google.com#@#.AD
 m.00563.com##.news-ashop
 m.00563.com##.news-bshop
 m.00563.com##.news-cshop
