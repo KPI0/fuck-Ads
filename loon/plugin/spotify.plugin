@@ -1,0 +1,16 @@
+#!name=Spotify去广告
+#!desc=移除播放广告
+#!openUrl=https://apps.apple.com/app/id324684580
+#!tag=去广告
+#!icon=https://raw.githubusercontent.com/luestr/IconResource/main/App_icon/120px/Spotify.png
+#!date=2026-03-30 00:00:00
+
+[Rewrite]
+^https:\/\/(?:\w+-spclient|spclient\.wg)\.spotify\.com\/pendragon\/ reject-dict
+^https:\/\/.*\.spotify\.com\/ads\/ reject
+^https:\/\/.*\.spotify\.com\/ad-logic\/ reject
+^https:\/\/.*\.spotify\.com\/gabo-receiver-service\/ reject
+^https:\/\/.*\.spotify\.com\/tracking\/ reject
+
+[MitM]
+hostname = *-spclient.spotify.com, spclient.wg.spotify.com
