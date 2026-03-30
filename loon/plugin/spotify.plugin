@@ -11,6 +11,7 @@
 ^https:\/\/.*\.spotify\.com\/ad-logic\/ reject
 ^https:\/\/.*\.spotify\.com\/gabo-receiver-service\/ reject
 ^https:\/\/.*\.spotify\.com\/tracking\/ reject
+^https:\/\/spclient\.wg\.spotify\.com(:443)?\/ad reject
 
 [MitM]
 hostname = *-spclient.spotify.com, spclient.wg.spotify.com
